@@ -138,9 +138,9 @@
   <!-- Hero / 品牌区 -->
   <section class="hero">
     <div class="brand">
-      <div class="brand-icon">SC</div>
+      <div class="brand-icon">SEJ</div>
       <div>
-        <h1 class="brand-title">SPM SC Paper 1 超强训练器 / <span style="font-weight:700;">SC P1 Booster</span></h1>
+        <h1 class="brand-title">SPM SEJ Paper 1 超强训练器 / <span style="font-weight:700;">SEJ P1 Booster</span></h1>
         <p class="brand-sub">按章节精练 × 州属试卷实战 × 错题二次回刷 × 自动成绩上传</p>
         <div class="tag-row">
           <span class="tag hot">Form 4 / Form 5</span>
@@ -260,7 +260,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ======= 成绩存取 =======
     // 👉 区分科目前缀，防止不同科成绩混在一起
-  const SUBJECT_PREFIX = 'SC';  // 改成 ACC / SC / SEJ 视科目而定
+  const SUBJECT_PREFIX = 'SEJ';  // 改成 ACC / SC / SEJ 视科目而定
   const LS_KEY = (name)=>`results_${SUBJECT_PREFIX}_${name.toLowerCase()}`;
   let cloudResults = []; let localResults = [];
   function loadLocalResults(){ try{ localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); } catch { localResults=[]; } }
