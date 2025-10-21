@@ -55,7 +55,7 @@
       border:1px solid var(--border); box-shadow:var(--shadow); text-align:center;
     }
     .brand{ display:flex; align-items:center; justify-content:center; gap:14px; flex-wrap:wrap; }
-    .brand-icon{ width:56px; height:56px; border-radius:16px; background:#111; color:#fff; display:grid; place-items:center; font-weight:800; letter-spacing:.5px; box-shadow:var(--shadow); font-size:16px; }
+    .brand-icon{ width:56px; height:56px; border-radius:16px; background:#111; color:#fff; display:grid; place-items:center; font-weight:800; letter-spacing:.5px; box-shadow:var(--shadow); }
     .brand-title{ margin:0; font-size:30px; line-height:1.15; }
     .brand-sub{ margin:6px 0 0; color:#555; }
     .tag-row{ margin-top:12px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center; }
@@ -138,9 +138,9 @@
   <!-- Hero / 品牌区 -->
   <section class="hero">
     <div class="brand">
-      <div class="brand-icon">SEJ</div>
+      <div class="brand-icon">SC</div>
       <div>
-        <h1 class="brand-title">SPM SEJ Paper 1 超强训练器 / <span style="font-weight:700;">SEJ P1 Booster</span></h1>
+        <h1 class="brand-title">SPM SC Paper 1 超强训练器 / <span style="font-weight:700;">SC P1 Booster</span></h1>
         <p class="brand-sub">按章节精练 × 州属试卷实战 × 错题二次回刷 × 自动成绩上传</p>
         <div class="tag-row">
           <span class="tag hot">Form 4 / Form 5</span>
@@ -193,33 +193,30 @@
     </div>
   </div>
 
-  <!-- 成绩提交表单：使用你提供的 Apps Script（SEJ） -->
+  <!-- 成绩提交表单（保持你的原地址不变） -->
   <iframe name="postFrame" style="display:none;"></iframe>
   <form id="postForm"
-        action="https://script.google.com/macros/s/AKfycbxcXEdzviEERt2uqLfgIXLQ3LecB-O8oph_HIiWk8RWq0XjGSd-l9v2ejUf07jq2TA/exec"
+        action="https://script.google.com/macros/s/AKfycbx9A1jZ8oqSKExIfVCKnNiFmvPy407QqZBnZTRalU0IL4DSuOp9Nb4izaynd_4C54j3/exec"
         method="post" target="postFrame" style="display:none;">
     <input name="quizId"/><input name="name"/><input name="score"/>
     <input name="correct"/><input name="wrong"/><input name="time"/>
   </form>
 
   <!-- WhatsApp 一键联系 -->
-  <a class="wa-fab" href="https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20SEJ%20P1%20Booster." target="_blank" rel="noopener">💬 WhatsApp</a>
+  <a class="wa-fab" href="https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20SC%20P1%20Booster." target="_blank" rel="noopener">💬 WhatsApp</a>
 
   <!-- 页脚 -->
   <footer>
     如有任何疑问，请联系纪老师 016-7312519 ，或直接
-    <a href="https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20SEJ%20P1%20Booster." target="_blank" rel="noopener">一键打开 WhatsApp</a>。
+    <a href="https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20SC%20P1%20Booster." target="_blank" rel="noopener">一键打开 WhatsApp</a>。
   </footer>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  /* ======= 成绩表 CSV（可先留空：只用本地成绩也能跑） ======= */
-  // 如果你已有 SEJ 的 leaderboard 表格，把 SHEET_ID 改成那份表的 ID，GID 改成本工作表 gid。
-  const SHEET_ID = ''; // ← 先留空也没关系（只读不到云端成绩）
+  /* ======= 成绩表 CSV（保留你的设置） ======= */
+  const SHEET_ID = '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8';
   const SHEET_GID = '0';
-  const RESULTS_CSV_URL = SHEET_ID
-    ? `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}`
-    : null;
+  const RESULTS_CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}`;
 
   // ======= 登录/会话（试用 5 分钟） =======
   let user = '', usedUniversal = false;
@@ -263,7 +260,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ======= 成绩存取 =======
     // 👉 区分科目前缀，防止不同科成绩混在一起
-  const SUBJECT_PREFIX = 'SEJ';  // 改成 ACC / SC / SEJ 视科目而定
+  const SUBJECT_PREFIX = 'SC';  // 改成 ACC / SC / SEJ 视科目而定
   const LS_KEY = (name)=>`results_${SUBJECT_PREFIX}_${name.toLowerCase()}`;
   let cloudResults = []; let localResults = [];
   function loadLocalResults(){ try{ localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); } catch { localResults=[]; } }
@@ -282,7 +279,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   function fetchCloudResultsFor(name){
     return new Promise((resolve)=>{
-      if(!RESULTS_CSV_URL){ cloudResults=[]; return resolve([]); }
       Papa.parse(RESULTS_CSV_URL,{
         download:true, header:true, skipEmptyLines:true,
         complete:(res)=>{
