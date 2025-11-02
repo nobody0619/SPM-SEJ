@@ -125,11 +125,11 @@
     <div style="margin-top:12px;"><button class="pill-btn light" id="back-to-menu">返回章节列表</button></div>
   </div>
 
-  <!-- 成绩提交（SEJ） -->
+  <!-- 成绩提交：SEJ 部署地址 -->
   <iframe name="postFrame" style="display:none;"></iframe>
   <form id="postForm"
-      action="https://script.google.com/macros/s/AKfycbxcXEdzviEERt2uqLfgIXLQ3LecB-O8oph_HIiWk8RWq0XjGSd-l9v2ejUf07jq2TA/exec"
-      method="post" target="postFrame" style="display:none;">
+        action="https://script.google.com/macros/s/AKfycbxcXEdzviEERt2uqLfgIXLQ3LecB-O8oph_HIiWk8RWq0XjGSd-l9v2ejUf07jq2TA/exec"
+        method="post" target="postFrame" style="display:none;">
     <input name="quizId"/><input name="name"/><input name="score"/><input name="correct"/><input name="wrong"/><input name="time"/>
   </form>
 
@@ -138,69 +138,49 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  /* ======= 成绩表 CSV（保持不变） ======= */
+  /* ======= 成绩表 CSV（保持原表） ======= */
   const SHEET_ID = '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8';
   const SHEET_GID = '0';
   const RESULTS_CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}&cb=${Date.now()}`;
 
-  /* ======= 科目前缀（隔离成绩） ======= */
-  const SUBJECT_PREFIX = 'SEJ';
-
   // ======= 登录/会话（试用 5 分钟） =======
   let user = '', usedUniversal = false;
   const UWP_WINDOW_MS = 5 * 60 * 1000;
-  const setUniversalStart = ts => localStorage.setItem('uwpStart', String(ts));
-  const getUniversalStart = () => Number(localStorage.getItem('uwpStart') || 0);
-  const clearUniversalStart = () => localStorage.removeItem('uwpStart');
-  const universalRemainingMs = () => {
-    const s = getUniversalStart(); if (!s) return 0;
-    const r = UWP_WINDOW_MS - (Date.now() - s); return r > 0 ? r : 0;
-  };
-  const showSessionTimer = b => document.getElementById('session-timer').style.display = b ? 'block' : 'none';
-  function updateSessionTimer(){
-    if (!usedUniversal) { showSessionTimer(false); return; }
-    const rem = universalRemainingMs();
-    if (rem <= 0){ showSessionTimer(false); alert('会话已到期，请重新登录。'); location.reload(); return; }
-    const mm = Math.floor(rem/60000);
-    const ss = Math.floor((rem%60000)/1000).toString().padStart(2,'0');
-    document.getElementById('session-remaining').textContent = `${mm}:${ss}`;
-    showSessionTimer(true);
-  }
+  function setUniversalStart(ts){ localStorage.setItem('uwpStart', String(ts)); }
+  function getUniversalStart(){ const v=localStorage.getItem('uwpStart'); return v? Number(v):0; }
+  function clearUniversalStart(){ localStorage.removeItem('uwpStart'); }
+  function universalRemainingMs(){ const s=getUniversalStart(); if(!s) return 0; const r=UWP_WINDOW_MS-(Date.now()-s); return r>0?r:0; }
+  function showSessionTimer(b){ document.getElementById('session-timer').style.display = b?'block':'none'; }
+  function updateSessionTimer(){ if(!usedUniversal){ showSessionTimer(false); return; } const rem=universalRemainingMs(); if(rem<=0){ showSessionTimer(false); alert('会话已到期，请重新登录。'); location.reload(); return; } const mm=Math.floor(rem/60000); const ss=Math.floor((rem%60000)/1000).toString().padStart(2,'0'); document.getElementById('session-remaining').textContent=`${mm}:${ss}`; showSessionTimer(true); }
   setInterval(updateSessionTimer, 500);
 
   // ======= 音效 =======
   let audioOn = true, audioCtx;
   const sndBtn = document.getElementById('sound-toggle');
   sndBtn.onclick = () => { audioOn = !audioOn; sndBtn.classList.toggle('muted', !audioOn); sndBtn.textContent = audioOn ? '🔊 音效已开' : '🔈 音效已关'; };
-  function ensureCtx(){ if (!audioCtx) audioCtx = new (window.AudioContext||window.webkitAudioContext)(); }
-  function beep(freq=880, dur=0.14, type='sine', gain=0.06){
-    if (!audioOn) return; ensureCtx();
-    const o=audioCtx.createOscillator(), g=audioCtx.createGain();
-    o.type=type; o.frequency.value=freq; g.gain.value=gain;
-    o.connect(g).connect(audioCtx.destination); o.start();
-    g.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime+dur);
-    o.stop(audioCtx.currentTime+dur+0.02);
-  }
-  const playRight=()=>{ beep(1100,.10,'sine',.06); setTimeout(()=>beep(1500,.12,'sine',.05),90); };
-  const playWrong=()=>{ beep(220,.12,'sawtooth',.05); setTimeout(()=>beep(160,.14,'square',.05),100); };
+  function ensureCtx(){ if(!audioCtx) audioCtx = new (window.AudioContext||window.webkitAudioContext)(); }
+  function beep(freq=880, dur=0.14, type='sine', gain=0.06){ if(!audioOn) return; ensureCtx(); const o=audioCtx.createOscillator(), g=audioCtx.createGain(); o.type=type; o.frequency.value=freq; g.gain.value=gain; o.connect(g).connect(audioCtx.destination); o.start(); g.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime+dur); o.stop(audioCtx.currentTime+dur+0.02); }
+  function playRight(){ beep(1100,.10,'sine',.06); setTimeout(()=>beep(1500,.12,'sine',.05),90); }
+  function playWrong(){ beep(220,.12,'sawtooth',.05); setTimeout(()=>beep(160,.14,'square',.05),100); }
 
   // ======= 成绩存取（本地 + 云端按科目隔离） =======
-  const LS_KEY = name => `results_${SUBJECT_PREFIX}_${name.toLowerCase()}`;
+  const SUBJECT_PREFIX = 'SEJ';                                   // ★ 本科目前缀
+  const LS_KEY = (name)=>`results_${SUBJECT_PREFIX}_${name.toLowerCase()}`;
   let cloudResults=[], localResults=[];
   function loadLocalResults(){ try{ localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); }catch{ localResults=[]; } }
   function saveLocalResult(rec){ loadLocalResults(); localResults.push(rec); localStorage.setItem(LS_KEY(user), JSON.stringify(localResults)); }
-  const mergeResults = () => [...cloudResults, ...localResults];
+  function mergeResults(){ return [...cloudResults, ...localResults]; }
   function buildBestScoreMap(){
-    const all = mergeResults(), best = {};
+    const all=mergeResults(), best={};
     all.forEach(r=>{
-      const pure = (r.quizIdPure || String(r.quizId||'').replace(/^.*?\|/, '')).trim();
+      const pure=(r.quizIdPure || String(r.quizId||'').replace(/^.*?\|/, '')).trim();
       const sc = Number(r.score||0); if(!pure) return;
       if(!(pure in best) || sc>best[pure]) best[pure]=sc;
     }); return best;
   }
   function bestScoreForChapter(chap, bestMap){
     let candidate = (bestMap[chap] != null) ? bestMap[chap] : null;
-    for (const [k,v] of Object.entries(bestMap)){ if (k.startsWith(chap+'_')) candidate = Math.max(candidate ?? -Infinity, v); }
+    for(const [k,v] of Object.entries(bestMap)){ if(k.startsWith(chap+'_')) candidate = Math.max(candidate ?? -Infinity, v); }
     return candidate;
   }
   function fetchCloudResultsFor(name){
@@ -211,7 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const rows=(res.data||[]).map(r=>{
             const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()] = typeof v==='string'? v.trim(): v; });
             const rawId = o.quizid || o.quiz_id || '';
-            const isThisSubject = /^ACC\|/i.test(rawId);
+            const isThisSubject = new RegExp(`^${SUBJECT_PREFIX}\\|`, 'i').test(rawId);
             if(!isThisSubject) return null;
             return {
               quizId: rawId,
@@ -229,6 +209,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ======= 题库/菜单 =======
   let chapters=[], grouped={}; let chapterKey, sectionKey, labelKey, sheetKey; let currentChapter='';
+
   // ======= 测验状态 =======
   let qs=[], queue=[], score=0, correct=0, wrong=0, chapterStart=0, correctStreak=0, wrongStreak=0;
   const MAX_OPTS=15;
@@ -249,11 +230,8 @@ document.addEventListener('DOMContentLoaded', () => {
       complete: async (res)=>{
         const rows=(res.data||[]).map(r=>{ const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()] = typeof v==='string'? v.trim(): v; }); return o; });
         const nameKey='name', passKey='password';
-        const uwpRow=rows.find(r=>r[nameKey]==='*'); const uwpPassword=uwpRow?(uwpRow[passKey]||''):''; // 5分钟试用
-        if(uwpPassword && pw===uwpPassword){
-          if(universalRemainingMs()<=0) setUniversalStart(Date.now());
-          usedUniversal=true; updateSessionTimer(); user=nm; afterLogin(); return;
-        }
+        const uwpRow=rows.find(r=>r[nameKey]==='*'); const uwpPassword=uwpRow?(uwpRow[passKey]||''):'';
+        if(uwpPassword && pw===uwpPassword){ if(universalRemainingMs()<=0) setUniversalStart(Date.now()); usedUniversal=true; updateSessionTimer(); user=nm; afterLogin(); return; }
         const match=rows.find(r=>String(r[nameKey]||'').toLowerCase()===nm.toLowerCase() && String(r[passKey]||'')===pw);
         if(!match) return alert('姓名或密码不正确 / Name or password incorrect.');
         clearUniversalStart(); usedUniversal=false; showSessionTimer(false); user=nm; afterLogin();
@@ -323,7 +301,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function startChapter(chap){ currentChapter=chap; score=0; correct=0; wrong=0; correctStreak=0; wrongStreak=0; updateStreak(); chapterStart=Date.now(); document.getElementById('menu').style.display='none'; document.getElementById('quiz-title').textContent = chap; loadChapterAllSectionsAndStart(); }
 
-  function getBaseDir(url){ try{ const u=new URL(url, window.location.href); const s=u.toString(); const i=s.lastIndexOf('/'); return i>=0? s.slice(0,i+1): s; } catch{ const i=url.lastIndexOf('/'); return i>=0? url.slice(0,i+1): ''; } }
+  function getBaseDir(url){ try{ const u=new URL(url, window.location.href); const s=u.toString(); const i=s.lastIndexOf('/'); return i>=0? s.slice(0,i+1): s; } catch{ const i=url.lastIndexOf('/'); return i>=0? url.slice(0,i+1): ''; }
+
+  }
 
   function loadChapterAllSectionsAndStart(){
     const secList=grouped[currentChapter]||[]; if(!secList.length){ alert('该章节没有配置 CSV。'); renderMenu(); return; }
@@ -341,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function updateStreak(){ const el=document.getElementById('streak'); if(correctStreak>0) el.innerHTML=`🔥 <span class="streak-good">连对 ${correctStreak}</span>`; else if(wrongStreak>0) el.innerHTML=`😅 <span class="streak-bad">连错 ${wrongStreak}</span>`; else el.textContent=''; }
 
   function nextQ(){
-    if(usedUniversal && universalRemainingMs()<=0){ alert('会话已到期，请重新登录。'); location.reload(); return; }
+    guardUniversalWindowOrThrow();
     const qa=document.getElementById('question-area'); qa.innerHTML=''; updateUI(0);
     if(queue.length===0) return finishChapter();
     const q=queue.shift(); const div=document.createElement('div'); div.className='question';
@@ -353,7 +333,7 @@ document.addEventListener('DOMContentLoaded', () => {
     div.appendChild(opts);
     const fb=document.createElement('div'); fb.className='feedback'; div.appendChild(fb);
     const sb=document.createElement('button'); sb.className='pill-btn'; sb.textContent='提交';
-    sb.onclick=()=>{ if(usedUniversal && universalRemainingMs()<=0){ alert('会话已到期，请重新登录。'); location.reload(); return; }
+    sb.onclick=()=>{ guardUniversalWindowOrThrow();
       let ua=[]; if(qType==='text'){ ua=document.getElementById('txtAns').value.split(',').map(s=>s.trim()).filter(s=>s); } else { ua=Array.from(div.querySelectorAll('input[name="opt"]:checked')).map(i=>i.value); }
       if(!ua.length) return alert('请选择或输入答案');
       let isC=false; const ansStr=(q.answer||'').toString();
@@ -376,7 +356,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('finish-msg').textContent=`恭喜 ${user}，你学会这个章节了！`;
     document.getElementById('stats').textContent=`得分: ${score}，答对 ${correct} 题，答错 ${wrong} 题`;
     const form=document.getElementById('postForm');
-    form.quizId.value = SUBJECT_PREFIX + '|' + currentChapter;
+    form.quizId.value = 'SEJ' + '|' + currentChapter;        // ★ 带前缀
     form.name.value   = user; form.score.value=score; form.correct.value=correct; form.wrong.value=wrong; form.time.value=Math.floor((Date.now()-chapterStart)/1000);
     form.submit();
     saveLocalResult({ quizId: form.quizId.value, name:user, score, correct, wrong, time: form.time.value, timestamp:new Date().toISOString() });
@@ -385,34 +365,25 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function openResults(){
-    if(usedUniversal && universalRemainingMs()<=0){ alert('会话已到期，请重新登录。'); location.reload(); return; }
-    fetchCloudResultsFor(user).then(()=>{
-      const all=mergeResults(); const wrap=document.getElementById('results-table-wrap'); wrap.innerHTML='';
+    guardUniversalWindowOrThrow();
+    fetchCloudResultsFor(user).then(()=>{ const all=mergeResults(); const wrap=document.getElementById('results-table-wrap'); wrap.innerHTML='';
       if(!all.length){ wrap.innerHTML='<p class="muted">暂时没有记录。</p>'; }
-      else{
-        all.sort((a,b)=>{ const ta=new Date(a.timestamp||0).getTime()||0; const tb=new Date(b.timestamp||0).getTime()||0; if(tb!==ta) return tb-ta; return String(a.quizId).localeCompare(String(b.quizId)); });
+      else{ all.sort((a,b)=>{ const ta=new Date(a.timestamp||0).getTime()||0; const tb=new Date(b.timestamp||0).getTime()||0; if(tb!==ta) return tb-ta; return String(a.quizId).localeCompare(String(b.quizId)); });
         const table=document.createElement('table'); table.innerHTML=`<thead><tr><th>测验</th><th>分数</th><th>正确/错误</th><th>用时(秒)</th><th>时间</th></tr></thead><tbody></tbody>`;
-        const tbody=table.querySelector('tbody');
-        all.forEach(r=>{
-          const tr=document.createElement('tr');
-          tr.innerHTML=`<td>${escapeHtml(r.quizIdPure || String(r.quizId||'').replace(/^.*?\|/, ''))}</td>
-                        <td>${escapeHtml(r.score||'')}</td>
-                        <td>${escapeHtml(r.correct||'')}/${escapeHtml(r.wrong||'')}</td>
-                        <td>${escapeHtml(r.time||'')}</td>
-                        <td>${escapeHtml(r.timestamp||'')}</td>`;
-          tbody.appendChild(tr);
-        });
-        wrap.appendChild(table);
-      }
+        const tbody=table.querySelector('tbody'); all.forEach(r=>{ const tr=document.createElement('tr'); tr.innerHTML=`<td>${escapeHtml(r.quizIdPure || String(r.quizId||'').replace(/^.*?\|/, ''))}</td><td>${escapeHtml(r.score||'')}</td><td>${escapeHtml(r.correct||'')}/${escapeHtml(r.wrong||'')}</td><td>${escapeHtml(r.time||'')}</td><td>${escapeHtml(r.timestamp||'')}</td>`; tbody.appendChild(tr); }); wrap.appendChild(table); }
       document.getElementById('results-summary').textContent=`当前用户：${user}（云端 ${cloudResults.length} 条，本地 ${localResults.length} 条）`;
       document.getElementById('menu').style.display='none'; document.getElementById('results').style.display='block';
     });
   }
 
-  const escapeHtml = s => String(s).replace(/[&<>"']/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m]));
+  function escapeHtml(s){ return String(s).replace(/[&<>"']/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m])); }
   function shuffle(arr){ for(let i=arr.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [arr[i],arr[j]]=[arr[j],arr[i]]; } return arr; }
   function insertWrongTwiceLater(q, queue){ const len=queue.length; let start=Math.min(1,len); let end1=len; let idx1=(len<=start)?start:(start+Math.floor(Math.random()*(end1-start+1))); queue.splice(idx1,0,{...q}); const len2=queue.length; const start2=Math.min(1,len2); const end2=len2; let idx2=(len2<=start2)?start2:(start2+Math.floor(Math.random()*(end2-start2+1))); if(Math.abs(idx2-idx1)<=1 && len2>=4) idx2=Math.min(idx2+2,len2); queue.splice(idx2,0,{...q}); }
   function launchConfetti(count=100,duration=1000){ const c=document.getElementById('confetti'); const colors=['#22c55e','#3b82f6','#f59e0b','#ef4444','#a855f7','#14b8a6']; for(let i=0;i<count;i++){ const piece=document.createElement('div'); piece.className='confetti-piece'; piece.style.left=Math.random()*100+'vw'; piece.style.background=colors[i%colors.length]; piece.style.animationDuration=(0.8+Math.random()*0.8)+'s'; piece.style.transform=`translateY(-120%) rotate(${Math.random()*360}deg)`; piece.style.width=(8+Math.random()*6)+'px'; piece.style.height=(12+Math.random()*10)+'px'; c.appendChild(piece); setTimeout(()=>piece.remove(),2000); } setTimeout(()=>{ c.innerHTML=''; }, duration+1200); }
+
+  // 成绩页按钮
+  document.getElementById('my-results-btn').onclick = openResults;
+
 });
 </script>
 </body>
