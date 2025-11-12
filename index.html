@@ -141,28 +141,33 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ===========================
      只改这一行切换科目：'SEJ' | 'SC' | 'ACC'
      =========================== */
-  const SUBJECT_PREFIX = 'SEJ';
+  /* 只改这一行：'SEJ' | 'ACC' | 'SC' */
+const SUBJECT_PREFIX = 'SEJ';
 
-  /* 自动配置三科的提交URL与成绩表ID（内置好） */
-  const SUBJECT_CONFIG = {
-    SEJ: {
-      SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxcXEdzviEERt2uqLfgIXLQ3LecB-O8oph_HIiWk8RWq0XjGSd-l9v2ejUf07jq2TA/exec',
-      SHEET_ID:   '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8'
-    },
-    SC: {
-      SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbx9A1jZ8oqSKExIfVCKnNiFmvPy407QqZBnZTRalU0IL4DSuOp9Nb4izaynd_4C54j3/exec',
-      SHEET_ID:   '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8'
-    },
-    ACC: {
-      SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxMi-Xv5OWubnwx-tDS2XPsKhUpfGf1e-rMtgPFs4mwA4VvEL1L7gVEXiN_oFK9hyaLWQ/exec',
-      SHEET_ID:   '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8'
-    }
-  };
-  const SHEET_NAME = 'Sheet1';
-  const {SCRIPT_URL, SHEET_ID} = SUBJECT_CONFIG[SUBJECT_PREFIX];
+/* 三科各自的成绩表（读云端） */
+const SHEET_IDS = {
+  SEJ: '1EBWtRvzy3f4i0m8bbvjHVeir4isT4QmLLQSLGwPkCOM',
+  ACC: '16bvfhuPSsYt8jHApfhq4bqNXUXh2BRhgPgUCPE1oToM',
+  SC:  '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8'
+};
 
-  // Google Sheet CSV 地址（对访客可读）
-  const RESULTS_CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(SHEET_NAME)}`;
+/* 三科各自的 Apps Script（写入云端） */
+const GAS_ENDPOINTS = {
+  SEJ: 'https://script.google.com/macros/s/AKfycbxcXEdzviEERt2uqLfgIXLQ3LecB-O8oph_HIiWk8RWq0XjGSd-l9v2ejUf07jq2TA/exec',
+  ACC: 'https://script.google.com/macros/s/AKfycbxMi-Xv5OWubnwx-tDS2XPsKhUpfGf1e-rMtgPFs4mwA4VvEL1L7gVEXiN_oFK9hyaLWQ/exec',
+  SC:  'https://script.google.com/macros/s/AKfycbx9A1jZ8oqSKExIfVCKnNiFmvPy407QqZBnZTRalU0IL4DSuOp9Nb4izaynd_4C54j3/exec'
+};
+
+/* 读取用的 CSV 地址（带防缓存） */
+const SHEET_ID = SHEET_IDS[SUBJECT_PREFIX];
+const RESULTS_CSV_URL =
+  `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=Sheet1&nocache=${Date.now()}`;
+
+/* 提交成绩用的表单 action */
+document.getElementById('postForm').action = GAS_ENDPOINTS[SUBJECT_PREFIX];
+
+/* 过滤同科成绩用的前缀（你已经在用）*/
+const QUIZ_PREFIX_REGEX = new RegExp(`^${SUBJECT_PREFIX}\\|`, 'i');
 
   // 动态品牌文案
   const SUBJECT_MAP = { SEJ: ['SEJ','Sejarah'], SC:['SC','Science'], ACC:['ACC','Accounting'] };
