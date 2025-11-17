@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>纪老师 SPM P1 超强训练器</title>
+  <title>纪老师 SPM P1 超强训练器 / SPM P1 Booster</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
   <style>
     :root{ --black:#111; --fg:#111; --bg:#fff; --muted:#555; --green:#16a34a; --green-2:#22c55e; --border:#eee; --shadow:0 6px 20px rgba(0,0,0,.06); }
@@ -33,18 +33,18 @@
                  linear-gradient(135deg,#fff,#fafafa);
       border:1px solid var(--border); box-shadow:var(--shadow); text-align:center; }
     .brand{ display:flex; align-items:center; justify-content:center; gap:14px; flex-wrap:wrap; }
-    .brand-icon{ width:56px; height:56px; border-radius:16px; background:#111; color:#fff; display:grid; place-items:center; font-weight:800; }
+    .brand-icon{ width:56px; height:56px; border-radius:16px; background:#111; color:#fff; display:grid; place-items:center; font-weight:800; letter-spacing:.5px; }
     .brand-title{ margin:0; font-size:30px; line-height:1.15; }
     .brand-sub{ margin:6px 0 0; color:#555; }
     .tag-row{ margin-top:12px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center; }
     .tag{ font-size:12px; padding:6px 12px; border-radius:999px; border:1px solid #e5e7eb; background:#fff; color:#111; }
-    .tag.hot{ border-color:var(--green); color:var(--green); background:#f0fff5; }
+    .tag.hot{ border-color:var(--green); color:#16a34a; background:#f0fff5; }
     h2{ margin-top:26px; } h3{ margin-top:18px; text-align:left; }
     .group{ margin:6px 0 18px; text-align:left; } .group h4{ margin:8px 0; }
     .pill{ display:inline-flex; align-items:center; gap:8px; margin:6px; padding:8px 12px; border-radius:999px; background:#111; color:#fff; border:0; cursor:pointer; }
     .badge{ background:#fff; color:#111; padding:2px 8px; border-radius:999px; font-size:12px; }
     .badge-gray{ background:#e5e7eb; color:#111; } .badge-green{ background:#22c55e; color:#fff; }
-    .question{ text-align:left; margin:15px 0; padding:16px 20px; border:2px solid #ddd; border-radius:14px; transition:transform .18s, box-shadow .18s, border-color .18s; position:relative; }
+    .question{ text-align:left; margin:15px 0; padding:16px 20px; border:2px solid #ddd; border-radius:14px; transition: transform .18s, box-shadow .18s, border-color .18s; position:relative; }
     .option-label{ display:block; margin:6px 0; cursor:pointer; }
     .feedback{ font-weight:bold; margin:10px 0; min-height:1.2em; }
     img{ max-width:100%; margin:10px 0; border:2px solid #ccc; border-radius:10px; }
@@ -68,15 +68,15 @@
   </style>
 </head>
 <body>
-  <!-- 顶栏 -->
+  <!-- 顶栏 / Topbar -->
   <div id="topbar">
     <div class="nav-left">
-      <button id="back-to-chapters-btn" class="pill-btn primary">🏠 回到章节选择</button>
-      <div id="session-timer">会话剩余 <span id="session-remaining">05:00</span></div>
+      <button id="back-to-chapters-btn" class="pill-btn primary">🏠 回到章节选择 / Back to Chapters</button>
+      <div id="session-timer">会话剩余 / Session left <span id="session-remaining">05:00</span></div>
     </div>
     <div class="nav-right">
-      <button id="my-results-btn" class="pill-btn light">📊 我的成绩</button>
-      <button id="sound-toggle" class="pill-btn" title="开关音效">🔊 音效已开</button>
+      <button id="my-results-btn" class="pill-btn light">📊 我的成绩 / My Results</button>
+      <button id="sound-toggle" class="pill-btn" title="开关音效 / Toggle Sound">🔊 音效已开 / Sound On</button>
     </div>
   </div>
   <div id="confetti"></div>
@@ -86,8 +86,8 @@
     <div class="brand">
       <div class="brand-icon" id="brand-icon">SUB</div>
       <div>
-        <h1 class="brand-title" id="brand-title">SPM P1 超强训练器 / <b id="brand-boost">P1 Booster</b></h1>
-        <p class="brand-sub">按章节精练 × 州属试卷实战 × 错题二次回刷 × 自动成绩上传</p>
+        <h1 class="brand-title" id="brand-title">SPM P1 超强训练器 / <b id="brand-boost">SPM P1 Booster</b></h1>
+        <p class="brand-sub">按章节精练 × 州属试卷实战 × 错题二次回刷 × 自动成绩上传<br/>Chapter Drills × State Papers × Wrong-Question Double Retry × Auto Upload</p>
         <div class="tag-row">
           <span class="tag hot">Form 4 / Form 5</span>
           <span class="tag hot">Chapter &amp; State Papers</span>
@@ -98,42 +98,46 @@
     </div>
   </section>
 
-  <!-- 登录 -->
+  <!-- 登录 / Login -->
   <div id="welcome">
     <h2>请输入姓名与密码 / Enter Your Name & Password</h2>
     <input type="text" id="username" placeholder="姓名 / Name"/>
     <input type="password" id="password" placeholder="密码 / Password"/>
     <button id="startBtn" type="button" class="pill-btn">登录 / Log In</button>
-    <div class="muted" style="margin-top:8px;">免费试用密码：<b>testing</b>（5分钟）；RM10 一次性开通，解锁「无限练习」。购买请联系：纪老师 016-7312519</div>
+    <div class="muted" style="margin-top:8px;">
+      免费试用密码：<b>testing</b>（5分钟）/ Trial password: <b>testing</b> (5 minutes)；
+      RM10 一次性开通，解锁「无限练习」。购买请联系：纪老师 016-7312519<br/>
+      One-time RM10 to unlock <b>Unlimited Practice</b>. WhatsApp Mr Kee: 016-7312519
+    </div>
   </div>
 
-  <!-- 菜单 -->
+  <!-- 菜单 / Menu -->
   <div id="menu"><h2>请选择章节 / Select Chapter</h2></div>
 
-  <!-- 测验 -->
+  <!-- 测验 / Quiz -->
   <div id="quiz">
     <h3 id="quiz-title"></h3>
-    <div id="score">得分: 0</div>
-    <div id="remaining">剩余题目: 0</div>
+    <div id="score">得分 / Score: 0</div>
+    <div id="remaining">剩余题目 / Remaining: 0</div>
     <div id="streak"></div>
     <div id="progressWrap" class="progress-wrap"><progress id="progress" value="0" max="0"></progress></div>
     <div id="question-area" style="position:relative;"></div>
   </div>
 
-  <!-- 完成 -->
+  <!-- 完成 / Finish -->
   <div id="finish">
     <h3 id="finish-msg"></h3><p id="stats"></p><div id="controls"></div>
   </div>
 
-  <!-- 我的成绩 -->
+  <!-- 成绩 / Results -->
   <div id="results">
     <h2>📊 我的成绩 / My Results</h2>
     <div id="results-summary" class="muted"></div>
     <div id="results-table-wrap"></div>
-    <div style="margin-top:12px;"><button class="pill-btn light" id="back-to-menu">返回章节列表</button></div>
+    <div style="margin-top:12px;"><button class="pill-btn light" id="back-to-menu">返回章节列表 / Back to List</button></div>
   </div>
 
-  <!-- 成绩提交（表单 action 会按科目自动设置） -->
+  <!-- 成绩提交（按科目自动设置）/ Submit to GAS per subject -->
   <iframe name="postFrame" style="display:none;"></iframe>
   <form id="postForm" method="post" target="postFrame" style="display:none;">
     <input name="quizId"/><input name="name"/><input name="score"/>
@@ -142,50 +146,51 @@
 
   <!-- WhatsApp -->
   <a class="wa-fab" id="wa-fab" href="https://wa.me/60167312519" target="_blank" rel="noopener">💬 WhatsApp</a>
-  <footer>如有任何疑问，请联系纪老师 016-7312519 ，或直接 <a id="wa-link" href="https://wa.me/60167312519" target="_blank" rel="noopener">一键打开 WhatsApp</a>。</footer>
+  <footer>如有任何疑问，请联系纪老师 016-7312519 ，或直接 <a id="wa-link" href="https://wa.me/60167312519" target="_blank" rel="noopener">一键打开 WhatsApp / Open WhatsApp</a>。</footer>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ===========================
      只改这一行切换科目：'SEJ' | 'SC' | 'ACC'
+     Change only this line to switch subject.
      =========================== */
   const SUBJECT_PREFIX = 'SEJ';
 
-  /* 三科各自的成绩表（读云端 Sheet1） */
+  /* 成绩表（读云端 Sheet1）/ Sheet for reading cloud results */
   const SHEET_IDS = {
     SEJ: '1EBWtRvzy3f4i0m8bbvjHVeir4isT4QmLLQSLGwPkCOM',
     ACC: '16bvfhuPSsYt8jHApfhq4bqNXUXh2BRhgPgUCPE1oToM',
     SC:  '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8'
   };
 
-  /* 三科各自的 Apps Script（写云端） */
+  /* Apps Script（写云端）/ GAS endpoints for writing results */
   const GAS_ENDPOINTS = {
     SEJ: 'https://script.google.com/macros/s/AKfycbxcXEdzviEERt2uqLfgIXLQ3LecB-O8oph_HIiWk8RWq0XjGSd-l9v2ejUf07jq2TA/exec',
     ACC: 'https://script.google.com/macros/s/AKfycbxMi-Xv5OWubnwx-tDS2XPsKhUpfGf1e-rMtgPFs4mwA4VvEL1L7gVEXiN_oFK9hyaLWQ/exec',
     SC:  'https://script.google.com/macros/s/AKfycbx9A1jZ8oqSKExIfVCKnNiFmvPy407QqZBnZTRalU0IL4DSuOp9Nb4izaynd_4C54j3/exec'
   };
 
-  /* 读取成绩 CSV（防缓存） */
+  /* 读取成绩 CSV（防缓存）Read results CSV with cache-buster */
   const SHEET_ID = SHEET_IDS[SUBJECT_PREFIX];
   const RESULTS_CSV_URL =
     `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=Sheet1&nocache=${Date.now()}`;
 
-  /* 绑定提交地址 */
+  /* 绑定提交地址 / Bind form action */
   const postForm = document.getElementById('postForm');
   postForm.action = GAS_ENDPOINTS[SUBJECT_PREFIX];
 
-  /* 文案与 WhatsApp */
+  /* 文案与 WhatsApp / Branding & WhatsApp text */
   const SUBJECT_MAP = { SEJ: ['SEJ','Sejarah'], SC:['SC','Science'], ACC:['ACC','Accounting'] };
   const [abbr, fullName] = SUBJECT_MAP[SUBJECT_PREFIX] || [SUBJECT_PREFIX, SUBJECT_PREFIX];
   document.getElementById('brand-icon').textContent = abbr;
   document.getElementById('brand-title').innerHTML =
-    `SPM ${abbr} Paper 1 超强训练器 / <b id="brand-boost">${abbr} P1 Booster</b>`;
+    `SPM ${abbr} Paper 1 超强训练器 / <b id="brand-boost">SPM ${abbr} P1 Booster</b>`;
   const wa = `https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20${encodeURIComponent(abbr)}%20P1%20Booster.`;
   document.getElementById('wa-fab').href  = wa;
   document.getElementById('wa-link').href = wa;
 
-  /* ===== 登录/会话（试用 5 分钟） ===== */
+  /* ===== 登录/会话（试用 5 分钟）Login/Trial 5min ===== */
   let user = '', usedUniversal = false;
   const UWP_WINDOW_MS = 5 * 60 * 1000;
   function setUniversalStart(ts){ localStorage.setItem('uwpStart', String(ts)); }
@@ -196,23 +201,38 @@ document.addEventListener('DOMContentLoaded', () => {
   function updateSessionTimer(){
     if(!usedUniversal){ showSessionTimer(false); return; }
     const rem=universalRemainingMs();
-    if(rem<=0){ showSessionTimer(false); alert('会话已到期，请重新登录。'); location.reload(); return; }
+    if(rem<=0){
+      showSessionTimer(false);
+      alert('会话已到期，请重新登录 / Session expired, please log in again.');
+      location.reload(); return;
+    }
     const mm=Math.floor(rem/60000), ss=Math.floor((rem%60000)/1000).toString().padStart(2,'0');
     document.getElementById('session-remaining').textContent=`${mm}:${ss}`;
     showSessionTimer(true);
   }
   setInterval(updateSessionTimer, 500);
 
-  /* ===== 音效 ===== */
+  /* ===== 音效 / Sound ===== */
   let audioOn = true, audioCtx;
   const sndBtn = document.getElementById('sound-toggle');
-  sndBtn.onclick = () => { audioOn = !audioOn; sndBtn.classList.toggle('muted', !audioOn); sndBtn.textContent = audioOn ? '🔊 音效已开' : '🔈 音效已关'; };
+  sndBtn.onclick = () => {
+    audioOn = !audioOn;
+    sndBtn.classList.toggle('muted', !audioOn);
+    sndBtn.textContent = audioOn ? '🔊 音效已开 / Sound On' : '🔈 音效已关 / Sound Off';
+  };
   function ensureCtx(){ if(!audioCtx) audioCtx = new (window.AudioContext||window.webkitAudioContext)(); }
-  function beep(freq=880, dur=0.14, type='sine', gain=0.06){ if(!audioOn) return; ensureCtx(); const o=audioCtx.createOscillator(), g=audioCtx.createGain(); o.type=type; o.frequency.value=freq; g.gain.value=gain; o.connect(g).connect(audioCtx.destination); o.start(); g.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime+dur); o.stop(audioCtx.currentTime+dur+0.02); }
+  function beep(freq=880, dur=0.14, type='sine', gain=0.06){
+    if(!audioOn) return; ensureCtx();
+    const o=audioCtx.createOscillator(), g=audioCtx.createGain();
+    o.type=type; o.frequency.value=freq; g.gain.value=gain;
+    o.connect(g).connect(audioCtx.destination); o.start();
+    g.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime+dur);
+    o.stop(audioCtx.currentTime+dur+0.02);
+  }
   function playRight(){ beep(1100,.10,'sine',.06); setTimeout(()=>beep(1500,.12,'sine',.05),90); }
   function playWrong(){ beep(220,.12,'sawtooth',.05); setTimeout(()=>beep(160,.14,'square',.05),100); }
 
-  /* ===== 成绩存取（本地 + 云端，按科目前缀隔离） ===== */
+  /* ===== 成绩存取（本地 + 云端，按科目前缀隔离） Local+Cloud results ===== */
   const LS_KEY = (name)=>`results_${SUBJECT_PREFIX}_${name.toLowerCase()}`;
   let cloudResults=[], localResults=[];
   function loadLocalResults(){ try{ localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); }catch{ localResults=[]; } }
@@ -226,8 +246,8 @@ document.addEventListener('DOMContentLoaded', () => {
         complete:(res)=>{
           const rows=(res.data||[]).map(r=>{
             const norm={}; Object.entries(r).forEach(([k,v])=>{ norm[String(k).trim().toLowerCase()] = typeof v==='string'? v.trim(): v; });
-            const rawId = norm.quizid || norm.quiz_id || ''; // 兼容不同表头
-            if(!new RegExp(`^${SUBJECT_PREFIX}\\|`, 'i').test(rawId)) return null; // 仅当前科目
+            const rawId = norm.quizid || norm.quiz_id || ''; // 兼容不同表头 / compatible keys
+            if(!new RegExp(`^${SUBJECT_PREFIX}\\|`, 'i').test(rawId)) return null; // 仅当前科目 / filter by subject
             return {
               quizId: rawId,
               quizIdPure: String(rawId).replace(/^.*?\|/, '').trim(),
@@ -258,7 +278,13 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('back-to-menu').onclick = backToMenu;
   document.getElementById('back-to-chapters-btn').onclick = backToMenu;
 
-  function backToMenu(){ document.getElementById('results').style.display='none'; document.getElementById('quiz').style.display='none'; document.getElementById('finish').style.display='none'; document.getElementById('menu').style.display='block'; document.getElementById('menu').scrollIntoView({behavior:'smooth'}); }
+  function backToMenu(){
+    document.getElementById('results').style.display='none';
+    document.getElementById('quiz').style.display='none';
+    document.getElementById('finish').style.display='none';
+    document.getElementById('menu').style.display='block';
+    document.getElementById('menu').scrollIntoView({behavior:'smooth'});
+  }
 
   function attemptLogin(){
     const nm=document.getElementById('username').value.trim();
@@ -270,7 +296,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const rows=(res.data||[]).map(r=>{ const o={}; Object.entries(r).forEach(([k,v])=>{ o[String(k).trim().toLowerCase()] = typeof v==='string'? v.trim(): v; }); return o; });
         const nameKey='name', passKey='password';
 
-        // 通用试用密码（* 行）
+        // 通用试用密码（* 行）/ Universal trial password (* row)
         const uwpRow=rows.find(r=>r[nameKey]==='*'); const uwpPassword=uwpRow?(uwpRow[passKey]||''):'';
         if(uwpPassword && pw===uwpPassword){
           if(universalRemainingMs()<=0) setUniversalStart(Date.now());
@@ -279,10 +305,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const match=rows.find(r=>String(r[nameKey]||'').toLowerCase()===nm.toLowerCase() && String(r[passKey]||'')===pw);
         if(!match) return alert('姓名或密码不正确 / Name or password incorrect.');
-
         clearUniversalStart(); usedUniversal=false; showSessionTimer(false); user=nm; afterLogin();
       },
-      error:()=> alert('无法读取 Passwords.csv，请确认文件存在且可公开访问')
+      error:()=> alert('无法读取 Passwords.csv，请确认文件存在且可公开访问 / Cannot load Passwords.csv. Make sure it is publicly accessible.')
     });
   }
 
@@ -296,14 +321,20 @@ document.addEventListener('DOMContentLoaded', () => {
     setTimeout(()=>document.getElementById('menu').scrollIntoView({behavior:'smooth'}),50);
   }
 
-  function guardUniversalWindowOrThrow(){ if(!usedUniversal) return; if(universalRemainingMs()<=0){ alert('会话已到期，请重新登录。'); location.reload(); throw new Error('Session expired'); } }
+  function guardUniversalWindowOrThrow(){
+    if(!usedUniversal) return;
+    if(universalRemainingMs()<=0){
+      alert('会话已到期，请重新登录 / Session expired, please log in again.');
+      location.reload(); throw new Error('Session expired');
+    }
+  }
 
   function loadChapters(){
     Papa.parse('Chapters.csv',{download:true,header:true,skipEmptyLines:true,
       complete(res){
         guardUniversalWindowOrThrow();
         chapters=(res.data||[]).map(raw=>{ const r={}; Object.entries(raw).forEach(([k,v])=>{ r[String(k).trim()] = typeof v==='string'? v.trim(): v; }); return r; });
-        if(!chapters.length) return alert('请检查 Chapters.csv');
+        if(!chapters.length) return alert('请检查 Chapters.csv / Please check Chapters.csv');
 
         const keys=Object.keys(chapters[0]);
         chapterKey=keys.find(k=>k.toLowerCase()==='chapter');
@@ -320,7 +351,8 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function renderMenu(){
-    const menu=document.getElementById('menu'); menu.innerHTML='<h2>请选择章节 / Select Chapter</h2>';
+    const menu=document.getElementById('menu');
+    menu.innerHTML='<h2>请选择章节 / Select Chapter</h2>';
 
     const statePapers={2025:{},2024:{},2023:{}}; const chaptersF4={2025:[],2024:[],2023:[]}; const chaptersF5={2025:[],2024:[],2023:[]};
 
@@ -337,26 +369,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const makeChapterButton=(chap)=>{
       const btn=document.createElement('button'); btn.className='pill'; btn.textContent=chap;
-      const badge=document.createElement('span'); badge.className='badge badge-gray'; badge.textContent='未做';
+      const badge=document.createElement('span'); badge.className='badge badge-gray'; badge.textContent='未做 / Not yet';
       btn.appendChild(badge); btn.onclick=()=>{ guardUniversalWindowOrThrow(); startChapter(chap); };
       return btn;
     };
 
-    // 州属试卷
+    // 州属试卷 / State papers
     [2025,2024,2023].forEach(y=>{
       const states=statePapers[y];
       if(Object.keys(states).length){
-        const h=document.createElement('h2'); h.textContent=`州属试卷 ${y}`; menu.appendChild(h);
+        const h=document.createElement('h2'); h.textContent=`州属试卷 ${y} / State Papers ${y}`; menu.appendChild(h);
         for(const st of Object.keys(states).sort()){
           const g=document.createElement('div'); g.className='group';
-          const h4=document.createElement('h4'); h4.textContent=st; g.appendChild(h4);
+          const h4=document.createElement('h4'); h4.textContent=`${st}`; g.appendChild(h4);
           states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)));
           menu.appendChild(g);
         }
       }
     });
 
-    // 数字排序：F4
+    // F4 数字排序 / numeric sort
     [2025,2024,2023].forEach(y=>{
       if(chaptersF4[y].length){
         const h=document.createElement('h2'); h.textContent=`Form 4 Chapters ${y}`; menu.appendChild(h);
@@ -370,7 +402,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // 数字排序：F5
+    // F5 数字排序 / numeric sort
     [2025,2024,2023].forEach(y=>{
       if(chaptersF5[y].length){
         const h=document.createElement('h2'); h.textContent=`Form 5 Chapters ${y}`; menu.appendChild(h);
@@ -384,19 +416,19 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // Badge：最高准确率 %
+    // 徽章：最高准确率 % / Badge: Best Accuracy %
     const bestPctMap = buildBestPercentMap();
     for (const pill of menu.querySelectorAll('.pill')){
       const chap = pill.firstChild.nodeValue.trim();
       const badge = pill.querySelector('.badge');
       const best = bestPercentForChapter(chap, bestPctMap);
-      if (best != null){ badge.className='badge badge-green'; badge.textContent = `最高 ${best}%`; }
+      if (best != null){ badge.className='badge badge-green'; badge.textContent = `最高准确率 ${best}% / Best ${best}%`; }
     }
 
     menu.style.display='block';
   }
 
-  // 计算：每章节历史“最高准确率(%)”
+  // 计算每章节历史“最高准确率(%)”/ compute best accuracy %
   function buildBestPercentMap(){
     const all=mergeResults(), best={};
     all.forEach(r=>{
@@ -413,7 +445,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return candidate;
   }
 
-  /* ===== 测验流程 ===== */
+  /* ===== 测验流程 / Quiz flow ===== */
   function startChapter(chap){
     currentChapter=chap;
     score=0; correct=0; wrong=0; correctStreak=0; wrongStreak=0; updateStreak();
@@ -430,7 +462,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function loadChapterAllSectionsAndStart(){
     const secList=grouped[currentChapter]||[];
-    if(!secList.length){ alert('该章节没有配置 CSV。'); renderMenu(); return; }
+    if(!secList.length){ alert('该章节没有配置 CSV / No CSV configured for this chapter.'); renderMenu(); return; }
     const tasks=secList.map(sec=>new Promise((resolve)=>{
       const sheetUrl=sec[sheetKey]; const baseDir=getBaseDir(sheetUrl);
       Papa.parse(sheetUrl,{download:true,header:true,skipEmptyLines:true,
@@ -440,7 +472,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }));
     Promise.all(tasks).then(list=>{
       qs=list.flat();
-      if(!qs.length){ alert('无法读取题库 CSV，请检查链接与访问权限'); renderMenu(); return; }
+      if(!qs.length){ alert('无法读取题库 CSV，请检查链接与访问权限 / Unable to read question CSV. Check link & sharing.'); renderMenu(); return; }
       queue=shuffle([...qs]);
       document.getElementById('quiz').style.display='block';
       document.getElementById('finish').style.display='none';
@@ -449,22 +481,27 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function updateUI(delta){
-    document.getElementById('score').textContent=`得分: ${score} (${delta>0?'+':''}${delta})`;
-    document.getElementById('remaining').textContent=`剩余题目: ${queue.length}`;
+    document.getElementById('score').textContent=`得分 / Score: ${score} (${delta>0?'+':''}${delta})`;
+    document.getElementById('remaining').textContent=`剩余题目 / Remaining: ${queue.length}`;
     const pg=document.getElementById('progress'); pg.max=qs.length; pg.value=qs.length - queue.length;
   }
   function flashProgress(ok){ const w=document.getElementById('progressWrap'); w.classList.remove('flash-green','flash-red'); void w.offsetWidth; w.classList.add(ok?'flash-green':'flash-red'); setTimeout(()=>w.classList.remove('flash-green','flash-red'),600); }
-  function updateStreak(){ const el=document.getElementById('streak'); if(correctStreak>0) el.innerHTML=`🔥 <span class="streak-good">连对 ${correctStreak}</span>`; else if(wrongStreak>0) el.innerHTML=`😅 <span class="streak-bad">连错 ${wrongStreak}</span>`; else el.textContent=''; }
+  function updateStreak(){
+    const el=document.getElementById('streak');
+    if(correctStreak>0) el.innerHTML=`🔥 <span class="streak-good">连对 ${correctStreak} / Streak ${correctStreak}</span>`;
+    else if(wrongStreak>0) el.innerHTML=`😅 <span class="streak-bad">连错 ${wrongStreak} / Miss-streak ${wrongStreak}</span>`;
+    else el.textContent='';
+  }
 
   function nextQ(){
     guardUniversalWindowOrThrow();
-
     const qa=document.getElementById('question-area'); qa.innerHTML=''; updateUI(0);
     if(queue.length===0) return finishChapter();
 
     const q=queue.shift();
     const div=document.createElement('div'); div.className='question';
-    const safeQ=(q.question||'').toString().replace(/\r?\n/g,'<br/>'); div.innerHTML=`<p><strong>${safeQ}</strong></p>`;
+    const safeQ=(q.question||'').toString().replace(/\r?\n/g,'<br/>');
+    div.innerHTML=`<p><strong>${safeQ}</strong></p>`;
 
     if(q.image){
       let src=(q.image||'').toString().trim();
@@ -475,7 +512,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const qType=(q.type||'').toString().toLowerCase();
     const opts=document.createElement('div'); opts.className='options';
 
-    if(qType==='text'){ opts.innerHTML='<input type="text" id="txtAns" placeholder="请输入答案…"/>'; }
+    if(qType==='text'){ opts.innerHTML='<input type="text" id="txtAns" placeholder="请输入答案 / Type your answer…"/>'; }
     else{
       const letters=Array.from({length:MAX_OPTS},(_,i)=>String.fromCharCode(65+i));
       const avail=letters.filter(l=>q[l]);
@@ -491,13 +528,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const fb=document.createElement('div'); fb.className='feedback'; div.appendChild(fb);
 
-    const sb=document.createElement('button'); sb.className='pill-btn'; sb.textContent='提交';
+    const sb=document.createElement('button'); sb.className='pill-btn'; sb.textContent='提交 / Submit';
     sb.onclick=()=>{
       guardUniversalWindowOrThrow();
       let ua=[];
       if(qType==='text'){ ua=document.getElementById('txtAns').value.split(',').map(s=>s.trim()).filter(s=>s); }
       else{ ua=Array.from(div.querySelectorAll('input[name="opt"]:checked')).map(i=>i.value); }
-      if(!ua.length) return alert('请选择或输入答案');
+      if(!ua.length) return alert('请选择或输入答案 / Please select or type an answer.');
 
       let isC=false; const ansStr=(q.answer||'').toString();
       if(qType==='text'){
@@ -512,7 +549,7 @@ document.addEventListener('DOMContentLoaded', () => {
       updateStreak();
 
       let ansTxt=''; if(!isC) ansTxt=ansStr.split(',').map(letter=>q[letter]||letter).join(' / ');
-      fb.textContent=isC?`正确! +${delta}`:`错误! ${delta} 正确答案: ${ansTxt}`;
+      fb.textContent=isC?`正确! +${delta} / Correct! +${delta}`:`错误! ${delta} 正确答案: ${ansTxt} / Wrong! ${delta} | Correct: ${ansTxt}`;
       updateUI(delta); flashProgress(isC); sb.disabled=true;
 
       const bubble=document.createElement('div'); bubble.className='score-bubble '+(delta>0?'plus':'minus'); bubble.textContent=(delta>0?'+':'')+String(delta); div.appendChild(bubble);
@@ -520,7 +557,7 @@ document.addEventListener('DOMContentLoaded', () => {
       else { playWrong(); div.classList.add('wrong-shake'); setTimeout(()=>div.classList.remove('wrong-shake'),900); }
       setTimeout(()=>bubble.remove(),1000);
 
-      const nb=document.createElement('button'); nb.className='pill-btn light'; nb.style.marginLeft='8px'; nb.textContent='下一题'; nb.onclick=nextQ; div.appendChild(nb);
+      const nb=document.createElement('button'); nb.className='pill-btn light'; nb.style.marginLeft='8px'; nb.textContent='下一题 / Next'; nb.onclick=nextQ; div.appendChild(nb);
 
       if(!isC){ q.attempt++; insertWrongTwiceLater(q, queue); }
     };
@@ -535,9 +572,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const total = correct + wrong;
     const percent = total>0 ? Math.round((correct/total)*100) : 0;
 
-    document.getElementById('finish-msg').textContent=`恭喜 ${user}，你学会这个章节了！`;
+    document.getElementById('finish-msg').textContent=`恭喜 ${user}，你学会这个章节了！/ Congrats, ${user}!`;
     document.getElementById('stats').innerHTML =
-      `准确率：<b>${percent}%</b>　|　分数：${score}　|　正确：${correct}　|　错误：${wrong}　|　用时：${Math.floor((Date.now()-chapterStart)/1000)} 秒`;
+      `准确率 / Accuracy：<b>${percent}%</b>　|　分数 / Score：${score}　|　正确 / Correct：${correct}　|　错误 / Wrong：${wrong}　|　用时 / Time：${Math.floor((Date.now()-chapterStart)/1000)} s`;
 
     const form=document.getElementById('postForm');
     form.quizId.value  = `${SUBJECT_PREFIX}|${currentChapter}`;
@@ -557,7 +594,7 @@ document.addEventListener('DOMContentLoaded', () => {
     launchConfetti(120,1000);
 
     const ctrl=document.getElementById('controls'); ctrl.innerHTML='';
-    const btn=document.createElement('button'); btn.className='pill-btn'; btn.textContent='返回章节选择'; btn.onclick=backToMenu; ctrl.appendChild(btn);
+    const btn=document.createElement('button'); btn.className='pill-btn'; btn.textContent='返回章节选择 / Back to Chapters'; btn.onclick=backToMenu; ctrl.appendChild(btn);
   }
 
   function openResults(){
@@ -566,7 +603,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const all=mergeResults();
       const wrap=document.getElementById('results-table-wrap'); wrap.innerHTML='';
       if(!all.length){
-        wrap.innerHTML='<p class="muted">暂时没有记录。</p>';
+        wrap.innerHTML='<p class="muted">暂时没有记录 / No records yet.</p>';
       } else {
         all.sort((a,b)=>{
           const ta=new Date(a.timestamp||0).getTime()||0;
@@ -575,7 +612,14 @@ document.addEventListener('DOMContentLoaded', () => {
           return String(a.quizId).localeCompare(String(b.quizId));
         });
         const table=document.createElement('table');
-        table.innerHTML=`<thead><tr><th>测验</th><th>准确率(%)</th><th>分数</th><th>正确/错误</th><th>用时(秒)</th><th>时间</th></tr></thead><tbody></tbody>`;
+        table.innerHTML=`<thead><tr>
+          <th>测验 / Quiz</th>
+          <th>准确率(%) / Accuracy(%)</th>
+          <th>分数 / Score</th>
+          <th>正确/错误 / C/W</th>
+          <th>用时(秒) / Time(s)</th>
+          <th>时间 / Timestamp</th>
+        </tr></thead><tbody></tbody>`;
         const tbody=table.querySelector('tbody');
         all.forEach(r=>{
           const tot=Number(r.correct||0)+Number(r.wrong||0);
@@ -592,13 +636,14 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         wrap.appendChild(table);
       }
-      document.getElementById('results-summary').textContent=`当前用户：${user}（云端 ${cloudResults.length} 条，本地 ${localResults.length} 条）`;
+      document.getElementById('results-summary').textContent=
+        `当前用户 / Current user：${user}（云端 ${cloudResults.length} 条 / cloud ${cloudResults.length}, 本地 ${localResults.length} 条 / local ${localResults.length}）`;
       document.getElementById('menu').style.display='none';
       document.getElementById('results').style.display='block';
     });
   }
 
-  /* 工具函数 */
+  /* 工具函数 / Utilities */
   function escapeHtml(s){ return String(s).replace(/[&<>"']/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m])); }
   function shuffle(arr){ for(let i=arr.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [arr[i],arr[j]]=[arr[j],arr[i]]; } return arr; }
   function insertWrongTwiceLater(q, queue){
