@@ -1045,11 +1045,21 @@ Do you want to use 1 revive to count this question as correct?`;
       nb.onclick=nextQ;
       div.appendChild(nb);
 
-      // 错题重刷：只有真正错而且没用复活卡才排回去
-      if(!isC && !usedRevive){
-        q.attempt++;
-        insertWrongTwiceLater(q, queue);
-      }
+// --- 错题重刷逻辑（加入复活卡重刷一次） ---
+
+if (!isC && !usedRevive) {
+    // 真正答错 → 重刷两次
+    q.attempt++;
+    insertWrongTwiceLater(q, queue);
+
+} else if (usedRevive) {
+    // 使用复活卡 → 重刷一次（让学生再次确认）
+    // 但不扣分、不给碎片、不影响 attempt
+    const copy = { ...q };
+    // 插入在后面随机一点的位置
+    const insertIndex = Math.floor(Math.random() * (queue.length + 1));
+    queue.splice(insertIndex, 0, copy);
+}
     };
 
     div.appendChild(sb);
