@@ -249,7 +249,7 @@
 
     .overlay{
       position:fixed; inset:0; background:rgba(17,24,39,.35);
-      display:flex; align-items:center; justify-content:center; z-index:120;
+      display:flex; align-items:center; justify-content:center; z-index:99999;
       padding:20px;
     }
     .overlay-card{
@@ -672,7 +672,10 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('my-results-btn').onclick = openResults;
   document.getElementById('back-to-menu').onclick = backToMenu;
   document.getElementById('back-to-chapters-btn').onclick = backToMenu;
-  document.getElementById('mode-picker-cancel').onclick = backToMenu;
+  document.getElementById('mode-picker-cancel').onclick = () => {
+    document.getElementById('mode-picker').style.display='none';
+    document.getElementById('menu').style.display='block';
+  };
 
   function backToMenu(){
     document.getElementById('results').style.display='none';
@@ -987,6 +990,13 @@ function loadPasswordsAndLogin(nm, pw, attempt){
       return i>=0? url.slice(0,i+1): '';
     }
   }
+
+  document.getElementById('mode-picker').addEventListener('click', (e) => {
+    if(e.target && e.target.id === 'mode-picker'){
+      document.getElementById('mode-picker').style.display='none';
+      document.getElementById('menu').style.display='block';
+    }
+  });
 
   function openModePicker(total){
     const overlay = document.getElementById('mode-picker');
