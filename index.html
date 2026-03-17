@@ -1062,7 +1062,7 @@ function loadPasswordsAndLogin(nm, pw, attempt){
     });
   }
 
-  function updateUI  function updateUI(delta){
+  function updateUI(delta){
     document.getElementById('score').textContent=
       `得分 Score: ${score} ${delta?`(${delta>0?'+':''}${delta})`:''}`;
     document.getElementById('remaining').textContent=
