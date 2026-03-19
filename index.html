@@ -63,22 +63,21 @@
     #my-results-btn,#back-to-chapters-btn{ display:none; }
 
     #wallet-display{
+      min-width:240px;
       font-size:12px; color:#111;
-      padding:6px 12px; border-radius:16px;
-      background:#f4f4f5; text-align:left; min-width:170px;
+      padding:8px 12px; border-radius:18px;
+      background:#f4f4f5;
+      text-align:left;
+      line-height:1.35;
     }
-    #xp-bar-wrap{
-      width:150px; height:7px; background:#e5e7eb;
-      border-radius:999px; overflow:hidden; margin-bottom:4px;
-    }
-    #xp-bar{
-      width:0%; height:100%;
-      background:linear-gradient(90deg,#60a5fa,#a78bfa,#f472b6);
-      border-radius:999px;
-      transition:width .35s ease;
-    }
-    #xp-text{ font-size:11px; color:#555; margin-bottom:2px; }
-    #wallet-line{ white-space:nowrap; }
+    #account-mini-row{ display:flex; align-items:center; gap:10px; }
+    #xp-block{ flex:1; min-width:0; }
+    #xp-top-line{ display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap; margin-bottom:4px; }
+    #xp-text{ font-size:11px; color:#444; font-weight:700; }
+    #expiry-text{ font-size:11px; color:#555; background:#fff; border:1px solid #e5e7eb; border-radius:999px; padding:2px 8px; }
+    #xp-bar-wrap{ width:100%; height:8px; background:#e5e7eb; border-radius:999px; overflow:hidden; }
+    #xp-bar{ width:0%; height:100%; background:linear-gradient(90deg,#60a5fa,#a78bfa,#f472b6); border-radius:999px; transition:width .25s ease; }
+    #wallet-line{ margin-top:6px; }
 
     .hero{
       margin:28px auto; padding:32px 28px;
@@ -117,6 +116,13 @@
 
     .group{ margin:6px 0 18px; text-align:left; }
     .group h4{ margin:8px 0; }
+    .badge{
+      background:#fff; color:#111;
+      padding:2px 8px; border-radius:999px;
+      font-size:12px;
+    }
+    .badge-gray{ background:#e5e7eb; color:#111; }
+    .badge-green{ background:#22c55e; color:#fff; }
 
     .pill{
       display:inline-flex; align-items:center; gap:8px;
@@ -128,13 +134,19 @@
     .pill-f4{ background:#fce7f3; border-color:#f9a8d4; }
     .pill-f5{ background:#ede9fe; border-color:#c4b5fd; }
     .pill-done{ background:#dcfce7 !important; border-color:#86efac !important; }
-    .badge{
-      background:#fff; color:#111;
-      padding:2px 8px; border-radius:999px;
-      font-size:12px;
-    }
-    .badge-gray{ background:#e5e7eb; color:#111; }
-    .badge-green{ background:#22c55e; color:#fff; }
+
+    .mode-modal{ position:fixed; inset:0; background:rgba(0,0,0,.18); display:flex; align-items:center; justify-content:center; z-index:99999; }
+    .mode-card{ width:min(92vw, 430px); background:#fff; border-radius:24px; padding:22px 18px; box-shadow:0 20px 50px rgba(0,0,0,.18); border:1px solid #eee; }
+    .mode-title{ font-size:20px; font-weight:700; margin-bottom:8px; }
+    .mode-sub{ font-size:13px; color:#666; margin-bottom:16px; }
+    .mode-actions{ display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+    .mode-actions .full-row{ grid-column:1 / -1; }
+    .mode-actions button{ border:0; border-radius:18px; padding:16px 12px; font-size:15px; font-weight:700; cursor:pointer; box-shadow:0 6px 18px rgba(0,0,0,.08); }
+    .mode-btn-10{ background:#dbeafe; color:#111; }
+    .mode-btn-20{ background:#fce7f3; color:#111; }
+    .mode-btn-all{ background:#ede9fe; color:#111; }
+    .mode-btn-cancel{ background:#111; color:#fff; }
+    .mode-actions button:hover{ transform:translateY(-1px); }
 
     .question{
       text-align:left; margin:15px 0; padding:16px 20px;
@@ -246,24 +258,6 @@
     }
     .rules-box ul{ padding-left:18px; margin:4px 0; }
     .rules-box li{ margin:2px 0; }
-
-    .overlay{
-      position:fixed; inset:0; background:rgba(17,24,39,.35);
-      display:flex; align-items:center; justify-content:center; z-index:99999;
-      padding:20px;
-    }
-    .overlay-card{
-      background:#fff; border:1px solid #e5e7eb; border-radius:20px;
-      box-shadow:0 18px 40px rgba(0,0,0,.12); padding:22px; width:min(460px,95vw);
-      text-align:center;
-    }
-    .mode-actions{ display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:14px; }
-    .mode-btn{
-      border:0; border-radius:16px; padding:12px 16px; cursor:pointer;
-      background:#f3f4f6; color:#111; font-weight:700; box-shadow:var(--shadow);
-    }
-    .mode-btn:hover{ transform:translateY(-1px); }
-
   </style>
 </head>
 <body>
@@ -274,8 +268,15 @@
     </div>
     <div class="nav-right">
       <div id="wallet-display">
-        <div id="xp-bar-wrap"><div id="xp-bar"></div></div>
-        <div id="xp-text">Lv.1 • XP 0 / 50</div>
+        <div id="account-mini-row">
+          <div id="xp-block">
+            <div id="xp-top-line">
+              <span id="xp-text">LV 1 • XP 0 / 50</span>
+              <span id="expiry-text">截止 Exp: 永久 / Lifetime</span>
+            </div>
+            <div id="xp-bar-wrap"><div id="xp-bar"></div></div>
+          </div>
+        </div>
         <div id="wallet-line">碎片 Shards: 0 ｜ 复活 Revives: 0</div>
       </div>
       <button id="convert-revive-btn" class="pill-btn light" style="display:none;">
@@ -341,23 +342,12 @@
     <button id="startBtn" type="button" class="pill-btn">登录 / Log In</button>
     <div class="muted" style="margin-top:8px;">
       免费试用密码：<b>testing</b>（5 分钟 5 minutes）；
-      1000题练习每月只需 RM5 / 1000 practice questions monthly only RM5.  
+      1000题练习每月只需 RM5 / 1000 questions every month for only RM5.  
       购买请联系：纪老师 016-7312519。
     </div>
   </div>
 
   <div id="menu"><h2>请选择章节 / Select Chapter</h2></div>
-
-  <div id="mode-picker" class="overlay" style="display:none;">
-    <div class="overlay-card">
-      <h3 id="mode-picker-title">请选择练习模式 / Select Practice Mode</h3>
-      <p id="mode-picker-total" class="muted">完整题数 Total questions: 0</p>
-      <div id="mode-picker-actions" class="mode-actions"></div>
-      <div style="margin-top:10px;">
-        <button id="mode-picker-cancel" class="pill-btn light">取消 / Cancel</button>
-      </div>
-    </div>
-  </div>
 
   <div id="quiz">
     <h3 id="quiz-title"></h3>
@@ -510,6 +500,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const walletDisplay = document.getElementById('wallet-display');
   const convertBtn    = document.getElementById('convert-revive-btn');
   let wallet = { shards:0, revives:0, level:1, xp:0, totalXp:0 };
+  let accountExpiryText = '永久 / Lifetime';
 
   // 本次登录内的「碎片 / 复活卡」净变化（统一做增量同步）
   let sessionShardDelta  = 0;   // + 表示新增碎片，- 表示消耗
@@ -520,18 +511,48 @@ document.addEventListener('DOMContentLoaded', () => {
   const MAX_REVIVES_PER_CHAPTER = 2;
 
   function xpNeeded(level){
-    return 50 + (Math.max(1, Number(level)||1) - 1) * 10;
+    return 50 + (Math.max(1, Number(level||1)) - 1) * 10;
+  }
+
+  function formatDateDDMMYYYY(dateObj){
+    if(!(dateObj instanceof Date) || isNaN(dateObj)) return '';
+    const dd = String(dateObj.getDate()).padStart(2,'0');
+    const mm = String(dateObj.getMonth()+1).padStart(2,'0');
+    const yy = dateObj.getFullYear();
+    return `${dd}-${mm}-${yy}`;
+  }
+
+  function parseExpiryDate(str){
+    str = String(str || '').trim();
+    if(!str) return null;
+    if(/^\d{2}-\d{2}-\d{4}$/.test(str)){
+      const [d,m,y] = str.split('-').map(Number);
+      return new Date(y, m-1, d, 23,59,59,999);
+    }
+    if(/^\d{4}-\d{2}-\d{2}$/.test(str)){
+      const [y,m,d] = str.split('-').map(Number);
+      return new Date(y, m-1, d, 23,59,59,999);
+    }
+    if(/^\d{4}-\d{2}$/.test(str)){
+      const [y,m] = str.split('-').map(Number);
+      return new Date(y, m, 0, 23,59,59,999);
+    }
+    return null;
   }
 
   function updateWalletUI(){
     const level = Math.max(1, Number(wallet.level || 1));
     const xp = Math.max(0, Number(wallet.xp || 0));
-    const need = xpNeeded(level);
-    const pct = Math.max(0, Math.min(100, (xp / need) * 100));
-    document.getElementById('xp-text').textContent = `Lv.${level} • XP ${xp} / ${need}`;
-    document.getElementById('xp-bar').style.width = `${pct}%`;
-    document.getElementById('wallet-line').textContent =
-      `碎片 Shards: ${wallet.shards} ｜ 复活 Revives: ${wallet.revives}`;
+    const need = Math.max(1, xpNeeded(level));
+    const pct = Math.max(0, Math.min(100, Math.round((xp / need) * 100)));
+    const xpText = document.getElementById('xp-text');
+    const xpBar = document.getElementById('xp-bar');
+    const expiryEl = document.getElementById('expiry-text');
+    const walletLine = document.getElementById('wallet-line');
+    if(xpText) xpText.textContent = `LV ${level} • XP ${xp} / ${need}`;
+    if(xpBar) xpBar.style.width = `${pct}%`;
+    if(expiryEl) expiryEl.textContent = `截止 Exp: ${accountExpiryText}`;
+    if(walletLine) walletLine.textContent = `碎片 Shards: ${wallet.shards} ｜ 复活 Revives: ${wallet.revives}`;
     convertBtn.style.display = user ? 'inline-flex' : 'none';
   }
 
@@ -542,13 +563,13 @@ document.addEventListener('DOMContentLoaded', () => {
       const url = `${SCRIPT_URL}?action=wallet-get&name=${encodeURIComponent(user)}`;
       const res = await fetch(url);
       if(!res.ok) throw new Error('wallet http');
-      const data = await res.json();
-      const w = data.data || data || {};
-      wallet.shards  = Number(w.shards  || 0);
-      wallet.revives = Number(w.revives || 0);
-      wallet.level   = Number(w.level   || 1);
-      wallet.xp      = Number(w.xp      || 0);
-      wallet.totalXp = Number(w.totalXp || 0);
+      const raw = await res.json();
+      const data = raw && raw.data ? raw.data : raw;
+      wallet.shards  = Number(data.shards  || 0);
+      wallet.revives = Number(data.revives || 0);
+      wallet.level   = Number(data.level   || wallet.level || 1);
+      wallet.xp      = Number(data.xp      || wallet.xp || 0);
+      wallet.totalXp = Number(data.totalXp || wallet.totalXp || 0);
     }catch(e){
       console.error('loadWallet error', e);
       wallet = { shards:0, revives:0, level:1, xp:0, totalXp:0 };
@@ -660,9 +681,6 @@ document.addEventListener('DOMContentLoaded', () => {
   let chapterKey, sectionKey, labelKey, sheetKey;
   let currentChapter='';
   let qs=[], queue=[], score=0, correct=0, wrong=0, chapterStart=0;
-  let chapterQuestionCache = {};
-  let selectedQuestionMode = 'all';
-  let activeQuestionTotal = 0;
   let correctStreak=0, wrongStreak=0;
   const MAX_OPTS=15;
 
@@ -672,10 +690,6 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('my-results-btn').onclick = openResults;
   document.getElementById('back-to-menu').onclick = backToMenu;
   document.getElementById('back-to-chapters-btn').onclick = backToMenu;
-  document.getElementById('mode-picker-cancel').onclick = () => {
-    document.getElementById('mode-picker').style.display='none';
-    document.getElementById('menu').style.display='block';
-  };
 
   function backToMenu(){
     document.getElementById('results').style.display='none';
@@ -683,24 +697,6 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('finish').style.display='none';
     document.getElementById('menu').style.display='block';
     document.getElementById('menu').scrollIntoView({behavior:'smooth'});
-  }
-
-  function parseExpiryDate(str){
-    str = String(str || '').trim();
-    if(!str || /^forever$/i.test(str)) return null;
-    if(/^\d{2}-\d{2}-\d{4}$/.test(str)){
-      const [d,m,y] = str.split('-').map(Number);
-      return new Date(y, m-1, d, 23,59,59,999);
-    }
-    if(/^\d{4}-\d{2}-\d{2}$/.test(str)){
-      const [y,m,d] = str.split('-').map(Number);
-      return new Date(y, m-1, d, 23,59,59,999);
-    }
-    if(/^\d{4}-\d{2}$/.test(str)){
-      const [y,m] = str.split('-').map(Number);
-      return new Date(y, m, 0, 23,59,59,999);
-    }
-    return null;
   }
 
   function attemptLogin(){
@@ -749,6 +745,7 @@ function loadPasswordsAndLogin(nm, pw, attempt){
       if(uwpPassword && pw === uwpPassword){
         if(universalRemainingMs() <= 0) setUniversalStart(Date.now());
         usedUniversal = true;
+        accountExpiryText = '试用 30 分钟 / Trial 30 min';
         updateSessionTimer();
         user = nm;
         await afterLogin();
@@ -772,6 +769,7 @@ function loadPasswordsAndLogin(nm, pw, attempt){
         alert(`账号已过期 (${expiryRaw})\nAccount expired.`);
         return;
       }
+      accountExpiryText = expiryRaw ? (formatDateDDMMYYYY(expiryDate) || String(expiryRaw)) : '永久 / Lifetime';
 
       clearUniversalStart();
       usedUniversal = false;
@@ -843,39 +841,23 @@ function loadPasswordsAndLogin(nm, pw, attempt){
     });
   }
 
-  function getChapterTypeClass(chap){
-    if(/F4/i.test(chap)) return 'pill-f4';
-    if(/F5/i.test(chap)) return 'pill-f5';
-    return 'pill-full';
-  }
-
-  async function fetchChapterQuestionCount(chap){
-    if(chapterQuestionCache[chap] != null) return chapterQuestionCache[chap];
-    const secList = grouped[chap] || [];
-    const counts = await Promise.all(secList.map(sec => new Promise(resolve=>{
-      Papa.parse(sec[sheetKey],{
-        download:true, header:true, skipEmptyLines:true,
-        complete:r=>resolve((r.data||[]).length),
-        error:()=>resolve(0)
-      });
-    })));
-    const total = counts.reduce((a,b)=>a+b,0);
-    chapterQuestionCache[chap] = total;
-    return total;
-  }
-
   function renderMenu(){
     const menu=document.getElementById('menu');
     menu.innerHTML='<h2>请选择章节 / Select Chapter</h2>';
 
-    const statePapers={2025:{},2024:{},2023:{}}; 
-    const chaptersF4={2025:[],2024:[],2023:[]};
-    const chaptersF5={2025:[],2024:[],2023:[]};
+    const years = [...new Set(Object.keys(grouped).map(chap=>{
+      const m = String(chap).match(/20\d{2}/);
+      return m ? Number(m[0]) : null;
+    }).filter(Boolean))].sort((a,b)=>b-a);
+
+    const statePapers={};
+    const chaptersF4={};
+    const chaptersF5={};
+    years.forEach(y=>{ statePapers[y]={}; chaptersF4[y]=[]; chaptersF5[y]=[]; });
 
     Object.keys(grouped).forEach(chap=>{
-      const year = chap.match(/2025/)?2025 :
-                   chap.match(/2024/)?2024 :
-                   chap.match(/2023/)?2023 : null;
+      const m = String(chap).match(/20\d{2}/);
+      const year = m ? Number(m[0]) : null;
       if(!year) return;
       if(/(Chp|Bab)/i.test(chap)){
         if(/F4/i.test(chap)) chaptersF4[year].push(chap);
@@ -890,51 +872,27 @@ function loadPasswordsAndLogin(nm, pw, attempt){
 
     const makeChapterButton=(chap)=>{
       const btn=document.createElement('button');
-      btn.className='pill ' + getChapterTypeClass(chap);
+      btn.className='pill';
+      if(/F4/i.test(chap)) btn.classList.add('pill-f4');
+      else if(/F5/i.test(chap)) btn.classList.add('pill-f5');
+      else btn.classList.add('pill-full');
       btn.textContent=chap;
-
-      const countBadge=document.createElement('span');
-      countBadge.className='badge badge-gray';
-      countBadge.textContent='题数 ...';
-      btn.appendChild(countBadge);
-
       const badge=document.createElement('span');
       const best=bestPercentForChapter(chap,bestPctMap);
       if(best!=null){
         badge.className='badge badge-green';
         badge.textContent=`最高准确率 Best: ${best}%`;
-        if(best>=70) btn.classList.add('pill-done');
+        if(best >= 70) btn.classList.add('pill-done');
       }else{
         badge.className='badge badge-gray';
         badge.textContent='未做 / Not attempted';
       }
       btn.appendChild(badge);
-
-      fetchChapterQuestionCount(chap).then(total=>{
-        countBadge.textContent = `共 ${total} 题`;
-      });
-
       btn.onclick=()=>{ guardUniversalWindowOrThrow(); startChapter(chap); };
       return btn;
     };
 
-    [2025,2024,2023].forEach(y=>{
-      const states=statePapers[y];
-      if(Object.keys(states).length){
-        const h=document.createElement('h2');
-        h.textContent=`州属试卷 State Papers ${y}`;
-        menu.appendChild(h);
-        for(const st of Object.keys(states).sort()){
-          const g=document.createElement('div'); g.className='group';
-          const h4=document.createElement('h4');
-          h4.textContent=`${st}`; g.appendChild(h4);
-          states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)));
-          menu.appendChild(g);
-        }
-      }
-    });
-
-    [2025,2024,2023].forEach(y=>{
+    years.forEach(y=>{
       if(chaptersF4[y].length){
         const h=document.createElement('h2');
         h.textContent=`Form 4 Chapters ${y}`;
@@ -949,7 +907,7 @@ function loadPasswordsAndLogin(nm, pw, attempt){
       }
     });
 
-    [2025,2024,2023].forEach(y=>{
+    years.forEach(y=>{
       if(chaptersF5[y].length){
         const h=document.createElement('h2');
         h.textContent=`Form 5 Chapters ${y}`;
@@ -964,19 +922,96 @@ function loadPasswordsAndLogin(nm, pw, attempt){
       }
     });
 
+    years.forEach(y=>{
+      const states=statePapers[y] || {};
+      if(Object.keys(states).length){
+        const h=document.createElement('h2');
+        h.textContent=`州属试卷 State Papers ${y}`;
+        menu.appendChild(h);
+        for(const st of Object.keys(states).sort()){
+          const g=document.createElement('div'); g.className='group';
+          const h4=document.createElement('h4');
+          h4.textContent=`${st}`; g.appendChild(h4);
+          states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)));
+          menu.appendChild(g);
+        }
+      }
+    });
+
     menu.style.display='block';
   }
 
-  function startChapter(chap){
+  async function startChapter(chap){
     currentChapter=chap;
     score=0; correct=0; wrong=0;
     correctStreak=0; wrongStreak=0;
     revivesUsedThisChapter=0;
     updateStreak();
     chapterStart=Date.now();
+
+    const secList=grouped[currentChapter]||[];
+    if(!secList.length){
+      alert('该章节没有配置 CSV。
+No CSV configured for this chapter.');
+      return;
+    }
+
+    const countTasks=secList.map(sec=>new Promise((resolve)=>{
+      Papa.parse(sec[sheetKey],{
+        download:true,header:true,skipEmptyLines:true,
+        complete(r){ resolve((r.data||[]).length); },
+        error(){ resolve(0); }
+      });
+    }));
+
+    const counts=await Promise.all(countTasks);
+    const totalCount=counts.reduce((a,b)=>a+b,0);
+    const selectedMode=await showModePicker(chap,totalCount);
+    if(selectedMode===null) return;
+
     document.getElementById('menu').style.display='none';
-    document.getElementById('quiz-title').textContent = chap;
-    loadChapterAllSectionsAndStart();
+    document.getElementById('quiz-title').textContent = selectedMode==='all'
+      ? `${chap} ｜ 全部做完 / All ${totalCount}`
+      : `${chap} ｜ 随机 ${selectedMode} 题 / Random ${selectedMode}`;
+    loadChapterAllSectionsAndStart(selectedMode);
+  }
+
+  function showModePicker(chap, totalCount){
+    return new Promise((resolve) => {
+      const old=document.getElementById('mode-modal');
+      if(old) old.remove();
+      const modal=document.createElement('div');
+      modal.id='mode-modal';
+      modal.className='mode-modal';
+      const card=document.createElement('div');
+      card.className='mode-card';
+
+      let buttonsHtml=`
+        <div class="mode-title">请选择练习模式</div>
+        <div class="mode-sub">${chap}<br>完整题数 / Total questions: <b>${totalCount}</b></div>
+        <div class="mode-actions">
+      `;
+      if(totalCount >= 10){ buttonsHtml += `<button class="mode-btn-10" data-mode="10">随机 10 题 / Random 10</button>`; }
+      if(totalCount >= 20){ buttonsHtml += `<button class="mode-btn-20" data-mode="20">随机 20 题 / Random 20</button>`; }
+      buttonsHtml += `<button class="mode-btn-all full-row" data-mode="all">全部做完 / All ${totalCount}</button>`;
+      buttonsHtml += `<button class="mode-btn-cancel full-row" data-mode="cancel">取消 / Cancel</button>`;
+      buttonsHtml += `</div>`;
+
+      card.innerHTML=buttonsHtml;
+      modal.appendChild(card);
+      document.body.appendChild(modal);
+      modal.addEventListener('click', (e)=>{ if(e.target===modal){ modal.remove(); resolve(null); } });
+      card.addEventListener('click', (e)=>e.stopPropagation());
+      card.querySelectorAll('button[data-mode]').forEach(btn=>{
+        btn.addEventListener('click', ()=>{
+          const mode=btn.dataset.mode;
+          modal.remove();
+          if(mode==='cancel') resolve(null);
+          else if(mode==='all') resolve('all');
+          else resolve(Number(mode));
+        });
+      });
+    });
   }
 
   function getBaseDir(url){
@@ -991,62 +1026,11 @@ function loadPasswordsAndLogin(nm, pw, attempt){
     }
   }
 
-  document.getElementById('mode-picker').addEventListener('click', (e) => {
-    if(e.target && e.target.id === 'mode-picker'){
-      document.getElementById('mode-picker').style.display='none';
-      document.getElementById('menu').style.display='block';
-    }
-  });
-
-  function openModePicker(total){
-    const overlay = document.getElementById('mode-picker');
-    const actions = document.getElementById('mode-picker-actions');
-    document.getElementById('mode-picker-title').textContent = currentChapter;
-    document.getElementById('mode-picker-total').textContent = `完整题数 Total questions: ${total}`;
-    actions.innerHTML = '';
-
-    const modes = [];
-    if(total >= 20){
-      modes.push({label:'随机 10 题 / Random 10', count:10});
-      modes.push({label:'随机 20 题 / Random 20', count:20});
-    }else if(total >= 10){
-      modes.push({label:'随机 10 题 / Random 10', count:10});
-    }
-    modes.push({label:`全部做完 / All ${total}`, count:'all'});
-
-    modes.forEach(m=>{
-      const btn=document.createElement('button');
-      btn.className='mode-btn';
-      btn.textContent=m.label;
-      btn.onclick=()=>chooseQuestionMode(m.count);
-      actions.appendChild(btn);
-    });
-
-    overlay.style.display='flex';
-  }
-
-  function chooseQuestionMode(count){
-    document.getElementById('mode-picker').style.display='none';
-    selectedQuestionMode = count === 'all' ? 'all' : String(count);
-    let selected = [...qs];
-    if(count !== 'all'){
-      selected = shuffle([...qs]).slice(0, Math.min(Number(count), qs.length));
-    }
-    activeQuestionTotal = selected.length;
-    qs = selected.map(q=> ({...q, attempt:0}));
-    queue = shuffle([...qs]);
-    document.getElementById('quiz-title').textContent =
-      `${currentChapter} ｜ ${count==='all' ? '全部做完' : `随机 ${count} 题`} / ${activeQuestionTotal}题`;
-    document.getElementById('quiz').style.display='block';
-    document.getElementById('finish').style.display='none';
-    updateUI(0);
-    nextQ();
-  }
-
-  function loadChapterAllSectionsAndStart(){
+  function loadChapterAllSectionsAndStart(selectedMode='all'){
     const secList=grouped[currentChapter]||[];
     if(!secList.length){
-      alert('该章节没有配置 CSV。\nNo CSV configured for this chapter.');
+      alert('该章节没有配置 CSV。
+No CSV configured for this chapter.');
       renderMenu(); return;
     }
     const tasks=secList.map(sec=>new Promise((resolve)=>{
@@ -1061,14 +1045,21 @@ function loadPasswordsAndLogin(nm, pw, attempt){
       });
     }));
     Promise.all(tasks).then(list=>{
-      const allRows=list.flat();
-      if(!allRows.length){
-        alert('无法读取题库 CSV，请检查链接与访问权限。\nCannot load question CSV.');
+      qs=list.flat();
+      if(!qs.length){
+        alert('无法读取题库 CSV，请检查链接与访问权限。
+Cannot load question CSV.');
         renderMenu(); return;
       }
-      qs=allRows;
-      chapterQuestionCache[currentChapter] = allRows.length;
-      openModePicker(allRows.length);
+      qs=shuffle([...qs]);
+      if(selectedMode !== 'all' && Number(selectedMode)>0){
+        qs=qs.slice(0, Number(selectedMode));
+      }
+      queue=[...qs];
+      document.getElementById('quiz').style.display='block';
+      document.getElementById('finish').style.display='none';
+      updateUI(0);
+      nextQ();
     });
   }
 
@@ -1078,8 +1069,8 @@ function loadPasswordsAndLogin(nm, pw, attempt){
     document.getElementById('remaining').textContent=
       `剩余题目 Remaining: ${queue.length}`;
     const pg=document.getElementById('progress');
-    pg.max=activeQuestionTotal || qs.length;
-    pg.value=(activeQuestionTotal || qs.length) - queue.length;
+    pg.max=qs.length;
+    pg.value=qs.length - queue.length;
   }
   function flashProgress(ok){
     const w=document.getElementById('progressWrap');
