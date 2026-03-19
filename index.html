@@ -844,6 +844,38 @@ function loadPasswordsAndLogin(nm, pw, attempt){
     }
   }
 
+
+  function inferRowYear(r){
+    const vals = [
+      r?.displayChapter,
+      chapterKey ? r?.[chapterKey] : '',
+      labelKey ? r?.[labelKey] : '',
+      sheetKey ? r?.[sheetKey] : ''
+    ].map(v => String(v || ''));
+
+    for(const v of vals){
+      const m = v.match(/(20\d{2})/);
+      if(m) return Number(m[1]);
+    }
+    return null;
+  }
+
+  function normalizeChapterDisplay(r){
+    const rawChapter = String((chapterKey && r?.[chapterKey]) || '').trim();
+    const groupVal = String(r?.group || r?.Group || '').trim().toLowerCase();
+    const year = inferRowYear(r);
+    if(!rawChapter) return rawChapter;
+
+    if(groupVal === 'chapter' || /(bab|chp|chapter)/i.test(rawChapter)){
+      let s = rawChapter;
+      s = s.replace(/20\d{2}/g, '').replace(/\s+/g, ' ').trim();
+      if(year && !new RegExp('\b' + year + '\b').test(s)) s = `${s} ${year}`;
+      return s.trim();
+    }
+
+    return rawChapter;
+  }
+
   function loadChapters(){
     Papa.parse('Chapters.csv',{
       download:true,header:true,skipEmptyLines:true,
@@ -934,7 +966,7 @@ function loadPasswordsAndLogin(nm, pw, attempt){
         if(/F4/i.test(chap)) chaptersF4[year].push(chap);
         else if(/F5/i.test(chap)) chaptersF5[year].push(chap);
       } else {
-        const state = String(chap).replace(/20\d{2}.*$/, '').trim() || String(chap).split(' ')[0];
+        const state = String(chap).replace(/\b20\d{2}\b.*$/, '').trim() || String(chap).split(' ')[0];
         (statePapers[year][state] ||= []).push(chap);
       }
     });
