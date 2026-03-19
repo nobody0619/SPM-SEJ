@@ -868,7 +868,9 @@ function loadPasswordsAndLogin(nm, pw, attempt){
 
         grouped={};
         chapters.forEach(r=>{
-          const c=r[chapterKey];
+          r.displayChapter = normalizeChapterDisplay(r);
+          r.displayYear = inferRowYear(r);
+          const c = r.displayChapter || r[chapterKey];
           (grouped[c]||(grouped[c]=[])).push(r);
         });
         renderMenu();
@@ -925,13 +927,14 @@ function loadPasswordsAndLogin(nm, pw, attempt){
     });
 
     Object.keys(grouped).forEach(chap=>{
-      const year = getChapterYear(chap);
+      const rows = grouped[chap] || [];
+      const year = rows[0]?.displayYear || getChapterYear(chap);
       if(!year) return;
       if(/(Chp|Bab)/i.test(chap)){
         if(/F4/i.test(chap)) chaptersF4[year].push(chap);
         else if(/F5/i.test(chap)) chaptersF5[year].push(chap);
       } else {
-        const state = String(chap).split(' ')[0];
+        const state = String(chap).replace(/20\d{2}.*$/, '').trim() || String(chap).split(' ')[0];
         (statePapers[year][state] ||= []).push(chap);
       }
     });
@@ -1004,7 +1007,7 @@ function loadPasswordsAndLogin(nm, pw, attempt){
         const g=document.createElement('div'); g.className='group';
         const h4=document.createElement('h4');
         h4.textContent=`${st}`; g.appendChild(h4);
-        states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)));
+        states[st].sort((a,b)=>a.localeCompare(b, undefined, {numeric:true, sensitivity:'base'})).forEach(ch=> g.appendChild(makeChapterButton(ch)));
         menu.appendChild(g);
       });
     });
