@@ -1252,11 +1252,19 @@ function loadPasswordsAndLogin(nm, pw, attempt){
         const lows=ua.map(s=>s.toLowerCase());
         const ansList=ansStr.split(',').map(s=>s.trim().toLowerCase());
         isC=lows.some(v=>ansList.includes(v));
-      }else{
-        const uaA=ua.map(s=>s.toUpperCase()).sort().join(',');
-        const caA=ansStr.split(',').map(s=>s.trim().toUpperCase()).sort().join(',');
-        isC = (uaA===caA);
-      }
+}else{
+  const correctList = ansStr.split(',').map(s=>s.trim().toUpperCase());
+
+  if(qType === 'radio'){
+    // 只要选中其中一个就算对
+    isC = correctList.includes(ua[0].toUpperCase());
+  }else{
+    // checkbox 还是必须完全一样
+    const uaA = ua.map(s=>s.toUpperCase()).sort().join(',');
+    const caA = correctList.sort().join(',');
+    isC = (uaA === caA);
+  }
+}
 
       // ==== 复活卡逻辑 Revive logic ====
       let usedRevive = false;
