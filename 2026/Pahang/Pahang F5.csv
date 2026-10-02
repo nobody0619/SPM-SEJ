@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Pahang F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：主权意味着自主治理，不受外来指使。
+Bahasa Melayu: Kedaulatan memberikan hak mengurus negeri tanpa telunjuk asing.
+课本／Buku teks：Tingkatan 5, ms. 5."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：主权也保障社会福祉。
+Bahasa Melayu: Kedaulatan turut menjamin kesejahteraan sosial.
+课本／Buku teks：Tingkatan 5, ms. 10,11."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：法律制度的发展为制定宪法奠定基础。
+Bahasa Melayu: Perkembangan undang-undang menjadi asas penggubalan perlembagaan.
+课本／Buku teks：Tingkatan 5, ms. 25-27."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：1963年修宪设婆罗洲高等法院及州元首。
+Bahasa Melayu: Pindaan 1963 mewujudkan Mahkamah Tinggi Borneo dan Yang di-Pertua Negeri.
+课本／Buku teks：Tingkatan 5, ms. 30-31."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：统治者会议对重要职位的委任提供意见。
+Bahasa Melayu: Majlis Raja-Raja memberi nasihat bagi pelantikan jawatan penting.
+课本／Buku teks：Tingkatan 5, ms. 45."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：权力分立防止权力集中，确保公平施政。
+Bahasa Melayu: Pengasingan kuasa mengelakkan pemusatan kuasa dan menjamin pemerintahan adil.
+课本／Buku teks：Tingkatan 5, ms. 55."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：外交与国防属于联邦权限。
+Bahasa Melayu: Hal ehwal luar dan pertahanan termasuk Senarai Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 69."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：联邦与州协调巩固联邦制度。
+Bahasa Melayu: Penyelarasan kerajaan Persekutuan dan Negeri mengukuhkan sistem persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 80."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：合并计划推进英国的去殖民化。
+Bahasa Melayu: Penggabungan menjayakan rancangan dekolonisasi British.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：沙巴与砂拉越获准设自己的内阁。
+Bahasa Melayu: Sarawak dan Sabah menubuhkan kabinet sendiri.
+课本／Buku teks：Tingkatan 5, ms. 103."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：马新通过谈判处理分离问题。
+Bahasa Melayu: Malaysia dan Singapura menyelesaikan pemisahan melalui rundingan.
+课本／Buku teks：Tingkatan 5, ms. 120."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：政府宣布紧急状态并设立 MAGERAN。
+Bahasa Melayu: Kerajaan mengisytiharkan darurat dan menubuhkan MAGERAN.
+课本／Buku teks：Tingkatan 5, ms. 129-130."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：DBP 维护及提升国家语言地位。
+Bahasa Melayu: DBP memartabatkan bahasa kebangsaan.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：平等机会与帮助弱势群体建立公平社会。
+Bahasa Melayu: Peluang sama rata dan bantuan kepada pihak lemah membentuk masyarakat adil.
+课本／Buku teks：Tingkatan 5, ms. 158."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：FELDA 开发新土地供乡村居民耕作。
+Bahasa Melayu: FELDA membuka tanah baharu untuk penduduk luar bandar.
+课本／Buku teks：Tingkatan 5, ms. 170."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：智能农业利用现代技术提高生产效率。
+Bahasa Melayu: Pertanian pintar menggunakan teknologi moden untuk meningkatkan produktiviti.
+课本／Buku teks：Tingkatan 5, ms. 179."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：与阿拉伯国家的历史联系影响外交。
+Bahasa Melayu: Ikatan sejarah mempengaruhi hubungan dengan negara Arab.
+课本／Buku teks：Tingkatan 5, ms. 197."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：NAM 因波黑问题暂停南斯拉夫成员资格。
+Bahasa Melayu: NAM menggantung keahlian Yugoslavia berhubung isu Bosnia.
+课本／Buku teks：Tingkatan 5, ms. 213."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：增长三角加强区域生产合作，减少发达国商品垄断。
+Bahasa Melayu: Segi tiga pertumbuhan mengurangkan monopoli barangan negara maju.
+课本／Buku teks：Tingkatan 5, ms. 231."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：峇厘会议推动新能源与减少温室气体排放。
+Bahasa Melayu: Persidangan Bali menggalakkan tenaga baharu dan pengurangan gas rumah hijau.
+课本／Buku teks：Tingkatan 5, ms. 239."

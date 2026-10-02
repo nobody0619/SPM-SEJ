@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：马六甲实行四级官员制度。
+Bahasa Melayu: Melaka mengamalkan Sistem Pembesar Empat Lipatan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：分工明确的官员制度确保统治稳固。
+Bahasa Melayu: Pembahagian tugas pembesar menjamin keutuhan pemerintahan.
+课本／Buku teks：Tingkatan 4, ms. 8."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：青年誓言强调同一祖国、民族及语言，本题D指同一祖国。
+Bahasa Melayu: Sumpah Pemuda menegaskan satu tanah air, bangsa dan bahasa. D ialah satu tanah air.
+课本／Buku teks：Tingkatan 4, ms. 30."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：泰国君主以开放外交及改革避免殖民。
+Bahasa Melayu: Raja Thailand melaksanakan dasar terbuka dan pembaharuan untuk mengelakkan penjajahan.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：帝国主义列强竞争引发第一次世界大战。
+Bahasa Melayu: Persaingan kuasa imperialis mencetuskan Perang Dunia Pertama.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：大战导致德国、奥匈、俄国等君主政权结束。
+Bahasa Melayu: Peperangan menamatkan pemerintahan beraja di beberapa negara Eropah.
+课本／Buku teks：Tingkatan 4, ms. 57."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：BMA 接管行政并要求归还武器以恢复稳定。
+Bahasa Melayu: BMA mengambil alih pentadbiran dan meminta senjata dipulangkan.
+课本／Buku teks：Tingkatan 4, ms. 94."
+,radio,F4 Bab 5,A,B,C,D,B,Picture8.png,"中文：工作委员会建议成立苏丹理事会。
+Bahasa Melayu: Jawatankuasa Kerja mencadangkan Majlis Sultan-Sultan.
+课本／Buku teks：Tingkatan 4, ms. 127."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：马来人反对、统治者与 UMNO 建议促成联邦。
+Bahasa Melayu: Penentangan Melayu serta cadangan raja dan UMNO membawa pembentukan Persekutuan.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：1948年协议包括公民身份条件。
+Bahasa Melayu: Perjanjian 1948 menetapkan syarat kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 134-135."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：符合 Rakyat Raja 或 Rakyat British 亲属条件的子女可依法取得公民权。
+Bahasa Melayu: Anak yang memenuhi syarat keturunan Rakyat Raja atau Rakyat British memperoleh kewarganegaraan secara kuat kuasa undang-undang.
+课本／Buku teks：Tingkatan 4, ms. 135."
+,radio,F4 Bab 5,A,B,C,D,B,Picture12.png,"中文：联邦恢复马来统治者权力，因此获得支持。
+Bahasa Melayu: Persekutuan mengembalikan kuasa Raja-raja Melayu lalu mendapat sokongan.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,B,Picture13.png,"中文：英国拘捕左翼领袖以控制激进运动。
+Bahasa Melayu: British menangkap pemimpin kiri untuk mengawal gerakan radikal.
+课本／Buku teks：Tingkatan 4, ms. 153."
+,radio,F4 Bab 6,A,B,C,D,A,Picture14.png,"中文：Sarawak Rangers 擅长追踪共产党藏身处。
+Bahasa Melayu: Sarawak Rangers menjejaki tempat persembunyian komunis.
+课本／Buku teks：Tingkatan 4, ms. 154."
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：成员负责提出所属部门的法律建议。
+Bahasa Melayu: Ahli mencadangkan undang-undang berkaitan jabatan masing-masing.
+课本／Buku teks：Tingkatan 4, ms. 178."
+,radio,F4 Bab 7,A,B,C,D,A,Picture16.png,"中文：各源流学校分隔族群，令团结难以实现。
+Bahasa Melayu: Sekolah vernakular memisahkan kaum dan menyukarkan perpaduan.
+课本／Buku teks：Tingkatan 4, ms. 180."
+,radio,F4 Bab 8,A,B,C,D,D,Picture17.png,"中文：选举让人民选出稳固、受支持的政府。
+Bahasa Melayu: Pilihan raya membentuk kerajaan mantap dengan sokongan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 196."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：委员会征求人民建议并研究宪制，即II与III。
+Bahasa Melayu: Suruhanjaya meminta cadangan penduduk dan meneliti perlembagaan, iaitu II dan III.
+课本／Buku teks：Tingkatan 4, ms. 221."
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：这些组织就公民身份条件提出不同建议。
+Bahasa Melayu: Pertubuhan tersebut mengemukakan pandangan berbeza tentang kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：实体准备委员会突出独立国家身份。
+Bahasa Melayu: Jawatankuasa Persediaan Fizikal menonjolkan identiti negara merdeka.
+课本／Buku teks：Tingkatan 4, ms. 236."

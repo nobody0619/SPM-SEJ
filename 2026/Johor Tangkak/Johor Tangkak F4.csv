@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Tangkak F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Johor Tangkak F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：苏丹是最高统治者，由大臣协助行政，这描述的是政府。
+Bahasa Melayu: Kerajaan terdiri daripada raja sebagai pemerintah tertinggi yang dibantu oleh pembesar.
+课本／Buku teks：Tingkatan 4, ms. 6."
+,radio,F4 Bab 2,A,B,C,D,D,Picture2.png,"中文：Kartini的作品揭示土著落后，尤其女性受教育机会不足。
+Bahasa Melayu: Karya Kartini mengisahkan kemunduran peribumi, terutama kekurangan peluang pendidikan bagi wanita.
+课本／Buku teks：Tingkatan 4, ms. 30."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：课本把这些人物的斗争列为通过社会经济组织推动民族意识。
+Bahasa Melayu: Buku teks mengaitkan tokoh tersebut dengan perjuangan melalui pertubuhan sosioekonomi untuk menyedarkan masyarakat.
+课本／Buku teks：Tingkatan 4, ms. 33."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：这些诗作唤醒人民，使读者产生热爱祖国的民族情感。
+Bahasa Melayu: Puisi tersebut menyedarkan masyarakat dan meniupkan semangat cinta akan negara.
+课本／Buku teks：Tingkatan 4, ms. 39."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：日本为取得被禁运的原料，扩张并占领资源丰富的东南亚。
+Bahasa Melayu: Jepun menguasai Asia Tenggara untuk mendapatkan bahan mentah selepas sekatan ekonomi Barat.
+课本／Buku teks：Tingkatan 4, ms. 65."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：Gurchan Singh被称为Lion of Malaya，通过散发传单和宣传抵抗日本。
+Bahasa Melayu: Gurchan Singh, digelar Lion of Malaya, menyebarkan risalah dan propaganda untuk menentang pendudukan Jepun.
+课本／Buku teks：Tingkatan 4, ms. 76."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：移交未经砂拉越人民知情，并使用欺骗手段取得同意，符合III和IV。
+Bahasa Melayu: Penyerahan dibuat tanpa pengetahuan rakyat dan melalui muslihat, iaitu III dan IV.
+课本／Buku teks：Tingkatan 4, ms. 108,109."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：日本破坏城镇后，重建费用庞大，北婆罗洲公司陷入财政困难。
+Bahasa Melayu: Kemusnahan bandar akibat perang menyebabkan SBUB menghadapi masalah kewangan untuk membina semula Sabah.
+课本／Buku teks：Tingkatan 4, ms. 115."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：马来统治者和巫统提出取代马来亚联邦的建议，促成1948年联邦。
+Bahasa Melayu: Cadangan Raja-raja Melayu dan UMNO menghasilkan Persekutuan Tanah Melayu 1948 sebagai pengganti Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：1948年联邦恢复马来统治者地位，并保障马来人特殊地位，符合I和IV。
+Bahasa Melayu: Persekutuan 1948 memulihkan kedudukan Raja-raja Melayu serta menjaga kedudukan istimewa orang Melayu.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：心理战争取人民信任，使人民支持政府而不帮助共产党。
+Bahasa Melayu: Perang Saraf memenangi kepercayaan rakyat supaya mereka menyokong kerajaan dan menolak komunis.
+课本／Buku teks：Tingkatan 4, ms. 159."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：紧急时期按族群安置的新村减少族群接触，使关系疏远。
+Bahasa Melayu: Penempatan berasaskan kaum semasa darurat mengurangkan interaksi dan merenggangkan hubungan antara kaum.
+课本／Buku teks：Tingkatan 4, ms. 163."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：1956年教育报告以共同教育制度培养国家认同和族群团结。
+Bahasa Melayu: Penyata 1956 menjadi asas sistem pendidikan kebangsaan untuk memupuk perpaduan dan identiti negara.
+课本／Buku teks：Tingkatan 4, ms. 183."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：巫统、马华和国大党的联盟，体现不同族群政治合作。
+Bahasa Melayu: Gabungan UMNO, MCA dan MIC membuktikan kerjasama antara kaum melalui Parti Perikatan.
+课本／Buku teks：Tingkatan 4, ms. 187."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：该条例提供法律依据，让地方政府选举能够举行。
+Bahasa Melayu: Ordinan Pilihan Raya Pihak Berkuasa Tempatan membolehkan pilihan raya di peringkat tempatan diadakan.
+课本／Buku teks：Tingkatan 4, ms. 196."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：更多民选议员参与立法，显示民主实践的发展。
+Bahasa Melayu: Pertambahan ahli Majlis Perundangan Persekutuan menunjukkan perkembangan penyertaan rakyat dan kejayaan amalan demokrasi.
+课本／Buku teks：Tingkatan 4, ms. 204."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：委员会须建立强大的中央政府，并保护马来统治者地位。
+Bahasa Melayu: Terma rujukan termasuk mewujudkan kerajaan pusat yang kuat dan melindungi kedudukan Raja-raja Melayu.
+课本／Buku teks：Tingkatan 4, ms. 220."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：伊斯兰党批评公民权条件，尤其认为给予非马来人公民权过于宽松。
+Bahasa Melayu: PAS mengkritik soal kewarganegaraan dalam draf perlembagaan, khususnya syarat yang dianggap terlalu longgar.
+课本／Buku teks：Tingkatan 4, ms. 223."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：独立体育场作为宣布独立的场所，呈现新国家的身份。
+Bahasa Melayu: Stadium Merdeka menjadi tempat pemasyhuran kemerdekaan dan menonjolkan identiti negara merdeka.
+课本／Buku teks：Tingkatan 4, ms. 236."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：没有苏丹的州以州元首为最高州首长。
+Bahasa Melayu: Yang di-Pertua Negeri mengetuai negeri yang tidak mempunyai sultan.
+课本／Buku teks：Tingkatan 4, ms. 246."

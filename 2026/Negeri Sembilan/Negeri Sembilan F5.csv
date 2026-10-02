@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：王权巩固统治者地位与人民忠诚。
+Bahasa Melayu: Daulat memperkukuh kedudukan raja dan kesetiaan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：联邦宪法是国家法律体系的基础。
+Bahasa Melayu: Perlembagaan Persekutuan menjadi asas sistem perundangan negara.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：西方到来前，当地实行君主统治。
+Bahasa Melayu: Sebelum kedatangan Barat, negara mengamalkan pemerintahan beraja.
+课本／Buku teks：Tingkatan 5, ms. 22."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：州元首由国家元首委任。
+Bahasa Melayu: Yang di-Pertua Negeri dilantik oleh Yang di-Pertuan Agong.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：Johor-Riau 继承马六甲王国传统。
+Bahasa Melayu: Johor-Riau mewarisi legasi Kesultanan Melayu Melaka.
+课本／Buku teks：Tingkatan 5, ms. 38."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：X 是司法机关，负责解释法律。
+Bahasa Melayu: X ialah badan kehakiman yang mentafsir undang-undang.
+课本／Buku teks：Tingkatan 5, ms. 55."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：公民身份属于联邦权限。
+Bahasa Melayu: Kewarganegaraan termasuk dalam Senarai Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 69."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：可负担住宅计划帮助中等收入者置业。
+Bahasa Melayu: Program rumah mampu milik membantu golongan pertengahan memiliki rumah.
+课本／Buku teks：Tingkatan 5, ms. 77."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：印尼自行宣布独立使 Melayu Raya 计划无法落实。
+Bahasa Melayu: Pengisytiharan kemerdekaan Indonesia menggagalkan konsep Melayu Raya.
+课本／Buku teks：Tingkatan 5, ms. 92."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：伦敦会谈同意成立 Cobbold 委员会。
+Bahasa Melayu: Rundingan London bersetuju menubuhkan Suruhanjaya Cobbold.
+课本／Buku teks：Tingkatan 5, ms. 100."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：兴建学校及培训教师改善两州教育。
+Bahasa Melayu: Pembinaan sekolah dan latihan guru memajukan pendidikan kedua-dua negeri.
+课本／Buku teks：Tingkatan 5, ms. 117."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：MAGERAN 确保行政运作并暂时停止报纸出版。
+Bahasa Melayu: MAGERAN memastikan pentadbiran licin dan menggantung penerbitan akhbar.
+课本／Buku teks：Tingkatan 5, ms. 130."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：国家融合是拉近各州社会联系的过程。
+Bahasa Melayu: Integrasi nasional ialah proses merapatkan hubungan masyarakat antara negeri.
+课本／Buku teks：Tingkatan 5, ms. 140."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：文化政策以本土文化为基础，伊斯兰为重要元素。
+Bahasa Melayu: Dasar berteraskan kebudayaan asal rantau Melayu dengan Islam sebagai unsur penting.
+课本／Buku teks：Tingkatan 5, ms. 150."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：重组社会旨在消除族群与经济职能的固定关联。
+Bahasa Melayu: Penyusunan semula masyarakat menghapuskan pengenalan kaum mengikut fungsi ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：土著企业创造就业，改善贫困者生活水平。
+Bahasa Melayu: Syarikat bumiputera menawarkan pekerjaan dan meningkatkan taraf hidup golongan miskin.
+课本／Buku teks：Tingkatan 5, ms. 182."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：UNESCO 给予世界遗产地认可。
+Bahasa Melayu: UNESCO memberikan pengiktirafan Tapak Warisan Dunia.
+课本／Buku teks：Tingkatan 5, ms. 199."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：区域合作促进稳定并保障国家主权。
+Bahasa Melayu: Hubungan serantau menjamin kestabilan dan kedaulatan negara.
+课本／Buku teks：Tingkatan 5, ms. 210."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：AFTA 降低关税及商品税。
+Bahasa Melayu: AFTA mengurangkan tarif dan cukai barangan.
+课本／Buku teks：Tingkatan 5, ms. 230."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：马来西亚主张南极属于全人类的共同遗产。
+Bahasa Melayu: Malaysia mencadangkan Antartika dijadikan warisan sejagat.
+课本／Buku teks：Tingkatan 5, ms. 240."

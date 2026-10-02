@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Perak F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：传统主权强调君主拥有最高权力。
+Bahasa Melayu: Kedaulatan tradisional merujuk kuasa tertinggi raja.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：法律制度是主权国家的特征。
+Bahasa Melayu: Perundangan ialah ciri negara berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 8."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章保护居民。
+Bahasa Melayu: Charter of Justice bertujuan melindungi penduduk.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：成立马来西亚后须加入适应新成员的条款。
+Bahasa Melayu: Pembentukan Malaysia memerlukan klausa baharu dalam perlembagaan.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：委任外交官属于元首行政权限。
+Bahasa Melayu: Pelantikan diplomat termasuk kuasa eksekutif Yang di-Pertuan Agong.
+课本／Buku teks：Tingkatan 5, ms. 48."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：议会民主让人民参与国家治理。
+Bahasa Melayu: Demokrasi Berparlimen melibatkan rakyat dalam pemerintahan.
+课本／Buku teks：Tingkatan 5, ms. 50."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：两州额外权限包括土著法院。
+Bahasa Melayu: Kuasa tambahan kedua-dua negeri termasuk Mahkamah Anak Negeri.
+课本／Buku teks：Tingkatan 5, ms. 70."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：增加可负担住宅帮助中等收入者置业。
+Bahasa Melayu: Rumah mampu milik membantu golongan pertengahan memiliki kediaman.
+课本／Buku teks：Tingkatan 5, ms. 77."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：Melayu Raya 是较早的区域合并构想。
+Bahasa Melayu: Melayu Raya ialah gagasan penggabungan wilayah yang lebih awal.
+课本／Buku teks：Tingkatan 5, ms. 90."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：合并有利开发经济潜力及强化安全。
+Bahasa Melayu: Penggabungan memanfaatkan ekonomi dan memperkasakan keselamatan wilayah.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,C,Picture31.png,"中文：印尼领导层更替促使对抗政策结束。
+Bahasa Melayu: Peralihan kepimpinan Indonesia menamatkan konfrontasi.
+课本／Buku teks：Tingkatan 5, ms. 109."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：新国家面对族群团结及经济发展挑战。
+Bahasa Melayu: Negara menghadapi cabaran perpaduan kaum dan pembangunan ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 116."
+,radio,F5 Bab 6,A,B,C,D,A,Picture33.png,"中文：传单、白区及赦免属于心理战。
+Bahasa Melayu: Risalah, kawasan putih dan pengampunan ialah langkah Perang Saraf.
+课本／Buku teks：Tingkatan 5, ms. 121."
+,radio,F5 Bab 8,A,B,C,D,C,Picture34.png,"中文：平衡各州发展促进财富公平分配。
+Bahasa Melayu: Pembangunan seimbang antara negeri membantu pengagihan kekayaan.
+课本／Buku teks：Tingkatan 5, ms. 174."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：政策培养土著商业阶层。
+Bahasa Melayu: Dasar melahirkan kelas bumiputera komersial.
+课本／Buku teks：Tingkatan 5, ms. 182."
+,radio,F5 Bab 9,A,B,C,D,B,Picture36.png,"中文：国家经济利益影响外交政策。
+Bahasa Melayu: Kepentingan ekonomi mempengaruhi dasar luar.
+课本／Buku teks：Tingkatan 5, ms. 197."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：维和任务监督停火及维护法治。
+Bahasa Melayu: Misi pengaman mengawasi gencatan senjata dan mendaulatkan undang-undang.
+课本／Buku teks：Tingkatan 5, ms. 200."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：OIC 维护成员国利益。
+Bahasa Melayu: OIC menjaga kepentingan negara anggota.
+课本／Buku teks：Tingkatan 5, ms. 214."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：兰卡威奖表扬环保贡献。
+Bahasa Melayu: Anugerah Langkawi menghargai sumbangan alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：D应理解为禁止与核武有关的演习，不是禁止所有海上训练。
+Bahasa Melayu: D perlu difahami sebagai menghalang latihan berkaitan senjata nuklear, bukan semua latihan di perairan negara.
+课本／Buku teks：Tingkatan 5, ms. 244."

@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor Set 2 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Selangor Set 2 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：Temenggung 负责治安与安全。
+Bahasa Melayu: Temenggung menjaga keselamatan dan keamanan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：出席仪式及提供劳力体现效忠。
+Bahasa Melayu: Rakyat menghadiri majlis umum dan menyumbang tenaga kerja.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：泛伊斯兰主义加强穆斯林兄弟情谊。
+Bahasa Melayu: Pan-Islamisme memperkuat persaudaraan umat Islam.
+课本／Buku teks：Tingkatan 4, ms. 27."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：诗歌鼓励热爱祖国。
+Bahasa Melayu: Puisi tersebut menyeru masyarakat mencintai negara.
+课本／Buku teks：Tingkatan 4, ms. 39."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：第一次世界大战使多个君主制度崩溃。
+Bahasa Melayu: Perang Dunia Pertama meruntuhkan beberapa pemerintahan beraja.
+课本／Buku teks：Tingkatan 4, ms. 57."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：口号宣扬亚洲合作与兄弟情谊，争取当地支持；这是宣传形象，不代表日本实际统治平等。
+Bahasa Melayu: Slogan menonjolkan persaudaraan dan kerjasama Asia untuk meraih sokongan; propaganda ini tidak menggambarkan pemerintahan Jepun yang sebenar.
+课本／Buku teks：Tingkatan 4, ms. 80."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：BMA 的目标是恢复国家稳定。
+Bahasa Melayu: BMA bertujuan memulihkan kestabilan negara.
+课本／Buku teks：Tingkatan 4, ms. 94."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：支持者希望英国促进本地居民发展。
+Bahasa Melayu: Penyokong mengharapkan British memajukan penduduk tempatan.
+课本／Buku teks：Tingkatan 4, ms. 113."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：统治者建议联邦保持受保护邦地位。
+Bahasa Melayu: Raja-raja mencadangkan Persekutuan bertaraf naungan.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：CLC 促进族群交流与协商。
+Bahasa Melayu: Jawatankuasa Hubungan Antara Kaum menggalakkan persefahaman kaum.
+课本／Buku teks：Tingkatan 4, ms. 137."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：马共合法活动并渗透工会扩大影响。
+Bahasa Melayu: PKM bergerak sebagai parti sah dan menyusup kesatuan sekerja.
+课本／Buku teks：Tingkatan 4, ms. 147."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：英国禁止被视为传播激进思想的组织。
+Bahasa Melayu: British mengharamkan pertubuhan yang dianggap menyebarkan fahaman radikal.
+课本／Buku teks：Tingkatan 4, ms. 152."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：Melayu Raya 主张同源民族联合。
+Bahasa Melayu: Melayu Raya memperjuangkan penyatuan bangsa serumpun.
+课本／Buku teks：Tingkatan 4, ms. 172."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：统一课程是国家教育制度基础。
+Bahasa Melayu: Kurikulum seragam menjadi teras pendidikan kebangsaan.
+课本／Buku teks：Tingkatan 4, ms. 183."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：跨族群合作促成胜选；总席位应为268，题干228有误。
+Bahasa Melayu: Kerjasama pelbagai kaum membawa kemenangan. Jumlah kerusi sepatutnya 268, bukan 228 dalam soalan.
+课本／Buku teks：Tingkatan 4, ms. 197."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：选举后本地领袖参与联邦行政。
+Bahasa Melayu: Pemimpin tempatan berperanan dalam pentadbiran selepas pilihan raya.
+课本／Buku teks：Tingkatan 4, ms. 204."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：Reid 委员会拟定独立宪法。
+Bahasa Melayu: Suruhanjaya Reid merangka perlembagaan negara merdeka.
+课本／Buku teks：Tingkatan 4, ms. 220."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：协议确立君主立宪及联邦公民身份。
+Bahasa Melayu: Perjanjian menetapkan Raja Berperlembagaan dan kewarganegaraan Persekutuan.
+课本／Buku teks：Tingkatan 4, ms. 224."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：庆典委员会办礼仪课程及订购庆典用国旗。
+Bahasa Melayu: Jawatankuasa Sambutan menganjurkan kursus protokol dan menempah bendera.
+课本／Buku teks：Tingkatan 4, ms. 237."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：AMDA 及英联邦合作强化防务。
+Bahasa Melayu: AMDA dan kerjasama Komanwel mengukuhkan pertahanan.
+课本／Buku teks：Tingkatan 4, ms. 243."

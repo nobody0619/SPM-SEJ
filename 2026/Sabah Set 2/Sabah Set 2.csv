@@ -1,41 +1,121 @@
-﻿﻿title,type,question,A,B,C,D,answer,image
-Sabah_Set_2 2026,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Sabah_Set_2 2026,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：马六甲继承 Srivijaya 的国家民族特征。
+Bahasa Melayu: Melaka mewarisi ciri negara bangsa daripada Srivijaya.
+课本／Buku teks：Tingkatan 4, ms. 5."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：传统观念把 tulah 与背叛君主相联系。
+Bahasa Melayu: Tulah dikaitkan dengan perbuatan menderhaka kepada raja.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：明治维新使日本现代化并获西方尊重；课本年份为1868，题干1789有误。
+Bahasa Melayu: Pemulihan Meiji memodenkan Jepun untuk mendapat penghormatan Barat. Tahun yang betul ialah 1868, bukan 1789.
+课本／Buku teks：Tingkatan 4, ms. 27."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：王室垄断政治职位引发改革诉求。
+Bahasa Melayu: Penguasaan politik oleh kerabat diraja menimbulkan tuntutan pembaharuan.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：知识分子传播改革及民族意识。
+Bahasa Melayu: Golongan intelektual menyebarkan idea pembaharuan dan nasionalisme.
+课本／Buku teks：Tingkatan 4, ms. 35."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：德国重整军备，企图摆脱战败条约限制。
+Bahasa Melayu: Jerman memperkuat tentera untuk mengatasi sekatan selepas perang.
+课本／Buku teks：Tingkatan 4, ms. 58."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：Force 136 争取马来人支持共同抗日。
+Bahasa Melayu: Force 136 mendapatkan sokongan orang Melayu menentang Jepun.
+课本／Buku teks：Tingkatan 4, ms. 76."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：口号煽动反西方情绪，诱使当地人与日本合作。
+Bahasa Melayu: Slogan menyebarkan sentimen anti-Barat dan mendorong kerjasama dengan Jepun.
+课本／Buku teks：Tingkatan 4, ms. 80."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：行政合并减少英国管理成本。
+Bahasa Melayu: Penyatuan pentadbiran mengurangkan kos pengurusan British.
+课本／Buku teks：Tingkatan 4, ms. 97."
+,radio,F4 Bab 4,A,B,C,D,D,Picture10.png,"中文：让渡使外国殖民权力直接进入砂拉越。
+Bahasa Melayu: Penyerahan membawa penjajahan British secara langsung di Sarawak.
+课本／Buku teks：Tingkatan 4, ms. 109."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：马来人团结反对迫使英国改变政策。
+Bahasa Melayu: Perpaduan orang Melayu memaksa British menggantikan Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,A,Picture12.png,"中文：联邦承认马来人为原有居民。
+Bahasa Melayu: Persekutuan mengiktiraf orang Melayu sebagai penduduk asal.
+课本／Buku teks：Tingkatan 4, ms. 135."
+,radio,F4 Bab 6,A,B,C,D,B,Picture13.png,"中文：共产党思想早期通过国民党支部传播。
+Bahasa Melayu: Ideologi komunis disebarkan melalui cawangan Kuomintang.
+课本／Buku teks：Tingkatan 4, ms. 146."
+,radio,F4 Bab 6,A,B,C,D,C,Picture14.png,"中文：Min Yuen 执行宣传并支援马共。
+Bahasa Melayu: Min Yuen menjalankan propaganda dan menyokong PKM.
+课本／Buku teks：Tingkatan 4, ms. 157."
+,radio,F4 Bab 7,A,B,C,D,C,Picture15.png,"中文：UMNO 最初重点反对 Malayan Union。
+Bahasa Melayu: UMNO pada awalnya menentang pelaksanaan Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 172."
+,radio,F4 Bab 7,A,B,C,D,D,Picture16.png,"中文：各源流课程不同，不利共同认同。
+Bahasa Melayu: Kurikulum berbeza antara sekolah menyukarkan perpaduan.
+课本／Buku teks：Tingkatan 4, ms. 180."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：投票让人民选择代表并组成政府。
+Bahasa Melayu: Pengundian membolehkan rakyat membentuk kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 196."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：航程提供时间商议谈判策略。
+Bahasa Melayu: Perjalanan kapal memberi masa menyusun strategi perundingan.
+课本／Buku teks：Tingkatan 4, ms. 217."
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：统治者建议设立国家元首。
+Bahasa Melayu: Raja-raja mencadangkan Yang di-Pertuan Agong sebagai ketua negara.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：独立以协商达成，未发生独立战争。
+Bahasa Melayu: Kemerdekaan dicapai melalui rundingan tanpa pertumpahan darah.
+课本／Buku teks：Tingkatan 4, ms. 242-245."
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：法律制度是主权国家的特征。
+Bahasa Melayu: Perundangan ialah ciri negara berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：主权给予政府自主决策的自由。
+Bahasa Melayu: Kedaulatan memberikan kebebasan kerajaan membuat keputusan.
+课本／Buku teks：Tingkatan 5, ms. 10."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章旨在防止压迫居民。
+Bahasa Melayu: Charter of Justice menghalang penindasan penduduk.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：无君主州的伊斯兰宗教首长是元首。
+Bahasa Melayu: Yang di-Pertuan Agong mengetuai agama Islam di negeri tidak beraja.
+课本／Buku teks：Tingkatan 5, ms. 29."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：统治者会议选出元首，并同意特定事项的修宪。III 和 IV 正确，因此选 D；制定法律属于国会职能。
+Bahasa Melayu: Majlis Raja-Raja memilih Yang di-Pertuan Agong dan memperkenankan pindaan perlembagaan bagi perkara tertentu. III dan IV betul, maka jawapannya D; penggubalan undang-undang ialah tugas Parlimen.
+课本／Buku teks：Tingkatan 5, ms. 44."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：民主赋予人民选择国家领袖的权利。
+Bahasa Melayu: Demokrasi memberi rakyat hak memilih pemimpin negara.
+课本／Buku teks：Tingkatan 5, ms. 50."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：教育属于联邦权限。
+Bahasa Melayu: Pelajaran termasuk dalam Senarai Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 69."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：可负担住宅帮助中等收入者置业。
+Bahasa Melayu: Rumah mampu milik membantu golongan pertengahan memiliki kediaman.
+课本／Buku teks：Tingkatan 5, ms. 77."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：英国希望合并使殖民行政更简便。
+Bahasa Melayu: British mahu memudahkan pentadbiran tanah jajahan.
+课本／Buku teks：Tingkatan 5, ms. 90."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：合并让新加坡获得更广的市场。
+Bahasa Melayu: Penggabungan membuka pasaran lebih luas kepada Singapura.
+课本／Buku teks：Tingkatan 5, ms. 97."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：新国家面对经济发展与族群团结挑战。
+Bahasa Melayu: Malaysia menghadapi cabaran pembangunan ekonomi dan perpaduan kaum.
+课本／Buku teks：Tingkatan 5, ms. 116."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：政府暂停报纸出版并执行煽动法控制危机。
+Bahasa Melayu: Kerajaan menggantung akhbar dan menguatkuasakan Akta Hasutan.
+课本／Buku teks：Tingkatan 5, ms. 130."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国家融合指拉近各州社会联系。
+Bahasa Melayu: Integrasi nasional merapatkan hubungan masyarakat antara negeri.
+课本／Buku teks：Tingkatan 5, ms. 140."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：共同语言有助凝聚各族人民。
+Bahasa Melayu: Bahasa bersama membentuk rakyat bersatu padu.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：DEB 的两大目标是消贫及重组社会。
+Bahasa Melayu: DEB membasmi kemiskinan dan menyusun semula masyarakat.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：智能农业以科技增加农产量。
+Bahasa Melayu: Pertanian pintar meningkatkan hasil melalui teknologi moden.
+课本／Buku teks：Tingkatan 5, ms. 179."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：参与联合国支持维护主权的国际原则。
+Bahasa Melayu: Keanggotaan PBB membantu memelihara kedaulatan negara.
+课本／Buku teks：Tingkatan 5, ms. 198."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：经济发展也是外交面对的挑战。
+Bahasa Melayu: Pembangunan ekonomi ialah cabaran dasar luar.
+课本／Buku teks：Tingkatan 5, ms. 208-209."
+,radio,F5 Bab 9,A,B,C,D,C,Picture39.png,"中文：东盟分裂将破坏区域安全。
+Bahasa Melayu: Perpecahan ASEAN menggugat keselamatan serantau.
+课本／Buku teks：Tingkatan 5, ms. 210."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：边界重叠及人口贩运是跨国议题。
+Bahasa Melayu: Pertindihan sempadan dan pemerdagangan orang ialah isu global.
+课本／Buku teks：Tingkatan 5, ms. 226-229."

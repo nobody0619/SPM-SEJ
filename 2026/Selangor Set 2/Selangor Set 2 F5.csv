@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor Set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Selangor Set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：王权巩固君主地位并维系人民忠诚。
+Bahasa Melayu: Daulat mengikat taat setia rakyat dan memperkukuh kedudukan raja.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：公平分配财富巩固经济及国家稳定。
+Bahasa Melayu: Pengagihan kekayaan secara adil menjamin kestabilan dan kedaulatan.
+课本／Buku teks：Tingkatan 5, ms. 12."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：司法宪章保护当地居民。
+Bahasa Melayu: Charter of Justice melindungi penduduk daripada penindasan.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1965年修宪因新加坡分离。
+Bahasa Melayu: Pindaan 1965 dibuat berikutan pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：统治者会议选举元首并同意特定修宪。
+Bahasa Melayu: Majlis Raja-Raja memilih Agong dan memperkenankan pindaan perlembagaan tertentu.
+课本／Buku teks：Tingkatan 5, ms. 44-45."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：委任武装部队司令属于元首行政权。
+Bahasa Melayu: Agong melantik Panglima Angkatan Tentera melalui kuasa eksekutif.
+课本／Buku teks：Tingkatan 5, ms. 48."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：较强联邦权限保障稳定并促进发展。
+Bahasa Melayu: Kuasa lebih besar menjamin kestabilan dan meningkatkan kemajuan.
+课本／Buku teks：Tingkatan 5, ms. 68."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：地方政府维修道路等公共设施。
+Bahasa Melayu: Kerajaan tempatan menyenggara jalan raya dan kemudahan awam.
+课本／Buku teks：Tingkatan 5, ms. 71."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：社会主义阵线认为合并是新殖民主义。
+Bahasa Melayu: Barisan Sosialis menganggap Malaysia sebagai penjajahan baharu.
+课本／Buku teks：Tingkatan 5, ms. 97."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：印尼在对抗期间发动游击袭击。
+Bahasa Melayu: Indonesia melancarkan serangan gerila semasa konfrontasi.
+课本／Buku teks：Tingkatan 5, ms. 106."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：联邦宣布紧急状态处理砂拉越宪政危机。
+Bahasa Melayu: Darurat diisytiharkan untuk menangani krisis perlembagaan Sarawak.
+课本／Buku teks：Tingkatan 5, ms. 118."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：苏丹呼吁人民避免及停止族群冲突。
+Bahasa Melayu: Sultan menyeru rakyat menghentikan dan mengelakkan rusuhan kaum.
+课本／Buku teks：Tingkatan 5, ms. 131."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：英国按经济活动分隔族群，阻碍联系。
+Bahasa Melayu: Pengasingan kegiatan ekonomi oleh British merenggangkan hubungan kaum.
+课本／Buku teks：Tingkatan 5, ms. 141."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：尊重君主及国家象征属于忠于君国原则。
+Bahasa Melayu: Penghormatan raja dan simbol negara menunjukkan Kesetiaan kepada Raja dan Negara.
+课本／Buku teks：Tingkatan 5, ms. 159."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：这些机构扶持农业生产者，增加就业与收入。
+Bahasa Melayu: Agensi membantu pengusaha pertanian memperoleh pekerjaan dan pendapatan.
+课本／Buku teks：Tingkatan 5, ms. 169."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：智能农业及工业分散布局促进区域发展。
+Bahasa Melayu: Pertanian pintar dan penyebaran industri terpilih membangunkan wilayah.
+课本／Buku teks：Tingkatan 5, ms. 179."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：国际环境变化促使外交由亲西方转向不结盟。
+Bahasa Melayu: Perubahan persekitaran luar mendorong dasar pro-Barat beralih kepada tidak berpihak.
+课本／Buku teks：Tingkatan 5, ms. 197."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：Lusaka 宣言要求禁止核武。
+Bahasa Melayu: Perisytiharan Lusaka mendesak pengharaman senjata nuklear.
+课本／Buku teks：Tingkatan 5, ms. 213."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：边界争议及毒品滥用属于当代全球议题。
+Bahasa Melayu: Pertindihan sempadan dan penyalahgunaan dadah ialah isu global kontemporari.
+课本／Buku teks：Tingkatan 5, ms. 226-227."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：共同管理南极使成果由各国共同享有。
+Bahasa Melayu: Pentadbiran bersama memastikan hasil Antartika dinikmati seluruh dunia.
+课本／Buku teks：Tingkatan 5, ms. 240."

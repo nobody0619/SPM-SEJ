@@ -1,41 +1,121 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan 2026,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan 2026,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：财政总管管理国家财务。
+Bahasa Melayu: Penghulu Bendahari mengurus kewangan kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：人民出席公共仪式并效忠君主。
+Bahasa Melayu: Rakyat menghadiri majlis umum dan menunjukkan taat setia.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：两场革命都反对君主的专制统治。
+Bahasa Melayu: Kedua-dua revolusi menentang pemerintahan beraja mutlak.
+课本／Buku teks：Tingkatan 4, ms. 24-25."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：这些作品唤醒民族意识。
+Bahasa Melayu: Karya tersebut memupuk semangat kebangsaan.
+课本／Buku teks：Tingkatan 4, ms. 39."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：皇储遇刺引发第一次世界大战。
+Bahasa Melayu: Pembunuhan pewaris takhta mencetuskan Perang Dunia Pertama.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：Kempeitai 是残酷镇压抗日者的日本宪兵。
+Bahasa Melayu: Kempeitai ialah polis tentera Jepun yang menindas penentang.
+课本／Buku teks：Tingkatan 4, ms. 70."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：统治者寄抗议信并支持马来大会。
+Bahasa Melayu: Raja-raja menghantar surat bantahan dan menyokong Kongres Melayu.
+课本／Buku teks：Tingkatan 4, ms. 100-101."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：战后重建资金不足促成让渡。
+Bahasa Melayu: Kekurangan dana pemulihan selepas perang menyebabkan penyerahan.
+课本／Buku teks：Tingkatan 4, ms. 107,115."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：AMCJA 主张强大中央政府及马新合并。
+Bahasa Melayu: AMCJA mencadangkan kerajaan pusat kuat dan penyatuan Singapura.
+课本／Buku teks：Tingkatan 4, ms. 130."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：须咨询统治者，体现王权恢复。
+Bahasa Melayu: Keperluan merujuk raja menunjukkan kuasa mereka dikembalikan.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：会议号召共产党反抗帝国主义。
+Bahasa Melayu: Persidangan menggesa komunis menentang kuasa imperialis.
+课本／Buku teks：Tingkatan 4, ms. 148."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：放宽公民权条件以赢取人民支持。
+Bahasa Melayu: Syarat kewarganegaraan dilonggarkan untuk memenangi sokongan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 159."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：E.E.C. Thuraisingham 负责教育事务。
+Bahasa Melayu: E.E.C. Thuraisingham memegang portfolio Ahli Pelajaran.
+课本／Buku teks：Tingkatan 4, ms. 178."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：Razak 报告建议统一课程及马来语教学。
+Bahasa Melayu: Penyata Razak mencadangkan kurikulum seragam dan bahasa Melayu sebagai pengantar.
+课本／Buku teks：Tingkatan 4, ms. 183."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：1955年候选人须是公民并具备语言知识。
+Bahasa Melayu: Calon 1955 perlu warganegara serta mengetahui bahasa Inggeris dan Melayu.
+课本／Buku teks：Tingkatan 4, ms. 200."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：首届内阁讨论国内安全问题。
+Bahasa Melayu: Kabinet pertama membincangkan isu keselamatan dalam negeri.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：各方合作体现归属感与团结精神。
+Bahasa Melayu: Kerjasama semua pihak menunjukkan semangat kekitaan.
+课本／Buku teks：Tingkatan 4, ms. 219."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：统治者建议设立国家元首职位。
+Bahasa Melayu: Raja-raja mencadangkan jawatan Yang di-Pertuan Agong.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：庆典委员会安排礼仪课程与城市灯饰。
+Bahasa Melayu: Jawatankuasa Sambutan mengurus kursus protokol dan lampu hiasan.
+课本／Buku teks：Tingkatan 4, ms. 237."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：红皮书计划改善乡村基本设施。
+Bahasa Melayu: Rancangan Buku Merah menyediakan kemudahan asas luar bandar.
+课本／Buku teks：Tingkatan 4, ms. 244."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：王权巩固统治者地位与人民忠诚。
+Bahasa Melayu: Daulat memperkukuh kedudukan raja dan kesetiaan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：联邦宪法是国家法律体系的基础。
+Bahasa Melayu: Perlembagaan Persekutuan menjadi asas sistem perundangan negara.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：西方到来前，当地实行君主统治。
+Bahasa Melayu: Sebelum kedatangan Barat, negara mengamalkan pemerintahan beraja.
+课本／Buku teks：Tingkatan 5, ms. 22."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：州元首由国家元首委任。
+Bahasa Melayu: Yang di-Pertua Negeri dilantik oleh Yang di-Pertuan Agong.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：Johor-Riau 继承马六甲王国传统。
+Bahasa Melayu: Johor-Riau mewarisi legasi Kesultanan Melayu Melaka.
+课本／Buku teks：Tingkatan 5, ms. 38."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：X 是司法机关，负责解释法律。
+Bahasa Melayu: X ialah badan kehakiman yang mentafsir undang-undang.
+课本／Buku teks：Tingkatan 5, ms. 55."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：公民身份属于联邦权限。
+Bahasa Melayu: Kewarganegaraan termasuk dalam Senarai Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 69."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：可负担住宅计划帮助中等收入者置业。
+Bahasa Melayu: Program rumah mampu milik membantu golongan pertengahan memiliki rumah.
+课本／Buku teks：Tingkatan 5, ms. 77."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：印尼自行宣布独立使 Melayu Raya 计划无法落实。
+Bahasa Melayu: Pengisytiharan kemerdekaan Indonesia menggagalkan konsep Melayu Raya.
+课本／Buku teks：Tingkatan 5, ms. 92."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：伦敦会谈同意成立 Cobbold 委员会。
+Bahasa Melayu: Rundingan London bersetuju menubuhkan Suruhanjaya Cobbold.
+课本／Buku teks：Tingkatan 5, ms. 100."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：兴建学校及培训教师改善两州教育。
+Bahasa Melayu: Pembinaan sekolah dan latihan guru memajukan pendidikan kedua-dua negeri.
+课本／Buku teks：Tingkatan 5, ms. 117."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：MAGERAN 确保行政运作并暂时停止报纸出版。
+Bahasa Melayu: MAGERAN memastikan pentadbiran licin dan menggantung penerbitan akhbar.
+课本／Buku teks：Tingkatan 5, ms. 130."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：国家融合是拉近各州社会联系的过程。
+Bahasa Melayu: Integrasi nasional ialah proses merapatkan hubungan masyarakat antara negeri.
+课本／Buku teks：Tingkatan 5, ms. 140."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：文化政策以本土文化为基础，伊斯兰为重要元素。
+Bahasa Melayu: Dasar berteraskan kebudayaan asal rantau Melayu dengan Islam sebagai unsur penting.
+课本／Buku teks：Tingkatan 5, ms. 150."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：重组社会旨在消除族群与经济职能的固定关联。
+Bahasa Melayu: Penyusunan semula masyarakat menghapuskan pengenalan kaum mengikut fungsi ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：土著企业创造就业，改善贫困者生活水平。
+Bahasa Melayu: Syarikat bumiputera menawarkan pekerjaan dan meningkatkan taraf hidup golongan miskin.
+课本／Buku teks：Tingkatan 5, ms. 182."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：UNESCO 给予世界遗产地认可。
+Bahasa Melayu: UNESCO memberikan pengiktirafan Tapak Warisan Dunia.
+课本／Buku teks：Tingkatan 5, ms. 199."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：区域合作促进稳定并保障国家主权。
+Bahasa Melayu: Hubungan serantau menjamin kestabilan dan kedaulatan negara.
+课本／Buku teks：Tingkatan 5, ms. 210."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：AFTA 降低关税及商品税。
+Bahasa Melayu: AFTA mengurangkan tarif dan cukai barangan.
+课本／Buku teks：Tingkatan 5, ms. 230."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：马来西亚主张南极属于全人类的共同遗产。
+Bahasa Melayu: Malaysia mencadangkan Antartika dijadikan warisan sejagat.
+课本／Buku teks：Tingkatan 5, ms. 240."

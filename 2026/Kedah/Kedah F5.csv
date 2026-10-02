@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kedah F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Kedah F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：王权强化君主权威及人民忠诚。
+Bahasa Melayu: Daulat mengukuhkan kuasa raja dan kesetiaan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：参与保卫国家的志愿活动体现公民责任。
+Bahasa Melayu: Menyertai sukarelawan pertahanan menunjukkan tanggungjawab warganegara.
+课本／Buku teks：Tingkatan 5, ms. 15."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：宪法兼具传统与现代特征。
+Bahasa Melayu: Perlembagaan menggabungkan ciri tradisional dan moden.
+课本／Buku teks：Tingkatan 5, ms. 28-31."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：修宪适应当前需要并保障人民福祉。
+Bahasa Melayu: Pindaan memenuhi keperluan semasa dan menjaga kesejahteraan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：课本将解散国会和宣布紧急状态列在元首的立法权，因此选 A。
+Bahasa Melayu: Buku teks mengelaskan pembubaran Parlimen dan pengisytiharan darurat di bawah kuasa perundangan Yang di-Pertuan Agong. Jawapan ialah A.
+课本／Buku teks：Tingkatan 5, ms. 49."
+,radio,F5 Bab 4,A,B,C,D,B,Picture26.png,"中文：选举委员会准备选民册并宣布胜出的政党。
+Bahasa Melayu: SPR menyediakan daftar pemilih dan mengumumkan parti yang menang.
+课本／Buku teks：Tingkatan 5, ms. 80."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：农业及森林事务属于州政府权限。
+Bahasa Melayu: Pertanian dan perhutanan termasuk dalam Senarai Negeri.
+课本／Buku teks：Tingkatan 5, ms. 71."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：RASCOM 加强拉让地区安全并对抗共产党。
+Bahasa Melayu: RASCOM menjaga keselamatan kawasan Rajang daripada ancaman komunis.
+课本／Buku teks：Tingkatan 5, ms. 79."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：1961年7月的访问帮助说明马来西亚计划。
+Bahasa Melayu: Lawatan Julai 1961 menjelaskan rancangan pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 98."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：沙巴、砂拉越保留移民管制权。
+Bahasa Melayu: Sabah dan Sarawak mengekalkan kuasa imigresen.
+课本／Buku teks：Tingkatan 5, ms. 102."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：鼓励种植油棕，推动商业农业。
+Bahasa Melayu: Penanaman kelapa sawit menggalakkan pertanian komersial.
+课本／Buku teks：Tingkatan 5, ms. 127."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：马泰边境合作协议共同处理共产党威胁。
+Bahasa Melayu: Perjanjian sempadan Malaysia-Thailand menangani ancaman komunis bersama.
+课本／Buku teks：Tingkatan 5, ms. 125."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：教育、文化及语言政策促进国家团结。
+Bahasa Melayu: Dasar pendidikan, kebudayaan dan bahasa memupuk perpaduan nasional.
+课本／Buku teks：Tingkatan 5, ms. 145-151."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：国家原则凝聚人民并培养对国家的忠诚。
+Bahasa Melayu: Rukun Negara menyatukan rakyat dan membentuk kesetiaan negara.
+课本／Buku teks：Tingkatan 5, ms. 157."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：绿皮书计划鼓励农业及畜牧活动。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan pertanian dan penternakan.
+课本／Buku teks：Tingkatan 5, ms. 169."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：MARDI 通过研究发展农业技术。
+Bahasa Melayu: MARDI menjalankan penyelidikan untuk meningkatkan teknologi pertanian.
+课本／Buku teks：Tingkatan 5, ms. 179."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：马六甲通过派遣使节建立外交关系。
+Bahasa Melayu: Melaka menjalinkan hubungan diplomatik melalui penghantaran utusan.
+课本／Buku teks：Tingkatan 5, ms. 194."
+,radio,F5 Bab 10,A,B,C,D,A,Picture38.png,"中文：AFTA 加强经济合作并降低关税。
+Bahasa Melayu: AFTA meningkatkan kerjasama ekonomi dan mengurangkan tarif.
+课本／Buku teks：Tingkatan 5, ms. 230."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：马来西亚谴责对巴勒斯坦的压迫，并不承认以色列。
+Bahasa Melayu: Malaysia mengecam penindasan Palestin dan tidak mengiktiraf Israel.
+课本／Buku teks：Tingkatan 5, ms. 234."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：兰卡威宣言强调保护环境。
+Bahasa Melayu: Deklarasi Langkawi menekankan pemeliharaan alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."

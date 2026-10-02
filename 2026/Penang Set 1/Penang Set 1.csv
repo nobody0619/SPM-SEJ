@@ -1,41 +1,121 @@
-﻿title,type,question,A,B,C,D,answer,image
-Penang Set 1 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Penang Set 1 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：港务官负责征收港口税。
+Bahasa Melayu: Syahbandar mengutip cukai di pelabuhan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：传统观念认为背叛君主会招致 tulah。
+Bahasa Melayu: Tulah dikaitkan dengan perbuatan menderhaka kepada raja.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：穿鞋进入佛寺侵犯宗教圣洁。
+Bahasa Melayu: Pemakaian kasut dalam pagoda mencemarkan kesucian agama.
+课本／Buku teks：Tingkatan 4, ms. 29."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：Kartini 的作品揭示人民遭受的压迫。
+Bahasa Melayu: Karya Kartini menyentuh penindasan terhadap rakyat.
+课本／Buku teks：Tingkatan 4, ms. 30."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：宣传美化日本并煽动反西方殖民意识。
+Bahasa Melayu: Slogan menonjolkan imej Jepun dan semangat antipenjajah Barat.
+课本／Buku teks：Tingkatan 4, ms. 68."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：Albert Kwok 领导 Jesselton 起义。
+Bahasa Melayu: Albert Kwok memimpin Pemberontakan Jesselton.
+课本／Buku teks：Tingkatan 4, ms. 79."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：应保持警惕，不轻信外国势力。
+Bahasa Melayu: Kita perlu berwaspada dan tidak mudah mempercayai kuasa asing.
+课本／Buku teks：Tingkatan 4, ms. 95."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：宽松的出生地主义公民权引发反对。
+Bahasa Melayu: Kewarganegaraan jus soli mencetuskan penentangan orang Melayu.
+课本／Buku teks：Tingkatan 4, ms. 97."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：统治者重新拥有批准法案的权力。
+Bahasa Melayu: Raja-raja kembali berkuasa mengesahkan rang undang-undang.
+课本／Buku teks：Tingkatan 4, ms. 134."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：联邦为非马来人提供取得公民权的途径。
+Bahasa Melayu: Persekutuan membuka ruang kewarganegaraan kepada bukan Melayu.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：心理战重点是争取民心。
+Bahasa Melayu: Perang Saraf bertujuan memenangi hati rakyat.
+课本／Buku teks：Tingkatan 4, ms. 159."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：共同公民身份有助族群团结。
+Bahasa Melayu: Kewarganegaraan bersama membantu mewujudkan perpaduan.
+课本／Buku teks：Tingkatan 4, ms. 161."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：API 的口号是「Merdeka dengan Darah」。
+Bahasa Melayu: Slogan API ialah Merdeka dengan Darah.
+课本／Buku teks：Tingkatan 4, ms. 172."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：Razak 报告强调统一课程及共同学校制度。
+Bahasa Melayu: Penyata Razak menekankan kurikulum seragam dan sistem persekolahan sama.
+课本／Buku teks：Tingkatan 4, ms. 183."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：族群合作使联盟赢得选举。
+Bahasa Melayu: Kerjasama antara kaum membawa kemenangan Perikatan.
+课本／Buku teks：Tingkatan 4, ms. 197."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：逐步减少欧洲官员，实现公共服务本地化。
+Bahasa Melayu: Pegawai Eropah dikurangkan berperingkat untuk melokalkan perkhidmatan awam.
+课本／Buku teks：Tingkatan 4, ms. 207."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：伦敦会谈为独立铺路。
+Bahasa Melayu: Rundingan London merintis jalan ke arah kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 216."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：Tunku 到马六甲宣布独立日期。
+Bahasa Melayu: Tunku mengumumkan tarikh kemerdekaan di Melaka.
+课本／Buku teks：Tingkatan 4, ms. 219."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：独立指摆脱殖民统治。
+Bahasa Melayu: Kemerdekaan bermaksud bebas daripada penjajahan.
+课本／Buku teks：Tingkatan 4, ms. 232-234."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：降下英国旗象征英国统治结束。
+Bahasa Melayu: Penurunan Union Jack menandakan berakhirnya pentadbiran British.
+课本／Buku teks：Tingkatan 4, ms. 238."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：法律维护公正并保护人民。
+Bahasa Melayu: Perundangan menjamin keadilan dan melindungi rakyat.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：使用国语并尊重其他宗教促进团结。
+Bahasa Melayu: Bahasa kebangsaan dan penghormatan agama lain memupuk perpaduan.
+课本／Buku teks：Tingkatan 5, ms. 13."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章保护居民免受不公待遇。
+Bahasa Melayu: Charter of Justice melindungi penduduk daripada ketidakadilan.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1965年修宪配合新加坡分离。
+Bahasa Melayu: Pindaan 1965 dibuat berikutan pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：制衡机制确保施政顺畅。
+Bahasa Melayu: Mekanisme semak dan imbang melancarkan pentadbiran.
+课本／Buku teks：Tingkatan 5, ms. 56."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：君主可酌情拒绝解散州议会。
+Bahasa Melayu: Raja mempunyai budi bicara tidak memperkenankan pembubaran DUN.
+课本／Buku teks：Tingkatan 5, ms. 57."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：协商协调让联邦制度有效运作。
+Bahasa Melayu: Amalan bermusyawarah memastikan sistem persekutuan beroperasi berkesan.
+课本／Buku teks：Tingkatan 5, ms. 81."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：国家财政理事会协调联邦与州行政。
+Bahasa Melayu: Majlis Kewangan Negara menyelaraskan pentadbiran Persekutuan dan Negeri.
+课本／Buku teks：Tingkatan 5, ms. 81."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：新加坡希望通过合并遏制共产党。
+Bahasa Melayu: Singapura mahu penggabungan bagi mengatasi ancaman komunis.
+课本／Buku teks：Tingkatan 5, ms. 93."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：英国支持合并以遏制共产党及加强安全。
+Bahasa Melayu: British mahu membendung komunis dan memperkukuh pertahanan.
+课本／Buku teks：Tingkatan 5, ms. 91-93."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：经济谈判失败使争议无法解决。
+Bahasa Melayu: Kegagalan rundingan menyebabkan pertikaian ekonomi berterusan.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：边境协议促进联合打击共产党。
+Bahasa Melayu: Perjanjian sempadan membantu menangani ancaman komunis.
+课本／Buku teks：Tingkatan 5, ms. 125."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：1967年国家语言法加强马来语地位。
+Bahasa Melayu: Akta Bahasa Kebangsaan 1967 mengukuhkan kedudukan bahasa Melayu.
+课本／Buku teks：Tingkatan 5, ms. 148."
+,radio,F5 Bab 7,A,B,C,D,D,Picture34.png,"中文：「Bahasa Jiwa Bangsa」强调语言凝聚社会。
+Bahasa Melayu: Bahasa Jiwa Bangsa mengukuhkan masyarakat bersatu padu.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：增加就业及多元经济活动降低贫穷率。
+Bahasa Melayu: Peluang pekerjaan dan kegiatan ekonomi pelbagai mengurangkan kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 180."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：国产车业创造工作并提高收入。
+Bahasa Melayu: Industri kenderaan tempatan meningkatkan pendapatan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 187."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：外交政策保护国家利益。
+Bahasa Melayu: Dasar luar melindungi kepentingan nasional.
+课本／Buku teks：Tingkatan 5, ms. 196."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：印度支那动荡带来难民与外来人口。
+Bahasa Melayu: Pergolakan Indochina menyebabkan kebanjiran pendatang dan pelarian.
+课本／Buku teks：Tingkatan 5, ms. 208."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：战略位置使马来西亚成为中转点。
+Bahasa Melayu: Kedudukan strategik menjadikan Malaysia lokasi transit.
+课本／Buku teks：Tingkatan 5, ms. 229."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：人民提供人道援助及设捐款基金。
+Bahasa Melayu: Rakyat menyalurkan bantuan kemanusiaan dan mewujudkan tabung sumbangan.
+课本／Buku teks：Tingkatan 5, ms. 235."

@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Pasir Gudang F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Johor Pasir Gudang F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：共同语言、文化和身份描述的是一个国家的人民。
+Bahasa Melayu: Rakyat disatukan melalui bahasa, kebudayaan, Rukun Negara dan identiti yang sama.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：尊重国旗能培养对国家的热爱和爱国精神。
+Bahasa Melayu: Menghormati Jalur Gemilang memupuk rasa cinta akan negara dan semangat patriotisme.
+课本／Buku teks：Tingkatan 5, ms. 14."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：伊斯兰教的地位属于宪法传统元素，延续马来州的历史传统。
+Bahasa Melayu: Agama Islam ialah ciri tradisional Perlembagaan Persekutuan yang diwarisi daripada negeri-negeri Melayu.
+课本／Buku teks：Tingkatan 5, ms. 29."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：1963年成立马来西亚，需要修改宪法以适应加入新成员的需求。
+Bahasa Melayu: Pembentukan Malaysia pada tahun 1963 memerlukan pindaan perlembagaan untuk memenuhi keperluan semasa.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：掌玺大臣保管王室印玺，用于认证及盖印统治者会议的决定。
+Bahasa Melayu: Penyimpan Mohor Besar Raja-Raja menyimpan mohor untuk memeterai keputusan persidangan Majlis Raja-Raja.
+课本／Buku teks：Tingkatan 5, ms. 43."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：君主能以超越党派的地位缓和族群争执，发挥制衡作用。
+Bahasa Melayu: Raja sebagai pihak berkecuali membantu meredakan perselisihan kaum dan melaksanakan mekanisme semak dan imbang.
+课本／Buku teks：Tingkatan 5, ms. 56."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：联邦制度把几个州结合，并由中央与州政府共享行政权力。
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dengan pembahagian kuasa antara Kerajaan Persekutuan dan Kerajaan Negeri.
+课本／Buku teks：Tingkatan 5, ms. 66."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：联邦宪法是最高法律，是解决中央和州法律冲突的主要依据。
+Bahasa Melayu: Perlembagaan Persekutuan ialah undang-undang tertinggi dan rujukan utama apabila berlaku ketidakselarasan undang-undang.
+课本／Buku teks：Tingkatan 5, ms. 80."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：Malcolm MacDonald主张联合英国在东南亚的属地，配合去殖民化计划。
+Bahasa Melayu: Sir Malcolm MacDonald mencadangkan penggabungan wilayah British untuk menyesuaikannya dengan rancangan dekolonisasi.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：协议规定沙巴、砂拉越设州内阁，并原定1963年8月31日成立马来西亚。
+Bahasa Melayu: Perjanjian Malaysia menetapkan kabinet negeri Sabah dan Sarawak serta tarikh asal pembentukan pada 31 Ogos 1963.
+课本／Buku teks：Tingkatan 5, ms. 103."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：发展多种商业农业能增加沙巴、砂拉越居民的收入及经济活动。
+Bahasa Melayu: Kerajaan mempelbagaikan pertanian komersial untuk meningkatkan pendapatan dan kegiatan ekonomi penduduk Sabah dan Sarawak.
+课本／Buku teks：Tingkatan 5, ms. 117."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：经济失衡加上选举结果引发紧张，属于5月13日事件的因素。
+Bahasa Melayu: Ketidakseimbangan ekonomi dan keputusan pilihan raya menjadi faktor ketegangan yang mencetuskan peristiwa 13 Mei 1969.
+课本／Buku teks：Tingkatan 5, ms. 129."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：Aminudin Baki研究建议多科制学校，培养国家所需的技术人才。
+Bahasa Melayu: Kajian Aminudin Baki memperkenalkan sekolah aneka jurusan untuk melahirkan tenaga kerja mahir.
+课本／Buku teks：Tingkatan 5, ms. 145."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：大学运动会促进跨州联系，并让学生展现运动能力，符合II和III。
+Bahasa Melayu: MASUM menggalakkan integrasi antara negeri dan membolehkan peserta menunjukkan kebolehan sukan, iaitu II dan III.
+课本／Buku teks：Tingkatan 5, ms. 153."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：消除贫穷和重组社会，是为了减少族群差距并建立团结。
+Bahasa Melayu: Pembasmian kemiskinan dan penyusunan semula masyarakat bertujuan mengurangkan jurang serta mewujudkan perpaduan kaum.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：重植计划改善农作物生产和农民收入，延续消除贫穷的目标。
+Bahasa Melayu: Program penanaman semula meningkatkan hasil pertanian dan pendapatan pekebun bagi meneruskan usaha membasmi kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 175."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：UNESCO负责教育、科学及文化事务，包括世界遗产认定。
+Bahasa Melayu: UNESCO mengendalikan pendidikan, sains dan kebudayaan, termasuk pengiktirafan Tapak Warisan Dunia.
+课本／Buku teks：Tingkatan 5, ms. 199."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：马来西亚以中庸价值反驳把伊斯兰社会等同暴力和落后的指控。
+Bahasa Melayu: Malaysia mengetengahkan nilai kesederhanaan bagi menangkis tohmahan keganasan, kemiskinan dan kemunduran terhadap masyarakat Islam.
+课本／Buku teks：Tingkatan 5, ms. 215."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：政府固定令吉汇率以稳定货币，并协助经济复苏。
+Bahasa Melayu: Penambatan kadar ringgit membantu menstabilkan mata wang dan memulihkan ekonomi semasa krisis 1997–1998.
+课本／Buku teks：Tingkatan 5, ms. 232."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：浮罗交怡宣言关注环境保护，包括温室效应等全球环境问题。
+Bahasa Melayu: Deklarasi Langkawi menekankan perlindungan alam sekitar, termasuk menangani kesan rumah hijau.
+课本／Buku teks：Tingkatan 5, ms. 238."

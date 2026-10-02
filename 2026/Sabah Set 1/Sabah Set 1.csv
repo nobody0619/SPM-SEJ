@@ -1,41 +1,120 @@
-﻿﻿title,type,question,A,B,C,D,answer,image
-Sabah_Set_1 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Sabah_Set_1 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：法律为统治与行政提供指引。
+Bahasa Melayu: Undang-undang menjadi panduan pemerintahan.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：君民互惠巩固王权及人民福祉。
+Bahasa Melayu: Hubungan timbal balik mengukuhkan kedaulatan raja dan kesejahteraan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：美国革命使民主政体得以建立。
+Bahasa Melayu: Revolusi Amerika membawa pelaksanaan sistem demokrasi.
+课本／Buku teks：Tingkatan 4, ms. 25."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：满清无法阻止西方侵入，引发反对。
+Bahasa Melayu: Dinasti Manchu gagal menghalang kemasukan kuasa Barat.
+课本／Buku teks：Tingkatan 4, ms. 26."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：泰国民族主义旨在保持独立主权。
+Bahasa Melayu: Nasionalisme Thailand bertujuan mengekalkan kedaulatan negara.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 2,A,B,C,D,A,Picture6.png,"中文：这些作品唤醒对民族命运的关切。
+Bahasa Melayu: Karya tersebut membangkitkan kesedaran nasib bangsa.
+课本／Buku teks：Tingkatan 4, ms. 39."
+,radio,F4 Bab 3,A,B,C,D,D,Picture7.png,"中文：战胜国认定德国应为战争破坏负责。
+Bahasa Melayu: Jerman dipersalahkan atas kemusnahan peperangan lalu dikenakan hukuman.
+课本／Buku teks：Tingkatan 4, ms. 56."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：日本胜利证明亚洲能抗衡西方，激发民族意识；答案纸未标页码。
+Bahasa Melayu: Kemenangan Jepun membangkitkan nasionalisme kerana Asia mampu menewaskan Barat. Skema tidak menyatakan halaman."
+,radio,F4 Bab 3,A,B,C,D,C,Picture9.png,"中文：日军暴行加强反殖民精神。
+Bahasa Melayu: Kekejaman Jepun mengukuhkan semangat antipenjajah.
+课本／Buku teks：Tingkatan 4, ms. 73."
+,radio,F4 Bab 4,A,B,C,D,D,Picture10.png,"中文：统治者向伦敦寄抗议信并诉诸英国法院。
+Bahasa Melayu: Raja-raja menghantar bantahan ke London dan membawa kes ke mahkamah England.
+课本／Buku teks：Tingkatan 4, ms. 100."
+,radio,F4 Bab 4,A,B,C,D,B,Picture11.png,"中文：战后破坏及重建负担促成沙巴让渡英国。
+Bahasa Melayu: Kemusnahan perang dan kos pemulihan menyebabkan Sabah diserahkan kepada British.
+课本／Buku teks：Tingkatan 4, ms. 115."
+,radio,F4 Bab 5,A,B,C,D,D,Picture12.png,"中文：联邦承认马来人为原有居民。
+Bahasa Melayu: Persekutuan mengiktiraf orang Melayu sebagai penduduk asal.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,D,Picture13.png,"中文：破坏园丘及铁路旨在瘫痪英国经济。
+Bahasa Melayu: Sabotaj ladang dan kereta api melumpuhkan ekonomi British.
+课本／Buku teks：Tingkatan 4, ms. 149."
+,radio,F4 Bab 6,A,B,C,D,A,Picture14.png,"中文：英国需要人民支持，紧急状态加快独立进程。
+Bahasa Melayu: Keperluan sokongan rakyat semasa darurat mempercepat kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 161."
+,radio,F4 Bab 7,A,B,C,D,C,Picture15.png,"中文：成员来自各族，学习共同施政。
+Bahasa Melayu: Keahlian pelbagai kaum menggalakkan kerjasama pentadbiran.
+课本／Buku teks：Tingkatan 4, ms. 178."
+,radio,F4 Bab 7,A,B,C,D,C,Picture16.png,"中文：IMP 向各族开放，以团结为目标。
+Bahasa Melayu: IMP mengutamakan perpaduan antara kaum.
+课本／Buku teks：Tingkatan 4, ms. 184."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：首届内阁争取本地人管理行政。
+Bahasa Melayu: Kabinet pertama memperjuangkan pentadbiran tempatan.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：宪法委员会考虑州自治与联邦关系。
+Bahasa Melayu: Suruhanjaya mempertimbangkan autonomi negeri dalam sistem Persekutuan.
+课本／Buku teks：Tingkatan 4, ms. 220."
+,radio,F4 Bab 9,A,B,C,D,A,Picture19.png,"中文：协议规定联邦宗教及马来人特殊地位。
+Bahasa Melayu: Perjanjian menetapkan Islam sebagai agama Persekutuan dan kedudukan istimewa Melayu.
+课本／Buku teks：Tingkatan 4, ms. 225."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：宪法保障人民表达意见的权利。
+Bahasa Melayu: Perlembagaan menjamin kebebasan bersuara rakyat.
+课本／Buku teks：Tingkatan 4, ms. 247."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：主权国家能自行统治。
+Bahasa Melayu: Negara berdaulat memiliki pemerintahan sendiri.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 2,A,B,C,D,B,Picture22.png,"中文：联邦理事会制定马来联邦法律。
+Bahasa Melayu: Majlis Persekutuan menggubal undang-undang NNMB.
+课本／Buku teks：Tingkatan 5, ms. 26."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：1963年修宪加入新成员州所需条款。
+Bahasa Melayu: Pindaan 1963 memasukkan klausa baharu bagi pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,D,Picture24.png,"中文：按课本分类，解散国会及宣布紧急状态列于立法权。
+Bahasa Melayu: Menurut pengelasan buku teks, pembubaran Parlimen dan pengisytiharan darurat ialah kuasa perundangan.
+课本／Buku teks：Tingkatan 5, ms. 49."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：君主政治中立有助制衡并解决分歧。
+Bahasa Melayu: Raja berkecuali dalam politik membantu mekanisme semak dan imbang.
+课本／Buku teks：Tingkatan 5, ms. 56."
+,radio,F5 Bab 4,A,B,C,D,B,Picture26.png,"中文：公共福利与野生动物保护属于共同权限。
+Bahasa Melayu: Kebajikan awam dan perlindungan hidupan liar termasuk Senarai Bersama.
+课本／Buku teks：Tingkatan 5, ms. 70."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：会议协调各州执行政府政策。
+Bahasa Melayu: Mesyuarat menyelaraskan pelaksanaan dasar kerajaan.
+课本／Buku teks：Tingkatan 5, ms. 80."
+,radio,F5 Bab 5,A,B,C,D,B,Picture28.png,"中文：各方包容与协商促成独立及马来西亚成立。
+Bahasa Melayu: Toleransi dan persefahaman menjayakan kemerdekaan serta pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 102."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：公投检视人民支持合并的程度。
+Bahasa Melayu: Referendum meninjau sokongan rakyat terhadap pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 100."
+,radio,F5 Bab 6,A,B,C,D,B,Picture30.png,"中文：新加坡与中央政策的分歧促成分离。
+Bahasa Melayu: Keengganan mematuhi dasar kerajaan menyumbang kepada pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：煽动法用于制止煽动与破坏族群和谐的信息。
+Bahasa Melayu: Akta Hasutan digunakan untuk membendung hasutan yang menjejaskan keharmonian kaum.
+课本／Buku teks：Tingkatan 5, ms. 130."
+,radio,F5 Bab 7,A,B,C,D,A,Picture32.png,"中文：多科制提供技能教育以培养技术劳动力。
+Bahasa Melayu: Sistem anekajurusan melahirkan tenaga kerja mahir.
+课本／Buku teks：Tingkatan 5, ms. 145."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：共同文化原则塑造国民身份。
+Bahasa Melayu: Dasar kebudayaan memupuk keperibadian kebangsaan.
+课本／Buku teks：Tingkatan 5, ms. 150."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：SUKMA 通过体育交流加强团结。
+Bahasa Melayu: SUKMA memperkukuh perpaduan melalui sukan.
+课本／Buku teks：Tingkatan 5, ms. 153."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：区域机构扩大油棕、橡胶等商业种植。
+Bahasa Melayu: Agensi wilayah memperluas tanaman komersial seperti sawit dan getah.
+课本／Buku teks：Tingkatan 5, ms. 171."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：企业提供就业机会改善贫困者生活。
+Bahasa Melayu: Tokoh korporat menawarkan pekerjaan kepada golongan miskin.
+课本／Buku teks：Tingkatan 5, ms. 182."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：区域关系保障稳定及主权。
+Bahasa Melayu: Hubungan serantau menjamin kestabilan dan kedaulatan negara.
+课本／Buku teks：Tingkatan 5, ms. 210."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：种族隔离侵犯基本人权。
+Bahasa Melayu: Dasar aparteid mencabuli hak asasi manusia.
+课本／Buku teks：Tingkatan 5, ms. 207."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：反棕油运动以环境污染作为指责理由。
+Bahasa Melayu: Kempen antiminyak sawit menggunakan alasan pencemaran alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 228."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：AFTA 降低关税并推动经济增长。
+Bahasa Melayu: AFTA mengurangkan tarif dan meningkatkan pertumbuhan ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 230."

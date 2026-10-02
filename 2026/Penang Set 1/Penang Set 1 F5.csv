@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Penang Set 1 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Penang Set 1 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：法律维护公正并保护人民。
+Bahasa Melayu: Perundangan menjamin keadilan dan melindungi rakyat.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：使用国语并尊重其他宗教促进团结。
+Bahasa Melayu: Bahasa kebangsaan dan penghormatan agama lain memupuk perpaduan.
+课本／Buku teks：Tingkatan 5, ms. 13."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章保护居民免受不公待遇。
+Bahasa Melayu: Charter of Justice melindungi penduduk daripada ketidakadilan.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1965年修宪配合新加坡分离。
+Bahasa Melayu: Pindaan 1965 dibuat berikutan pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：制衡机制确保施政顺畅。
+Bahasa Melayu: Mekanisme semak dan imbang melancarkan pentadbiran.
+课本／Buku teks：Tingkatan 5, ms. 56."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：君主可酌情拒绝解散州议会。
+Bahasa Melayu: Raja mempunyai budi bicara tidak memperkenankan pembubaran DUN.
+课本／Buku teks：Tingkatan 5, ms. 57."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：协商协调让联邦制度有效运作。
+Bahasa Melayu: Amalan bermusyawarah memastikan sistem persekutuan beroperasi berkesan.
+课本／Buku teks：Tingkatan 5, ms. 81."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：国家财政理事会协调联邦与州行政。
+Bahasa Melayu: Majlis Kewangan Negara menyelaraskan pentadbiran Persekutuan dan Negeri.
+课本／Buku teks：Tingkatan 5, ms. 81."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：新加坡希望通过合并遏制共产党。
+Bahasa Melayu: Singapura mahu penggabungan bagi mengatasi ancaman komunis.
+课本／Buku teks：Tingkatan 5, ms. 93."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：英国支持合并以遏制共产党及加强安全。
+Bahasa Melayu: British mahu membendung komunis dan memperkukuh pertahanan.
+课本／Buku teks：Tingkatan 5, ms. 91-93."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：经济谈判失败使争议无法解决。
+Bahasa Melayu: Kegagalan rundingan menyebabkan pertikaian ekonomi berterusan.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：边境协议促进联合打击共产党。
+Bahasa Melayu: Perjanjian sempadan membantu menangani ancaman komunis.
+课本／Buku teks：Tingkatan 5, ms. 125."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：1967年国家语言法加强马来语地位。
+Bahasa Melayu: Akta Bahasa Kebangsaan 1967 mengukuhkan kedudukan bahasa Melayu.
+课本／Buku teks：Tingkatan 5, ms. 148."
+,radio,F5 Bab 7,A,B,C,D,D,Picture34.png,"中文：「Bahasa Jiwa Bangsa」强调语言凝聚社会。
+Bahasa Melayu: Bahasa Jiwa Bangsa mengukuhkan masyarakat bersatu padu.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：增加就业及多元经济活动降低贫穷率。
+Bahasa Melayu: Peluang pekerjaan dan kegiatan ekonomi pelbagai mengurangkan kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 180."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：国产车业创造工作并提高收入。
+Bahasa Melayu: Industri kenderaan tempatan meningkatkan pendapatan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 187."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：外交政策保护国家利益。
+Bahasa Melayu: Dasar luar melindungi kepentingan nasional.
+课本／Buku teks：Tingkatan 5, ms. 196."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：印度支那动荡带来难民与外来人口。
+Bahasa Melayu: Pergolakan Indochina menyebabkan kebanjiran pendatang dan pelarian.
+课本／Buku teks：Tingkatan 5, ms. 208."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：战略位置使马来西亚成为中转点。
+Bahasa Melayu: Kedudukan strategik menjadikan Malaysia lokasi transit.
+课本／Buku teks：Tingkatan 5, ms. 229."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：人民提供人道援助及设捐款基金。
+Bahasa Melayu: Rakyat menyalurkan bantuan kemanusiaan dan mewujudkan tabung sumbangan.
+课本／Buku teks：Tingkatan 5, ms. 235."

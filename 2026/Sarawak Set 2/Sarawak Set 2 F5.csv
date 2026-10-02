@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sarawak Set 2 F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Sarawak Set 2 F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：独立及成立马来西亚体现国家主权。
+Bahasa Melayu: Kemerdekaan dan pembentukan Malaysia menunjukkan kedaulatan negara.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：传统主权自早期文明已有。
+Bahasa Melayu: Kedaulatan tradisional wujud sejak tamadun awal.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：1957年宪法确立君主立宪及议会民主。
+Bahasa Melayu: Perlembagaan 1957 memperkenalkan Raja Berperlembagaan dan Demokrasi Berparlimen.
+课本／Buku teks：Tingkatan 5, ms. 29."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：记者会宣布新加坡脱离马来西亚。
+Bahasa Melayu: Sidang akhbar mengumumkan pemisahan Singapura daripada Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：苏丹兼任伊斯兰宗教首长体现伊斯兰理念。
+Bahasa Melayu: Sultan sebagai ketua agama Islam menunjukkan konsep Islam.
+课本／Buku teks：Tingkatan 5, ms. 38."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：统治者会议依宪法在特定事务行使酌情权，发挥制衡作用。
+Bahasa Melayu: Majlis Raja-Raja menggunakan budi bicara bagi fungsi tertentu menurut perlembagaan untuk mengimbangi demokrasi.
+课本／Buku teks：Tingkatan 5, ms. 44."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：较强联邦权限保障稳定并推动发展。
+Bahasa Melayu: Kuasa Persekutuan yang lebih besar menjamin kestabilan dan kemajuan.
+课本／Buku teks：Tingkatan 5, ms. 68."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：会议协调各州执行国家政策。
+Bahasa Melayu: Mesyuarat menyelaraskan pelaksanaan dasar kerajaan.
+课本／Buku teks：Tingkatan 5, ms. 80."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：马来西亚构想的基础是领土合并。
+Bahasa Melayu: Gagasan Malaysia berasaskan penggabungan wilayah.
+课本／Buku teks：Tingkatan 5, ms. 90."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：印尼认为马来西亚威胁其地位。
+Bahasa Melayu: Indonesia menganggap Malaysia mengancam kedudukannya.
+课本／Buku teks：Tingkatan 5, ms. 106."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：两州面积广大，建设交通联系困难。
+Bahasa Melayu: Saiz negeri yang luas menyukarkan pembangunan pengangkutan.
+课本／Buku teks：Tingkatan 5, ms. 117."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：这些行动旨在遏制砂拉越共产党。
+Bahasa Melayu: Operasi tersebut membendung pengaruh komunis di Sarawak.
+课本／Buku teks：Tingkatan 5, ms. 122."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国语被定为教学媒介及必修科。
+Bahasa Melayu: Bahasa kebangsaan dijadikan bahasa pengantar dan mata pelajaran wajib.
+课本／Buku teks：Tingkatan 5, ms. 147."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：轮流办运动会促进州际交流与融合。
+Bahasa Melayu: Penganjuran bergilir menggalakkan integrasi antara negeri.
+课本／Buku teks：Tingkatan 5, ms. 153."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：区域发展创造机会，协助消贫及重组社会。
+Bahasa Melayu: Pembangunan wilayah membantu membasmi kemiskinan dan menyusun semula masyarakat.
+课本／Buku teks：Tingkatan 5, ms. 168."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：ASN 让土著更容易参与股票投资。
+Bahasa Melayu: ASN memudahkan bumiputera memiliki saham.
+课本／Buku teks：Tingkatan 5, ms. 172."
+,radio,F5 Bab 8,A,B,C,D,C,Picture37.png,"中文：家庭收入增加使贫穷率下降。
+Bahasa Melayu: Peningkatan pendapatan isi rumah menurunkan kadar kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 180."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：种族隔离实行种族歧视。
+Bahasa Melayu: Aparteid melaksanakan diskriminasi kaum.
+课本／Buku teks：Tingkatan 5, ms. 207."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：南沙群岛具战略位置及贸易价值。
+Bahasa Melayu: Kepulauan Spratly mempunyai kedudukan strategik dan kepentingan perdagangan.
+课本／Buku teks：Tingkatan 5, ms. 227."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：少数国家垄断探索，不符合南极共同遗产理念。
+Bahasa Melayu: Penerokaan oleh segelintir negara bertentangan dengan konsep warisan sejagat.
+课本／Buku teks：Tingkatan 5, ms. 240."

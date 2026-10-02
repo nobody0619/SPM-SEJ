@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor Set 1 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Selangor Set 1 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：财政总管管理国库。
+Bahasa Melayu: Penghulu Bendahari mengurus perbendaharaan kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：航海员疏忽导致撞船，可被判死刑。
+Bahasa Melayu: Malim yang lalai sehingga kapal berlanggar boleh dihukum bunuh.
+课本／Buku teks：Tingkatan 4, ms. 11."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：革命争取人民权利及国会主权。
+Bahasa Melayu: Revolusi memperjuangkan hak rakyat dan kedaulatan Parlimen.
+课本／Buku teks：Tingkatan 4, ms. 24."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：文学描写被殖民民族的艰苦处境。
+Bahasa Melayu: Karya menggambarkan keperitan bangsa yang dijajah.
+课本／Buku teks：Tingkatan 4, ms. 34."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：皇储遇刺引发第一次世界大战。
+Bahasa Melayu: Pembunuhan pewaris takhta mencetuskan Perang Dunia Pertama.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：过量印钞造成通货膨胀。
+Bahasa Melayu: Percetakan wang tanpa kawalan meningkatkan inflasi.
+课本／Buku teks：Tingkatan 4, ms. 71."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：BMA 无法迅速恢复社会经济，令人民失望。
+Bahasa Melayu: BMA gagal memulihkan sosioekonomi lalu mengecewakan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 95."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：让渡后沙巴成为英国殖民地。
+Bahasa Melayu: Sabah menjadi tanah jajahan British selepas penyerahan.
+课本／Buku teks：Tingkatan 4, ms. 114."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：建议保障统治者地位及马来人特殊权益。
+Bahasa Melayu: Cadangan menjamin kedudukan raja dan keistimewaan Melayu.
+课本／Buku teks：Tingkatan 4, ms. 127."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：PUTERA-AMCJA 以 hartal 罢市表示反对。
+Bahasa Melayu: PUTERA-AMCJA mengadakan hartal sebagai bantahan.
+课本／Buku teks：Tingkatan 4, ms. 131."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：居民登记及身份证便于控制人员流动。
+Bahasa Melayu: Pendaftaran penduduk membantu mengawal pergerakan masyarakat.
+课本／Buku teks：Tingkatan 4, ms. 156."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：英国不承认马共为合法政党，双方未达协议。
+Bahasa Melayu: Kerajaan enggan mengiktiraf PKM sebagai parti sah.
+课本／Buku teks：Tingkatan 4, ms. 160."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：共同课程与语言培养公民意识。
+Bahasa Melayu: Sukatan dan bahasa pengantar sama memupuk nilai kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 183."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：全国会议要求举行联邦层级选举。
+Bahasa Melayu: Persidangan Kebangsaan menuntut pilihan raya peringkat Persekutuan.
+课本／Buku teks：Tingkatan 4, ms. 186."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：选举加强人民合作并加快独立。
+Bahasa Melayu: Pilihan raya memperkukuh kerjasama rakyat dan mempercepat kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 198."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：多族群内阁共同施政，落实权力分享。
+Bahasa Melayu: Kabinet pelbagai kaum menjayakan perkongsian kuasa dalam pentadbiran.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：海上航程让 Tunku 与统治者代表商议策略。
+Bahasa Melayu: Perjalanan laut membolehkan Tunku berbincang dengan wakil Raja-raja Melayu.
+课本／Buku teks：Tingkatan 4, ms. 217."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：委员会须设计统一公民身份。
+Bahasa Melayu: Suruhanjaya menyediakan satu bentuk kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 220."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：庆典集中在独立体育场及雪兰莪俱乐部草场。
+Bahasa Melayu: Upacara tertumpu di Stadium Merdeka dan Padang Kelab Selangor.
+课本／Buku teks：Tingkatan 4, ms. 236."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：英镑区安排便利贸易及经济发展。
+Bahasa Melayu: Blok Sterling membantu perdagangan dan pembangunan ekonomi.
+课本／Buku teks：Tingkatan 4, ms. 243."

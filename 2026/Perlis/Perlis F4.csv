@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Perlis F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：人民忠诚决定君主的影响范围。
+Bahasa Melayu: Kesetiaan rakyat menentukan wilayah pengaruh raja.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：Bendahara 领导行政。
+Bahasa Melayu: Bendahara mengetuai pentadbiran kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：教育培养知识分子，传播民族意识。
+Bahasa Melayu: Pendidikan melahirkan golongan intelektual yang menyebarkan nasionalisme.
+课本／Buku teks：Tingkatan 4, ms. 35."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：英国通过监禁压制民族主义领袖。
+Bahasa Melayu: British memenjarakan pemimpin untuk melemahkan perjuangan.
+课本／Buku teks：Tingkatan 4, ms. 42."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：法西斯及纳粹等新意识形态推动战争。
+Bahasa Melayu: Ideologi baharu seperti fasisme dan nazisme mencetuskan peperangan.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：十四点主张按民族界定国家边界。
+Bahasa Melayu: Deklarasi 14 Perkara mencadangkan sempadan negara berasaskan bangsa.
+课本／Buku teks：Tingkatan 4, ms. 56."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：统治者投诉被英国代表欺骗及胁迫。
+Bahasa Melayu: Raja-raja mendakwa diperdaya dan dipaksa wakil British.
+课本／Buku teks：Tingkatan 4, ms. 100."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：Rosli Dhoby 反对英国扩张及砂拉越让渡。
+Bahasa Melayu: Rosli Dhoby menentang peluasan kuasa British dan penyerahan Sarawak.
+课本／Buku teks：Tingkatan 4, ms. 112."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：宽松公民权使马来人担忧与移民竞争。
+Bahasa Melayu: Jus soli menimbulkan kebimbangan persaingan dengan orang asing.
+课本／Buku teks：Tingkatan 4, ms. 129."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：1948 年联邦为自治铺路，并建立本地人民参与行政的基础，因此选 C。
+Bahasa Melayu: Persekutuan Tanah Melayu 1948 membuka ruang berkerajaan sendiri dan menyediakan asas penyertaan penduduk tempatan dalam pentadbiran. Jawapan ialah C.
+课本／Buku teks：Tingkatan 4, ms. 136-137."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：共产党思想通过工会及国民党支部传播。
+Bahasa Melayu: Ideologi komunis disebarkan melalui kesatuan sekerja dan cawangan Kuomintang.
+课本／Buku teks：Tingkatan 4, ms. 146-147."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：谈判未能结束武装斗争：政府要求解散马共，马共要求承认为合法政党，双方无法达成协议。
+Bahasa Melayu: Rundingan gagal menamatkan keganasan kerana kerajaan menuntut PKM dibubarkan, sedangkan PKM mahu pengiktirafan sebagai parti sah.
+课本／Buku teks：Tingkatan 4, ms. 160."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：两组织争取建立独立的伊斯兰国家。
+Bahasa Melayu: Kedua-duanya memperjuangkan kemerdekaan sebagai negara Islam.
+课本／Buku teks：Tingkatan 4, ms. 173."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：成员制训练本地人，为自治作准备。
+Bahasa Melayu: Sistem Ahli melatih penduduk tempatan ke arah berkerajaan sendiri.
+课本／Buku teks：Tingkatan 4, ms. 178."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：选举让人民选择并建立稳固政府。
+Bahasa Melayu: Pilihan raya membentuk kerajaan yang mantap melalui pilihan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 196."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：首届内阁推动本地行政；课本用词是 pentadbiran tempatan，而非仅限某族群。
+Bahasa Melayu: Kabinet memperjuangkan pentadbiran tempatan. Istilah buku teks ialah tempatan, bukan pentadbiran satu kaum sahaja.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：统治者建议元首作为国家首长。
+Bahasa Melayu: Raja-raja mencadangkan Yang di-Pertuan Agong sebagai ketua negara.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：协议规定伊斯兰为联邦宗教及马来人特殊地位。
+Bahasa Melayu: Perjanjian menetapkan Islam sebagai agama Persekutuan dan kedudukan istimewa Melayu.
+课本／Buku teks：Tingkatan 4, ms. 224."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：人民须提升诚信及民族自我认同。
+Bahasa Melayu: Rakyat perlu meningkatkan integriti dan jati diri.
+课本／Buku teks：Tingkatan 4, ms. 234."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：独立通过协商达成，没有独立战争流血。
+Bahasa Melayu: Kemerdekaan dicapai melalui rundingan tanpa pertumpahan darah.
+课本／Buku teks：Tingkatan 4, ms. 241."

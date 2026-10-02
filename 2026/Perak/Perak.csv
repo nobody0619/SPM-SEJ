@@ -1,41 +1,121 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Perak 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：Bendahara 统领行政，类似首相。
+Bahasa Melayu: Bendahara mengetuai pentadbiran seperti Perdana Menteri.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：遵从君主命令避免被视为叛逆。
+Bahasa Melayu: Mematuhi pemerintah mengelakkan perbuatan derhaka dan tulah.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：光荣革命确立国会主权。
+Bahasa Melayu: Revolusi Keagungan menegakkan kedaulatan Parlimen.
+课本／Buku teks：Tingkatan 4, ms. 24."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：他们以文学作品唤醒民族意识。
+Bahasa Melayu: Mereka menghasilkan karya kreatif untuk membangkitkan nasionalisme.
+课本／Buku teks：Tingkatan 4, ms. 33."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：袭击珍珠港削弱美国舰队，阻止西方干预扩张。
+Bahasa Melayu: Serangan Pearl Harbour melemahkan armada Amerika dan menghalang kuasa Barat.
+课本／Buku teks：Tingkatan 4, ms. 66."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：答案D指马来兵团抵抗日军；「成立」措辞欠准确，兵团早在1933年成立，并非日占后才成立。
+Bahasa Melayu: D merujuk penentangan Rejimen Askar Melayu. Namun istilah menubuhkan kurang tepat kerana rejimen telah ditubuhkan pada 1933 sebelum pendudukan Jepun.
+课本／Buku teks：Tingkatan 4, ms. 74."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：总督领导及 jus soli 公民权是 Malayan Union 特征。
+Bahasa Melayu: Gabenor dan kewarganegaraan jus soli ialah ciri Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 97."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：Rukun 13 计划铲除英国高级官员。
+Bahasa Melayu: Rukun 13 bertujuan menghapuskan pegawai tinggi British.
+课本／Buku teks：Tingkatan 4, ms. 112."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：PUTERA-AMCJA 不满未获委员会代表权。
+Bahasa Melayu: PUTERA-AMCJA tidak diwakili dalam Jawatankuasa Kerja.
+课本／Buku teks：Tingkatan 4, ms. 128."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：这些是1948年联邦的行政特征。
+Bahasa Melayu: Ciri tersebut merujuk Persekutuan Tanah Melayu 1948.
+课本／Buku teks：Tingkatan 4, ms. 134."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：破坏经济及设施削弱政府威信。
+Bahasa Melayu: Sabotaj ekonomi dan kemudahan melemahkan imej kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 149."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：紧急法允许拘留嫌疑人及处死非法持枪者。
+Bahasa Melayu: Undang-undang Darurat membenarkan penahanan suspek dan hukuman mati bagi pembawa senjata api.
+课本／Buku teks：Tingkatan 4, ms. 152."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：两组织都争取 Melayu Raya 概念下的独立。
+Bahasa Melayu: Kedua-duanya memperjuangkan kemerdekaan melalui konsep Melayu Raya.
+课本／Buku teks：Tingkatan 4, ms. 172."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：CLC 研究族群关系并促进和谐；课本成立年份为1949，题干1948需留意。
+Bahasa Melayu: CLC mengkaji hubungan kaum dan mewujudkan keharmonian. Buku teks menyatakan 1949, bukan 1948 seperti dalam soalan.
+课本／Buku teks：Tingkatan 4, ms. 174."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：选举加强政治合作并加快独立。
+Bahasa Melayu: Pilihan raya memperkukuh kerjasama politik dan mempercepat kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 198."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：内阁推动本地人主导行政。
+Bahasa Melayu: Kabinet memperjuangkan pentadbiran tempatan.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：委员会须建立统一公民身份。
+Bahasa Melayu: Suruhanjaya menyediakan satu bentuk kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 223."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：协议保留马来人特殊地位，伊斯兰为联邦宗教。
+Bahasa Melayu: Perjanjian mengekalkan kedudukan istimewa Melayu dan Islam sebagai agama Persekutuan.
+课本／Buku teks：Tingkatan 4, ms. 225."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：统治范围与国家象征体现主权。
+Bahasa Melayu: Wilayah pengaruh dan lambang kebangsaan ialah prinsip kedaulatan.
+课本／Buku teks：Tingkatan 4, ms. 246-247."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：独立通过协商取得，未发生独立战争。
+Bahasa Melayu: Kemerdekaan dicapai melalui permuafakatan dan rundingan tanpa pertumpahan darah.
+课本／Buku teks：Tingkatan 4, ms. 241."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：传统主权强调君主拥有最高权力。
+Bahasa Melayu: Kedaulatan tradisional merujuk kuasa tertinggi raja.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：法律制度是主权国家的特征。
+Bahasa Melayu: Perundangan ialah ciri negara berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 8."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章保护居民。
+Bahasa Melayu: Charter of Justice bertujuan melindungi penduduk.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：成立马来西亚后须加入适应新成员的条款。
+Bahasa Melayu: Pembentukan Malaysia memerlukan klausa baharu dalam perlembagaan.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：委任外交官属于元首行政权限。
+Bahasa Melayu: Pelantikan diplomat termasuk kuasa eksekutif Yang di-Pertuan Agong.
+课本／Buku teks：Tingkatan 5, ms. 48."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：议会民主让人民参与国家治理。
+Bahasa Melayu: Demokrasi Berparlimen melibatkan rakyat dalam pemerintahan.
+课本／Buku teks：Tingkatan 5, ms. 50."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：两州额外权限包括土著法院。
+Bahasa Melayu: Kuasa tambahan kedua-dua negeri termasuk Mahkamah Anak Negeri.
+课本／Buku teks：Tingkatan 5, ms. 70."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：增加可负担住宅帮助中等收入者置业。
+Bahasa Melayu: Rumah mampu milik membantu golongan pertengahan memiliki kediaman.
+课本／Buku teks：Tingkatan 5, ms. 77."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：Melayu Raya 是较早的区域合并构想。
+Bahasa Melayu: Melayu Raya ialah gagasan penggabungan wilayah yang lebih awal.
+课本／Buku teks：Tingkatan 5, ms. 90."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：合并有利开发经济潜力及强化安全。
+Bahasa Melayu: Penggabungan memanfaatkan ekonomi dan memperkasakan keselamatan wilayah.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,C,Picture31.png,"中文：印尼领导层更替促使对抗政策结束。
+Bahasa Melayu: Peralihan kepimpinan Indonesia menamatkan konfrontasi.
+课本／Buku teks：Tingkatan 5, ms. 109."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：新国家面对族群团结及经济发展挑战。
+Bahasa Melayu: Negara menghadapi cabaran perpaduan kaum dan pembangunan ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 116."
+,radio,F5 Bab 6,A,B,C,D,A,Picture33.png,"中文：传单、白区及赦免属于心理战。
+Bahasa Melayu: Risalah, kawasan putih dan pengampunan ialah langkah Perang Saraf.
+课本／Buku teks：Tingkatan 5, ms. 121."
+,radio,F5 Bab 8,A,B,C,D,C,Picture34.png,"中文：平衡各州发展促进财富公平分配。
+Bahasa Melayu: Pembangunan seimbang antara negeri membantu pengagihan kekayaan.
+课本／Buku teks：Tingkatan 5, ms. 174."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：政策培养土著商业阶层。
+Bahasa Melayu: Dasar melahirkan kelas bumiputera komersial.
+课本／Buku teks：Tingkatan 5, ms. 182."
+,radio,F5 Bab 9,A,B,C,D,B,Picture36.png,"中文：国家经济利益影响外交政策。
+Bahasa Melayu: Kepentingan ekonomi mempengaruhi dasar luar.
+课本／Buku teks：Tingkatan 5, ms. 197."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：维和任务监督停火及维护法治。
+Bahasa Melayu: Misi pengaman mengawasi gencatan senjata dan mendaulatkan undang-undang.
+课本／Buku teks：Tingkatan 5, ms. 200."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：OIC 维护成员国利益。
+Bahasa Melayu: OIC menjaga kepentingan negara anggota.
+课本／Buku teks：Tingkatan 5, ms. 214."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：兰卡威奖表扬环保贡献。
+Bahasa Melayu: Anugerah Langkawi menghargai sumbangan alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：D应理解为禁止与核武有关的演习，不是禁止所有海上训练。
+Bahasa Melayu: D perlu difahami sebagai menghalang latihan berkaitan senjata nuklear, bukan semua latihan di perairan negara.
+课本／Buku teks：Tingkatan 5, ms. 244."

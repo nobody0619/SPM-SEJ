@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor Set 1 F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Selangor Set 1 F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：这些词表示最高权力。
+Bahasa Melayu: Supernuus dan superanus merujuk kuasa tertinggi.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：人民是主权国家必备特征。
+Bahasa Melayu: Rakyat ialah ciri negara berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 8."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章旨在保护居民免受不公压迫。
+Bahasa Melayu: Charter of Justice melindungi penduduk daripada penindasan.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1965年修宪配合新加坡分离。
+Bahasa Melayu: Pindaan 1965 dibuat selepas pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：重要职位须征询统治者会议意见。
+Bahasa Melayu: Pelantikan penting dirundingkan dengan Majlis Raja-Raja.
+课本／Buku teks：Tingkatan 5, ms. 45."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：不接受集体责任与政策的部长应辞职。
+Bahasa Melayu: Menteri yang tidak menerima tanggungjawab kolektif perlu meletakkan jawatan.
+课本／Buku teks：Tingkatan 5, ms. 54."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：联邦通过州合并与权力划分运作。
+Bahasa Melayu: Sistem Persekutuan melibatkan penggabungan negeri dan pembahagian kuasa.
+课本／Buku teks：Tingkatan 5, ms. 66."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：会议讨论并协调政策执行。
+Bahasa Melayu: Mesyuarat membincangkan pelaksanaan dasar kerajaan.
+课本／Buku teks：Tingkatan 5, ms. 80."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：Templer 的建议着重区域安全。
+Bahasa Melayu: Cadangan Templer mengutamakan kepentingan keselamatan.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：JAK 拟定宪法框架及保障两州权益。
+Bahasa Melayu: JAK menyediakan rangka perlembagaan dan melindungi kepentingan kedua-dua negeri.
+课本／Buku teks：Tingkatan 5, ms. 102."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：平等权利诉求及领袖冲突加深分歧。
+Bahasa Melayu: Tuntutan hak sama rata dan konflik pemimpin memburukkan pertikaian.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：第一马来西亚计划提高人民生活水平。
+Bahasa Melayu: Rancangan Malaysia Pertama meningkatkan taraf hidup rakyat.
+课本／Buku teks：Tingkatan 5, ms. 127."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：马来语作为教学语言促进共同认同。
+Bahasa Melayu: Bahasa Melayu sebagai pengantar membantu perpaduan.
+课本／Buku teks：Tingkatan 5, ms. 147."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：SUKMA 加强州际融合及人民团结。
+Bahasa Melayu: SUKMA mengeratkan integrasi antara negeri dan perpaduan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 153."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：DEB 重组社会，减轻族群经济隔阂。
+Bahasa Melayu: DEB menyusun semula masyarakat untuk mengurangkan jurang ekonomi kaum.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：私营化促进经济及提高服务质量。
+Bahasa Melayu: Penswastaan membangunkan ekonomi dan meningkatkan kualiti perkhidmatan.
+课本／Buku teks：Tingkatan 5, ms. 178."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：国家需要与利益决定外交取向。
+Bahasa Melayu: Keperluan nasional mempengaruhi penggubalan dasar luar.
+课本／Buku teks：Tingkatan 5, ms. 197."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：Lusaka 宣言强调禁止核武。
+Bahasa Melayu: Perisytiharan Lusaka menyeru pengharaman senjata nuklear.
+课本／Buku teks：Tingkatan 5, ms. 213."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：兰卡威奖表扬环保贡献。
+Bahasa Melayu: Anugerah Langkawi menghargai sumbangan dalam alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：限制否决权滥用以维护国际法律平等。
+Bahasa Melayu: Pendirian tersebut mengelakkan penyalahgunaan kuasa veto dan menjamin keadilan antarabangsa.
+课本／Buku teks：Tingkatan 5, ms. 244."

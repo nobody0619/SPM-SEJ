@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sabah Set 2 F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Sabah Set 2 F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：法律制度是主权国家的特征。
+Bahasa Melayu: Perundangan ialah ciri negara berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：主权给予政府自主决策的自由。
+Bahasa Melayu: Kedaulatan memberikan kebebasan kerajaan membuat keputusan.
+课本／Buku teks：Tingkatan 5, ms. 10."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章旨在防止压迫居民。
+Bahasa Melayu: Charter of Justice menghalang penindasan penduduk.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：无君主州的伊斯兰宗教首长是元首。
+Bahasa Melayu: Yang di-Pertuan Agong mengetuai agama Islam di negeri tidak beraja.
+课本／Buku teks：Tingkatan 5, ms. 29."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：统治者会议选出元首，并同意特定事项的修宪。III 和 IV 正确，因此选 D；制定法律属于国会职能。
+Bahasa Melayu: Majlis Raja-Raja memilih Yang di-Pertuan Agong dan memperkenankan pindaan perlembagaan bagi perkara tertentu. III dan IV betul, maka jawapannya D; penggubalan undang-undang ialah tugas Parlimen.
+课本／Buku teks：Tingkatan 5, ms. 44."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：民主赋予人民选择国家领袖的权利。
+Bahasa Melayu: Demokrasi memberi rakyat hak memilih pemimpin negara.
+课本／Buku teks：Tingkatan 5, ms. 50."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：教育属于联邦权限。
+Bahasa Melayu: Pelajaran termasuk dalam Senarai Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 69."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：可负担住宅帮助中等收入者置业。
+Bahasa Melayu: Rumah mampu milik membantu golongan pertengahan memiliki kediaman.
+课本／Buku teks：Tingkatan 5, ms. 77."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：英国希望合并使殖民行政更简便。
+Bahasa Melayu: British mahu memudahkan pentadbiran tanah jajahan.
+课本／Buku teks：Tingkatan 5, ms. 90."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：合并让新加坡获得更广的市场。
+Bahasa Melayu: Penggabungan membuka pasaran lebih luas kepada Singapura.
+课本／Buku teks：Tingkatan 5, ms. 97."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：新国家面对经济发展与族群团结挑战。
+Bahasa Melayu: Malaysia menghadapi cabaran pembangunan ekonomi dan perpaduan kaum.
+课本／Buku teks：Tingkatan 5, ms. 116."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：政府暂停报纸出版并执行煽动法控制危机。
+Bahasa Melayu: Kerajaan menggantung akhbar dan menguatkuasakan Akta Hasutan.
+课本／Buku teks：Tingkatan 5, ms. 130."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国家融合指拉近各州社会联系。
+Bahasa Melayu: Integrasi nasional merapatkan hubungan masyarakat antara negeri.
+课本／Buku teks：Tingkatan 5, ms. 140."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：共同语言有助凝聚各族人民。
+Bahasa Melayu: Bahasa bersama membentuk rakyat bersatu padu.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：DEB 的两大目标是消贫及重组社会。
+Bahasa Melayu: DEB membasmi kemiskinan dan menyusun semula masyarakat.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：智能农业以科技增加农产量。
+Bahasa Melayu: Pertanian pintar meningkatkan hasil melalui teknologi moden.
+课本／Buku teks：Tingkatan 5, ms. 179."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：参与联合国支持维护主权的国际原则。
+Bahasa Melayu: Keanggotaan PBB membantu memelihara kedaulatan negara.
+课本／Buku teks：Tingkatan 5, ms. 198."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：经济发展也是外交面对的挑战。
+Bahasa Melayu: Pembangunan ekonomi ialah cabaran dasar luar.
+课本／Buku teks：Tingkatan 5, ms. 208-209."
+,radio,F5 Bab 9,A,B,C,D,C,Picture39.png,"中文：东盟分裂将破坏区域安全。
+Bahasa Melayu: Perpecahan ASEAN menggugat keselamatan serantau.
+课本／Buku teks：Tingkatan 5, ms. 210."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：边界重叠及人口贩运是跨国议题。
+Bahasa Melayu: Pertindihan sempadan dan pemerdagangan orang ialah isu global.
+课本／Buku teks：Tingkatan 5, ms. 226-229."

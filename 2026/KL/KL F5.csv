@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-KL F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+KL F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：Sovereignty 指完整的统治权。
+Bahasa Melayu: Sovereignty bermaksud kuasa penuh pemerintahan.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：英雄纪念活动培养爱国精神。
+Bahasa Melayu: Hari Pahlawan memupuk patriotisme generasi kini.
+课本／Buku teks：Tingkatan 5, ms. 14."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：司法宪章旨在保护居民免受压迫。
+Bahasa Melayu: Charter of Justice bertujuan mengelakkan penindasan penduduk.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：霹雳州议会负责制定法律。
+Bahasa Melayu: Majlis Negeri Perak berperanan menggubal undang-undang.
+课本／Buku teks：Tingkatan 5, ms. 25."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：Durbar 是统治者讨论行政事务的平台。
+Bahasa Melayu: Durbar membincangkan hal ehwal pentadbiran negeri.
+课本／Buku teks：Tingkatan 5, ms. 42."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：司法机关解释及执行司法法律。
+Bahasa Melayu: Badan kehakiman mentafsir undang-undang dan mengadili kes.
+课本／Buku teks：Tingkatan 5, ms. 55."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：联邦与州合作发展人民住宅及区域走廊。
+Bahasa Melayu: Kerjasama meliputi perumahan rakyat dan pembangunan koridor wilayah.
+课本／Buku teks：Tingkatan 5, ms. 72-73."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：国家财政理事会协调税收与财政事项。
+Bahasa Melayu: Majlis Kewangan Negara menyelaraskan urusan cukai dan kewangan.
+课本／Buku teks：Tingkatan 5, ms. 81."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：新加坡以公投了解人民意见。
+Bahasa Melayu: Singapura mengadakan referendum untuk meninjau pandangan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 100."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：联合国报告延迟，成立日期因而推后。
+Bahasa Melayu: Kelewatan laporan PBB menangguhkan tarikh pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 104."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：增税要求成为马新之间的经济争议。
+Bahasa Melayu: Tambahan cukai menjadi pertikaian ekonomi Malaysia-Singapura.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：第三届大选结果后的紧张与挑衅引发冲突。
+Bahasa Melayu: Ketegangan selepas keputusan PRU ketiga mencetuskan rusuhan.
+课本／Buku teks：Tingkatan 5, ms. 129."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国民大学提升马来语作为知识语言的地位。
+Bahasa Melayu: UKM memartabatkan bahasa Melayu sebagai bahasa ilmu.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家原则旨在加强人民团结。
+Bahasa Melayu: Rukun Negara bertujuan mengukuhkan perpaduan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 157."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：新经济政策以增收入及就业机会消除贫穷。
+Bahasa Melayu: DEB menambah pendapatan dan peluang pekerjaan untuk membasmi kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：政策培养了土著商业阶层。
+Bahasa Melayu: Dasar melahirkan kelas bumiputera komersial.
+课本／Buku teks：Tingkatan 5, ms. 182."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：外交部 Wisma Putra 负责制定外交政策。
+Bahasa Melayu: Wisma Putra menggubal dasar luar Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 196."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：峇厘峰会讨论印度支那局势及区域稳定。
+Bahasa Melayu: Sidang Bali membincangkan pergolakan Indochina dan kestabilan serantau.
+课本／Buku teks：Tingkatan 5, ms. 208."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：AFTA 通过贸易自由化加强经济合作。
+Bahasa Melayu: AFTA meningkatkan kerjasama ekonomi melalui perdagangan bebas.
+课本／Buku teks：Tingkatan 5, ms. 230."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：兰卡威奖表扬保护环境的贡献。
+Bahasa Melayu: Anugerah Langkawi menghargai sumbangan dalam pemeliharaan alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."

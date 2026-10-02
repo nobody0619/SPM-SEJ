@@ -1,41 +1,121 @@
-﻿﻿title,type,question,A,B,C,D,answer,image
-Kelantan 2026,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Kelantan 2026,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：马六甲实行四级官员制度。
+Bahasa Melayu: Melaka mengamalkan Sistem Pembesar Empat Lipatan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：分工明确的官员制度确保统治稳固。
+Bahasa Melayu: Pembahagian tugas pembesar menjamin keutuhan pemerintahan.
+课本／Buku teks：Tingkatan 4, ms. 8."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：青年誓言强调同一祖国、民族及语言，本题D指同一祖国。
+Bahasa Melayu: Sumpah Pemuda menegaskan satu tanah air, bangsa dan bahasa. D ialah satu tanah air.
+课本／Buku teks：Tingkatan 4, ms. 30."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：泰国君主以开放外交及改革避免殖民。
+Bahasa Melayu: Raja Thailand melaksanakan dasar terbuka dan pembaharuan untuk mengelakkan penjajahan.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：帝国主义列强竞争引发第一次世界大战。
+Bahasa Melayu: Persaingan kuasa imperialis mencetuskan Perang Dunia Pertama.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：大战导致德国、奥匈、俄国等君主政权结束。
+Bahasa Melayu: Peperangan menamatkan pemerintahan beraja di beberapa negara Eropah.
+课本／Buku teks：Tingkatan 4, ms. 57."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：BMA 接管行政并要求归还武器以恢复稳定。
+Bahasa Melayu: BMA mengambil alih pentadbiran dan meminta senjata dipulangkan.
+课本／Buku teks：Tingkatan 4, ms. 94."
+,radio,F4 Bab 5,A,B,C,D,B,Picture8.png,"中文：工作委员会建议成立苏丹理事会。
+Bahasa Melayu: Jawatankuasa Kerja mencadangkan Majlis Sultan-Sultan.
+课本／Buku teks：Tingkatan 4, ms. 127."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：马来人反对、统治者与 UMNO 建议促成联邦。
+Bahasa Melayu: Penentangan Melayu serta cadangan raja dan UMNO membawa pembentukan Persekutuan.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：1948年协议包括公民身份条件。
+Bahasa Melayu: Perjanjian 1948 menetapkan syarat kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 134-135."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：符合 Rakyat Raja 或 Rakyat British 亲属条件的子女可依法取得公民权。
+Bahasa Melayu: Anak yang memenuhi syarat keturunan Rakyat Raja atau Rakyat British memperoleh kewarganegaraan secara kuat kuasa undang-undang.
+课本／Buku teks：Tingkatan 4, ms. 135."
+,radio,F4 Bab 5,A,B,C,D,B,Picture12.png,"中文：联邦恢复马来统治者权力，因此获得支持。
+Bahasa Melayu: Persekutuan mengembalikan kuasa Raja-raja Melayu lalu mendapat sokongan.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,B,Picture13.png,"中文：英国拘捕左翼领袖以控制激进运动。
+Bahasa Melayu: British menangkap pemimpin kiri untuk mengawal gerakan radikal.
+课本／Buku teks：Tingkatan 4, ms. 153."
+,radio,F4 Bab 6,A,B,C,D,A,Picture14.png,"中文：Sarawak Rangers 擅长追踪共产党藏身处。
+Bahasa Melayu: Sarawak Rangers menjejaki tempat persembunyian komunis.
+课本／Buku teks：Tingkatan 4, ms. 154."
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：成员负责提出所属部门的法律建议。
+Bahasa Melayu: Ahli mencadangkan undang-undang berkaitan jabatan masing-masing.
+课本／Buku teks：Tingkatan 4, ms. 178."
+,radio,F4 Bab 7,A,B,C,D,A,Picture16.png,"中文：各源流学校分隔族群，令团结难以实现。
+Bahasa Melayu: Sekolah vernakular memisahkan kaum dan menyukarkan perpaduan.
+课本／Buku teks：Tingkatan 4, ms. 180."
+,radio,F4 Bab 8,A,B,C,D,D,Picture17.png,"中文：选举让人民选出稳固、受支持的政府。
+Bahasa Melayu: Pilihan raya membentuk kerajaan mantap dengan sokongan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 196."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：委员会征求人民建议并研究宪制，即II与III。
+Bahasa Melayu: Suruhanjaya meminta cadangan penduduk dan meneliti perlembagaan, iaitu II dan III.
+课本／Buku teks：Tingkatan 4, ms. 221."
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：这些组织就公民身份条件提出不同建议。
+Bahasa Melayu: Pertubuhan tersebut mengemukakan pandangan berbeza tentang kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：实体准备委员会突出独立国家身份。
+Bahasa Melayu: Jawatankuasa Persediaan Fizikal menonjolkan identiti negara merdeka.
+课本／Buku teks：Tingkatan 4, ms. 236."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：主权指国家最高权力。
+Bahasa Melayu: Kedaulatan bermaksud kekuasaan tertinggi negara.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：经济繁荣政策旨在提高生活水平。
+Bahasa Melayu: Dasar kemakmuran ekonomi meningkatkan taraf hidup rakyat.
+课本／Buku teks：Tingkatan 5, ms. 11."
+,radio,F5 Bab 7,A,B,C,D,C,Picture23.png,"中文：国家原则通过团结巩固主权。
+Bahasa Melayu: Rukun Negara mengukuhkan kedaulatan melalui perpaduan.
+课本／Buku teks：Tingkatan 5, ms. 158."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：宪法基础来自马来州法律及英国法律。
+Bahasa Melayu: Perlembagaan berasaskan undang-undang Negeri Melayu dan Inggeris.
+课本／Buku teks：Tingkatan 5, ms. 22."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：Westminster 模式源自英国。
+Bahasa Melayu: Model Westminster berasal dari Britain.
+课本／Buku teks：Tingkatan 5, ms. 42."
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：伊斯兰与马来语是宪法传统特征。
+Bahasa Melayu: Islam dan bahasa Melayu ialah ciri tradisional perlembagaan.
+课本／Buku teks：Tingkatan 5, ms. 28-29."
+,radio,F5 Bab 2,A,B,C,D,A,Picture27.png,"中文：1963年修宪配合马来西亚成立。
+Bahasa Melayu: Pindaan 1963 dibuat untuk pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,D,Picture28.png,"中文：君主为国家最高统治者，其权力受宪法规范。
+Bahasa Melayu: Raja merupakan pemerintah tertinggi yang tertakluk pada perlembagaan.
+课本／Buku teks：Tingkatan 5, ms. 41."
+,radio,F5 Bab 3,A,B,C,D,D,Picture29.png,"中文：王室印玺象征马来统治者的权力与主权。
+Bahasa Melayu: Mohor Besar Raja-Raja melambangkan kekuasaan dan kedaulatan Raja-raja Melayu.
+课本／Buku teks：Tingkatan 5, ms. 44."
+,radio,F5 Bab 3,A,B,C,D,D,Picture30.png,"中文：政治中立的君主有助化解政党及族群争端。
+Bahasa Melayu: Raja berkecuali membantu meredakan pertikaian parti dan perselisihan kaum.
+课本／Buku teks：Tingkatan 5, ms. 56."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：1895年协议成立森美兰邦联。
+Bahasa Melayu: Perjanjian 1895 membentuk Konfederasi Negeri Sembilan.
+课本／Buku teks：Tingkatan 5, ms. 67."
+,radio,F5 Bab 4,A,B,C,D,A,Picture32.png,"中文：1927年调整加强英国行政地位。
+Bahasa Melayu: Penstrukturan 1927 mengukuhkan kedudukan British.
+课本／Buku teks：Tingkatan 5, ms. 68."
+,radio,F5 Bab 4,A,B,C,D,A,Picture33.png,"中文：较大联邦权限保障稳定并推动发展。
+Bahasa Melayu: Kuasa Persekutuan lebih besar menjamin kestabilan dan kemajuan.
+课本／Buku teks：Tingkatan 5, ms. 68."
+,radio,F5 Bab 4,A,B,C,D,D,Picture34.png,"中文：公民身份属于联邦权限。
+Bahasa Melayu: Kewarganegaraan termasuk dalam Senarai Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 69."
+,radio,F5 Bab 4,A,B,C,D,C,Picture35.png,"中文：地方议会提供公共设施。
+Bahasa Melayu: Kerajaan tempatan menyediakan kemudahan awam.
+课本／Buku teks：Tingkatan 5, ms. 71."
+,radio,F5 Bab 5,A,B,C,D,B,Picture36.png,"中文：Malcolm MacDonald 建议整合殖民地为政治经济实体。
+Bahasa Melayu: Malcolm MacDonald mencadangkan penggabungan jajahan sebagai entiti politik dan ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,B,Picture37.png,"中文：共产主义威胁是合并的重要安全因素。
+Bahasa Melayu: Ancaman komunis menjadi faktor keselamatan pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 93."
+,radio,F5 Bab 5,A,B,C,D,C,Picture38.png,"中文：访问与 Cobbold 委员会推进马来西亚构想。
+Bahasa Melayu: Lawatan dan Suruhanjaya Cobbold merealisasikan pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 98-100."
+,radio,F5 Bab 5,A,B,C,D,B,Picture39.png,"中文：五个小组包括财政与部门组织，不包括教育。
+Bahasa Melayu: Jawatankuasa kecil termasuk Kewangan dan Organisasi Jabatan, bukan Pendidikan.
+课本／Buku teks：Tingkatan 5, ms. 102."
+,radio,F5 Bab 5,A,B,C,D,A,Picture40.png,"中文：印尼领导层更替后，谈判结束对抗并恢复马印关系。
+Bahasa Melayu: Peralihan kepimpinan Indonesia membawa rundingan menamatkan konfrontasi dan memulihkan hubungan.
+课本／Buku teks：Tingkatan 5, ms. 109."

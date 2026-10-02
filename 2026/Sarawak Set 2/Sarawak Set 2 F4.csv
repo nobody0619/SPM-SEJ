@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sarawak Set 2 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Sarawak Set 2 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：尊重国旗、国歌等象征体现忠诚。
+Bahasa Melayu: Menghormati simbol kedaulatan menunjukkan kesetiaan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：战略位置与有远见的统治者促成马六甲兴盛。
+Bahasa Melayu: Kedudukan strategik dan pemerintah berwawasan menjadikan Melaka unggul.
+课本／Buku teks：Tingkatan 4, ms. 8."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：光荣革命确立国会主权与人民权利。
+Bahasa Melayu: Revolusi Keagungan menegakkan kedaulatan Parlimen dan hak rakyat.
+课本／Buku teks：Tingkatan 4, ms. 24."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：Emilio Aguinaldo 与美国合作驱逐西班牙。
+Bahasa Melayu: Emilio Aguinaldo bekerjasama dengan Amerika mengusir Sepanyol.
+课本／Buku teks：Tingkatan 4, ms. 28."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：KMS 鼓励会员积极参与行政。
+Bahasa Melayu: KMS menggalakkan ahli bergerak aktif dalam pentadbiran.
+课本／Buku teks：Tingkatan 4, ms. 40."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：这些军人捍卫国家主权。
+Bahasa Melayu: Tokoh tersebut mempertahankan kedaulatan negara.
+课本／Buku teks：Tingkatan 4, ms. 74."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：BMA 须恢复人民对英国行政的信任。
+Bahasa Melayu: BMA memulihkan kepercayaan rakyat terhadap pentadbiran.
+课本／Buku teks：Tingkatan 4, ms. 94."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：英国以晋升机会削弱领袖反对力量。
+Bahasa Melayu: British menawarkan kenaikan pangkat untuk melemahkan penentangan.
+课本／Buku teks：Tingkatan 4, ms. 116."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：Suara Rakyat 传播反殖民独立思想。
+Bahasa Melayu: Suara Rakyat menyebarkan idea kemerdekaan daripada penjajah.
+课本／Buku teks：Tingkatan 4, ms. 129."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：联邦承认马来人的原住民地位。
+Bahasa Melayu: Persekutuan mengiktiraf orang Melayu sebagai penduduk asal.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：马共破坏活动旨在瘫痪英国经济。
+Bahasa Melayu: Keganasan PKM melumpuhkan ekonomi British.
+课本／Buku teks：Tingkatan 4, ms. 149."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：紧急状态增加开支并疏远族群关系。
+Bahasa Melayu: Darurat meningkatkan perbelanjaan dan merenggangkan hubungan kaum.
+课本／Buku teks：Tingkatan 4, ms. 162-163."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：共同课程与教学语言培养公民意识。
+Bahasa Melayu: Kurikulum dan bahasa pengantar sama memupuk nilai kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 183."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：IMP 向各族开放，以团结为目标。
+Bahasa Melayu: IMP mengutamakan perpaduan antara kaum.
+课本／Buku teks：Tingkatan 4, ms. 184."
+,radio,F4 Bab 7,A,B,C,D,A,Picture15.png,"中文：帆船标志象征共同面对独立斗争的挑战。
+Bahasa Melayu: Logo kapal layar melambangkan kesediaan menghadapi cabaran kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 187."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：选举产生拥有人民支持的稳固政府。
+Bahasa Melayu: Pilihan raya membentuk kerajaan mantap dengan sokongan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 197."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：联盟的跨族群政治合作赢得多数选票。
+Bahasa Melayu: Kerjasama politik antara kaum membawa kemenangan Perikatan.
+课本／Buku teks：Tingkatan 4, ms. 202."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：本地内阁让行政运作更顺畅。
+Bahasa Melayu: Kabinet tempatan memastikan pentadbiran lebih lancar.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,B,Picture19.png,"中文：伦敦会谈同意成立宪法委员会。
+Bahasa Melayu: Rundingan London bersetuju membentuk suruhanjaya perlembagaan.
+课本／Buku teks：Tingkatan 4, ms. 218."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：降下英国旗象征殖民统治结束。
+Bahasa Melayu: Penurunan Union Jack menandakan penjajahan British berakhir.
+课本／Buku teks：Tingkatan 4, ms. 238."

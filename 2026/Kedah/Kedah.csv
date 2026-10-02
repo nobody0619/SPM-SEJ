@@ -1,41 +1,121 @@
-﻿﻿title,type,question,A,B,C,D,answer,image
-Kedah 2026,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Kedah 2026,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：法律是马来世界国家民族的特征之一。
+Bahasa Melayu: Undang-undang ialah ciri negara bangsa Alam Melayu.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：《马六甲法典》涵盖刑事罪行及统治者职责。
+Bahasa Melayu: Hukum Kanun Melaka meliputi jenayah dan peranan pemerintah.
+课本／Buku teks：Tingkatan 4, ms. 10."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：Kartini 的著作揭示土著的落后处境。
+Bahasa Melayu: Karya Kartini mendedahkan kemunduran masyarakat peribumi.
+课本／Buku teks：Tingkatan 4, ms. 30."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：日本击败俄国，激发亚洲反殖民意识。
+Bahasa Melayu: Kemenangan Jepun terhadap Rusia membangkitkan nasionalisme Asia.
+课本／Buku teks：Tingkatan 4, ms. 34."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：奥匈帝国皇储遇刺引发第一次世界大战。
+Bahasa Melayu: Pembunuhan pewaris takhta Austria-Hungary mencetuskan Perang Dunia Pertama.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：日军暴行促使当地人民与英国合作抗日。
+Bahasa Melayu: Kekejaman Jepun mendorong penduduk bekerjasama dengan British.
+课本／Buku teks：Tingkatan 4, ms. 80."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：这些政策威胁当地人民的权益。
+Bahasa Melayu: Dasar tersebut menjejaskan hak penduduk tempatan.
+课本／Buku teks：Tingkatan 4, ms. 100-109."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：沙巴居民不了解让渡意义，部分商人看见商业机会。
+Bahasa Melayu: Penduduk kurang memahami penyerahan; peniaga melihat peluang perniagaan.
+课本／Buku teks：Tingkatan 4, ms. 117."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：1948年联邦成立马来统治者会议。
+Bahasa Melayu: Persekutuan 1948 mewujudkan Majlis Raja-Raja.
+课本／Buku teks：Tingkatan 4, ms. 134."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：联邦恢复并维护马来统治者地位。
+Bahasa Melayu: Persekutuan mengembalikan dan menjamin kedudukan Raja-raja Melayu.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：双溪 siput 的三名欧洲园丘经理被杀引发紧急状态。
+Bahasa Melayu: Pembunuhan tiga pengurus ladang Eropah di Sungai Siput mencetuskan darurat.
+课本／Buku teks：Tingkatan 4, ms. 148."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：身份证便于区分居民和共产党成员。
+Bahasa Melayu: Kad pengenalan membezakan orang awam daripada komunis.
+课本／Buku teks：Tingkatan 4, ms. 156."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：族群合作为争取独立奠定基础。
+Bahasa Melayu: Kerjasama kaum menjadi asas mencapai kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 174."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：1956年 Razak 报告建议统一课程和教学纲要。
+Bahasa Melayu: Penyata Razak 1956 mencadangkan kurikulum dan sukatan pelajaran seragam.
+课本／Buku teks：Tingkatan 4, ms. 183."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：答案纸选A（21岁、已登记），沿用课本旧条件；题干提2022年选举，当时已实行18岁投票及自动登记，日期与条件有出入。
+Bahasa Melayu: Skema A menggunakan syarat lama: 21 tahun dan berdaftar. Namun PRU 2022 menggunakan Undi18 dan pendaftaran automatik; konteks tahun perlu disemak.
+课本／Buku teks：Tingkatan 4, ms. 200."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年首次联邦立法议会会议标志迈向自治。
+Bahasa Melayu: Persidangan pertama MPP 1955 menandakan langkah ke arah berkerajaan sendiri.
+课本／Buku teks：Tingkatan 4, ms. 204."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：伦敦谈判同意设立独立宪法委员会。
+Bahasa Melayu: Rundingan London bersetuju menubuhkan suruhanjaya perlembagaan.
+课本／Buku teks：Tingkatan 4, ms. 221."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：加强族群团结能巩固争取独立的力量。
+Bahasa Melayu: Perpaduan kaum mengukuhkan perjuangan mencapai kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：国歌属于实体准备，装饰和庆祝活动属于庆典委员会，所以选 C。
+Bahasa Melayu: Lagu Negaraku termasuk persediaan fizikal, manakala hiasan dan sambutan diuruskan oleh Jawatankuasa Sambutan. Oleh itu, jawapan ialah C.
+课本／Buku teks：Tingkatan 4, ms. 236-237."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：明确的统治范围体现国家主权。
+Bahasa Melayu: Wilayah pengaruh yang jelas menunjukkan kedaulatan negara.
+课本／Buku teks：Tingkatan 4, ms. 246."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：王权强化君主权威及人民忠诚。
+Bahasa Melayu: Daulat mengukuhkan kuasa raja dan kesetiaan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：参与保卫国家的志愿活动体现公民责任。
+Bahasa Melayu: Menyertai sukarelawan pertahanan menunjukkan tanggungjawab warganegara.
+课本／Buku teks：Tingkatan 5, ms. 15."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：宪法兼具传统与现代特征。
+Bahasa Melayu: Perlembagaan menggabungkan ciri tradisional dan moden.
+课本／Buku teks：Tingkatan 5, ms. 28-31."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：修宪适应当前需要并保障人民福祉。
+Bahasa Melayu: Pindaan memenuhi keperluan semasa dan menjaga kesejahteraan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：课本将解散国会和宣布紧急状态列在元首的立法权，因此选 A。
+Bahasa Melayu: Buku teks mengelaskan pembubaran Parlimen dan pengisytiharan darurat di bawah kuasa perundangan Yang di-Pertuan Agong. Jawapan ialah A.
+课本／Buku teks：Tingkatan 5, ms. 49."
+,radio,F5 Bab 4,A,B,C,D,B,Picture26.png,"中文：选举委员会准备选民册并宣布胜出的政党。
+Bahasa Melayu: SPR menyediakan daftar pemilih dan mengumumkan parti yang menang.
+课本／Buku teks：Tingkatan 5, ms. 80."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：农业及森林事务属于州政府权限。
+Bahasa Melayu: Pertanian dan perhutanan termasuk dalam Senarai Negeri.
+课本／Buku teks：Tingkatan 5, ms. 71."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：RASCOM 加强拉让地区安全并对抗共产党。
+Bahasa Melayu: RASCOM menjaga keselamatan kawasan Rajang daripada ancaman komunis.
+课本／Buku teks：Tingkatan 5, ms. 79."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：1961年7月的访问帮助说明马来西亚计划。
+Bahasa Melayu: Lawatan Julai 1961 menjelaskan rancangan pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 98."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：沙巴、砂拉越保留移民管制权。
+Bahasa Melayu: Sabah dan Sarawak mengekalkan kuasa imigresen.
+课本／Buku teks：Tingkatan 5, ms. 102."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：鼓励种植油棕，推动商业农业。
+Bahasa Melayu: Penanaman kelapa sawit menggalakkan pertanian komersial.
+课本／Buku teks：Tingkatan 5, ms. 127."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：马泰边境合作协议共同处理共产党威胁。
+Bahasa Melayu: Perjanjian sempadan Malaysia-Thailand menangani ancaman komunis bersama.
+课本／Buku teks：Tingkatan 5, ms. 125."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：教育、文化及语言政策促进国家团结。
+Bahasa Melayu: Dasar pendidikan, kebudayaan dan bahasa memupuk perpaduan nasional.
+课本／Buku teks：Tingkatan 5, ms. 145-151."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：国家原则凝聚人民并培养对国家的忠诚。
+Bahasa Melayu: Rukun Negara menyatukan rakyat dan membentuk kesetiaan negara.
+课本／Buku teks：Tingkatan 5, ms. 157."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：绿皮书计划鼓励农业及畜牧活动。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan pertanian dan penternakan.
+课本／Buku teks：Tingkatan 5, ms. 169."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：MARDI 通过研究发展农业技术。
+Bahasa Melayu: MARDI menjalankan penyelidikan untuk meningkatkan teknologi pertanian.
+课本／Buku teks：Tingkatan 5, ms. 179."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：马六甲通过派遣使节建立外交关系。
+Bahasa Melayu: Melaka menjalinkan hubungan diplomatik melalui penghantaran utusan.
+课本／Buku teks：Tingkatan 5, ms. 194."
+,radio,F5 Bab 10,A,B,C,D,A,Picture38.png,"中文：AFTA 加强经济合作并降低关税。
+Bahasa Melayu: AFTA meningkatkan kerjasama ekonomi dan mengurangkan tarif.
+课本／Buku teks：Tingkatan 5, ms. 230."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：马来西亚谴责对巴勒斯坦的压迫，并不承认以色列。
+Bahasa Melayu: Malaysia mengecam penindasan Palestin dan tidak mengiktiraf Israel.
+课本／Buku teks：Tingkatan 5, ms. 234."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：兰卡威宣言强调保护环境。
+Bahasa Melayu: Deklarasi Langkawi menekankan pemeliharaan alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."

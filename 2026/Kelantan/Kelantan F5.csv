@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：主权指国家最高权力。
+Bahasa Melayu: Kedaulatan bermaksud kekuasaan tertinggi negara.
+课本／Buku teks：Tingkatan 5, ms. 4."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：经济繁荣政策旨在提高生活水平。
+Bahasa Melayu: Dasar kemakmuran ekonomi meningkatkan taraf hidup rakyat.
+课本／Buku teks：Tingkatan 5, ms. 11."
+,radio,F5 Bab 7,A,B,C,D,C,Picture23.png,"中文：国家原则通过团结巩固主权。
+Bahasa Melayu: Rukun Negara mengukuhkan kedaulatan melalui perpaduan.
+课本／Buku teks：Tingkatan 5, ms. 158."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：宪法基础来自马来州法律及英国法律。
+Bahasa Melayu: Perlembagaan berasaskan undang-undang Negeri Melayu dan Inggeris.
+课本／Buku teks：Tingkatan 5, ms. 22."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：Westminster 模式源自英国。
+Bahasa Melayu: Model Westminster berasal dari Britain.
+课本／Buku teks：Tingkatan 5, ms. 42."
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：伊斯兰与马来语是宪法传统特征。
+Bahasa Melayu: Islam dan bahasa Melayu ialah ciri tradisional perlembagaan.
+课本／Buku teks：Tingkatan 5, ms. 28-29."
+,radio,F5 Bab 2,A,B,C,D,A,Picture27.png,"中文：1963年修宪配合马来西亚成立。
+Bahasa Melayu: Pindaan 1963 dibuat untuk pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,D,Picture28.png,"中文：君主为国家最高统治者，其权力受宪法规范。
+Bahasa Melayu: Raja merupakan pemerintah tertinggi yang tertakluk pada perlembagaan.
+课本／Buku teks：Tingkatan 5, ms. 41."
+,radio,F5 Bab 3,A,B,C,D,D,Picture29.png,"中文：王室印玺象征马来统治者的权力与主权。
+Bahasa Melayu: Mohor Besar Raja-Raja melambangkan kekuasaan dan kedaulatan Raja-raja Melayu.
+课本／Buku teks：Tingkatan 5, ms. 44."
+,radio,F5 Bab 3,A,B,C,D,D,Picture30.png,"中文：政治中立的君主有助化解政党及族群争端。
+Bahasa Melayu: Raja berkecuali membantu meredakan pertikaian parti dan perselisihan kaum.
+课本／Buku teks：Tingkatan 5, ms. 56."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：1895年协议成立森美兰邦联。
+Bahasa Melayu: Perjanjian 1895 membentuk Konfederasi Negeri Sembilan.
+课本／Buku teks：Tingkatan 5, ms. 67."
+,radio,F5 Bab 4,A,B,C,D,A,Picture32.png,"中文：1927年调整加强英国行政地位。
+Bahasa Melayu: Penstrukturan 1927 mengukuhkan kedudukan British.
+课本／Buku teks：Tingkatan 5, ms. 68."
+,radio,F5 Bab 4,A,B,C,D,A,Picture33.png,"中文：较大联邦权限保障稳定并推动发展。
+Bahasa Melayu: Kuasa Persekutuan lebih besar menjamin kestabilan dan kemajuan.
+课本／Buku teks：Tingkatan 5, ms. 68."
+,radio,F5 Bab 4,A,B,C,D,D,Picture34.png,"中文：公民身份属于联邦权限。
+Bahasa Melayu: Kewarganegaraan termasuk dalam Senarai Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 69."
+,radio,F5 Bab 4,A,B,C,D,C,Picture35.png,"中文：地方议会提供公共设施。
+Bahasa Melayu: Kerajaan tempatan menyediakan kemudahan awam.
+课本／Buku teks：Tingkatan 5, ms. 71."
+,radio,F5 Bab 5,A,B,C,D,B,Picture36.png,"中文：Malcolm MacDonald 建议整合殖民地为政治经济实体。
+Bahasa Melayu: Malcolm MacDonald mencadangkan penggabungan jajahan sebagai entiti politik dan ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,B,Picture37.png,"中文：共产主义威胁是合并的重要安全因素。
+Bahasa Melayu: Ancaman komunis menjadi faktor keselamatan pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 93."
+,radio,F5 Bab 5,A,B,C,D,C,Picture38.png,"中文：访问与 Cobbold 委员会推进马来西亚构想。
+Bahasa Melayu: Lawatan dan Suruhanjaya Cobbold merealisasikan pembentukan Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 98-100."
+,radio,F5 Bab 5,A,B,C,D,B,Picture39.png,"中文：五个小组包括财政与部门组织，不包括教育。
+Bahasa Melayu: Jawatankuasa kecil termasuk Kewangan dan Organisasi Jabatan, bukan Pendidikan.
+课本／Buku teks：Tingkatan 5, ms. 102."
+,radio,F5 Bab 5,A,B,C,D,A,Picture40.png,"中文：印尼领导层更替后，谈判结束对抗并恢复马印关系。
+Bahasa Melayu: Peralihan kepimpinan Indonesia membawa rundingan menamatkan konfrontasi dan memulihkan hubungan.
+课本／Buku teks：Tingkatan 5, ms. 109."

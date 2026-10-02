@@ -1,21 +1,60 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sabah Set 1 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Sabah Set 1 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：法律为统治与行政提供指引。
+Bahasa Melayu: Undang-undang menjadi panduan pemerintahan.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：君民互惠巩固王权及人民福祉。
+Bahasa Melayu: Hubungan timbal balik mengukuhkan kedaulatan raja dan kesejahteraan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：美国革命使民主政体得以建立。
+Bahasa Melayu: Revolusi Amerika membawa pelaksanaan sistem demokrasi.
+课本／Buku teks：Tingkatan 4, ms. 25."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：满清无法阻止西方侵入，引发反对。
+Bahasa Melayu: Dinasti Manchu gagal menghalang kemasukan kuasa Barat.
+课本／Buku teks：Tingkatan 4, ms. 26."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：泰国民族主义旨在保持独立主权。
+Bahasa Melayu: Nasionalisme Thailand bertujuan mengekalkan kedaulatan negara.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 2,A,B,C,D,A,Picture6.png,"中文：这些作品唤醒对民族命运的关切。
+Bahasa Melayu: Karya tersebut membangkitkan kesedaran nasib bangsa.
+课本／Buku teks：Tingkatan 4, ms. 39."
+,radio,F4 Bab 3,A,B,C,D,D,Picture7.png,"中文：战胜国认定德国应为战争破坏负责。
+Bahasa Melayu: Jerman dipersalahkan atas kemusnahan peperangan lalu dikenakan hukuman.
+课本／Buku teks：Tingkatan 4, ms. 56."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：日本胜利证明亚洲能抗衡西方，激发民族意识；答案纸未标页码。
+Bahasa Melayu: Kemenangan Jepun membangkitkan nasionalisme kerana Asia mampu menewaskan Barat. Skema tidak menyatakan halaman."
+,radio,F4 Bab 3,A,B,C,D,C,Picture9.png,"中文：日军暴行加强反殖民精神。
+Bahasa Melayu: Kekejaman Jepun mengukuhkan semangat antipenjajah.
+课本／Buku teks：Tingkatan 4, ms. 73."
+,radio,F4 Bab 4,A,B,C,D,D,Picture10.png,"中文：统治者向伦敦寄抗议信并诉诸英国法院。
+Bahasa Melayu: Raja-raja menghantar bantahan ke London dan membawa kes ke mahkamah England.
+课本／Buku teks：Tingkatan 4, ms. 100."
+,radio,F4 Bab 4,A,B,C,D,B,Picture11.png,"中文：战后破坏及重建负担促成沙巴让渡英国。
+Bahasa Melayu: Kemusnahan perang dan kos pemulihan menyebabkan Sabah diserahkan kepada British.
+课本／Buku teks：Tingkatan 4, ms. 115."
+,radio,F4 Bab 5,A,B,C,D,D,Picture12.png,"中文：联邦承认马来人为原有居民。
+Bahasa Melayu: Persekutuan mengiktiraf orang Melayu sebagai penduduk asal.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,D,Picture13.png,"中文：破坏园丘及铁路旨在瘫痪英国经济。
+Bahasa Melayu: Sabotaj ladang dan kereta api melumpuhkan ekonomi British.
+课本／Buku teks：Tingkatan 4, ms. 149."
+,radio,F4 Bab 6,A,B,C,D,A,Picture14.png,"中文：英国需要人民支持，紧急状态加快独立进程。
+Bahasa Melayu: Keperluan sokongan rakyat semasa darurat mempercepat kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 161."
+,radio,F4 Bab 7,A,B,C,D,C,Picture15.png,"中文：成员来自各族，学习共同施政。
+Bahasa Melayu: Keahlian pelbagai kaum menggalakkan kerjasama pentadbiran.
+课本／Buku teks：Tingkatan 4, ms. 178."
+,radio,F4 Bab 7,A,B,C,D,C,Picture16.png,"中文：IMP 向各族开放，以团结为目标。
+Bahasa Melayu: IMP mengutamakan perpaduan antara kaum.
+课本／Buku teks：Tingkatan 4, ms. 184."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：首届内阁争取本地人管理行政。
+Bahasa Melayu: Kabinet pertama memperjuangkan pentadbiran tempatan.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：宪法委员会考虑州自治与联邦关系。
+Bahasa Melayu: Suruhanjaya mempertimbangkan autonomi negeri dalam sistem Persekutuan.
+课本／Buku teks：Tingkatan 4, ms. 220."
+,radio,F4 Bab 9,A,B,C,D,A,Picture19.png,"中文：协议规定联邦宗教及马来人特殊地位。
+Bahasa Melayu: Perjanjian menetapkan Islam sebagai agama Persekutuan dan kedudukan istimewa Melayu.
+课本／Buku teks：Tingkatan 4, ms. 225."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：宪法保障人民表达意见的权利。
+Bahasa Melayu: Perlembagaan menjamin kebebasan bersuara rakyat.
+课本／Buku teks：Tingkatan 4, ms. 247."

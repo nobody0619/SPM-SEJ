@@ -1,41 +1,121 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis 2026,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Perlis 2026,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：人民忠诚决定君主的影响范围。
+Bahasa Melayu: Kesetiaan rakyat menentukan wilayah pengaruh raja.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：Bendahara 领导行政。
+Bahasa Melayu: Bendahara mengetuai pentadbiran kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：教育培养知识分子，传播民族意识。
+Bahasa Melayu: Pendidikan melahirkan golongan intelektual yang menyebarkan nasionalisme.
+课本／Buku teks：Tingkatan 4, ms. 35."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：英国通过监禁压制民族主义领袖。
+Bahasa Melayu: British memenjarakan pemimpin untuk melemahkan perjuangan.
+课本／Buku teks：Tingkatan 4, ms. 42."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：法西斯及纳粹等新意识形态推动战争。
+Bahasa Melayu: Ideologi baharu seperti fasisme dan nazisme mencetuskan peperangan.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：十四点主张按民族界定国家边界。
+Bahasa Melayu: Deklarasi 14 Perkara mencadangkan sempadan negara berasaskan bangsa.
+课本／Buku teks：Tingkatan 4, ms. 56."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：统治者投诉被英国代表欺骗及胁迫。
+Bahasa Melayu: Raja-raja mendakwa diperdaya dan dipaksa wakil British.
+课本／Buku teks：Tingkatan 4, ms. 100."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：Rosli Dhoby 反对英国扩张及砂拉越让渡。
+Bahasa Melayu: Rosli Dhoby menentang peluasan kuasa British dan penyerahan Sarawak.
+课本／Buku teks：Tingkatan 4, ms. 112."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：宽松公民权使马来人担忧与移民竞争。
+Bahasa Melayu: Jus soli menimbulkan kebimbangan persaingan dengan orang asing.
+课本／Buku teks：Tingkatan 4, ms. 129."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：1948 年联邦为自治铺路，并建立本地人民参与行政的基础，因此选 C。
+Bahasa Melayu: Persekutuan Tanah Melayu 1948 membuka ruang berkerajaan sendiri dan menyediakan asas penyertaan penduduk tempatan dalam pentadbiran. Jawapan ialah C.
+课本／Buku teks：Tingkatan 4, ms. 136-137."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：共产党思想通过工会及国民党支部传播。
+Bahasa Melayu: Ideologi komunis disebarkan melalui kesatuan sekerja dan cawangan Kuomintang.
+课本／Buku teks：Tingkatan 4, ms. 146-147."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：谈判未能结束武装斗争：政府要求解散马共，马共要求承认为合法政党，双方无法达成协议。
+Bahasa Melayu: Rundingan gagal menamatkan keganasan kerana kerajaan menuntut PKM dibubarkan, sedangkan PKM mahu pengiktirafan sebagai parti sah.
+课本／Buku teks：Tingkatan 4, ms. 160."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：两组织争取建立独立的伊斯兰国家。
+Bahasa Melayu: Kedua-duanya memperjuangkan kemerdekaan sebagai negara Islam.
+课本／Buku teks：Tingkatan 4, ms. 173."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：成员制训练本地人，为自治作准备。
+Bahasa Melayu: Sistem Ahli melatih penduduk tempatan ke arah berkerajaan sendiri.
+课本／Buku teks：Tingkatan 4, ms. 178."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：选举让人民选择并建立稳固政府。
+Bahasa Melayu: Pilihan raya membentuk kerajaan yang mantap melalui pilihan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 196."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：首届内阁推动本地行政；课本用词是 pentadbiran tempatan，而非仅限某族群。
+Bahasa Melayu: Kabinet memperjuangkan pentadbiran tempatan. Istilah buku teks ialah tempatan, bukan pentadbiran satu kaum sahaja.
+课本／Buku teks：Tingkatan 4, ms. 206."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：统治者建议元首作为国家首长。
+Bahasa Melayu: Raja-raja mencadangkan Yang di-Pertuan Agong sebagai ketua negara.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：协议规定伊斯兰为联邦宗教及马来人特殊地位。
+Bahasa Melayu: Perjanjian menetapkan Islam sebagai agama Persekutuan dan kedudukan istimewa Melayu.
+课本／Buku teks：Tingkatan 4, ms. 224."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：人民须提升诚信及民族自我认同。
+Bahasa Melayu: Rakyat perlu meningkatkan integriti dan jati diri.
+课本／Buku teks：Tingkatan 4, ms. 234."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：独立通过协商达成，没有独立战争流血。
+Bahasa Melayu: Kemerdekaan dicapai melalui rundingan tanpa pertumpahan darah.
+课本／Buku teks：Tingkatan 4, ms. 241."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：传统主权指君主拥有最高国家权力。
+Bahasa Melayu: Kedaulatan tradisional merujuk kuasa tertinggi raja.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：边界是主权国家的基本特征。
+Bahasa Melayu: Sempadan ialah ciri negara berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 8-9."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：司法宪章旨在避免居民遭压迫。
+Bahasa Melayu: Charter of Justice mengelakkan penindasan penduduk.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：1965年修宪因新加坡分离。
+Bahasa Melayu: Pindaan 1965 dibuat berikutan pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：人民通过选举组成政府。
+Bahasa Melayu: Rakyat membentuk kerajaan melalui pilihan raya.
+课本／Buku teks：Tingkatan 5, ms. 41-50."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：国会由元首、下议院及上议院组成。
+Bahasa Melayu: Parlimen terdiri daripada Yang di-Pertuan Agong, Dewan Rakyat dan Dewan Negara.
+课本／Buku teks：Tingkatan 5, ms. 53."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：土地属于州政府权限。
+Bahasa Melayu: Tanah termasuk dalam Senarai Negeri.
+课本／Buku teks：Tingkatan 5, ms. 70."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：市议会提供公共设施。
+Bahasa Melayu: Majlis Perbandaran menyediakan kemudahan awam.
+课本／Buku teks：Tingkatan 5, ms. 71."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：Tunku 在新加坡公开提出马来西亚构想。
+Bahasa Melayu: Tunku mengumumkan gagasan Malaysia di Singapura.
+课本／Buku teks：Tingkatan 5, ms. 94."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：正常化协议恢复马来西亚与印尼关系。
+Bahasa Melayu: Persetujuan Normalisasi memulihkan hubungan Malaysia-Indonesia.
+课本／Buku teks：Tingkatan 5, ms. 109."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：共同市场争议是新加坡分离的经济因素之一。
+Bahasa Melayu: Tuntutan pasaran bersama menjadi faktor ekonomi pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：胜选游行中的挑衅加剧族群冲突。
+Bahasa Melayu: Provokasi dalam perarakan kemenangan mencetuskan pergaduhan kaum.
+课本／Buku teks：Tingkatan 5, ms. 129."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：独立前各族通过政党联盟合作。
+Bahasa Melayu: Kerjasama kaum sebelum merdeka terjalin melalui parti politik.
+课本／Buku teks：Tingkatan 5, ms. 142."
+,radio,F5 Bab 7,A,B,C,D,D,Picture34.png,"中文：DBP 提升国家语言的使用与地位。
+Bahasa Melayu: DBP memperkasakan bahasa kebangsaan.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：增加收入与就业机会消除贫穷。
+Bahasa Melayu: DEB menambah pendapatan dan peluang pekerjaan untuk membasmi kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 168."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：DPN 提升土著的股本拥有权。
+Bahasa Melayu: DPN meningkatkan pemilikan modal saham bumiputera.
+课本／Buku teks：Tingkatan 5, ms. 176."
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：历史联系影响与这些国家的外交关系。
+Bahasa Melayu: Ikatan sejarah mempengaruhi hubungan diplomatik dengan negara tersebut.
+课本／Buku teks：Tingkatan 5, ms. 197."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：马来西亚参与科伦坡计划并反对种族隔离。
+Bahasa Melayu: Malaysia menyertai Rancangan Colombo dan menentang aparteid.
+课本／Buku teks：Tingkatan 5, ms. 206."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：该船队执行支持巴勒斯坦的人道援助任务。
+Bahasa Melayu: Flotila menjalankan misi kemanusiaan untuk Palestin.
+课本／Buku teks：Tingkatan 5, ms. 235."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：东盟食品安全储备应对粮食供应危机。
+Bahasa Melayu: Rizab Sekuriti Makanan ASEAN menangani krisis bekalan makanan.
+课本／Buku teks：Tingkatan 5, ms. 242-243."

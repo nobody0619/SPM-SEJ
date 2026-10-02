@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Pahang F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：Majapahit 实行 Kutaramanawa 法律。
+Bahasa Melayu: Majapahit mengamalkan undang-undang Kutaramanawa.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：Bendahara 是行政首长。
+Bahasa Melayu: Bendahara mengetuai pentadbiran Melaka.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：团结的斗争培养共同归属感。
+Bahasa Melayu: Perjuangan bersatu melahirkan perasaan kekitaan.
+课本／Buku teks：Tingkatan 4, ms. 23."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：Ibu Zain 通过教育提升女性地位。
+Bahasa Melayu: Ibu Zain mengangkat martabat wanita melalui pendidikan.
+课本／Buku teks：Tingkatan 4, ms. 43."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：有效攻击战略及大国合作促成欧洲战事结束。
+Bahasa Melayu: Strategi serangan berkesan dan kerjasama kuasa besar menamatkan perang.
+课本／Buku teks：Tingkatan 4, ms. 62."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：Force 136 组织抵抗日军占领。
+Bahasa Melayu: Force 136 menentang pendudukan Jepun.
+课本／Buku teks：Tingkatan 4, ms. 76."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：Warta Negara 与 Utusan Melayu 刊登反对声浪。
+Bahasa Melayu: Warta Negara dan Utusan Melayu membantah Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 102."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：北婆罗洲公司无力承担战后重建费用。
+Bahasa Melayu: SBUB menghadapi masalah kewangan untuk membina semula Sabah.
+课本／Buku teks：Tingkatan 4, ms. 114,115."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：恢复统治者法律权限即恢复主权。
+Bahasa Melayu: Kuasa perundangan raja mengembalikan kedaulatan mereka.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：新加坡仍作为英国独立的殖民地。
+Bahasa Melayu: Singapura dikekalkan sebagai tanah jajahan British berasingan.
+课本／Buku teks：Tingkatan 4, ms. 134."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：袭击警察旨在制造混乱与恐惧。
+Bahasa Melayu: Serangan terhadap polis bertujuan mencetuskan huru-hara.
+课本／Buku teks：Tingkatan 4, ms. 150,151."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Senoi Praaq 擅长追踪森林中的共产党藏身处。
+Bahasa Melayu: Senoi Praaq menjejaki tempat persembunyian komunis di hutan.
+课本／Buku teks：Tingkatan 4, ms. 154."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：成员制为本地自治培养行政经验。
+Bahasa Melayu: Sistem Ahli menyediakan pengalaman pentadbiran menuju berkerajaan sendiri.
+课本／Buku teks：Tingkatan 4, ms. 179."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：UMNO 反对 Malayan Union。
+Bahasa Melayu: UMNO memperjuangkan penentangan terhadap Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 184."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：联盟的族群合作赢得广泛支持。
+Bahasa Melayu: Kerjasama antara kaum memberikan sokongan kepada Perikatan.
+课本／Buku teks：Tingkatan 4, ms. 197."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：1955年选举推动民主及首届内阁成立。
+Bahasa Melayu: Pilihan raya mengembangkan demokrasi dan membentuk kabinet pertama.
+课本／Buku teks：Tingkatan 4, ms. 204,206."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：独立代表团由 Tunku Abdul Rahman 领导。
+Bahasa Melayu: Rombongan kemerdekaan diketuai Tunku Abdul Rahman.
+课本／Buku teks：Tingkatan 4, ms. 216,217."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：特殊地位基于马来人作为原有居民。
+Bahasa Melayu: Kedudukan istimewa berasaskan orang Melayu sebagai penduduk asal.
+课本／Buku teks：Tingkatan 4, ms. 225."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：庆典准备包括部长在独立仪式穿的特别服装。
+Bahasa Melayu: Persediaan sambutan termasuk pakaian khas menteri untuk upacara kemerdekaan.
+课本／Buku teks：Tingkatan 4, ms. 236."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：AMDA 加强马来亚的防务安全。
+Bahasa Melayu: AMDA mengukuhkan sistem pertahanan Tanah Melayu.
+课本／Buku teks：Tingkatan 4, ms. 243."

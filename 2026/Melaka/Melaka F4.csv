@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Melaka F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：人民忠诚决定君主的统治影响范围。
+Bahasa Melayu: Kesetiaan rakyat menentukan wilayah pengaruh raja.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：港务官负责港口税收。
+Bahasa Melayu: Syahbandar mengurus kutipan cukai pelabuhan.
+课本／Buku teks：Tingkatan 4, ms. 9."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：法国革命推翻君主制度，建立共和国；题干年份1778有误，课本为1789。
+Bahasa Melayu: Revolusi Perancis melahirkan republik. Tahun 1778 dalam soalan ialah kesilapan; buku teks menyatakan 1789.
+课本／Buku teks：Tingkatan 4, ms. 25."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：泛伊斯兰主义号召穆斯林团结反抗西方殖民。
+Bahasa Melayu: Pan-Islamisme menyeru umat Islam menentang penjajahan Barat.
+课本／Buku teks：Tingkatan 4, ms. 27."
+,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：1932年革命结束泰国绝对君主制。
+Bahasa Melayu: Revolusi 1932 menamatkan kuasa mutlak raja Thailand.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 2,A,B,C,D,D,Picture6.png,"中文：KMM 公开反对殖民政府，被视为激进。
+Bahasa Melayu: KMM dianggap radikal kerana menentang kerajaan penjajah.
+课本／Buku teks：Tingkatan 4, ms. 40."
+,radio,F4 Bab 3,A,B,C,D,C,Picture7.png,"中文：德国属于中央同盟国。
+Bahasa Melayu: Jerman menyertai pakatan Kuasa Tengah.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：大战使多个君主政权崩溃，并产生新国家。
+Bahasa Melayu: Peperangan meruntuhkan pemerintahan beraja dan melahirkan negara baharu.
+课本／Buku teks：Tingkatan 4, ms. 57."
+,radio,F4 Bab 3,A,B,C,D,D,Picture9.png,"中文：日本用宣传争取支持，掩饰经济和军事目标。
+Bahasa Melayu: Jepun menggunakan propaganda untuk mencapai kepentingan ekonomi dan ketenteraan.
+课本／Buku teks：Tingkatan 4, ms. 68."
+,radio,F4 Bab 4,A,B,C,D,B,Picture10.png,"中文：BMA 旨在恢复稳定及人民信任。
+Bahasa Melayu: BMA memulihkan kestabilan dan kepercayaan rakyat.
+课本／Buku teks：Tingkatan 4, ms. 94."
+,radio,F4 Bab 4,A,B,C,D,C,Picture11.png,"中文：人民通过召开大会及游行反对马来亚联邦。
+Bahasa Melayu: Rakyat menentang Malayan Union melalui kongres dan perarakan.
+课本／Buku teks：Tingkatan 4, ms. 102-106."
+,radio,F4 Bab 4,A,B,C,D,B,Picture12.png,"中文：Vyner Brooke 缺少合适继承人，是让渡因素之一。
+Bahasa Melayu: Ketiadaan pewaris yang sesuai menjadi faktor penyerahan Sarawak.
+课本／Buku teks：Tingkatan 4, ms. 107."
+,radio,F4 Bab 5,A,B,C,D,B,Picture13.png,"中文：1948年协议成立马来统治者会议。
+Bahasa Melayu: Perjanjian 1948 menubuhkan Majlis Raja-Raja.
+课本／Buku teks：Tingkatan 4, ms. 134."
+,radio,F4 Bab 6,A,B,C,D,D,Picture14.png,"中文：参加会议后，马共转向武装斗争。
+Bahasa Melayu: Selepas persidangan, PKM melancarkan perjuangan bersenjata.
+课本／Buku teks：Tingkatan 4, ms. 148."
+,radio,F4 Bab 6,A,B,C,D,D,Picture15.png,"中文：Senoi Praaq 运用森林知识追踪敌人藏身处。
+Bahasa Melayu: Senoi Praaq menjejaki tempat persembunyian musuh di hutan.
+课本／Buku teks：Tingkatan 4, ms. 154."
+,radio,F4 Bab 7,A,B,C,D,C,Picture16.png,"中文：UMNO 成立的重要目标是反对 Malayan Union。
+Bahasa Melayu: UMNO ditubuhkan untuk menentang Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 172."
+,radio,F4 Bab 7,A,B,C,D,A,Picture17.png,"中文：各源流教育分隔族群，形成社会隔阂。
+Bahasa Melayu: Pendidikan vernakular memisahkan kaum dan mewujudkan jurang sosial.
+课本／Buku teks：Tingkatan 4, ms. 180."
+,radio,F4 Bab 8,A,B,C,D,B,Picture18.png,"中文：1955年候选人须满21岁并懂英语。
+Bahasa Melayu: Calon 1955 perlu berumur sekurang-kurangnya 21 tahun dan mengetahui bahasa Inggeris.
+课本／Buku teks：Tingkatan 4, ms. 200."
+,radio,F4 Bab 9,A,B,C,D,B,Picture19.png,"中文：伦敦谈判同意签订防务协议。
+Bahasa Melayu: Rundingan London bersetuju memeterai perjanjian pertahanan.
+课本／Buku teks：Tingkatan 4, ms. 218."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：庆典委员会安排城市灯饰及礼仪课程。
+Bahasa Melayu: Jawatankuasa Sambutan mengurus lampu hiasan dan kursus protokol.
+课本／Buku teks：Tingkatan 4, ms. 237."

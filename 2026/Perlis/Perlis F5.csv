@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Perlis F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：传统主权指君主拥有最高国家权力。
+Bahasa Melayu: Kedaulatan tradisional merujuk kuasa tertinggi raja.
+课本／Buku teks：Tingkatan 5, ms. 6."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：边界是主权国家的基本特征。
+Bahasa Melayu: Sempadan ialah ciri negara berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 8-9."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：司法宪章旨在避免居民遭压迫。
+Bahasa Melayu: Charter of Justice mengelakkan penindasan penduduk.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：1965年修宪因新加坡分离。
+Bahasa Melayu: Pindaan 1965 dibuat berikutan pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 30."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：人民通过选举组成政府。
+Bahasa Melayu: Rakyat membentuk kerajaan melalui pilihan raya.
+课本／Buku teks：Tingkatan 5, ms. 41-50."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：国会由元首、下议院及上议院组成。
+Bahasa Melayu: Parlimen terdiri daripada Yang di-Pertuan Agong, Dewan Rakyat dan Dewan Negara.
+课本／Buku teks：Tingkatan 5, ms. 53."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：土地属于州政府权限。
+Bahasa Melayu: Tanah termasuk dalam Senarai Negeri.
+课本／Buku teks：Tingkatan 5, ms. 70."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：市议会提供公共设施。
+Bahasa Melayu: Majlis Perbandaran menyediakan kemudahan awam.
+课本／Buku teks：Tingkatan 5, ms. 71."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：Tunku 在新加坡公开提出马来西亚构想。
+Bahasa Melayu: Tunku mengumumkan gagasan Malaysia di Singapura.
+课本／Buku teks：Tingkatan 5, ms. 94."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：正常化协议恢复马来西亚与印尼关系。
+Bahasa Melayu: Persetujuan Normalisasi memulihkan hubungan Malaysia-Indonesia.
+课本／Buku teks：Tingkatan 5, ms. 109."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：共同市场争议是新加坡分离的经济因素之一。
+Bahasa Melayu: Tuntutan pasaran bersama menjadi faktor ekonomi pemisahan Singapura.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：胜选游行中的挑衅加剧族群冲突。
+Bahasa Melayu: Provokasi dalam perarakan kemenangan mencetuskan pergaduhan kaum.
+课本／Buku teks：Tingkatan 5, ms. 129."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：独立前各族通过政党联盟合作。
+Bahasa Melayu: Kerjasama kaum sebelum merdeka terjalin melalui parti politik.
+课本／Buku teks：Tingkatan 5, ms. 142."
+,radio,F5 Bab 7,A,B,C,D,D,Picture34.png,"中文：DBP 提升国家语言的使用与地位。
+Bahasa Melayu: DBP memperkasakan bahasa kebangsaan.
+课本／Buku teks：Tingkatan 5, ms. 149."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：增加收入与就业机会消除贫穷。
+Bahasa Melayu: DEB menambah pendapatan dan peluang pekerjaan untuk membasmi kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 168."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：DPN 提升土著的股本拥有权。
+Bahasa Melayu: DPN meningkatkan pemilikan modal saham bumiputera.
+课本／Buku teks：Tingkatan 5, ms. 176."
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：历史联系影响与这些国家的外交关系。
+Bahasa Melayu: Ikatan sejarah mempengaruhi hubungan diplomatik dengan negara tersebut.
+课本／Buku teks：Tingkatan 5, ms. 197."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：马来西亚参与科伦坡计划并反对种族隔离。
+Bahasa Melayu: Malaysia menyertai Rancangan Colombo dan menentang aparteid.
+课本／Buku teks：Tingkatan 5, ms. 206."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：该船队执行支持巴勒斯坦的人道援助任务。
+Bahasa Melayu: Flotila menjalankan misi kemanusiaan untuk Palestin.
+课本／Buku teks：Tingkatan 5, ms. 235."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：东盟食品安全储备应对粮食供应危机。
+Bahasa Melayu: Rizab Sekuriti Makanan ASEAN menangani krisis bekalan makanan.
+课本／Buku teks：Tingkatan 5, ms. 242-243."

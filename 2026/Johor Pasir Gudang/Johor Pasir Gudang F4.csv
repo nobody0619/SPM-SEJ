@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Pasir Gudang F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Johor Pasir Gudang F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：御色、御乐和御器都是王室标志，象征苏丹的主权。
+Bahasa Melayu: Warna diraja, nobat dan regalia melambangkan kedaulatan serta kebesaran sultan.
+课本／Buku teks：Tingkatan 4, ms. 7."
+,radio,F4 Bab 2,A,B,C,D,C,Picture2.png,"中文：两位泰王以西式行政改革加强国家，避免沦为西方殖民地。
+Bahasa Melayu: Pemodenan birokrasi oleh Raja Mongkut dan Chulalongkorn membantu Thailand mengekalkan kedaulatan daripada penjajahan Barat.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：吉打苏丹反抗东印度公司，是要夺回被英国占领的槟岛。
+Bahasa Melayu: Sultan Abdullah Mukarram Shah menentang SHTI untuk mendapatkan semula Pulau Pinang.
+课本／Buku teks：Tingkatan 4, ms. 32."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：这些小说通过文学唤醒民族意识，主题是热爱祖国。
+Bahasa Melayu: Novel tersebut membangkitkan nasionalisme melalui tema semangat cinta akan negara.
+课本／Buku teks：Tingkatan 4, ms. 39."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：战争造成大量死亡和财产损失，说明和平应被珍惜。
+Bahasa Melayu: Kehilangan nyawa dan kemusnahan akibat perang mengajar kita menghargai keamanan.
+课本／Buku teks：Tingkatan 4, ms. 67."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：居民与英国合作抵抗日本，例如参与抗日活动。
+Bahasa Melayu: Penduduk bekerjasama dengan British dalam gerakan menentang kekejaman pendudukan Jepun.
+课本／Buku teks：Tingkatan 4, ms. 77."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：支持者认为英国可带来工作机会及发展，符合I和IV。
+Bahasa Melayu: Penyokong penyerahan mengharapkan peluang pekerjaan dan kemajuan penduduk tempatan, iaitu I dan IV.
+课本／Buku teks：Tingkatan 4, ms. 113."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：战后重建需要大量资金，北婆罗洲公司无力承担，遂交出沙巴。
+Bahasa Melayu: SBUB kekurangan dana untuk memulihkan Sabah selepas perang lalu menyerahkannya kepada British.
+课本／Buku teks：Tingkatan 4, ms. 115."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：马来统治者和人民持续抗议马来亚联邦，促成1948年新联邦。
+Bahasa Melayu: Bantahan Raja-raja Melayu dan rakyat terhadap Malayan Union membawa kepada penubuhan Persekutuan Tanah Melayu 1948.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：1948年联邦为各族合作和地方领袖参与行政创造条件，迈向自治。
+Bahasa Melayu: Persekutuan 1948 membuka peluang berkerajaan sendiri melalui kerjasama kaum dan penyertaan pemimpin tempatan.
+课本／Buku teks：Tingkatan 4, ms. 136-137."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：紧急法令允许拘捕疑似共产党成员，并对携带武器者判死刑，符合I和IV。
+Bahasa Melayu: Undang-Undang Darurat membolehkan penahanan suspek komunis dan hukuman mati terhadap pembawa senjata api, iaitu I dan IV.
+课本／Buku teks：Tingkatan 4, ms. 148."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：新村以族群为基础安置居民，减少各族接触，影响族群关系。
+Bahasa Melayu: Penempatan Kampung Baru berasaskan kaum mengurangkan interaksi antara kaum dan merenggangkan hubungan mereka.
+课本／Buku teks：Tingkatan 4, ms. 163."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：英国让各族采用不同语言和课程，形成源流学校。
+Bahasa Melayu: Dasar British mewujudkan sekolah vernakular dengan bahasa pengantar dan kurikulum berbeza mengikut kaum.
+课本／Buku teks：Tingkatan 4, ms. 180."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：1946年巫统成立的直接目标是反对Malayan Union。
+Bahasa Melayu: UMNO ditubuhkan pada tahun 1946 untuk menyatukan orang Melayu menentang Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 184."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：联盟赢得绝大多数议席，显示选民接受跨族群合作。
+Bahasa Melayu: Kemenangan besar Perikatan menunjukkan rakyat menerima kerjasama antara kaum dalam politik.
+课本／Buku teks：Tingkatan 4, ms. 197."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：1955年选举推动民主行政，由东姑领导政府，符合I和IV。
+Bahasa Melayu: Pilihan raya 1955 mengukuhkan amalan demokrasi dan membolehkan Tunku Abdul Rahman mengetuai kerajaan, iaitu I dan IV.
+课本／Buku teks：Tingkatan 4, ms. 204."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：委员会须制定统一公民权，作为独立国家宪法的基础。
+Bahasa Melayu: Terma rujukan suruhanjaya termasuk menyediakan satu bentuk kewarganegaraan bagi Persekutuan Tanah Melayu.
+课本／Buku teks：Tingkatan 4, ms. 220."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：接受备忘录、考虑反应及进行讨论，体现制定宪法时的开放态度。
+Bahasa Melayu: Penerimaan memorandum dan perbincangan pelbagai pihak menunjukkan keterbukaan dalam penggubalan perlembagaan.
+课本／Buku teks：Tingkatan 4, ms. 223."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：实体筹备包括国歌、国旗和国徽等，让独立国家具有鲜明身份。
+Bahasa Melayu: Persediaan fizikal seperti bendera, lagu kebangsaan dan jata menonjolkan identiti negara merdeka.
+课本／Buku teks：Tingkatan 4, ms. 236."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：国家标志让人民认同共同身份，培养国家认同感。
+Bahasa Melayu: Lambang kebangsaan membentuk jati diri rakyat melalui pengenalan dan kebanggaan terhadap negara.
+课本／Buku teks：Tingkatan 4, ms. 247."

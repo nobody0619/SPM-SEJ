@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Melaka F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：主权保障人民福祉并获得国际承认。
+Bahasa Melayu: Kedaulatan menjamin kesejahteraan rakyat dan pengiktirafan antarabangsa.
+课本／Buku teks：Tingkatan 5, ms. 5."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：人民与边界构成国家独特身份。
+Bahasa Melayu: Rakyat dan sempadan memberikan identiti tersendiri kepada negara.
+课本／Buku teks：Tingkatan 5, ms. 9."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：司法宪章促使法院设立。
+Bahasa Melayu: Charter of Justice membawa kepada penubuhan mahkamah.
+课本／Buku teks：Tingkatan 5, ms. 24."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：公民身份是联邦宪法的现代特征。
+Bahasa Melayu: Kewarganegaraan ialah ciri moden Perlembagaan Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 28."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：统治者会议须同意州边界变更。
+Bahasa Melayu: Majlis Raja-Raja memperkenankan perubahan sempadan negeri.
+课本／Buku teks：Tingkatan 5, ms. 44."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：行政机关执行国家政策。
+Bahasa Melayu: Badan eksekutif melaksanakan dasar negara.
+课本／Buku teks：Tingkatan 5, ms. 54."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：英国调整行政体制以维护殖民利益。
+Bahasa Melayu: British mengubah pentadbiran untuk menjamin kepentingannya.
+课本／Buku teks：Tingkatan 5, ms. 66-67."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：这些机构负责开发新区域。
+Bahasa Melayu: Agensi tersebut membangunkan wilayah baharu.
+课本／Buku teks：Tingkatan 5, ms. 73."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：合并殖民地有助去殖民化及加强安全。
+Bahasa Melayu: Penggabungan wilayah menjayakan dekolonisasi dan mengukuhkan keselamatan.
+课本／Buku teks：Tingkatan 5, ms. 91."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：印尼认为马来西亚成立威胁其地位。
+Bahasa Melayu: Indonesia menganggap pembentukan Malaysia mengancam kedudukannya.
+课本／Buku teks：Tingkatan 5, ms. 106."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：砂拉越面对宪政危机及安全威胁。
+Bahasa Melayu: Sarawak menghadapi krisis perlembagaan dan ancaman keselamatan.
+课本／Buku teks：Tingkatan 5, ms. 118."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：政府以发展计划缩小生活水平差距。
+Bahasa Melayu: Program pembangunan mengurangkan perbezaan taraf hidup.
+课本／Buku teks：Tingkatan 5, ms. 127."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：国家教育政策通过共同教育培养团结。
+Bahasa Melayu: Dasar Pendidikan Kebangsaan memupuk perpaduan melalui pendidikan.
+课本／Buku teks：Tingkatan 5, ms. 144."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：1969年族群冲突促使国家原则制定。
+Bahasa Melayu: Rusuhan kaum 1969 mendorong pembentukan Rukun Negara.
+课本／Buku teks：Tingkatan 5, ms. 157."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：私营化旨在提高服务效率与质量。
+Bahasa Melayu: Penswastaan meningkatkan kecekapan dan kualiti perkhidmatan.
+课本／Buku teks：Tingkatan 5, ms. 178."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：汽车工业创造就业并增加人民收入。
+Bahasa Melayu: Industri automobil menyediakan pekerjaan dan meningkatkan pendapatan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 187."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：科伦坡计划帮助成员国应对贫穷。
+Bahasa Melayu: Rancangan Colombo membantu negara anggota menangani kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 206."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：1976年峰会讨论印度支那动荡。
+Bahasa Melayu: Sidang 1976 membincangkan pergolakan di Indochina.
+课本／Buku teks：Tingkatan 5, ms. 208."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：战略地理位置使马来西亚成为人口贩运中转地。
+Bahasa Melayu: Kedudukan strategik menjadikan Malaysia lokasi transit pemerdagangan orang.
+课本／Buku teks：Tingkatan 5, ms. 229."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：兰卡威奖鼓励保护环境及可持续发展。
+Bahasa Melayu: Anugerah Langkawi menggalakkan kelestarian alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."

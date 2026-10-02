@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Terengganu F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：把君主与神联系，强化其统治权威。
+Bahasa Melayu: Hubungan raja dengan Dewa Siva mengukuhkan kuasa pemerintahan.
+课本／Buku teks：Tingkatan 4, ms. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：王室婚姻及征服扩大影响范围。
+Bahasa Melayu: Perkahwinan diraja dan penaklukan meluaskan wilayah pengaruh.
+课本／Buku teks：Tingkatan 4, ms. 7."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：宗教被冒犯引发缅甸民族主义。
+Bahasa Melayu: Pencemaran kesucian agama membangkitkan nasionalisme Burma.
+课本／Buku teks：Tingkatan 4, ms. 29."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：Pak Sako 的作品强调自由与反殖民。
+Bahasa Melayu: Karya Pak Sako menekankan kebebasan daripada penjajahan.
+课本／Buku teks：Tingkatan 4, ms. 34."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：法国与英国、俄国组成三国协约。
+Bahasa Melayu: Perancis menyertai Pakatan Bertiga bersama Britain dan Rusia.
+课本／Buku teks：Tingkatan 4, ms. 54."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：五年工业计划及材料研究委员会应对经济问题。
+Bahasa Melayu: Rancangan Perindustrian Lima Tahun dan Jawatankuasa Penyelidikan Bahan menangani masalah ekonomi.
+课本／Buku teks：Tingkatan 4, ms. 71."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：统治者反对政治权力被剥夺，并寻求司法途径。
+Bahasa Melayu: Raja-raja membantah kehilangan kuasa politik melalui tindakan mahkamah.
+课本／Buku teks：Tingkatan 4, ms. 100."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：英国提供晋升机会，削弱本地领袖的反对。
+Bahasa Melayu: Peluang kenaikan pangkat melemahkan penentangan pemimpin tempatan.
+课本／Buku teks：Tingkatan 4, ms. 116."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：联邦协议规定取得公民身份的条件。
+Bahasa Melayu: Perjanjian menetapkan syarat kewarganegaraan.
+课本／Buku teks：Tingkatan 4, ms. 135."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：协议承认马来人的原住民地位。
+Bahasa Melayu: Perjanjian mengiktiraf orang Melayu sebagai penduduk asal.
+课本／Buku teks：Tingkatan 4, ms. 136."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：思想通过工会及报刊传播。
+Bahasa Melayu: Ideologi komunis disebarkan melalui kesatuan sekerja dan akhbar.
+课本／Buku teks：Tingkatan 4, ms. 147."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：破坏园丘、矿场及威胁工人使经济瘫痪。
+Bahasa Melayu: Sabotaj ladang dan lombong melumpuhkan ekonomi.
+课本／Buku teks：Tingkatan 4, ms. 149."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：统一教育促进族群团结。
+Bahasa Melayu: Pendidikan seragam memupuk perpaduan kaum.
+课本／Buku teks：Tingkatan 4, ms. 177."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：Woodhead 建议英语教学及规范教育经费。
+Bahasa Melayu: Laporan Woodhead mencadangkan bahasa Inggeris sebagai pengantar dan pembiayaan teratur.
+课本／Buku teks：Tingkatan 4, ms. 182."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：选举让人民组成政府。
+Bahasa Melayu: Pilihan raya membolehkan rakyat membentuk kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 194."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：1955年民选议会取代成员制。
+Bahasa Melayu: MPP 1955 membawa pemansuhan Sistem Ahli.
+课本／Buku teks：Tingkatan 4, ms. 204."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：船程让代表团商议并拟定谈判策略。
+Bahasa Melayu: Perjalanan laut menyediakan masa berbincang dan menyusun strategi.
+课本／Buku teks：Tingkatan 4, ms. 217."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：1957年协议保留马来人特殊地位。
+Bahasa Melayu: Perjanjian 1957 mengekalkan kedudukan istimewa Melayu.
+课本／Buku teks：Tingkatan 4, ms. 225."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：人民通过选举选政府，属于议会民主。
+Bahasa Melayu: Pemilihan kerajaan melalui pilihan raya ialah Demokrasi Berparlimen.
+课本／Buku teks：Tingkatan 4, ms. 242."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：Tunku 建议创作正式国歌。
+Bahasa Melayu: Tunku Abdul Rahman mencadangkan penciptaan lagu kebangsaan.
+课本／Buku teks：Tingkatan 4, ms. 236."

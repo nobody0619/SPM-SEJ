@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Tangkak F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+title,type,question,A,B,C,D,answer,image,explanation
+Johor Tangkak F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：我国有系统的统治采用君主立宪和议会民主制度。
+Bahasa Melayu: Pemerintahan Malaysia dijalankan secara teratur melalui Raja Berperlembagaan dan Demokrasi Berparlimen.
+课本／Buku teks：Tingkatan 5, ms. 8."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：廉洁行政能避免资源浪费和政治动荡，促进经济繁荣及政治稳定。
+Bahasa Melayu: Pentadbiran tanpa rasuah menjana kemakmuran ekonomi dan menjamin kestabilan politik, iaitu III dan IV.
+课本／Buku teks：Tingkatan 5, ms. 12."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：马来人的特殊地位属于宪法延续下来的传统元素。
+Bahasa Melayu: Kedudukan istimewa orang Melayu ialah ciri tradisional yang dikekalkan dalam Perlembagaan Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 29."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：1965年的修宪配合新加坡退出，删除与新加坡有关的条文。
+Bahasa Melayu: Pindaan 1965 memansuhkan perkara berkaitan Singapura selepas pemisahannya daripada Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 31."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：改变州界须取得统治者会议同意，体现其宪法职责。
+Bahasa Melayu: Majlis Raja-Raja memperkenankan perubahan sempadan negeri menurut Perlembagaan Persekutuan.
+课本／Buku teks：Tingkatan 5, ms. 44."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：传统与现代结合、酌情权和制衡等，都是我国议会民主的独特之处。
+Bahasa Melayu: Gabungan unsur tradisional dan moden, kuasa budi bicara serta semak dan imbang menunjukkan keunikan Demokrasi Berparlimen.
+课本／Buku teks：Tingkatan 5, ms. 57."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：森美兰邦联把原有独立的成员州结合，保留各州的统治特点。
+Bahasa Melayu: Konfederasi Negeri Sembilan menggabungkan negeri-negeri berdaulat di bawah satu susunan pentadbiran.
+课本／Buku teks：Tingkatan 5, ms. 66."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：这些理事会协调中央和州政府合作，使联邦行政更有效率。
+Bahasa Melayu: Majlis tersebut menyelaraskan kerjasama Kerajaan Persekutuan dan Negeri supaya sistem Persekutuan lebih cekap.
+课本／Buku teks：Tingkatan 5, ms. 81."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：沙巴、砂拉越和汶莱的土著人口，可平衡合并新加坡后的族群比例。
+Bahasa Melayu: Penyertaan penduduk bumiputera wilayah Borneo membantu menjamin keseimbangan komposisi kaum dalam Malaysia.
+课本／Buku teks：Tingkatan 5, ms. 93."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼的抗议促使联合国进一步调查，因此成立日期推迟。
+Bahasa Melayu: Bantahan Indonesia menyebabkan siasatan PBB dijalankan dan tarikh pengisytiharan Malaysia ditangguhkan.
+课本／Buku teks：Tingkatan 5, ms. 104."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：要求族群平等权利的政治争议，以及新加坡要求贷款利息的经济争议，促成分离。
+Bahasa Melayu: Tuntutan hak sama rata dan pertikaian faedah pinjaman menimbulkan masalah politik serta ekonomi yang membawa kepada pemisahan.
+课本／Buku teks：Tingkatan 5, ms. 119."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：统治者呼吁人民遵守法律、保持冷静，以阻止暴乱蔓延。
+Bahasa Melayu: Raja-raja menyeru rakyat mematuhi undang-undang dan bertenang bagi mengelakkan rusuhan merebak.
+课本／Buku teks：Tingkatan 5, ms. 131."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：多科制提供技能和实用教育，培养熟练劳动力。
+Bahasa Melayu: Sekolah aneka jurusan menyediakan pendidikan kemahiran untuk melahirkan tenaga kerja mahir.
+课本／Buku teks：Tingkatan 5, ms. 145."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：共同参加课外活动能建立友谊和伙伴精神。
+Bahasa Melayu: Aktiviti kokurikulum bersama memupuk semangat setia kawan dan hubungan mesra antara murid.
+课本／Buku teks：Tingkatan 5, ms. 152."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：敦拉萨以发展农村及增加收入的方式，推动消除贫穷。
+Bahasa Melayu: Tun Abdul Razak memperkenalkan DEB untuk membasmi kemiskinan, khususnya dalam masyarakat luar bandar.
+课本／Buku teks：Tingkatan 5, ms. 167."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：DPN把经济、社会及环境发展结合，推动马来西亚迈向先进国。
+Bahasa Melayu: DPN menggabungkan pembangunan ekonomi, sosial dan fizikal untuk menjadikan Malaysia negara maju.
+课本／Buku teks：Tingkatan 5, ms. 175."
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：参加联合国机构体现我国支持和平共存与国际合作。
+Bahasa Melayu: Komitmen Malaysia dalam agensi PBB mencerminkan usaha hidup bersama secara aman dan bekerjasama di peringkat antarabangsa.
+课本／Buku teks：Tingkatan 5, ms. 198."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：马来西亚反对暴力，提倡中庸，以纠正对伊斯兰的负面看法。
+Bahasa Melayu: Malaysia menolak keganasan dan mengetengahkan kesederhanaan untuk membetulkan tanggapan terhadap Islam.
+课本／Buku teks：Tingkatan 5, ms. 215."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：SIJORI共享各地区的资源和优势，减少对外国的依赖。
+Bahasa Melayu: Kerjasama SIJORI memanfaatkan kelebihan wilayah bagi memperoleh keuntungan bersama dan mengurangkan kebergantungan asing.
+课本／Buku teks：Tingkatan 5, ms. 231."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：浮罗交怡奖表扬对环境保护作出贡献的人士。
+Bahasa Melayu: Anugerah Langkawi diberikan kepada individu yang menyumbang kepada perlindungan dan kelestarian alam sekitar.
+课本／Buku teks：Tingkatan 5, ms. 238."

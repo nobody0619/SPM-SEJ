@@ -1,21 +1,61 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sabah Set 2 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+title,type,question,A,B,C,D,answer,image,explanation
+Sabah Set 2 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：马六甲继承 Srivijaya 的国家民族特征。
+Bahasa Melayu: Melaka mewarisi ciri negara bangsa daripada Srivijaya.
+课本／Buku teks：Tingkatan 4, ms. 5."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：传统观念把 tulah 与背叛君主相联系。
+Bahasa Melayu: Tulah dikaitkan dengan perbuatan menderhaka kepada raja.
+课本／Buku teks：Tingkatan 4, ms. 13."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：明治维新使日本现代化并获西方尊重；课本年份为1868，题干1789有误。
+Bahasa Melayu: Pemulihan Meiji memodenkan Jepun untuk mendapat penghormatan Barat. Tahun yang betul ialah 1868, bukan 1789.
+课本／Buku teks：Tingkatan 4, ms. 27."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：王室垄断政治职位引发改革诉求。
+Bahasa Melayu: Penguasaan politik oleh kerabat diraja menimbulkan tuntutan pembaharuan.
+课本／Buku teks：Tingkatan 4, ms. 31."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：知识分子传播改革及民族意识。
+Bahasa Melayu: Golongan intelektual menyebarkan idea pembaharuan dan nasionalisme.
+课本／Buku teks：Tingkatan 4, ms. 35."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：德国重整军备，企图摆脱战败条约限制。
+Bahasa Melayu: Jerman memperkuat tentera untuk mengatasi sekatan selepas perang.
+课本／Buku teks：Tingkatan 4, ms. 58."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：Force 136 争取马来人支持共同抗日。
+Bahasa Melayu: Force 136 mendapatkan sokongan orang Melayu menentang Jepun.
+课本／Buku teks：Tingkatan 4, ms. 76."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：口号煽动反西方情绪，诱使当地人与日本合作。
+Bahasa Melayu: Slogan menyebarkan sentimen anti-Barat dan mendorong kerjasama dengan Jepun.
+课本／Buku teks：Tingkatan 4, ms. 80."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：行政合并减少英国管理成本。
+Bahasa Melayu: Penyatuan pentadbiran mengurangkan kos pengurusan British.
+课本／Buku teks：Tingkatan 4, ms. 97."
+,radio,F4 Bab 4,A,B,C,D,D,Picture10.png,"中文：让渡使外国殖民权力直接进入砂拉越。
+Bahasa Melayu: Penyerahan membawa penjajahan British secara langsung di Sarawak.
+课本／Buku teks：Tingkatan 4, ms. 109."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：马来人团结反对迫使英国改变政策。
+Bahasa Melayu: Perpaduan orang Melayu memaksa British menggantikan Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 132."
+,radio,F4 Bab 5,A,B,C,D,A,Picture12.png,"中文：联邦承认马来人为原有居民。
+Bahasa Melayu: Persekutuan mengiktiraf orang Melayu sebagai penduduk asal.
+课本／Buku teks：Tingkatan 4, ms. 135."
+,radio,F4 Bab 6,A,B,C,D,B,Picture13.png,"中文：共产党思想早期通过国民党支部传播。
+Bahasa Melayu: Ideologi komunis disebarkan melalui cawangan Kuomintang.
+课本／Buku teks：Tingkatan 4, ms. 146."
+,radio,F4 Bab 6,A,B,C,D,C,Picture14.png,"中文：Min Yuen 执行宣传并支援马共。
+Bahasa Melayu: Min Yuen menjalankan propaganda dan menyokong PKM.
+课本／Buku teks：Tingkatan 4, ms. 157."
+,radio,F4 Bab 7,A,B,C,D,C,Picture15.png,"中文：UMNO 最初重点反对 Malayan Union。
+Bahasa Melayu: UMNO pada awalnya menentang pelaksanaan Malayan Union.
+课本／Buku teks：Tingkatan 4, ms. 172."
+,radio,F4 Bab 7,A,B,C,D,D,Picture16.png,"中文：各源流课程不同，不利共同认同。
+Bahasa Melayu: Kurikulum berbeza antara sekolah menyukarkan perpaduan.
+课本／Buku teks：Tingkatan 4, ms. 180."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：投票让人民选择代表并组成政府。
+Bahasa Melayu: Pengundian membolehkan rakyat membentuk kerajaan.
+课本／Buku teks：Tingkatan 4, ms. 196."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：航程提供时间商议谈判策略。
+Bahasa Melayu: Perjalanan kapal memberi masa menyusun strategi perundingan.
+课本／Buku teks：Tingkatan 4, ms. 217."
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：统治者建议设立国家元首。
+Bahasa Melayu: Raja-raja mencadangkan Yang di-Pertuan Agong sebagai ketua negara.
+课本／Buku teks：Tingkatan 4, ms. 222."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：独立以协商达成，未发生独立战争。
+Bahasa Melayu: Kemerdekaan dicapai melalui rundingan tanpa pertumpahan darah.
+课本／Buku teks：Tingkatan 4, ms. 242-245."
