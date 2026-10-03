@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-MRSM F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+MRSM F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：君主是马来世界国家的统治核心，领导政府并获得臣民效忠，因此选A。 答案纸参考：F4第4页。
+Bahasa Melayu: Raja mengetuai kerajaan Alam Melayu dan menjadi pusat pemerintahan serta kesetiaan rakyat, A. Rujukan skema: T4 ms.4."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：明朝承认马六甲及外国使节来访，证明其自主地位获其他国家承认，III、IV正确。 答案纸参考：F4第6页。
+Bahasa Melayu: Pengiktirafan Dinasti Ming dan penerimaan utusan luar membuktikan kedaulatan Melaka diiktiraf kerajaan lain; III dan IV betul. Rujukan skema: T4 ms.6."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：越南报刊批判殖民压迫并要求本地人民权利，以传播民族主义，所以II、III正确。 答案纸参考：F4第29页。
+Bahasa Melayu: Akhbar Vietnam mengkritik penindasan penjajah dan menuntut hak rakyat tempatan untuk menyebarkan nasionalisme; II dan III betul. Rujukan skema: T4 ms.29."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：Ibrahim Haji Yaakob参与成立Kesatuan Melayu Muda，通过组织推动马来民族意识。 答案纸参考：F4第40页。
+Bahasa Melayu: Ibrahim Haji Yaakob menubuhkan Kesatuan Melayu Muda untuk menggerakkan kesedaran nasionalisme melalui persatuan. Rujukan skema: T4 ms.40."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：英国以法律限制政治活动及反殖民宣传，导致政治意识不能公开传播。 答案纸参考：F4第53页。
+Bahasa Melayu: British memperkenalkan undang-undang yang menyekat kegiatan politik dan propaganda antipenjajah, menyebabkan kesedaran politik tidak dapat disebarkan terbuka. Rujukan skema: T4 ms.53."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：皇储遇刺引发奥匈对塞尔维亚采取行动，联盟体系把冲突扩大为第一次世界大战。 答案纸参考：F4第54页。
+Bahasa Melayu: Pembunuhan pewaris takhta menyebabkan Austria-Hungary bertindak terhadap Serbia; sistem pakatan meluaskan konflik menjadi Perang Dunia Pertama. Rujukan skema: T4 ms.54."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：妇女参加反割让示威，公开表达反对Sarawak成为英国殖民地的立场。 答案纸参考：F4第111页。
+Bahasa Melayu: Wanita menyertai demonstrasi antipenyerahan untuk menyatakan bantahan terhadap Sarawak menjadi tanah jajahan British. Rujukan skema: T4 ms.111."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：英国提供本地官员晋升机会，吸引地方精英合作，削弱反割让的动力。 答案纸参考：F4第116页。
+Bahasa Melayu: Peluang kenaikan pangkat bagi pegawai tempatan menarik kerjasama pemimpin dan mengurangkan dorongan membantah penyerahan Sabah. Rujukan skema: T4 ms.116."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：1948年联邦回应本地人民反Malayan Union及恢复君主地位等要求。 答案纸参考：F4第132–133页。
+Bahasa Melayu: Persekutuan 1948 memenuhi tuntutan penduduk tempatan yang membantah Malayan Union dan mahu kedudukan raja dipulihkan. Rujukan skema: T4 ms.132–133."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：居住年限及品行条件是登记取得公民权的要求，因此X为pendaftaran。 答案纸参考：F4第135页。
+Bahasa Melayu: Tempoh bermastautin dan tingkah laku baik ialah syarat kewarganegaraan secara pendaftaran, maka X ialah pendaftaran. Rujukan skema: T4 ms.135."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：特别支部以伪装渗透获取共产党情报，用于安排有效反共行动。 答案纸参考：F4第153页。
+Bahasa Melayu: Cawangan Khas melakukan penyamaran untuk mendapatkan maklumat komunis dan merancang operasi berkesan. Rujukan skema: T4 ms.153."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：紧急时期的族群怀疑、隔离措施与不同群体遭遇，造成族群关系疏远。 答案纸参考：F4第163页。
+Bahasa Melayu: Kecurigaan kaum, langkah pemisahan dan pengalaman berbeza semasa darurat merenggangkan hubungan kaum. Rujukan skema: T4 ms.163."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：统一教育让不同族群共享课程和学习经验，有助CLC达成和谐与友好目标。 答案纸参考：F4第174页。
+Bahasa Melayu: Pendidikan seragam memberikan pengalaman serta kurikulum bersama untuk mencapai keharmonian dan muhibah yang diusahakan CLC. Rujukan skema: T4 ms.174."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：以国语为教育共同基础可促进全国交流、认同与团结，是1956年教育报告的核心建议。 答案纸参考：F4第183页。
+Bahasa Melayu: Penggunaan bahasa kebangsaan menjadi asas pendidikan bersama untuk komunikasi, identiti dan perpaduan menurut Penyata 1956. Rujukan skema: T4 ms.183."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：1955年选民须年满21岁及为联邦公民，所以I、II正确；此题考当年的规定。 答案纸参考：F4第200页。
+Bahasa Melayu: Pengundi 1955 mesti berumur sekurang-kurangnya 21 tahun dan warganegara Persekutuan, maka I dan II betul berdasarkan syarat ketika itu. Rujukan skema: T4 ms.200."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：首届内阁推动公务体系本地化，让本地人逐步接替殖民官员并准备自治。 答案纸参考：F4第206页。
+Bahasa Melayu: Kabinet pertama menjadikan perkhidmatan awam bercorak tempatan dengan menggantikan pegawai kolonial sebagai persediaan pemerintahan sendiri. Rujukan skema: T4 ms.206."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：Tunku在1956年2月20日宣布独立日期为1957年8月31日，并分享伦敦谈判成果。 答案纸参考：F4第219页。
+Bahasa Melayu: Tunku mengumumkan tarikh kemerdekaan 31 Ogos 1957 pada 20 Februari 1956 selepas kejayaan rundingan London. Rujukan skema: T4 ms.219."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：Reid委员会获指示建立单一共同公民身份，作为独立国家人民团结的基础。 答案纸参考：F4第220页。
+Bahasa Melayu: Suruhanjaya Reid ditugaskan mewujudkan satu bentuk kewarganegaraan sebagai asas rakyat negara merdeka. Rujukan skema: T4 ms.220."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：庆典委员会举办礼仪课程，确保独立宣告庆典按正式程序顺利进行。 答案纸参考：F4第237页。
+Bahasa Melayu: Jawatankuasa Sambutan menganjurkan kursus protokol agar upacara pemasyhuran kemerdekaan berjalan mengikut tatacara rasmi. Rujukan skema: T4 ms.237."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：国旗和国花是共同国家象征，培养国家身份、忠诚及民族自我认同。 答案纸参考：F4第247页。
+Bahasa Melayu: Bendera dan bunga kebangsaan ialah lambang bersama yang membentuk jati diri, identiti dan kesetiaan bangsa. Rujukan skema: T4 ms.247."

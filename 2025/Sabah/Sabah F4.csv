@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sabah F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Sabah F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：B：传统政治中的领土是承认国王权威、向他效忠的人民所在地区，因此人民的忠诚决定其势力范围。
+Bahasa Melayu: B: Wilayah dalam sistem politik Melayu tradisional ialah kawasan penduduk yang menerima dan setia kepada raja; kesetiaan rakyat menentukan pengaruhnya."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：A：Bendahara是首席大臣，领导行政并协助及劝告苏丹；管理财政属于Penghulu Bendahari。
+Bahasa Melayu: A: Bendahara mengetuai pentadbiran dan menjadi penasihat sultan, manakala kewangan diurus oleh Penghulu Bendahari."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：B：法国革命反对绝对君主制，随后以共和制度取代王朝统治。
+Bahasa Melayu: B: Revolusi Perancis menentang pemerintahan raja mutlak dan membawa kepada pelaksanaan sistem republik."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：A：满清未能阻止西方势力介入，民族主义者因此认为王朝不能维护中国主权。
+Bahasa Melayu: A: Dinasti Manchu gagal menghalang kemasukan kuasa Barat, lalu ditentang kerana tidak mempertahankan kedaulatan China."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：B：作品揭露人民受殖民者压迫，激发民族意识。课本说明Kartini书信集译名为Letters of a Javanese Princess；题干Putera（王子）应是Puteri（公主）的笔误。
+Bahasa Melayu: B: Karya tersebut mendedahkan penindasan penjajah dan membangkitkan kesedaran. Buku teks menjelaskan terjemahan surat Kartini berjudul Letters of a Javanese Princess; perkataan Putera dalam soalan sepatutnya Puteri."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：A：英国以拘捕和监禁削弱本地民族主义领袖，使他们不能继续公开组织斗争。
+Bahasa Melayu: A: British menangkap dan memenjarakan pemimpin nasionalis untuk melemahkan kegiatan serta perjuangan mereka."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：D：第一次世界大战包括帝国主义列强争夺殖民地与经济利益；国联失败及新意识形态对应后来的第二次大战。
+Bahasa Melayu: D: Persaingan kuasa imperialis merebut tanah jajahan dan kepentingan ekonomi ialah faktor Perang Dunia Pertama, bukan kegagalan Liga Bangsa-Bangsa atau ideologi baharu."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：C：日本击败中国及俄国，证明亚洲国家也能战胜强国，鼓舞东南亚民族主义。
+Bahasa Melayu: C: Kejayaan Jepun menewaskan China dan Rusia membuktikan negara Asia mampu mengalahkan kuasa besar, lalu membangkitkan nasionalisme di Asia Tenggara."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：A（I、II）：日本通过材料研究委员会及五年生产计划，开发本地资源并应对经济问题。
+Bahasa Melayu: A (I dan II): Jepun menubuhkan Jawatankuasa Penyelidikan Bahan dan Rancangan Pengeluaran Lima Tahun untuk menggunakan sumber tempatan serta mengatasi kemelesetan ekonomi."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：题库暂存D，但课本与答案纸都支持B：BMA负责恢复人民信任与治安，并非专门处理示威。题干的1943年亦不准确；BMA于1945年9月恢复马来亚行政。
+Bahasa Melayu: Kunci semasa ialah D, tetapi buku teks dan skema menyokong B: BMA memulihkan kepercayaan rakyat serta keamanan, bukan khusus menangani demonstrasi. Tahun 1943 dalam soalan juga tidak tepat; pentadbiran BMA bermula pada September 1945."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：题库暂存B，按课本及答案纸应为A：马来人团结反对Malayan Union，促使英国接受1948年联合邦安排。
+Bahasa Melayu: Kunci semasa ialah B, tetapi buku teks dan skema menyokong A: perpaduan orang Melayu menentang Malayan Union mendorong British menggantikannya dengan Persekutuan Tanah Melayu 1948."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：题库暂存A，按课本及答案纸应为D：1948年联合邦承认马来人为原住民并保障特殊地位，并未让他们全面掌控仍受英国统治的行政。
+Bahasa Melayu: Kunci semasa ialah A, tetapi buku teks dan skema menyokong D: Persekutuan 1948 mengiktiraf orang Melayu sebagai penduduk asal serta kedudukan istimewa mereka, bukan memberikan penguasaan penuh terhadap pentadbiran British."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：题库暂存B，按题目、课本及答案纸应为D：破坏胶园、矿场及铁路旨在瘫痪英国经济，削弱殖民统治。
+Bahasa Melayu: Kunci semasa ialah B, tetapi soalan, buku teks dan skema menyokong D: sabotaj ladang getah, lombong dan landasan kereta api bertujuan melumpuhkan ekonomi British."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：B（I、IV）：死亡铁路强迫劳动和食物配给使人民受苦，体现日据时期的残酷与艰难生活。
+Bahasa Melayu: B (I dan IV): Buruh paksa untuk landasan kereta api maut dan catuan makanan menyebabkan penderitaan penduduk semasa pemerintahan Jepun."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：D：Sistem Ahli让本地领袖管理部门，学习政府运作，为自治及独立作准备。
+Bahasa Melayu: D: Sistem Ahli memberi pemimpin tempatan latihan mengurus portfolio dan mentadbir kerajaan sebagai persediaan ke arah kemerdekaan."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：C：IMP向各族开放，以跨族群合作及团结为基础，不是仅依靠单一族群政党。
+Bahasa Melayu: C: IMP terbuka kepada pelbagai kaum dan mengutamakan perpaduan serta kerjasama antara kaum."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：D：联盟党赢得51／52席，显示选民支持由不同族群政党组成的合作模式。
+Bahasa Melayu: D: Kemenangan Perikatan sebanyak 51 daripada 52 kerusi membuktikan rakyat menerima kerjasama politik antara kaum."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：B：制宪委员会负责起草独立国家的宪法，包括联邦结构及中央与州的权力分配。
+Bahasa Melayu: B: Suruhanjaya merangka perlembagaan negara merdeka, termasuk bentuk Persekutuan dan pembahagian kuasa antara kerajaan pusat dengan negeri."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：A（I、II）：1957年协议规定伊斯兰为联邦宗教，并维持马来人的特殊地位。
+Bahasa Melayu: A (I dan II): Perjanjian 1957 menetapkan Islam sebagai agama Persekutuan dan mengekalkan kedudukan istimewa orang Melayu."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：A：独立庆典及场地准备展示旗帜、国歌等国家象征，让新国家的身份被看见。
+Bahasa Melayu: A: Persediaan fizikal dan sambutan kemerdekaan menonjolkan lambang serta identiti negara baharu seperti bendera dan lagu kebangsaan."

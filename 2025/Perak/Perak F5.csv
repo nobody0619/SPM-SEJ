@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：马六甲统治者通过有效治理及王权权威获得人民效忠；统治者与人民之间的关系是传统主权的重要基础。答案纸参考：F5，第6页。
+Bahasa Melayu: Pemerintah Melaka mengukuhkan kesetiaan rakyat melalui pemerintahan dan kewibawaan raja. Hubungan pemerintah dengan rakyat menjadi asas kedaulatan tradisional. Rujukan skema: F5, halaman 6."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：主权国家具有有组织的政府与明确疆界，所以I和II正确。多元族群不是每个主权国家必有的条件，制定法律也不是法官的主要职能。答案纸参考：F5，第8至9页。
+Bahasa Melayu: Negara berdaulat mempunyai pemerintahan yang teratur dan sempadan yang jelas, maka I dan II tepat. Kepelbagaian kaum bukan syarat semua negara, manakala hakim bukan pihak utama menggubal undang-undang. Rujukan skema: F5, halaman 8–9."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：Charter of Justice建立司法制度，旨在保障当地居民免受不公与压迫；并不是把所有原有法律一律废除。答案纸参考：F5，第24页。
+Bahasa Melayu: Charter of Justice mewujudkan sistem kehakiman untuk melindungi penduduk asal daripada ketidakadilan dan penindasan, bukan menghapuskan semua undang-undang sedia ada. Rujukan skema: F5, halaman 24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：1963年成立马来西亚及1965年新加坡退出都改变国家组成，因此需要修改宪法，所以I和II正确。答案纸参考：F5，第30至31页。
+Bahasa Melayu: Pembentukan Malaysia pada 1963 dan pemisahan Singapura pada 1965 mengubah susunan negara serta memerlukan pindaan Perlembagaan. Maka I dan II tepat. Rujukan skema: F5, halaman 30–31."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：国家元首是马六甲、槟城及联邦直辖区等没有本州苏丹地区的伊斯兰教领袖。其他选项不是题目所问的宗教职权。答案纸参考：F5，第49页。
+Bahasa Melayu: Yang di-Pertuan Agong menjadi Ketua Agama Islam bagi Melaka, Pulau Pinang dan Wilayah Persekutuan. Pilihan lain bukan kuasa agama yang ditanya. Rujukan skema: F5, halaman 49."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：议会民主让人民通过选举选择有能力、可信赖的代表与领袖，并让领导接受人民的政治监督。答案纸参考：F5，第50页。
+Bahasa Melayu: Demokrasi berparlimen membolehkan rakyat memilih pemimpin yang berwibawa melalui pilihan raya dan menilai kepimpinan mereka. Rujukan skema: F5, halaman 50."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：公共福利以及文化和体育属于共同权限，由联邦及州共同负责，所以III和IV正确；财政及公民权属于联邦权限。答案纸参考：F5，第70页。
+Bahasa Melayu: Kebajikan masyarakat serta kebudayaan dan sukan termasuk Senarai Bersama, maka III dan IV tepat. Kewangan dan kewarganegaraan ialah bidang Persekutuan. Rujukan skema: F5, halaman 70."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：首相与州务大臣及首席部长会议加强联邦和州的协调，确保政策能在各州顺利实施。答案纸参考：F5，第80页。
+Bahasa Melayu: Mesyuarat Menteri Besar dan Ketua Menteri bersama Perdana Menteri menyelaraskan tindakan Persekutuan dengan negeri supaya dasar dilaksanakan dengan berkesan. Rujukan skema: F5, halaman 80."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：沙巴部分人士最初担心成立马来西亚后失去自主，主张先取得自身独立，因此对建议抱有疑虑。答案纸参考：F5，第96页。
+Bahasa Melayu: Sebahagian penduduk Sabah pada awalnya bimbang kehilangan autonomi dan mahu mencapai kemerdekaan terlebih dahulu, lalu meragui cadangan Malaysia. Rujukan skema: F5, halaman 96."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：科博尔委员会到沙巴和砂拉越收集居民对成立马来西亚的意见，评估当地支持程度。答案纸参考：F5，第100页。
+Bahasa Melayu: Suruhanjaya Cobbold meninjau pendapat penduduk Sabah dan Sarawak tentang pembentukan Malaysia serta menilai tahap sokongan mereka. Rujukan skema: F5, halaman 100."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：“Malaysian Malaysia”的主张涉及各族政治权利，并与当时宪法保障的马来人及土著特殊地位产生争议，加剧中央与新加坡的紧张关系。答案纸参考：F5，第119页。
+Bahasa Melayu: Slogan Malaysian Malaysia menimbulkan pertikaian tentang hak politik kaum dan kedudukan istimewa orang Melayu serta bumiputera yang dilindungi Perlembagaan, lalu memburukkan hubungan dengan Singapura. Rujukan skema: F5, halaman 119."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：职业培训让失业者获得工作技能，提高就业机会，是处理技能不足及工作机会有限问题的措施。答案纸参考：F5，第128页。
+Bahasa Melayu: Latihan vokasional memberi kemahiran pekerjaan kepada penganggur dan meningkatkan peluang mendapat kerja bagi menangani masalah kekurangan kemahiran serta peluang pekerjaan. Rujukan skema: F5, halaman 128."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国家教育政策既培养具技能的人力，也通过共同教育体系加强国民团结，因此I和II正确。答案纸参考：F5，第144页。
+Bahasa Melayu: Dasar Pendidikan Kebangsaan melahirkan tenaga kerja mahir dan memupuk perpaduan melalui sistem pendidikan bersama. Oleh itu, I dan II tepat. Rujukan skema: F5, halaman 144."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：RIMUP安排不同学校与族群学生参与共同活动，增加接触、友谊及理解，从而促进团结。答案纸参考：F5，第152页。
+Bahasa Melayu: RIMUP melibatkan murid pelbagai sekolah dan kaum dalam aktiviti bersama bagi membina persahabatan, persefahaman dan perpaduan. Rujukan skema: F5, halaman 152."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：新经济政策通过重组社会及减少族群经济差距，建立更公平的经济参与，促进团结。题干年份若写1970起，标准政策时期是1971至1990年。答案纸参考：F5，第167页。
+Bahasa Melayu: DEB menyusun semula masyarakat dan mengurangkan jurang ekonomi antara kaum untuk mewujudkan penyertaan ekonomi yang lebih adil serta perpaduan. Tempoh rasmi dasar ialah 1971–1990 walaupun soalan bermula dengan 1970. Rujukan skema: F5, halaman 167."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：DARA、KEJORA及KETENGAH是区域发展机构，开发土地、基础设施及经济活动以改善当地生活。题干若暗示全在第三大马计划才成立则不准确；这里考的是区域发展职能。答案纸参考：F5，第171页。
+Bahasa Melayu: DARA, KEJORA dan KETENGAH ialah agensi pembangunan wilayah yang membangunkan tanah, infrastruktur serta kegiatan ekonomi. Jika soalan menganggap semuanya ditubuhkan dalam RMK Ketiga, kronologi itu tidak tepat; fungsi yang diuji ialah pembangunan wilayah. Rujukan skema: F5, halaman 171."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：加入联合国让独立国家获得国际承认，并通过国际合作维护主权及安全。答案纸参考：F5，第198页。
+Bahasa Melayu: Keanggotaan PBB memberikan pengiktirafan antarabangsa kepada negara merdeka dan membantu mempertahankan kedaulatan serta keselamatan melalui kerjasama dunia. Rujukan skema: F5, halaman 198."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：种族隔离政策按种族区分权利，压迫非白人，违反平等原则，因此马来西亚反对这项种族歧视政策。答案纸参考：F5，第207页。
+Bahasa Melayu: Dasar apartheid membezakan hak mengikut kaum dan menindas penduduk bukan kulit putih. Malaysia menentangnya kerana dasar ini bersifat diskriminasi kaum. Rujukan skema: F5, halaman 207."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：南沙群岛接近重要海上贸易路线，并具有战略位置，因此II和III是争议的重要原因。答案纸参考：F5，第227页。
+Bahasa Melayu: Kepulauan Spratly berdekatan laluan perdagangan penting dan mempunyai kedudukan geostrategik, maka II dan III menjelaskan kepentingannya. Rujukan skema: F5, halaman 227."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：东盟自由贸易区降低成员国之间的货物关税，促进区域贸易及经济合作。答案纸参考：F5，第230页。
+Bahasa Melayu: AFTA mengurangkan tarif barangan antara negara anggota ASEAN untuk meningkatkan perdagangan dan kerjasama ekonomi serantau. Rujukan skema: F5, halaman 230."

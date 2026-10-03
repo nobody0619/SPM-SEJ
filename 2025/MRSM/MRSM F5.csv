@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-MRSM F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+MRSM F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：经济繁荣政策扩大就业与收入、提高生活条件，最终提升人民生活水平。 答案纸参考：F5第10页。
+Bahasa Melayu: Dasar kemakmuran ekonomi menambah pekerjaan, pendapatan dan kesejahteraan untuk meningkatkan taraf hidup rakyat. Rujukan skema: T5 ms.10."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：政府更新军事装备，人民加入安全部队，共同加强国防，因此D配对正确。 答案纸参考：F5第15页。
+Bahasa Melayu: Pemerintah memodenkan aset ketenteraan dan rakyat menganggotai pasukan keselamatan untuk memperkukuh pertahanan; pasangan D betul. Rujukan skema: T5 ms.15."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：法律为统治者提供治理指南并保护居民，使行政和司法有规范，因此II、III正确。 答案纸参考：F5第22–24页。
+Bahasa Melayu: Undang-undang menjadi panduan pemerintah dan melindungi penduduk melalui peraturan pentadbiran serta kehakiman; II dan III betul. Rujukan skema: T5 ms.22–24."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：1965年宪法修改配合新加坡脱离马来西亚，删除或调整涉及新加坡的条文。 答案纸参考：F5第31页。
+Bahasa Melayu: Pindaan 1965 berkaitan pemisahan Singapura daripada Malaysia dengan memansuhkan atau menyesuaikan peruntukan mengenainya. Rujukan skema: T5 ms.31."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：改变州边界须获得有关州及统治者会议的同意，体现其宪法保障作用。 答案纸参考：F5第44–45页。
+Bahasa Melayu: Perubahan sempadan negeri memerlukan persetujuan negeri berkenaan dan perkenan Majlis Raja-Raja menurut perlembagaan. Rujukan skema: T5 ms.44–45."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：司法机关依据宪法裁决联邦和州之间的权限争议，以维护法律。 答案纸参考：F5第55页。
+Bahasa Melayu: Badan kehakiman menyelesaikan pertikaian kuasa antara negeri dan persekutuan berdasarkan perlembagaan. Rujukan skema: T5 ms.55."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：1927年重组联邦议会旨在改善治理并巩固英国在马来州的地位。 答案纸参考：F5第67页。
+Bahasa Melayu: Penstrukturan Majlis Mesyuarat Persekutuan 1927 memperkemas tadbir urus dan mengukuhkan kedudukan British di negeri Melayu. Rujukan skema: T5 ms.67."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：全国财政理事会协调贷款、税务及联邦州财政关系，所以II、III符合其财政职责。 答案纸参考：F5第81页。
+Bahasa Melayu: Majlis Kewangan Negara menyelaraskan pinjaman, percukaian dan hubungan kewangan persekutuan-negeri; II dan III menepati tugas kewangan. Rujukan skema: T5 ms.81."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：Tory建议合并是为维护英国经济利益，通过马来亚和新加坡的互补市场促进贸易。 答案纸参考：F5第91页。
+Bahasa Melayu: Cadangan Tory menjaga kepentingan ekonomi British melalui pasaran dan perdagangan Tanah Melayu-Singapura yang saling melengkapi. Rujukan skema: T5 ms.91."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：Azahari担心Brunei加入后损失财富，认为英国借合并延续经济影响，因此为保护经济利益而反对。 答案纸参考：F5第97页。
+Bahasa Melayu: Azahari bimbang Brunei kehilangan kekayaan dan British mengekalkan pengaruh ekonomi melalui Malaysia, lalu menentang demi kepentingan ekonomi. Rujukan skema: T5 ms.97."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：平等权利的政治诉求及相关族群宣传加剧马来人与华人紧张，促成1964年骚乱。 答案纸参考：F5第119页。
+Bahasa Melayu: Tuntutan hak sama rata dan propaganda berkaitan kaum meningkatkan ketegangan Melayu-Cina sehingga menyumbang rusuhan 1964. Rujukan skema: T5 ms.119."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：MAGERAN暂停报刊出版以阻止挑动族群仇恨的消息，控制紧急时期秩序。 答案纸参考：F5第130页。
+Bahasa Melayu: MAGERAN menggantung penerbitan akhbar untuk membendung berita yang membangkitkan permusuhan kaum dan mengawal ketenteraman. Rujukan skema: T5 ms.130."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：DBP出版马来语读物，扩大国语的知识用途和阅读资源，提升其地位。 答案纸参考：F5第149页。
+Bahasa Melayu: DBP menerbitkan bahan bacaan bahasa Melayu untuk memperluas penggunaan bahasa ilmu dan sumber pembacaan. Rujukan skema: T5 ms.149."
+,radio,F5 Bab 7,A,B,C,D,D,Picture34.png,"中文：第二届文化大会强调加强国家原则，使共同价值成为文化与团结建设基础。 答案纸参考：F5第150页。
+Bahasa Melayu: Kongres Kebudayaan Kedua menekankan pengukuhan Rukun Negara sebagai asas nilai bersama bagi budaya dan perpaduan. Rujukan skema: T5 ms.150."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：MARDI研发并推广智能农业，如运用现代技术提高农业效率与产量。 答案纸参考：F5第179页。
+Bahasa Melayu: MARDI memperkenalkan pertanian pintar melalui penyelidikan dan teknologi moden untuk meningkatkan kecekapan serta hasil pertanian. Rujukan skema: T5 ms.179."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：银行和房地产企业发展创造工作岗位，让人民参与经济活动并增加收入。 答案纸参考：F5第182页。
+Bahasa Melayu: Perkembangan perusahaan perbankan dan hartanah membuka peluang pekerjaan serta meningkatkan penyertaan dan pendapatan rakyat. Rujukan skema: T5 ms.182."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：冷战期间大国阵营竞争使马来西亚转向不偏袒任何阵营，以保障国家利益。 答案纸参考：F5第197页。
+Bahasa Melayu: Persaingan blok kuasa besar dalam Perang Dingin mendorong Malaysia tidak berpihak demi menjaga kepentingan negara. Rujukan skema: T5 ms.197."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：马来西亚推动伊斯兰银行及国际伊斯兰大学，加强成员间金融与教育合作，所以III、IV正确。 答案纸参考：F5第216–217页。
+Bahasa Melayu: Malaysia menubuhkan institusi perbankan Islam dan universiti Islam antarabangsa untuk kerjasama kewangan serta pendidikan; III dan IV betul. Rujukan skema: T5 ms.216–217."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：持续健康检查有助及早发现HIV感染并安排治疗与预防，是支持减少AIDS的措施。 答案纸参考：F5第229页。
+Bahasa Melayu: Pemeriksaan kesihatan berterusan membantu pengesanan HIV awal serta rawatan dan pencegahan untuk mengurangkan AIDS. Rujukan skema: T5 ms.229."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：东盟紧急稻米储备在天灾及供应短缺时提供粮食援助，保障粮食安全。 答案纸参考：F5第242–243页。
+Bahasa Melayu: Simpanan Beras Kecemasan ASEAN menyediakan bantuan ketika bencana atau kekurangan bekalan untuk menjamin keselamatan makanan. Rujukan skema: T5 ms.242–243."

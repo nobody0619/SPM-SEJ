@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Johor Bahru 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Bahru 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：室利佛逝臣民饮用 Telaga Batu 铭文石上流下的水，是宣誓效忠君主的仪式，所以选D。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Rakyat Srivijaya meminum air dari Inskripsi Telaga Batu dalam upacara sumpah setia kepada raja, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：不服从君主被视为违背臣民责任，臣民担心遭受 tulah，即对君主不忠所招致的灾祸；waadat则是君民之间的约定。（答案纸参考：F4，第13页。）
+Bahasa Melayu: Rakyat takut menerima tulah apabila mengingkari pemerintah; waadat pula ialah perjanjian antara pemerintah dengan rakyat, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：Gandhi 的 Satyagraha 强调坚持真理，以非暴力方式反抗不公，因此核心原则是 kebenaran，选B。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Satyagraha menekankan pegangan pada kebenaran dan penentangan tanpa kekerasan terhadap ketidakadilan, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 26."
+,radio,F4 Bab 3,A,B,C,D,A,Picture4.png,"中文：经济制裁限制日本取得原料，日本因此计划控制资源丰富的东南亚，以满足工业和战争需要，选A。（答案纸参考：F4，第65页。）
+Bahasa Melayu: Sekatan ekonomi menyukarkan bekalan bahan mentah Jepun; Jepun merancang menguasai Asia Tenggara yang kaya dengan sumber untuk keperluan industri dan perang, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 65."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：Barbarossa 是德国进攻苏联的军事行动，属于 Hitler 扩张并企图控制欧洲的计划，所以本题选A。（答案纸参考：F4，第60页。）
+Bahasa Melayu: Operasi Barbarossa ialah serangan Jerman terhadap Soviet Union dalam rancangan peluasan kuasa Hitler untuk menguasai Eropah, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 60."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：日本与中国已有中日战争的敌对关系，部分华人又支援中国抗日，因此日军对华人采取残酷政策，选B。（答案纸参考：F4，第73页。）
+Bahasa Melayu: Permusuhan dalam Perang China–Jepun serta bantuan masyarakat Cina kepada perjuangan China menyebabkan Jepun melayan mereka dengan kejam, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 73."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：Utusan Melayu 等报章报道及批评 Malayan Union，传播反对意见并动员马来人，四个选项中选D。（答案纸参考：F4，第102页。）
+Bahasa Melayu: Utusan Melayu menyebarkan bantahan terhadap Malayan Union dan membangkitkan kesedaran orang Melayu, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 102."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：Sabah 被移交英国政府后成为英国直辖殖民地，主权及行政受殖民政府控制，因此选D。（答案纸参考：F4，第117页。）
+Bahasa Melayu: Penyerahan Sabah menjadikannya tanah jajahan British yang berada di bawah pentadbiran kerajaan British, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 117."
+,radio,F4 Bab 3,A,B,C,D,C,Picture9.png,"中文：日本在1931年侵占满洲，显示其军事扩张及区域实力，符合题目强调的1930年代，选C。（答案纸参考：F4，第59页。）
+Bahasa Melayu: Pendudukan Manchuria pada tahun 1931 menunjukkan peluasan ketenteraan dan kekuatan Jepun pada dekad 1930-an, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 59."
+,radio,F4 Bab 3,A,B,C,D,A,Picture10.png,"中文：Orde Baharu 是日本建立区域新秩序的扩张政策，意图控制亚洲及太平洋地区，选A。（答案纸参考：F4，第64页。）
+Bahasa Melayu: Orde Baharu ialah rancangan Jepun mewujudkan susunan baharu untuk menguasai kawasan Asia Pasifik, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 64."
+,radio,F4 Bab 3,A,B,C,D,D,Picture11.png,"中文：日本用“亚洲人的亚洲”等宣传，把侵略包装成解放亚洲，以争取当地支持并实现经济、军事目标，选D。（答案纸参考：F4，第68页。）
+Bahasa Melayu: Jepun menggunakan propaganda seperti Asia untuk Orang Asia bagi mendapatkan sokongan penduduk sambil memenuhi kepentingan ekonomi dan ketenteraannya, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 68."
+,radio,F4 Bab 3,A,B,C,D,D,Picture12.png,"中文：占领造成苦难，教训是对外来势力保持警惕，并团结合作维护国家安全；III与IV对应D。（答案纸参考：F4，第73页。）
+Bahasa Melayu: Kesengsaraan zaman pendudukan mengajar rakyat supaya sentiasa berwaspada dan bekerjasama mempertahankan negara; III dan IV memberikan D. Rujukan skema: Tingkatan 4, m.s. 73."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：CLC 强调不同族群的平等与公正，通过改善族群关系建立团结，为自治奠定基础，选B。（答案纸参考：F4，第174页。）
+Bahasa Melayu: Moto CLC menekankan kesamaan dan keadilan untuk membina perpaduan antara kaum sebagai asas berkerajaan sendiri, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 174."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：课本列出的 PPP 领导人为 Dr. S. Kanapathippilai；John Thivy、K. L. Devaser 属于 MIC 相关领导人，所以选B。（答案纸参考：F4，第184页。）
+Bahasa Melayu: Pemimpin PPP yang disenaraikan dalam buku teks ialah Dr. S. Kanapathippilai; John Thivy dan K. L. Devaser berkaitan dengan MIC, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 184."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：Bentuk A 与 Bentuk B 都保留11名州代表及3名少数群体代表；选举席位数量则不同，因此共同点是II、III，选C。（答案纸参考：F4，第198页。）
+Bahasa Melayu: Kedua-dua Bentuk A dan B mempunyai 11 wakil negeri serta tiga wakil golongan minoriti; jumlah ahli yang dipilih berbeza, maka II dan III memberikan C. Rujukan skema: Tingkatan 4, m.s. 198."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年联邦选举产生民选代表，并为成立首届内阁奠定基础；题列人物是获选代表，因此本题选A。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Pilihan Raya Umum 1955 melahirkan wakil yang dipilih rakyat dan menjadi asas pembentukan kabinet pertama; tokoh yang disenaraikan ialah wakil terpilih, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 206."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：Lord Reid、Sir Ivor Jennings 等成员组成联邦宪法委员会，负责拟定独立前的宪法，即 Reid Commission，选A。（答案纸参考：F4，第221页。）
+Bahasa Melayu: Lord Reid dan Sir Ivor Jennings merupakan anggota Suruhanjaya Perlembagaan Persekutuan yang merangka perlembagaan menjelang kemerdekaan, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 221."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：PAS 要求把马来语列为官方语言，凸显本地语言在独立国家中的地位，因此选C。（答案纸参考：F4，第223页。）
+Bahasa Melayu: PAS mencadangkan bahasa Melayu dijadikan bahasa rasmi dalam draf Perlembagaan Persekutuan Tanah Melayu, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 223."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：课本引用 Mandela 对独立的理解，强调摆脱奴役与压迫；四个选项中对应D。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Takrif kemerdekaan menurut Nelson Mandela menekankan kebebasan daripada perhambaan dan penindasan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：公民获法律承认，才享有受保障的基本权利；题干描述的是对人民公民身份的承认，所以选A。（答案纸参考：F4，第247页。）
+Bahasa Melayu: Pengiktirafan sebagai rakyat memberikan kedudukan warganegara serta hak asasi yang dilindungi undang-undang, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 247."
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：联邦由多个州联合组成，1957年马来亚联邦与1963年马来西亚联邦都体现州的结合，选B。（答案纸参考：F5，第6页。）
+Bahasa Melayu: Persekutuan terbentuk melalui penggabungan beberapa negeri, seperti Persekutuan Tanah Melayu 1957 dan Persekutuan Malaysia 1963, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 6."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：国家原则、体育与文化活动提供共同价值及交流平台，主要目的为增强不同族群的团结，选C。（答案纸参考：F5，第11页。）
+Bahasa Melayu: Rukun Negara, sukan dan kebudayaan memupuk nilai bersama serta hubungan antara kaum untuk mengukuhkan perpaduan, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 11."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：课本把独立后实行的 Westminster 制度与成文宪法联系起来；I、II对应A，口头法律及划定边界并非这里的特征。（答案纸参考：F5，第27页。）
+Bahasa Melayu: Model Westminster yang dilaksanakan selepas merdeka berasaskan perlembagaan bertulis; I dan II memberikan A, bukannya undang-undang lisan atau penetapan sempadan. Rujukan skema: Tingkatan 5, m.s. 27."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：宪法规范政府权力、人民权利及国家行政，提供稳定、公平的规则以保障人民安宁，选C。（答案纸参考：F5，第29页。）
+Bahasa Melayu: Perlembagaan menetapkan kuasa kerajaan, hak rakyat dan aturan pentadbiran untuk mengekalkan kestabilan serta kesejahteraan rakyat, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 29."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：1897年的 Durbar 是马来统治者会议，讨论与州行政有关的事务；I、II对应A。（答案纸参考：F5，第43页。）
+Bahasa Melayu: Durbar 1897 ialah Majlis Persidangan Raja-raja Melayu untuk membincangkan hal pentadbiran negeri; I dan II memberikan A. Rujukan skema: Tingkatan 5, m.s. 43."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：Dewan Negara 与 Dewan Rakyat 同属国会，参与讨论和通过法案，职责是制定法律，选C；解释宪法属于司法工作。（答案纸参考：F5，第53页。）
+Bahasa Melayu: Dewan Negara dan Dewan Rakyat membentuk Parlimen yang membahaskan serta meluluskan rang undang-undang, maka C tepat; tafsiran perlembagaan berkaitan kehakiman. Rujukan skema: Tingkatan 5, m.s. 53."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：Persekutuan 指多个州联合为一个联邦，并按宪法分配中央与州的权力，选B。（答案纸参考：F5，第66页。）
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dengan pembahagian kuasa antara kerajaan Persekutuan dan Negeri menurut perlembagaan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 66."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：Sabah 的海洋保护区由州政府通过 Taman-Taman Sabah 管理，目的是保护海洋生态及资源，选B。（答案纸参考：F5，第75页。）
+Bahasa Melayu: Kerajaan Negeri Sabah mengurus kawasan perlindungan marin melalui Taman-Taman Sabah untuk memelihara khazanah laut, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 75."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：Thailand 认为成立 Malaysia 有助东南亚的稳定与和平，因此支持这项联合构想，选D。（答案纸参考：F5，第97页。）
+Bahasa Melayu: Thailand menyokong pembentukan Malaysia kerana melihatnya sebagai usaha mewujudkan keamanan dan kestabilan serantau, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 97."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：印尼领导层由 Sukarno 转向 Suharto 后改变政策，促使对抗结束，因此主要转折为领导层变化，选A。（答案纸参考：F5，第108页。）
+Bahasa Melayu: Perubahan kepimpinan Indonesia daripada Sukarno kepada Suharto membawa perubahan dasar dan penamatan konfrontasi, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 108."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：Malaysian Malaysia 运动要求所有公民获得平等权利，题目对应 hak sama rata，选D。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Kempen Malaysian Malaysia menuntut hak sama rata bagi semua warganegara, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 119."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：发展加工工业可增加产品附加值及生产种类，减少单靠橡胶、锡原料出口的风险，选C。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Kemajuan industri pemprosesan menambah nilai dan mempelbagaikan pengeluaran, sekali gus mengurangkan pergantungan pada eksport getah serta bijih timah, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 127."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：国家原则提供共同价值，国语提供共同沟通媒介，两者属于社会层面的团结措施；II、III对应C。（答案纸参考：F5，第140页。）
+Bahasa Melayu: Rukun Negara membentuk nilai bersama dan bahasa kebangsaan menjadi alat komunikasi bersama dalam usaha sosial memperkukuh perpaduan; II dan III memberikan C. Rujukan skema: Tingkatan 5, m.s. 140."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：Sekolah Seri Puteri 与 Kolej Sultan Abdul Halim 是课本列出的加强马来语教学机构，I、IV对应B。（答案纸参考：F5，第148页。）
+Bahasa Melayu: Sekolah Seri Puteri dan Kolej Sultan Abdul Halim ialah institusi yang mempergiat penggunaan bahasa Melayu sebagai bahasa pengantar; I dan IV memberikan B. Rujukan skema: Tingkatan 5, m.s. 148."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：区域开发在较落后地区建立农业、产业及工作机会，提高收入并改善不同群体的经济参与，落实 DEB，选D。（答案纸参考：F5，第168页。）
+Bahasa Melayu: Pembangunan wilayah membuka kegiatan ekonomi dan peluang pekerjaan di kawasan kurang maju untuk meningkatkan pendapatan serta penyertaan masyarakat, selaras dengan DEB, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 168."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：ILP 提供工业技能训练，提高就业能力及收入，是减少贫困的具体措施；配对“ILP—提供技能”正确，选C。（答案纸参考：F5，第179页。）
+Bahasa Melayu: Institut Latihan Perindustrian memberikan latihan kemahiran untuk meningkatkan kebolehpasaran dan pendapatan, maka pasangan ILP–memberikan kemahiran dalam C tepat. Rujukan skema: Tingkatan 5, m.s. 179."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：外交政策随国内与国际环境改变，但重点仍是维护国家安全、主权及经济利益，所以选B。
+Bahasa Melayu: Dasar luar berubah mengikut keadaan dalam dan luar negara untuk melindungi keselamatan, kedaulatan serta kepentingan nasional, maka B tepat."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：ASEAN 把东南亚国家联系起来，透过合作与互助展现区域友谊及团结精神，选C。（答案纸参考：F5，第210页。）
+Bahasa Melayu: ASEAN menghubungkan negara serantau melalui kerjasama dan semangat setiakawan, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 210."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：CGM 向 Gaza 居民提供人道援助；课本列出的项目包括医疗援助，所以四项中选D，而非派军队。（答案纸参考：F5，第234页。）
+Bahasa Melayu: CGM menyalurkan bantuan kemanusiaan kepada penduduk Gaza; projek dalam buku teks merangkumi bantuan perubatan, maka D tepat, bukannya penghantaran tentera. Rujukan skema: Tingkatan 5, m.s. 234."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：区域合作、无核区及粮食安全分别保障稳定、安全和基本生活需要，共同目标是人民福祉，选C。（答案纸参考：F5，第242页。）
+Bahasa Melayu: Kerjasama serantau, zon bebas nuklear dan keselamatan makanan menjamin kestabilan, keselamatan serta keperluan hidup untuk kesejahteraan rakyat, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 242."

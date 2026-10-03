@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-N9 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+N9 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：附属地区通过王室婚姻接受马六甲宗主权；武力征服获得的通常称征服地区。 答案纸参考：F4第7页。
+Bahasa Melayu: Wilayah naungan menerima ketuanan Melaka melalui perkahwinan; wilayah yang diperoleh melalui peperangan disebut wilayah taklukan. Rujukan skema: T4 ms.7."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：X为Penghulu Bendahari，负责国库财务与政府收支，因此选D。 答案纸参考：F4第9页。
+Bahasa Melayu: X ialah Penghulu Bendahari yang mengurus perbendaharaan dan kewangan kerajaan, D. Rujukan skema: T4 ms.9."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：Bushido强调勇敢、忠诚、牺牲及奋力达成目标，推动日本民族主义。 答案纸参考：F4第27页。
+Bahasa Melayu: Bushido menekankan keberanian, kesetiaan, pengorbanan dan kesungguhan mencapai cita-cita, menyokong nasionalisme Jepun. Rujukan skema: T4 ms.27."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：这些领袖的反抗集中在各自地区，针对殖民侵犯本地权利，属于地方性斗争。 答案纸参考：F4第33页。
+Bahasa Melayu: Perjuangan tokoh ini tertumpu di kawasan masing-masing untuk menentang pencabulan hak tempatan, maka bersifat setempat. Rujukan skema: T4 ms.33."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：法西斯主义把国家利益置于个人利益之上，并以强大领导者与国家权力为核心。 答案纸参考：F4第58页。
+Bahasa Melayu: Fasisme mengutamakan kepentingan negara berbanding individu melalui pemimpin kuat dan kuasa negara. Rujukan skema: T4 ms.58."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：盟军以经济制裁限制日本获取物资和石油，试图阻止其扩张。 答案纸参考：F4第65页。
+Bahasa Melayu: Pihak Bersekutu mengenakan sekatan ekonomi bagi menghadkan bekalan bahan dan minyak Jepun untuk menghalang peluasan kuasa. Rujukan skema: T4 ms.65."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：民众举行群众集会并通过报刊表达反对Malayan Union，I、IV符合课本对人民行动的归类。 答案纸参考：F4第102及106页。
+Bahasa Melayu: Rakyat mengadakan rapat umum dan menggunakan akhbar untuk membantah Malayan Union; I dan IV menepati pengelasan tindakan rakyat dalam buku teks. Rujukan skema: T4 ms.102 dan 106."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：英国调走有能力的PKML领袖，削弱组织领导与动员力，压制Sabah政治意识。 答案纸参考：F4第116页。
+Bahasa Melayu: British memindahkan pemimpin PKML yang berkebolehan untuk melemahkan kepimpinan dan mobilisasi kesedaran politik Sabah. Rujukan skema: T4 ms.116."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：1946年工作委员会起草取代Malayan Union的联邦协议及行政安排。 答案纸参考：F4第126页。
+Bahasa Melayu: Jawatankuasa Kerja 1946 merangka perjanjian serta pentadbiran persekutuan untuk menggantikan Malayan Union. Rujukan skema: T4 ms.126."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：行政和立法委员会协助英国高级专员处理治理及立法事务，使联邦行政运作。 答案纸参考：F4第134页。
+Bahasa Melayu: Majlis mesyuarat dan perundangan membantu Pesuruhjaya Tinggi British dalam pentadbiran serta perundangan persekutuan. Rujukan skema: T4 ms.134."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：身份证让政府识别居民、监控行动及区分共产党与普通民众。 答案纸参考：F4第156页。
+Bahasa Melayu: Kad pengenalan membolehkan kerajaan mengenal pasti penduduk, mengawal pergerakan dan membezakan komunis daripada orang awam. Rujukan skema: T4 ms.156."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：紧急时期实行粮食配给限制共产党补给，同时安全行动增加政府开支，所以II、III正确。 答案纸参考：F4第162页。
+Bahasa Melayu: Catuan makanan mengehadkan bekalan komunis dan operasi keselamatan meningkatkan perbelanjaan kerajaan; II dan III betul. Rujukan skema: T4 ms.162."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：让非马来人获得公民身份可培养对马来亚的归属、忠诚及爱国精神。 答案纸参考：F4第177页。
+Bahasa Melayu: Kewarganegaraan bukan Melayu memupuk rasa kepunyaan, kesetiaan dan patriotisme terhadap Tanah Melayu. Rujukan skema: T4 ms.177."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：Woodhead报告建议加强Sabah和Sarawak的初中等教育，并建立有系统的教育经费安排。 答案纸参考：F4第182页。
+Bahasa Melayu: Laporan Woodhead mencadangkan pengukuhan pendidikan rendah dan menengah di Sabah serta Sarawak dan pembiayaan pendidikan teratur. Rujukan skema: T4 ms.182."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：联盟取得226席的压倒性胜利，显示选民接受UMNO与MCA的跨族政治合作。 答案纸参考：F4第197页。
+Bahasa Melayu: Kemenangan 226 kerusi menunjukkan rakyat menerima kerjasama politik antara kaum melalui UMNO dan MCA. Rujukan skema: T4 ms.197."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：联邦立法议会是立法机构，主要职责是制定法律，而非领导州行政。 答案纸参考：F4第204页。
+Bahasa Melayu: MPP ialah badan perundangan yang menggubal undang-undang, bukan mengetuai pentadbiran negeri. Rujukan skema: T4 ms.204."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：君主与联盟代表共同赴伦敦，商讨马来亚独立的条件和日期。 答案纸参考：F4第217页。
+Bahasa Melayu: Wakil raja serta Perikatan ke London untuk membincangkan syarat dan tarikh kemerdekaan Tanah Melayu. Rujukan skema: T4 ms.217."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：1957年协议确立伊斯兰为联邦宗教并保留马来人的特殊地位，所以I、II正确。 答案纸参考：F4第225页。
+Bahasa Melayu: Perjanjian 1957 menetapkan Islam sebagai agama Persekutuan dan mengekalkan kedudukan istimewa orang Melayu; I dan II betul. Rujukan skema: T4 ms.225."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：政府逐步任命本地人民接替欧洲官员，在国防、专业与高等教育领域实现本地化。 答案纸参考：F4第242页。
+Bahasa Melayu: Kerajaan melantik rakyat tempatan secara berperingkat menggantikan pegawai Eropah dalam pertahanan, bidang profesional dan pendidikan tinggi. Rujukan skema: T4 ms.242."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：独立国家的主权原则包括政府、国家象征和势力或领土范围，因此X为wilayah pengaruh。 答案纸参考：F4第246页。
+Bahasa Melayu: Prinsip kedaulatan negara merdeka merangkumi kerajaan, lambang kebangsaan dan wilayah pengaruh, maka X ialah wilayah pengaruh. Rujukan skema: T4 ms.246."

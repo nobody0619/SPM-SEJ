@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：联合国承认体现国际主权，表明国家在国际社会具有独立地位。 答案纸参考：F5第7页。
+Bahasa Melayu: Pengiktirafan PBB menunjukkan kedaulatan antarabangsa dan kedudukan bebas negara dalam masyarakat dunia. Rujukan skema: T5 ms.7."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：有系统的行政及明确边界使国家能管理人民和领土，所以I、II正确；受他国保护不是主权特征。 答案纸参考：F5第8–9页。
+Bahasa Melayu: Pentadbiran sistematik dan sempadan jelas membolehkan negara mengurus rakyat serta wilayah; I dan II betul, bukan naungan negara lain. Rujukan skema: T5 ms.8–9."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：传统法律规范统治职责与行为，为君主治理国家提供指南。 答案纸参考：F5第22页。
+Bahasa Melayu: Undang-undang tradisional mengatur tanggungjawab pemerintahan dan menjadi panduan raja mentadbir negara. Rujukan skema: T5 ms.22."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：1963年成立马来西亚及1965年新加坡分离改变联邦结构，须修改宪法配合现实需求。 答案纸参考：F5第30–31页。
+Bahasa Melayu: Pembentukan Malaysia 1963 dan pemisahan Singapura 1965 mengubah struktur persekutuan, maka perlembagaan dipinda mengikut keperluan semasa. Rujukan skema: T5 ms.30–31."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：按课本分类，召集或解散国会及担任题述地区伊斯兰领袖列在国家元首的立法权部分，因此选A。 答案纸参考：F5第49页。
+Bahasa Melayu: Menurut pengelasan buku teks, memanggil atau membubarkan Parlimen dan menjadi ketua agama Islam di kawasan dinyatakan dihuraikan dalam kuasa perundangan YDPA, A. Rujukan skema: T5 ms.49."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：行政、立法、司法分工并互相制衡，减少权力滥用，促进公平治理。 答案纸参考：F5第55页。
+Bahasa Melayu: Pembahagian eksekutif, perundangan dan kehakiman mewujudkan semak imbang untuk mengurangkan penyalahgunaan kuasa dan menjamin pemerintahan adil. Rujukan skema: T5 ms.55."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：较强中央权力有助统一协调重大政策，保障全国稳定并促进发展，III、IV正确。 答案纸参考：F5第68页。
+Bahasa Melayu: Kuasa pusat lebih besar memudahkan penyelarasan dasar utama untuk kestabilan dan kemajuan negara; III dan IV betul. Rujukan skema: T5 ms.68."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：增加可负担房屋让中等收入家庭负担得起住房，是两级政府合作的措施。 答案纸参考：F5第77页。
+Bahasa Melayu: Memperbanyak rumah mampu milik membolehkan keluarga berpendapatan pertengahan membeli kediaman melalui kerjasama kedua-dua kerajaan. Rujukan skema: T5 ms.77."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：1962年公投征询新加坡人民对加入马来西亚方案的选择与支持。 答案纸参考：F5第100页。
+Bahasa Melayu: Referendum 1962 mendapatkan pilihan dan sokongan rakyat Singapura terhadap cadangan penyertaan dalam Malaysia. Rujukan skema: T5 ms.100."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：Manila会谈讨论印尼对抗及成立马来西亚引起的分歧，寻求通过外交解决。 答案纸参考：F5第108页。
+Bahasa Melayu: Mesyuarat Manila membincangkan konfrontasi dan pertentangan tentang Malaysia untuk mencari penyelesaian diplomatik. Rujukan skema: T5 ms.108."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：族群紧张及新加坡和联邦领袖的政治冲突损害合作，成为分离因素，所以I、II正确。 答案纸参考：F5第119页。
+Bahasa Melayu: Ketegangan kaum dan konflik politik pemimpin Singapura-persekutuan menjejaskan kerjasama serta menyumbang pemisahan; I dan II betul. Rujukan skema: T5 ms.119."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：宣布白区和提供赦免争取居民支持、鼓励共产党投降，属于心理战。 答案纸参考：F5第121页。
+Bahasa Melayu: Pengisytiharan kawasan putih dan tawaran pengampunan memenangi sokongan rakyat serta menggalakkan penyerahan komunis, iaitu perang saraf. Rujukan skema: T5 ms.121."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：课外活动让不同族群共同合作、比赛与交流，培养友谊和团结。 答案纸参考：F5第146页。
+Bahasa Melayu: Kokurikulum menggalakkan murid pelbagai kaum bekerjasama, bermain dan berinteraksi untuk memupuk persahabatan serta perpaduan. Rujukan skema: T5 ms.146."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家文化政策建立共同文化认同、尊重适当的多元文化元素，以加强全国整合。 答案纸参考：F5第150页。
+Bahasa Melayu: Dasar Kebudayaan Kebangsaan membina identiti budaya bersama dan menerima unsur budaya sesuai untuk memperkukuh integrasi nasional. Rujukan skema: T5 ms.150."
+,radio,F5 Bab 7,A,B,C,D,C,Picture35.png,"中文：社会重组减少族群与职业的固定联系，让各族共享经济机会，促进公平。 答案纸参考：F5第167页。
+Bahasa Melayu: Penyusunan semula masyarakat mengurangkan pengenalan kaum mengikut pekerjaan dan memperluas peluang ekonomi secara adil. Rujukan skema: T5 ms.167."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：平衡州际发展缩小地区收入与设施差距，使国家财富分配更公平。 答案纸参考：F5第174页。
+Bahasa Melayu: Pembangunan seimbang antara negeri mengurangkan jurang pendapatan serta kemudahan dan mengagihkan kekayaan lebih adil. Rujukan skema: T5 ms.174."
+,radio,F5 Bab 8,A,B,C,D,B,Picture37.png,"中文：加入联合国让国家获得国际承认，并通过国际原则与合作保护独立主权。 答案纸参考：F5第198页。
+Bahasa Melayu: Keanggotaan PBB memberikan pengiktirafan antarabangsa dan membantu memelihara kedaulatan melalui prinsip serta kerjasama antarabangsa. Rujukan skema: T5 ms.198."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：ZOPFAN宣言表明东南亚追求和平、自由和中立，体现马来西亚外交路线转变。 答案纸参考：F5第210页。
+Bahasa Melayu: Deklarasi ZOPFAN mengisytiharkan Asia Tenggara sebagai zon aman, bebas dan berkecuali, mencerminkan perubahan dasar luar Malaysia. Rujukan skema: T5 ms.210."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：马来西亚以谈判、论坛等外交手段处理Spratly争议，启示和平解决分歧的重要性。 答案纸参考：F5第229页。
+Bahasa Melayu: Malaysia menggunakan rundingan dan forum diplomatik bagi tuntutan Spratly, menunjukkan kepentingan penyelesaian pertikaian secara aman. Rujukan skema: T5 ms.229."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：东盟共同体促进区域经济增长及安全合作，故I、IV正确，不以统一货币为目标。 答案纸参考：F5第242页。
+Bahasa Melayu: Komuniti ASEAN menggalakkan pertumbuhan ekonomi dan keselamatan serantau; I dan IV betul, bukan penetapan mata wang tunggal. Rujukan skema: T5 ms.242."

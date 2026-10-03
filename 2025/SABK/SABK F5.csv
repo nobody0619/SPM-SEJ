@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-SABK F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SABK F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：主权保障政府不受外来干预地治理，并可通过教育培养有知识的下一代，分别符合行政效率及社会福祉，因此D正确。答案纸参考：F5，第10至11页。
+Bahasa Melayu: Kedaulatan membolehkan pentadbiran tanpa campur tangan asing dan pembangunan pendidikan untuk melahirkan generasi berilmu. Kedua-dua padanan dalam D tepat. Rujukan skema: F5, halaman 10–11."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：国家文化政策促进共同文化认同，并与整合及团结活动一起加强各族联系。答案纸参考：F5，第13页。
+Bahasa Melayu: Dasar berkaitan kebudayaan membina identiti bersama serta melengkapi integrasi nasional dan kempen perpaduan. Rujukan skema: F5, halaman 13."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：1948年联邦协议恢复马来统治者主权及权限，是之后联邦宪政发展的重要基础。答案纸参考：F5，第26页。
+Bahasa Melayu: Perjanjian PTM 1948 mengembalikan kedaulatan dan kuasa Raja-raja Melayu sebagai asas perkembangan perlembagaan Persekutuan. Rujukan skema: F5, halaman 26."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：新加坡于1965年退出马来西亚，国家组成改变，东姑提出修改宪法以落实分离。答案纸参考：F5，第31页。
+Bahasa Melayu: Pemisahan Singapura pada 1965 mengubah susunan Persekutuan dan memerlukan pindaan Perlembagaan yang diusulkan Tunku. Rujukan skema: F5, halaman 31."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：日本占领时统治者保留伊斯兰教及马来习俗方面地位，实际行政与军事权则由日军控制。答案纸参考：F5，第40页。
+Bahasa Melayu: Semasa pendudukan Jepun, raja mengekalkan kuasa hal ehwal Islam dan adat Melayu, sementara pentadbiran serta ketenteraan dikuasai Jepun. Rujukan skema: F5, halaman 40."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：君主中立的平衡角色可缓和政党政治争端，避免冲突危及国家稳定；并非亲自负责全部立法行政。答案纸参考：F5，第56页。
+Bahasa Melayu: Kuasa pengimbang raja yang berkecuali membantu meredakan konflik parti politik dan menjaga kestabilan, bukan mengambil alih seluruh pentadbiran. Rujukan skema: F5, halaman 56."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：马来亚联盟遭马来人及统治者强烈反对，最终被1948年联邦取代。它曾实际实施，题干“失败实施”应理解为未能持续。答案纸参考：F5，第67页。
+Bahasa Melayu: Malayan Union menghadapi bantahan kuat rakyat dan raja lalu digantikan pada 1948. Ia pernah dilaksanakan; kegagalan dalam soalan bermaksud gagal diteruskan. Rujukan skema: F5, halaman 67."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：国家水务理事会与国家安全及房屋理事会同属政府设立的协调机构。其他三个选项是宪法规定的国家理事会，应分清分类。答案纸参考：F5，第81页。
+Bahasa Melayu: Majlis Air Negara, seperti majlis keselamatan dan perumahan, ditubuhkan oleh kerajaan untuk penyelarasan. Tiga pilihan lain ialah majlis yang diperuntukkan Perlembagaan. Rujukan skema: F5, halaman 81."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：政府间委员会拟定宪政保障，保护沙巴及砂拉越在宗教、语言、移民等方面的利益。答案纸参考：F5，第102页。
+Bahasa Melayu: JAK merangka perlindungan perlembagaan bagi kepentingan Sabah dan Sarawak, termasuk hal agama, bahasa dan imigresen. Rujukan skema: F5, halaman 102."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼领导改变后展开谈判，最终结束对抗并恢复关系。题干把正常化协议写成1965年不准确，协议签署日期是1966年8月11日。课本参考：F5，第109页。
+Bahasa Melayu: Perubahan kepimpinan Indonesia membawa rundingan dan penamatan konfrontasi. Perjanjian normalisasi ditandatangani pada 11 Ogos 1966, bukan 1965 seperti dinyatakan soalan. Rujukan buku teks: F5, halaman 109."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：沙巴与砂拉越面积广阔且地形复杂，使建设道路及联系偏远聚落需要较高成本与时间。答案纸参考：F5，第117页。
+Bahasa Melayu: Saiz negeri yang besar dan bentuk muka bumi Sabah serta Sarawak menyukarkan pembangunan jalan dan perhubungan ke pedalaman. Rujukan skema: F5, halaman 117."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：第一大马计划处理健康及生活水平差距，改善设施及人民生活，故I和II正确；不是以政党争执为发展目标。答案纸参考：F5，第128页。
+Bahasa Melayu: RMK Pertama menangani masalah kesihatan dan perbezaan taraf hidup melalui pembangunan kemudahan serta kehidupan rakyat. Maka I dan II tepat. Rujukan skema: F5, halaman 128."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国家文化政策建立共同文化及身份，在尊重适当文化元素下加强国家团结。答案纸参考：F5，第151页。
+Bahasa Melayu: Dasar Kebudayaan Kebangsaan membina kebudayaan dan identiti bersama untuk mengukuhkan perpaduan negara. Rujukan skema: F5, halaman 151."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：国家原则50周年标志的月亮及星星对应“信奉上苍”原则；应按这枚标志的设计说明理解，勿与所有图案的意义混为一谈。答案纸参考：F5，第157页。
+Bahasa Melayu: Bulan dan bintang dalam logo ulang tahun Rukun Negara melambangkan Kepercayaan kepada Tuhan. Makna ini merujuk reka bentuk logo tersebut. Rujukan skema: F5, halaman 157."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：DPN延续改善经济及减少差距的努力，最终目标是通过均衡发展实现国家团结。答案纸参考：F5，第174页。
+Bahasa Melayu: DPN meneruskan usaha pembangunan seimbang dan pengurangan jurang ekonomi untuk mencapai perpaduan negara. Rujukan skema: F5, halaman 174."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：就业机会及家庭收入提高让更多家庭摆脱贫困，所以I和IV是降低贫困率的直接措施。答案纸参考：F5，第180页。
+Bahasa Melayu: Peluang pekerjaan dan peningkatan pendapatan isi rumah membantu keluarga keluar daripada kemiskinan. Maka I dan IV tepat. Rujukan skema: F5, halaman 180."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：科伦坡计划提供发展援助、专业咨询及公务员训练，提升成员国能力以处理贫困。答案纸参考：F5，第206页。
+Bahasa Melayu: Rancangan Colombo memberikan bantuan pembangunan, khidmat nasihat dan latihan kakitangan untuk menangani kemiskinan negara anggota. Rujukan skema: F5, halaman 206."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：马来西亚与中国建交体现不偏向单一强权的中立外交，在国际政治竞争中扩大和平关系。答案纸参考：F5，第208页。
+Bahasa Melayu: Hubungan dengan China mencerminkan dasar berkecuali Malaysia dan usaha menjalin hubungan aman tanpa terikat kepada satu blok kuasa. Rujukan skema: F5, halaman 208."
+,radio,F5 Bab 9,A,B,C,D,D,Picture39.png,"中文：东姑阿都拉曼担任OIC秘书长，推动伊斯兰国家合作及为穆斯林社会发声，体现保护其权益的作用。答案纸参考：F5，第214页。
+Bahasa Melayu: Tunku Abdul Rahman sebagai Setiausaha Agung OIC memperkukuh kerjasama negara Islam dan memastikan pembelaan masyarakat Islam. Rujukan skema: F5, halaman 214."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：AFTA减少东盟成员之间的贸易障碍与关税，扩大货物交易，因此主要目的是促进贸易。答案纸参考：F5，第230页。
+Bahasa Melayu: AFTA mengurangkan halangan dan tarif perdagangan antara anggota ASEAN untuk memajukan perdagangan serantau. Rujukan skema: F5, halaman 230."

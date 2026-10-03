@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Kulai 2025,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kulai 2025,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：早期马来世界国家的四项特征是君主、法律、人民及势力范围，因此X为 wilayah pengaruh，选C。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Empat ciri negara bangsa kerajaan Alam Melayu ialah raja, undang-undang, rakyat dan wilayah pengaruh; X ialah wilayah pengaruh, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：臣民相信违抗君主会遭受 tulah，所以愿意服从命令；这是君民忠诚关系的一部分，选A。（答案纸参考：F4，第12页。）
+Bahasa Melayu: Kepercayaan bahawa penderhaka akan ditimpa tulah mendorong rakyat mematuhi pemerintah, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 12."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：课本指出中国民族主义旨在巩固中华文明，并反对满清统治的软弱，I、II符合答案A。课本也提到西方干涉，所以III并非完全错误，这题选项有重叠。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Buku teks menyatakan nasionalisme China bertujuan mengukuhkan peradaban dan menentang kelemahan Dinasti Manchu, menyokong I dan II dalam A. Campur tangan Barat dalam III turut disebut, jadi pilihan tidak sepenuhnya berasingan. Rujukan skema: Tingkatan 4, m.s. 26."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：分权政策把部分权力从中央交回州及苏丹，使马来统治者的地位和权力获得恢复，选D。（答案纸参考：F4，第42页。）
+Bahasa Melayu: Dasar desentralisasi mengembalikan sebahagian kuasa pentadbiran kepada negeri dan sultan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 42."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：1938年邮票以 Hitler、Mussolini 展示德意合作，课本配图口号为“两个人，一个斗争”，对应C。（答案纸参考：F4，第59页。）
+Bahasa Melayu: Setem dengan Hitler dan Mussolini menggambarkan kerjasama Jerman–Itali melalui slogan dua orang dan satu perjuangan, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 59."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：日本在该会议承认马来统治者的地位，以取得支持，但不代表恢复君主全部权力，选B。（答案纸参考：F4，第71页。）
+Bahasa Melayu: Persidangan tersebut mengiktiraf kedudukan Raja-raja Melayu untuk mendapatkan sokongan, bukannya memberikan kuasa mutlak, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 71."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：Malayan Union 把多个州置于统一中央政府之下，属于 kesatuan，即单一制，选C。（答案纸参考：F4，第96页。）
+Bahasa Melayu: Malayan Union menyatukan negeri di bawah sebuah pentadbiran pusat, iaitu bentuk kesatuan, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 96."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：英国把 Zakaria Gunn 调到 Jesselton，以削弱其在 Sabah 社团中的活动影响；正确配对为D。（答案纸参考：F4，第116页。）
+Bahasa Melayu: British menukarkan Zakaria Gunn ke Jesselton sebagai langkah melemahkan kegiatan persatuan di Sabah, maka pasangan D tepat. Rujukan skema: Tingkatan 4, m.s. 116."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：PUTERA–AMCJA 指工作委员会与英国妥协，而且带有种族性、未代表所有群体，I、IV对应B。（答案纸参考：F4，第128页。）
+Bahasa Melayu: PUTERA–AMCJA menuduh Jawatankuasa Kerja berkompromi dengan British dan bersifat perkauman; I dan IV memberikan B. Rujukan skema: Tingkatan 4, m.s. 128."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：1948年联邦的重要内容除行政和马来统治者权力外，还有公民资格，包括法律规定及申请条件，X为D。（答案纸参考：F4，第135页。）
+Bahasa Melayu: Selain pentadbiran dan kuasa Raja-raja Melayu, Persekutuan 1948 menetapkan syarat kewarganegaraan; X ialah D. Rujukan skema: Tingkatan 4, m.s. 135."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：1948年6月 Sungai Siput 三名欧洲种植园经理被杀，成为英国扩大紧急状态的直接导火线，选C。（答案纸参考：F4，第148页。）
+Bahasa Melayu: Pembunuhan tiga pengurus ladang Eropah di Sungai Siput pada Jun 1948 mencetuskan pengisytiharan darurat yang diperluas ke seluruh Tanah Melayu, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 148."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Home Guard 由当地居民参与，负责保护村庄、城镇及社区，协助对抗共产主义威胁，选B。（答案纸参考：F4，第155页。）
+Bahasa Melayu: Home Guard melibatkan penduduk tempatan untuk mengawal kampung dan pekan serta membantu menangani ancaman komunis, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 155."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：CLC 讨论马来人的特殊地位及非马来人的公民资格，寻求族群间的谅解与妥协；I、II对应A。（答案纸参考：F4，第176页。）
+Bahasa Melayu: CLC membincangkan kedudukan istimewa orang Melayu dan kewarganegaraan bukan Melayu untuk membina persefahaman; I dan II memberikan A. Rujukan skema: Tingkatan 4, m.s. 176."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：IMP 以不分族群的成员组织推动全国团结，而非只团结马来人，故选B。（答案纸参考：F4，第184页。）
+Bahasa Melayu: IMP membuka keahlian tanpa mengira kaum untuk memperjuangkan perpaduan kebangsaan, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 184."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：1955年候选人须具备马来语及英语知识；年龄要求为21岁或以上，并非“不超过21岁”，因此选D。（答案纸参考：F4，第200页。）
+Bahasa Melayu: Calon pilihan raya 1955 perlu berpengetahuan dalam bahasa Melayu dan bahasa Inggeris serta berumur sekurang-kurangnya 21 tahun, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 200."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：首届内阁由不同族群代表组成，显示合作、妥协及共同治理的能力，为独立作准备，选C。（答案纸参考：F4，第207页。）
+Bahasa Melayu: Kabinet pertama terdiri daripada wakil pelbagai kaum dan menunjukkan kompromi serta kerjasama untuk berkerajaan sendiri, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 207."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：Reid、Jennings 与 Malik 的任务是拟定联邦宪法，不是组成内阁或单独决定独立日期，选A。（答案纸参考：F4，第220页。）
+Bahasa Melayu: Tugas Suruhanjaya Reid ialah merangka Perlembagaan Persekutuan Tanah Melayu, bukannya membentuk kabinet atau menetapkan tarikh kemerdekaan, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 220."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：联盟提交的政治信托备忘录称 Testament Amanah Politik Perikatan，内容包括公民资格方面的协议，选D。（答案纸参考：F4，第222页。）
+Bahasa Melayu: Memorandum Perikatan yang merangkumi persetujuan tentang kewarganegaraan dikenali sebagai Testament Amanah Politik Perikatan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 222."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：al-Afghani 主张团结及共同反抗外来支配，因此题中独立观对应团结精神，选B。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Pandangan al-Afghani menekankan semangat bersatu padu dalam menentang penguasaan asing, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：第一马来亚计划重视乡村与经济发展，透过提高收入和创造工作减少贫穷，I、II对应A。（答案纸参考：F4，第244页。）
+Bahasa Melayu: Rancangan Malaya Pertama menumpukan pembangunan ekonomi dan luar bandar untuk mengurangkan kemiskinan serta menyediakan pekerjaan; I dan II memberikan A. Rujukan skema: Tingkatan 4, m.s. 244."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：现代主权国家以州的联合形成联邦，中央与州按宪法分配权力，因此选C。（答案纸参考：F5，第6页。）
+Bahasa Melayu: Kedaulatan moden negara terbentuk melalui penggabungan negeri dalam sebuah persekutuan dengan pembahagian kuasa menurut perlembagaan, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 6."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：有效的行政使政府能制定及落实政策、维护稳定与主权，符合答案A；会议是提高行政效能的方式。（答案纸参考：F5，第10页。）
+Bahasa Melayu: Pentadbiran yang berkesan membolehkan kerajaan menggubal dan melaksanakan dasar serta menjaga kestabilan dan kedaulatan negara, selaras dengan A. Rujukan skema: Tingkatan 5, m.s. 10."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：Perak 州议会讨论并制定州内行政相关法律，是本国成文法律发展的阶段，选D。（答案纸参考：F5，第25页。）
+Bahasa Melayu: Majlis Negeri Perak membincangkan dan menggubal undang-undang berkaitan pentadbiran negeri, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 25."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：联邦政府、公民制度及议会民主属于现代宪法特征；伊斯兰、马来语及马来人地位属于传统特征，选C。（答案纸参考：F5，第28页。）
+Bahasa Melayu: Kerajaan Persekutuan ialah ciri moden, manakala agama Islam, bahasa Melayu dan kedudukan orang Melayu ialah ciri tradisional, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 28."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：Malayan Union 的苏丹理事会可向总督提供意见，并讨论伊斯兰法律，不具备题列任命要职等权力；I、IV对应B。（答案纸参考：F5，第43页。）
+Bahasa Melayu: Majlis Sultan-Sultan dalam Malayan Union menasihati Gabenor dan membincangkan undang-undang Islam; I dan IV memberikan B. Rujukan skema: Tingkatan 5, m.s. 43."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：司法机构在案件中应用法律、作出裁判及执行司法职能，因此答案A的“实行法律”须理解为司法审判，而非行政执法。（答案纸参考：F5，第55页。）
+Bahasa Melayu: Badan kehakiman mengaplikasikan undang-undang dalam perbicaraan dan membuat keputusan; A difahami sebagai pelaksanaan fungsi kehakiman, bukan tugas penguatkuasaan eksekutif. Rujukan skema: Tingkatan 5, m.s. 55."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：联邦是多个州联合的政治结构，与只说明君主或民主制度不同，因此选D。（答案纸参考：F5，第66页。）
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dalam satu struktur pemerintahan, bukan sekadar sistem beraja atau demokrasi, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 66."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：设立海洋公园限制破坏海洋生态的活动，保护珊瑚、海洋生物及自然资源，选B。（答案纸参考：F5，第75页。）
+Bahasa Melayu: Pewartaan taman laut melindungi terumbu karang, hidupan marin dan khazanah laut daripada kegiatan yang merosakkan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 75."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：课本的 Sabah 反对段落提到希望单独独立，并担忧 Borneo 与 Kuala Lumpur 距离遥远，I、II对应A；题中I只写Sarawak，表述不够完整。（答案纸参考：F5，第96页。）
+Bahasa Melayu: Bahagian Sabah dalam buku teks menyebut keinginan merdeka secara berasingan dan masalah jarak Borneo–Kuala Lumpur, menyokong I dan II dalam A; pernyataan I hanya menyebut Sarawak dan kurang lengkap. Rujukan skema: Tingkatan 5, m.s. 96."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：外交部向外界解释 Malaysia 的成立过程及立场，争取国际支持，对抗印尼指控，选D。（答案纸参考：F5，第108页。）
+Bahasa Melayu: Kementerian Luar Negeri menerangkan pendirian dan proses pembentukan Malaysia untuk mendapatkan sokongan antarabangsa ketika konfrontasi, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 108."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：Malaysian Malaysia 加剧联邦与新加坡的政治分歧，是新加坡分离的政治因素之一，选B。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Kempen Malaysian Malaysia menambahkan pertikaian politik antara kerajaan Persekutuan dengan Singapura dan menjadi salah satu faktor pemisahan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 119."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：第一马来西亚计划要改善人民较低的社会经济水平及城乡、地区差距，选C；“失业率下降”不是要解决的问题。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Rancangan Malaysia Pertama menangani kedudukan sosioekonomi yang rendah serta jurang pembangunan, maka C tepat; penurunan pengangguran bukan masalah dalam pilihan D. Rujukan skema: Tingkatan 5, m.s. 127."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：Feri Malaysia 加强半岛与 Sabah、Sarawak 的联系，让各地人民接触交流，推动全国整合，选D。（答案纸参考：F5，第140页。）
+Bahasa Melayu: Feri Malaysia menghubungkan Semenanjung dengan Sabah dan Sarawak serta meningkatkan perhubungan rakyat untuk integrasi nasional, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 140."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：DBP 举办语言及文学研讨会，并出版书籍、杂志，扩大马来语使用与文学传播；I、IV对应B。（答案纸参考：F5，第149页。）
+Bahasa Melayu: DBP menganjurkan seminar serta menerbitkan buku dan majalah untuk mengembangkan bahasa dan sastera Melayu; I dan IV memberikan B. Rujukan skema: Tingkatan 5, m.s. 149."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：DEB 透过消除贫穷及重组社会，减少经济活动与族群身份的固定联系，最终目标是族群团结，选A。答案纸“16”属页码笔误，已核F5第166页。
+Bahasa Melayu: DEB membasmi kemiskinan dan menyusun semula masyarakat untuk mengurangkan pengenalan kaum mengikut kegiatan ekonomi serta mencapai perpaduan, maka A tepat. Rujukan 16 dalam skema ialah kesilapan; kandungan disahkan pada T5 m.s.166."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：GIATMARA 提供实用技能训练，使青年具备工作所需能力、增加就业机会及收入，选C。（答案纸参考：F5，第176页。）
+Bahasa Melayu: Latihan kemahiran GIATMARA membekalkan kebolehan bekerja kepada belia dan meningkatkan peluang pekerjaan serta pendapatan, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 176."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：冷战把国际政治分为西方与共产主义阵营，影响独立初期 Malaysia 采取亲西方立场，选D。（答案纸参考：F5，第197页。）
+Bahasa Melayu: Persekitaran Perang Dingin mempengaruhi Malaysia yang baru merdeka untuk memilih dasar probarat, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 197."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：ZOPFAN 是 ASEAN 的和平、自由及中立区域倡议，体现 Malaysia 在 ASEAN 的参与，选B。（答案纸参考：F5，第210页。）
+Bahasa Melayu: ZOPFAN ialah gagasan ASEAN untuk mewujudkan Zon Aman, Bebas dan Berkecuali, menunjukkan pelibatan Malaysia dalam ASEAN, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 210."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：人民可通过食品援助及捐款基金支持受难的巴勒斯坦居民；II、III属于人道援助，对应C。（答案纸参考：F5，第235页。）
+Bahasa Melayu: Rakyat membantu penduduk Palestin melalui bantuan makanan dan tabung sumbangan; II dan III merupakan bantuan kemanusiaan, memberikan C. Rujukan skema: Tingkatan 5, m.s. 235."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：东南亚连接重要海上通道并靠近大国战略区域，使其受大国核武与安全竞争影响，选A。（答案纸参考：F5，第244页。）
+Bahasa Melayu: Kedudukan Asia Tenggara pada laluan dan kawasan strategik menyebabkan rantau ini terlibat dalam persaingan keselamatan serta senjata nuklear kuasa besar, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 244."

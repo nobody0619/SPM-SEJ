@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Selangor 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：B：征服地区通过战争与军事胜利取得；婚姻取得的是另一类影响地区。【答案纸参考：B1T4M7；书页内容待逐页确认。】
+Bahasa Melayu: B: Wilayah taklukan diperoleh melalui peperangan dan kemenangan ketenteraan, berbeza dengan wilayah pengaruh melalui perkahwinan. [Rujukan skema: B1T4M7; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：A：Hukum Kanun Melaka第30条规范交易，包括禁止riba，反映伊斯兰对经济法律的影响。【答案纸参考：B1T4 M10；书页内容待逐页确认。】
+Bahasa Melayu: A: Fasal 30 Hukum Kanun Melaka mengatur urus niaga, termasuk pengharaman riba, yang menunjukkan pengaruh Islam dalam perundangan ekonomi. [Rujukan skema: B1T4 M10; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：Pan-Islamisme号召穆斯林跨地区团结，以共同应对西方势力。【答案纸参考：B2T4 M27；书页内容待逐页确认。】
+Bahasa Melayu: A: Pan-Islamisme menyeru penyatuan persaudaraan umat Islam untuk menghadapi tekanan dan penguasaan Barat. [Rujukan skema: B2T4 M27; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：A：MCKK及SITC培养受教育的本地领袖，他们推动民族意识与政治组织。【答案纸参考：B2T4 M35；书页内容待逐页确认。】
+Bahasa Melayu: A: MCKK dan SITC melahirkan golongan pemimpin berpendidikan yang menyebarkan kesedaran kebangsaan dan menggerakkan nasionalisme. [Rujukan skema: B2T4 M35; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：B：十四点原则强调民族自决，以民族作为划定国家边界的基础。【答案纸参考：B3T4 M56；书页内容待逐页确认。】
+Bahasa Melayu: B: Deklarasi tersebut menekankan penentuan nasib sendiri dan sempadan negara berasaskan bangsa. [Rujukan skema: B3T4 M56; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：D（III、IV）：Force 136与马来游击组织通过破坏行动及宣传，共同削弱日本占领统治。【答案纸参考：B3T4 M77；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Force 136 bekerjasama dengan gerila Melayu melakukan sabotaj dan menyebarkan propaganda untuk melemahkan Jepun. [Rujukan skema: B3T4 M77; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：C：Malayan Union放宽公民资格，马来人担忧政治地位受威胁，因此以悼念方式反对。【答案纸参考：B4T4 M102；书页内容待逐页确认。】
+Bahasa Melayu: C: Syarat kewarganegaraan Malayan Union yang longgar membimbangkan orang Melayu tentang kedudukan politik mereka, lalu mereka membantah dengan berkabung. [Rujukan skema: B4T4 M102; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：D（III、IV）：战后重建缺乏资金及王位继承问题，促使Vyner Brooke把砂拉越移交英国。【答案纸参考：B4T4 M107；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Kekurangan kewangan untuk pemulihan selepas perang dan masalah pewarisan takhta mendorong Vyner Brooke menyerahkan Sarawak kepada British. [Rujukan skema: B4T4 M107; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：B：英国支持新的联合邦安排，以缓和反Malayan Union抗争并恢复政治稳定。【答案纸参考：B5T4 M133；书页内容待逐页确认。】
+Bahasa Melayu: B: British menyokong Persekutuan 1948 untuk meredakan penentangan terhadap Malayan Union dan mewujudkan kestabilan politik. [Rujukan skema: B5T4 M133; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：B：统治者重新拥有批准法律草案的权限，体现1948年联合邦恢复其地位。【答案纸参考：B5T4 M134；书页内容待逐页确认。】
+Bahasa Melayu: B: Kuasa memperkenankan rang undang-undang menunjukkan kedudukan Raja-raja Melayu dipulihkan melalui Persekutuan 1948. [Rujukan skema: B5T4 M134; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：A：印尼共产党在爪哇斗争失败后，部分成员转到马来亚传播共产主义。【答案纸参考：B6T4M146；书页内容待逐页确认。】
+Bahasa Melayu: A: Kegagalan gerakan Partai Komunis Indonesia menguasai Pulau Jawa mendorong sebahagian anggotanya menyebarkan pengaruh ke Tanah Melayu. [Rujukan skema: B6T4M146; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：D：心理战争取人民的“心与思想”，让居民支持政府而不再协助共产党。【答案纸参考：B6T4M159；书页内容待逐页确认。】
+Bahasa Melayu: D: Perang Saraf bertujuan memenangi hati dan fikiran rakyat supaya mereka menyokong kerajaan serta menolak bantuan kepada komunis. [Rujukan skema: B6T4M159; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：A（I、II）：CLC促进族群善意关系，并讨论改善经济失衡，为跨族群合作建立基础。【答案纸参考：B7T4M174；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): CLC mewujudkan muhibah dan membetulkan keadaan ekonomi untuk membina kerjasama serta persefahaman antara kaum. [Rujukan skema: B7T4M174; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：A：统一课程内容让各族学生学习共同知识及价值，培养国家认同和团结。【答案纸参考：B7T4M183；书页内容待逐页确认。】
+Bahasa Melayu: A: Kandungan kurikulum yang seragam memberi murid pelbagai kaum pengetahuan dan nilai bersama untuk memupuk perpaduan. [Rujukan skema: B7T4M183; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B：UMNO与MCA合作取得多数议席，显示人民接受跨族群政治联盟。【答案纸参考：B8T4M197；书页内容待逐页确认。】
+Bahasa Melayu: B: Kemenangan Perikatan UMNO-MCA menunjukkan penerimaan rakyat terhadap kerjasama politik antara kaum. [Rujukan skema: B8T4M197; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：行政权逐步交给本地人，但英国仍保留财政职位，以管理相关财务事务。【答案纸参考：B8 T4M206；书页内容待逐页确认。】
+Bahasa Melayu: B: Kuasa pentadbiran dipindahkan secara beransur-ansur kepada penduduk tempatan, tetapi pegawai British masih dikekalkan untuk mengurus kewangan. [Rujukan skema: B8 T4M206; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：C：伦敦独立谈判同意有关防务安排，独立后的马来亚可获得英联邦防务援助。【答案纸参考：B9T4M218；书页内容待逐页确认。】
+Bahasa Melayu: C: Rundingan kemerdekaan di London mencapai persetujuan tentang pertahanan, termasuk bantuan pertahanan daripada Komanwel. [Rujukan skema: B9T4M218; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C（II、III）：委员会参考条款要求强大的中央政府，同时保护马来统治者地位。【答案纸参考：B9T4M220；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Terma rujukan suruhanjaya merangkumi pembentukan kerajaan pusat yang kuat dan perlindungan kedudukan Raja-raja Melayu. [Rujukan skema: B9T4M220; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：B：礼宾课程训练官员接待及陪同受邀嘉宾，确保独立庆典符合正式礼仪。【答案纸参考：B10T4M237；书页内容待逐页确认。】
+Bahasa Melayu: B: Kursus protokol menyediakan pegawai untuk mengiringi dan mengurus tetamu jemputan semasa sambutan kemerdekaan mengikut tatacara rasmi. [Rujukan skema: B10T4M237; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B：Buku Merah监督各项发展项目，包括道路和基本设施，使计划进度可被检查。【答案纸参考：B10T4M244；书页内容待逐页确认。】
+Bahasa Melayu: B: Rancangan Buku Merah memantau kemajuan projek pembangunan, termasuk kemudahan asas, supaya pelaksanaannya berjalan dengan baik. [Rujukan skema: B10T4M244; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：B：传统主权强调国王拥有最高统治权，王权是该概念的核心。【答案纸参考：B1T5M6；书页内容待逐页确认。】
+Bahasa Melayu: B: Kedaulatan tradisional menekankan kekuasaan tertinggi raja sebagai teras pemerintahan. [Rujukan skema: B1T5M6; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：A：更新军事资产直接提升国防能力，使军队能更有效保护国家主权。【答案纸参考：B1T5M15；书页内容待逐页确认。】
+Bahasa Melayu: A: Pemodenan aset ketenteraan memperkukuh keupayaan pertahanan untuk melindungi kedaulatan negara. [Rujukan skema: B1T5M15; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：D：Charter of Justice设立司法机制，以保护本地居民并避免压迫。【答案纸参考：B2T5M24；书页内容待逐页确认。】
+Bahasa Melayu: D: Charter of Justice menyediakan sistem kehakiman untuk melindungi penduduk asal dan mengelakkan penindasan. [Rujukan skema: B2T5M24; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：B：1965年新加坡分离，宪法须调整联邦成员及删除涉及新加坡的条文。【答案纸参考：B2T5M31；书页内容待逐页确认。】
+Bahasa Melayu: B: Pemisahan Singapura pada 1965 memerlukan perubahan keanggotaan Persekutuan dan peruntukan yang berkaitan dengannya. [Rujukan skema: B2T5M31; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：C：柔佛及登嘉楼的州宪法以法律规范王权，形成君主立宪治理的基础。题干柔佛“1985”是笔误，应为1895年。【答案纸参考：B3T5M39；书页内容待逐页确认。】
+Bahasa Melayu: C: Undang-undang tubuh Johor dan Terengganu mengatur kuasa raja melalui perlembagaan. Tahun “1985” bagi Johor dalam soalan ialah kesilapan; tahun yang betul ialah 1895. [Rujukan skema: B3T5M39; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：D（III、IV）：统治者会议在特定案件中充任赦免委员会，并在取得有关统治者同意后批准州边界变更。【答案纸参考：B3T5M44-45；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Majlis Raja-Raja menjadi Lembaga Pengampunan bagi kes tertentu dan memperkenankan perubahan sempadan selepas mendapat perkenan raja negeri berkenaan. [Rujukan skema: B3T5M44-45; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：A：1895年森美兰联合后，英国派驻Residen协助行政，强化殖民介入。【答案纸参考：B4T5M66；书页内容待逐页确认。】
+Bahasa Melayu: A: Pembentukan Konfederasi Negeri Sembilan 1895 membawa kepada pelantikan Residen British dalam pentadbiran. [Rujukan skema: B4T5M66; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：D（III、IV）：协调海洋公园管理及野生动物保护法，让联邦与州共同保存自然财富。【答案纸参考：B4T5M74-75；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Penyelarasan pentadbiran taman laut dan Akta Pemuliharaan Hidupan Liar membolehkan kerjasama pemuliharaan khazanah alam. [Rujukan skema: B4T5M74-75; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：D：Geofroy Tory认为马来亚与新加坡的经济联系紧密，联合能形成更有效的经济合作。【答案纸参考：B5T5M91；书页内容待逐页确认。】
+Bahasa Melayu: D: Geofroy Tory melihat penggabungan Tanah Melayu dengan Singapura sebagai cara membentuk kerjasama ekonomi yang lebih berkesan. [Rujukan skema: B5T5M91; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：B：JSKM收集当地人民意见、解释马来西亚构想并提供讨论平台，以建立共识。【答案纸参考：B5T5M99；书页内容待逐页确认。】
+Bahasa Melayu: B: JSKM mengumpulkan pandangan penduduk setempat, menyebarkan maklumat dan menyediakan ruang perbincangan untuk mencapai persetujuan. [Rujukan skema: B5T5M99; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：A：争取平等权利的政治主张及族群反应加剧紧张，成为1964年新加坡骚乱的背景。【答案纸参考：B6T5M119；书页内容待逐页确认。】
+Bahasa Melayu: A: Tuntutan hak sama rata dan pertentangan politik perkauman meningkatkan ketegangan sehingga mencetuskan rusuhan Singapura 1964. [Rujukan skema: B6T5M119; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：C：Bong Kee Chok致函表达谈判意愿，后来促成停止武装斗争的和平安排。【答案纸参考：B6T5M122；书页内容待逐页确认。】
+Bahasa Melayu: C: Bong Kee Chok menulis surat untuk menyatakan hasrat berunding, yang membuka jalan kepada usaha perdamaian. [Rujukan skema: B6T5M122; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：A（I、II）：Citrawarna推广文化活动，表扬文化人物肯定其贡献，两者都体现国家文化政策。【答案纸参考：B7T5M151；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): Program Citrawarna mempromosikan kebudayaan, manakala pengiktirafan tokoh menghargai sumbangan budaya, selaras dengan Dasar Kebudayaan Kebangsaan. [Rujukan skema: B7T5M151; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：A：礼貌与道德要求人民实践尊重、谦让及良好行为，所以须内化高尚价值。【答案纸参考：B7T5M159；书页内容待逐页确认。】
+Bahasa Melayu: A: Kesopanan dan Kesusilaan menuntut rakyat menghayati nilai murni seperti hormat, bertimbang rasa dan berkelakuan baik. [Rujukan skema: B7T5M159; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：D：重组公司股本提升土著在现代经济部门的拥有权、控制及管理参与，延续DEB目标。【答案纸参考：B8T5M178；书页内容待逐页确认。】
+Bahasa Melayu: D: Penyusunan semula modal saham meningkatkan pemilikan, penguasaan dan pengurusan Bumiputera dalam sektor moden, selaras dengan matlamat DEB. [Rujukan skema: B8T5M178; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：B：工业科技园提供研究设施及技术开发平台，支持工业创新。【答案纸参考：B8T5M186；书页内容待逐页确认。】
+Bahasa Melayu: B: Taman Teknologi Perindustrian menyediakan kemudahan penyelidikan dan pembangunan teknologi untuk menyokong inovasi industri. [Rujukan skema: B8T5M186; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：C：由亲西方反共转向中立，是根据国家利益及环境变化调整外交政策，以扩大合作并维护主权。【答案纸参考：B9T5M195；书页内容待逐页确认。】
+Bahasa Melayu: C: Perubahan daripada probarat dan antikomunis kepada berkecuali dibuat mengikut kepentingan nasional serta perubahan keadaan antarabangsa. [Rujukan skema: B9T5M195; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：B：Lusaka宣言强调和平与裁军，包括要求禁止核武器。【答案纸参考：B9T5M213；书页内容待逐页确认。】
+Bahasa Melayu: B: Perisytiharan Lusaka menekankan keamanan dan pelucutan senjata, termasuk desakan mengharamkan senjata nuklear. [Rujukan skema: B9T5M213; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：A：货币投机使马币承压并影响金融市场，是1997—1998年经济危机的重要因素。【答案纸参考：B10T5M232；书页内容待逐页确认。】
+Bahasa Melayu: A: Spekulasi mata wang memberi tekanan terhadap ringgit dan pasaran kewangan, lalu menjadi faktor utama krisis 1997–1998. [Rujukan skema: B10T5M232; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：D（III、IV）：Agenda 21推动可持续发展，着重饥饿与贫穷问题及生态系统恶化。【答案纸参考：B10T5M239；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Agenda 21 menumpukan pembangunan lestari, termasuk penyelesaian kebuluran serta pemulihan kemerosotan ekosistem. [Rujukan skema: B10T5M239; kandungan halaman buku belum disahkan satu demi satu.]"

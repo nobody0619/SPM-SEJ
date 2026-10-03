@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：X是王权象征，例如御玺、王冠及王室礼仪；它们体现苏丹的权威，是马六甲苏丹王朝的特征。答案纸参考：F4，第7页。
+Bahasa Melayu: X ialah lambang kebesaran seperti cap mohor, mahkota dan adat istiadat diraja yang melambangkan kedaulatan sultan Melaka. Rujukan skema: F4, halaman 7."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：马六甲通过征服扩大在马来半岛及苏门答腊东部的势力范围，因此答案是战争；文化交流与使节往来不是这里所问的扩张方式。答案纸参考：F4，第7页。
+Bahasa Melayu: Melaka meluaskan wilayah pengaruh di Semenanjung Tanah Melayu dan timur Sumatera melalui penaklukan atau peperangan. Pertukaran budaya dan utusan bukan cara peluasan yang ditanya. Rujukan skema: F4, halaman 7."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：蒙固王和朱拉隆功王通过外交关系及行政现代化减少西方干预，使泰国得以维护主权。答案纸参考：F4，第31页。
+Bahasa Melayu: Raja Mongkut dan Raja Chulalongkorn menggunakan diplomasi serta pemodenan pentadbiran untuk mengurangkan campur tangan Barat dan mempertahankan kedaulatan Thailand. Rujukan skema: F4, halaman 31."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：《Anak Mat Lela Gila》与《Putera Gunung Tahan》借故事传达反殖民意识，唤醒读者争取自由的精神。答案纸参考：F4，第34页。
+Bahasa Melayu: Novel Anak Mat Lela Gila dan Putera Gunung Tahan menyampaikan kesedaran menentang penjajahan serta membangkitkan semangat memperjuangkan kebebasan. Rujukan skema: F4, halaman 34."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：欧洲列强为了扩大势力范围并取得工业原料而竞争；这些利益冲突推动结盟并加剧第一次世界大战前的紧张局势。答案为II和III。答案纸参考：F4，第54页。
+Bahasa Melayu: Kuasa Eropah bersaing untuk meluaskan pengaruh dan mendapatkan bahan mentah industri. Persaingan ini mendorong pakatan serta ketegangan sebelum Perang Dunia Pertama, maka II dan III tepat. Rujukan skema: F4, halaman 54."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：这些组织共同反抗日本占领，并与英国合作开展抗日行动；Force 136尤其负责联系及支援当地抵抗力量。答案纸参考：F4，第74至76页。
+Bahasa Melayu: Organisasi ini menentang pendudukan Jepun dan bekerjasama dengan British dalam gerakan penentangan. Force 136 khususnya menghubungkan serta membantu pejuang tempatan. Rujukan skema: F4, halaman 74–76."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：日军投降后，英国军事行政必须恢复治安、经济及基本生活，以重新取得人民对政府的信任。答案纸参考：F4，第94页。
+Bahasa Melayu: Selepas Jepun menyerah kalah, BMA perlu memulihkan keamanan, ekonomi dan kehidupan rakyat untuk mengembalikan kepercayaan rakyat terhadap pentadbiran. Rujukan skema: F4, halaman 94."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：麦迈克尔以施压及威胁方式要求马来统治者签署协议，包括以更换统治者相威胁，并非给予真正自由协商的机会。答案为III和IV。答案纸参考：F4，第98至99页。
+Bahasa Melayu: MacMichael mendapatkan persetujuan Raja-raja Melayu melalui tekanan dan ugutan, termasuk ancaman menggantikan raja. Oleh itu, III dan IV tepat. Rujukan skema: F4, halaman 98–99."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：部分英国官员支持以联邦制度取代马来亚联盟，因为他们认为这更能保障当地政治稳定及英国利益。答案纸参考：F4，第132页。
+Bahasa Melayu: Sokongan sebahagian pegawai British terhadap sistem persekutuan membantu menggantikan Malayan Union kerana sistem ini dianggap lebih menjamin kestabilan dan kepentingan British. Rujukan skema: F4, halaman 132."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：1948年协议设立马来统治者会议，也允许通过登记取得公民权，所以II和III正确。联邦由英国最高专员领导，而非总督；课本确有列出登记方式。答案纸参考：F4，第134页；登记条件见下一页。
+Bahasa Melayu: Perjanjian 1948 membentuk Majlis Raja-Raja dan membenarkan kewarganegaraan secara pendaftaran, maka II dan III tepat. Pentadbiran diketuai Pesuruhjaya Tinggi British, bukan Gabenor Jeneral. Rujukan skema: F4, halaman 134; syarat pendaftaran diterangkan pada halaman berikutnya."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：共产党袭击种植园并杀害居民，直接威胁人民安全，也削弱人民对政府维持秩序能力的信心。答案纸参考：F4，第149页。
+Bahasa Melayu: Serangan komunis terhadap ladang dan pembunuhan penduduk mengancam keselamatan serta menjejaskan keyakinan terhadap kemampuan kerajaan menjaga keamanan. Rujukan skema: F4, halaman 149."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：Sarawak Rangers和Senoi Praaq熟悉森林环境，擅长追踪足迹，因此能协助安全部队寻找共产党的藏身处。答案纸参考：F4，第154至155页。
+Bahasa Melayu: Sarawak Rangers dan Senoi Praaq mahir menjejak serta mengenali hutan, lalu membantu pasukan keselamatan mengesan tempat persembunyian komunis. Rujukan skema: F4, halaman 154–155."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：成员制度让本地领袖负责政府部门，累积行政经验，是英国逐步移交权力及准备自治的重要步骤。答案纸参考：F4，第179页。
+Bahasa Melayu: Sistem Ahli memberi pemimpin tempatan tanggungjawab mentadbir jabatan kerajaan dan pengalaman pentadbiran sebagai persediaan berkerajaan sendiri. Rujukan skema: F4, halaman 179."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：1956年拉萨教育报告建议建立共同的学校体系，以共同课程等措施促进不同族群学生团结。答案纸参考：F4，第183页。
+Bahasa Melayu: Penyata Jawatankuasa Pelajaran 1956 mencadangkan sistem persekolahan yang sama, termasuk kurikulum yang seragam, untuk memupuk perpaduan antara murid pelbagai kaum. Rujukan skema: F4, halaman 183."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：选民通过投票选出代表；获支持的政党再组成政府，因此选举让人民参与决定国家领导。答案纸参考：F4，第196页。
+Bahasa Melayu: Pengundi memilih wakil melalui undi dan parti yang memperoleh sokongan membentuk kerajaan. Pilihan raya membolehkan rakyat menentukan kepimpinan negara. Rujukan skema: F4, halaman 196."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：首届内阁讨论安全事务并逐步减少英国官员的行政权力，让本地领袖更实际地负责国家治理，所以I和IV正确。答案纸参考：F4，第206页。
+Bahasa Melayu: Kabinet pertama membincangkan keselamatan dan mengurangkan kuasa pentadbiran pegawai British supaya pemimpin tempatan memainkan peranan lebih besar. Maka I dan IV tepat. Rujukan skema: F4, halaman 206."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：里德委员会负责拟定独立宪法，包括联邦与州的权限分配及共同国家制度，而不是直接执行政府日常行政。答案纸参考：F4，第220至221页。
+Bahasa Melayu: Suruhanjaya Reid menggubal perlembagaan kemerdekaan, termasuk pembahagian kuasa Persekutuan dan negeri serta asas negara, bukan menjalankan pentadbiran harian. Rujukan skema: F4, halaman 220–221."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：1957年协议确立独立国家的宪政制度，让本地人民拥有自行治理国家的权利。答案纸参考：F4，第224页。
+Bahasa Melayu: Perjanjian Persekutuan Tanah Melayu 1957 menetapkan asas perlembagaan negara merdeka dan membolehkan rakyat tempatan mentadbir negara sendiri. Rujukan skema: F4, halaman 224."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：FELDA通过大规模开发土地及安置居民，扩大农业活动并改善乡区居民的经济生活。答案纸参考：F4，第244页。
+Bahasa Melayu: FELDA membuka tanah secara besar-besaran dan menempatkan peneroka bagi memperluas pertanian serta meningkatkan kehidupan ekonomi penduduk luar bandar. Rujukan skema: F4, halaman 244."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：主权让国家自行保障人民权益，包括依法表达意见的权利；表达自由仍须遵守宪法及法律，并非不受限制。答案纸参考：F4，第247页。
+Bahasa Melayu: Kedaulatan membolehkan negara menjamin hak rakyat, termasuk kebebasan bersuara mengikut Perlembagaan dan undang-undang, bukannya kebebasan tanpa batas. Rujukan skema: F4, halaman 247."

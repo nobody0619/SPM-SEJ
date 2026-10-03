@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Pasir Gudang F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Pasir Gudang F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：议会民主让人民通过选举选出代表和政府，参与国家治理，体现人民意愿。法治强调遵守法律，属于另一角度，所以选A。（答案纸参考：F5，第8页。）
+Bahasa Melayu: Demokrasi Berparlimen membolehkan rakyat memilih wakil dan kerajaan melalui pilihan raya. Penglibatan rakyat dalam pemerintahan memperkukuh kedaulatan negara, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 8."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：人民配合发展政策、勤奋工作并参与经济活动，有助提升生产与国家繁荣。题目问人民保障经济繁荣的行动，所以选D。（答案纸参考：F5，第12页。）
+Bahasa Melayu: Rakyat boleh membantu pembangunan melalui kerjasama, usaha produktif dan penyertaan dalam kegiatan ekonomi. Tindakan ini menjamin kemakmuran negara, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 12."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：1948年联合邦协定包含行政、马来统治者权力、立法以及公民权等内容。题目所缺的主要项目是公民权，选D。（答案纸参考：F5，第26页。）
+Bahasa Melayu: Perjanjian Persekutuan Tanah Melayu 1948 merangkumi pentadbiran, kuasa Raja-raja Melayu, perundangan dan kewarganegaraan. Oleh itu, X ialah D. Rujukan skema: Tingkatan 5, m.s. 26."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：1965年新加坡脱离马来西亚后，宪法修订删除与新加坡相关的条款，以适应新的联邦组成。因此选C。（答案纸参考：F5，第31页。）
+Bahasa Melayu: Pindaan Perlembagaan 1965 dibuat selepas pemisahan Singapura daripada Malaysia. Semua perkara berkaitan Singapura dimansuhkan bagi menyesuaikan perlembagaan dengan perubahan tersebut, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 31."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：柔佛—廖内、彭亨和霹雳苏丹国继承马六甲苏丹国的王权、制度与传统，体现历史延续。因此共同点是继承马六甲遗产，选C。（答案纸参考：F5，第38页。）
+Bahasa Melayu: Kesultanan Johor-Riau, Pahang dan Perak meneruskan legasi Kesultanan Melayu Melaka melalui tradisi, institusi beraja dan pemerintahan. Oleh itu, C tepat. Rujukan skema: Tingkatan 5, m.s. 38."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：司法独立让法官依据法律和证据裁决，不受政治压力或有势力人士左右，从而维护公正。因此选A。（答案纸参考：F5，第55页。）
+Bahasa Melayu: Kehakiman yang bebas membolehkan hakim membuat keputusan berdasarkan undang-undang dan bukti tanpa tekanan politik. Hal ini memastikan keadilan ditegakkan, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 55."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：国防和教育属于联邦权限；土地与伊斯兰事务主要属于州权限。因此II和III正确，选C。（答案纸参考：F5，第69页。）
+Bahasa Melayu: Pertahanan dan pelajaran berada dalam Senarai Persekutuan. Hal ehwal tanah serta undang-undang Islam pula terutama bidang kuasa negeri, maka II dan III betul, iaitu C. Rujukan skema: Tingkatan 5, m.s. 69."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：Akta716与野生动物保护有关，课本把它放在联邦与州合作管理野生动物和国家公园的内容中。由双方配合保护生态，因此选D。（答案纸参考：F5，第74页。）
+Bahasa Melayu: Akta 716 berkaitan pemuliharaan hidupan liar. Dalam konteks buku teks, kerjasama Persekutuan dan negeri melibatkan pengurusan hidupan liar serta taman negara, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 74."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：菲律宾声称沙巴属于其领土，因此反对沙巴加入马来西亚。题目问反对原因，应选领土主张A，而不是移民被驱逐。（答案纸参考：F5，第97页。）
+Bahasa Melayu: Filipina menentang penyertaan Sabah dalam Malaysia kerana mendakwa Sabah merupakan wilayahnya berdasarkan tuntutan sejarah. Oleh itu, A tepat. Rujukan skema: Tingkatan 5, m.s. 97."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：马来西亚向联合国反映印尼的对抗与侵入，希望通过国际外交解决争端。因此答案B对应寻求联合国协助；举行谈判C也确实是终结对抗的措施，题目选项存在重叠。（答案纸参考：F5，第107页。）
+Bahasa Melayu: Malaysia membawa isu konfrontasi ke PBB untuk mendapatkan penyelesaian secara diplomatik, selaras dengan B. Namun, siri rundingan dalam C juga merupakan usaha sebenar menamatkan konfrontasi, jadi pilihan ini mempunyai pertindihan. Rujukan skema: Tingkatan 5, m.s. 107."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：共产党跨境藏匿，单独在境内行动不足以解决问题。马来西亚与泰国签订边境合作协定，联合遏制跨境活动，因此选D。（答案纸参考：F5，第125页。）
+Bahasa Melayu: Kegiatan komunis yang merentas sempadan memerlukan kerjasama dua negara. Perjanjian kerjasama sempadan Malaysia-Thailand membolehkan tindakan bersama untuk membanteras kegiatan tersebut, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 125."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：职业及技术训练中心让人民掌握就业所需技能，改善技能不足及失业问题。因此针对有限就业机会的措施是B。（答案纸参考：F5，第128页。）
+Bahasa Melayu: Pusat latihan vokasional dan teknikal membekalkan kemahiran yang diperlukan pasaran kerja. Latihan ini meningkatkan kebolehpasaran penduduk dan membantu mengurangkan pengangguran, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 128."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：连接西马、沙巴和砂拉越的渡轮增加各地区人民联系，减少地域隔阂，促进国家融合。题目强调全国联系的目标，所以选D。（答案纸参考：F5，第140页。）
+Bahasa Melayu: Feri Malaysia menghubungkan Semenanjung dengan Sabah dan Sarawak serta menggalakkan perhubungan antara penduduk. Hubungan ini membantu integrasi nasional, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 140."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：国家语文出版局DBP负责发展、推广及提升马来语，包括术语、出版和语言使用。因此设立目的对应A。（答案纸参考：F5，第149页。）
+Bahasa Melayu: Dewan Bahasa dan Pustaka memartabatkan bahasa Melayu melalui pengembangan bahasa, istilah, penerbitan dan penggunaan bahasa yang betul. Oleh itu, A tepat. Rujukan skema: Tingkatan 5, m.s. 149."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：LKIM负责提升渔民生活水平和发展渔业；LPP负责农民组织，RISDA负责橡胶小园主。题目明确提及渔民，所以选C。（答案纸参考：F5，第169页。）
+Bahasa Melayu: LKIM memajukan industri perikanan dan meningkatkan taraf hidup nelayan. LPP berkaitan peladang, manakala RISDA berkaitan pekebun kecil getah, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 169."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：Giatmara与ILP提供实际技能及工业训练，使青年能够从事与技能匹配的工作。这不是保证每人都成为国际企业家，所以选D。（答案纸参考：F5，第176页。）
+Bahasa Melayu: Giatmara dan ILP menyediakan latihan kemahiran serta perindustrian kepada belia. Latihan membantu mereka mendapatkan pekerjaan yang sesuai dengan kemahiran, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 176."
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：马来西亚与沙特、埃及和土耳其的历史联系与伊斯兰宗教及教育交流有关，影响对这些国家的外交关系。因此选A。（答案纸参考：F5，第197页。）
+Bahasa Melayu: Hubungan sejarah dengan Arab Saudi, Mesir dan Turki mempunyai ikatan keagamaan Islam serta pendidikan. Ikatan ini mempengaruhi dasar luar Malaysia, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 197."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：1971年在吉隆坡举行的东盟外长会议宣布ZOPFAN，使东南亚成为和平、自由及中立区域。因此选C。（答案纸参考：F5，第210页。）
+Bahasa Melayu: Mesyuarat Menteri-menteri Luar ASEAN di Kuala Lumpur pada tahun 1971 mengisytiharkan ZOPFAN, iaitu Zon Aman, Bebas dan Berkecuali. Oleh itu, C tepat. Rujukan skema: Tingkatan 5, m.s. 210."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：马来西亚支持巴勒斯坦人民权利，反对以色列政权的残酷行动，强调人道和公正。因此题目所问促使马来西亚争取公义的因素是D。（答案纸参考：F5，第234页。）
+Bahasa Melayu: Malaysia mempertahankan hak rakyat Palestin atas prinsip kemanusiaan dan keadilan serta menentang kekejaman rejim Zionis Israel. Oleh itu, D tepat. Rujukan skema: Tingkatan 5, m.s. 234."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：东盟粮食储备在危机、灾害或供应不足时提供应急粮食，保障人民基本需要。因此重点是紧急情况下使用，选A。（答案纸第234页与粮食安全内容不对应，未采用该页码。）
+Bahasa Melayu: Rizab makanan ASEAN menyediakan bekalan yang boleh digunakan ketika kecemasan, bencana atau kekurangan makanan. Tujuannya menjamin keperluan makanan, maka A tepat. Halaman 234 dalam skema tidak sepadan dengan topik sekuriti makanan, maka rujukan halaman itu tidak digunakan."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Kulai Set 1 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Kulai Set 1 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：早期马来世界国家的四项特征是君主、法律、人民及势力范围，因此X为 wilayah pengaruh，选C。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Empat ciri negara bangsa kerajaan Alam Melayu ialah raja, undang-undang, rakyat dan wilayah pengaruh; X ialah wilayah pengaruh, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：臣民相信违抗君主会遭受 tulah，所以愿意服从命令；这是君民忠诚关系的一部分，选A。（答案纸参考：F4，第12页。）
+Bahasa Melayu: Kepercayaan bahawa penderhaka akan ditimpa tulah mendorong rakyat mematuhi pemerintah, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 12."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：课本指出中国民族主义旨在巩固中华文明，并反对满清统治的软弱，I、II符合答案A。课本也提到西方干涉，所以III并非完全错误，这题选项有重叠。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Buku teks menyatakan nasionalisme China bertujuan mengukuhkan peradaban dan menentang kelemahan Dinasti Manchu, menyokong I dan II dalam A. Campur tangan Barat dalam III turut disebut, jadi pilihan tidak sepenuhnya berasingan. Rujukan skema: Tingkatan 4, m.s. 26."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：分权政策把部分权力从中央交回州及苏丹，使马来统治者的地位和权力获得恢复，选D。（答案纸参考：F4，第42页。）
+Bahasa Melayu: Dasar desentralisasi mengembalikan sebahagian kuasa pentadbiran kepada negeri dan sultan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 42."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：1938年邮票以 Hitler、Mussolini 展示德意合作，课本配图口号为“两个人，一个斗争”，对应C。（答案纸参考：F4，第59页。）
+Bahasa Melayu: Setem dengan Hitler dan Mussolini menggambarkan kerjasama Jerman–Itali melalui slogan dua orang dan satu perjuangan, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 59."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：日本在该会议承认马来统治者的地位，以取得支持，但不代表恢复君主全部权力，选B。（答案纸参考：F4，第71页。）
+Bahasa Melayu: Persidangan tersebut mengiktiraf kedudukan Raja-raja Melayu untuk mendapatkan sokongan, bukannya memberikan kuasa mutlak, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 71."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：Malayan Union 把多个州置于统一中央政府之下，属于 kesatuan，即单一制，选C。（答案纸参考：F4，第96页。）
+Bahasa Melayu: Malayan Union menyatukan negeri di bawah sebuah pentadbiran pusat, iaitu bentuk kesatuan, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 96."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：英国把 Zakaria Gunn 调到 Jesselton，以削弱其在 Sabah 社团中的活动影响；正确配对为D。（答案纸参考：F4，第116页。）
+Bahasa Melayu: British menukarkan Zakaria Gunn ke Jesselton sebagai langkah melemahkan kegiatan persatuan di Sabah, maka pasangan D tepat. Rujukan skema: Tingkatan 4, m.s. 116."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：PUTERA–AMCJA 指工作委员会与英国妥协，而且带有种族性、未代表所有群体，I、IV对应B。（答案纸参考：F4，第128页。）
+Bahasa Melayu: PUTERA–AMCJA menuduh Jawatankuasa Kerja berkompromi dengan British dan bersifat perkauman; I dan IV memberikan B. Rujukan skema: Tingkatan 4, m.s. 128."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：1948年联邦的重要内容除行政和马来统治者权力外，还有公民资格，包括法律规定及申请条件，X为D。（答案纸参考：F4，第135页。）
+Bahasa Melayu: Selain pentadbiran dan kuasa Raja-raja Melayu, Persekutuan 1948 menetapkan syarat kewarganegaraan; X ialah D. Rujukan skema: Tingkatan 4, m.s. 135."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：1948年6月 Sungai Siput 三名欧洲种植园经理被杀，成为英国扩大紧急状态的直接导火线，选C。（答案纸参考：F4，第148页。）
+Bahasa Melayu: Pembunuhan tiga pengurus ladang Eropah di Sungai Siput pada Jun 1948 mencetuskan pengisytiharan darurat yang diperluas ke seluruh Tanah Melayu, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 148."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Home Guard 由当地居民参与，负责保护村庄、城镇及社区，协助对抗共产主义威胁，选B。（答案纸参考：F4，第155页。）
+Bahasa Melayu: Home Guard melibatkan penduduk tempatan untuk mengawal kampung dan pekan serta membantu menangani ancaman komunis, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 155."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：CLC 讨论马来人的特殊地位及非马来人的公民资格，寻求族群间的谅解与妥协；I、II对应A。（答案纸参考：F4，第176页。）
+Bahasa Melayu: CLC membincangkan kedudukan istimewa orang Melayu dan kewarganegaraan bukan Melayu untuk membina persefahaman; I dan II memberikan A. Rujukan skema: Tingkatan 4, m.s. 176."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：IMP 以不分族群的成员组织推动全国团结，而非只团结马来人，故选B。（答案纸参考：F4，第184页。）
+Bahasa Melayu: IMP membuka keahlian tanpa mengira kaum untuk memperjuangkan perpaduan kebangsaan, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 184."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：1955年候选人须具备马来语及英语知识；年龄要求为21岁或以上，并非“不超过21岁”，因此选D。（答案纸参考：F4，第200页。）
+Bahasa Melayu: Calon pilihan raya 1955 perlu berpengetahuan dalam bahasa Melayu dan bahasa Inggeris serta berumur sekurang-kurangnya 21 tahun, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 200."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：首届内阁由不同族群代表组成，显示合作、妥协及共同治理的能力，为独立作准备，选C。（答案纸参考：F4，第207页。）
+Bahasa Melayu: Kabinet pertama terdiri daripada wakil pelbagai kaum dan menunjukkan kompromi serta kerjasama untuk berkerajaan sendiri, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 207."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：Reid、Jennings 与 Malik 的任务是拟定联邦宪法，不是组成内阁或单独决定独立日期，选A。（答案纸参考：F4，第220页。）
+Bahasa Melayu: Tugas Suruhanjaya Reid ialah merangka Perlembagaan Persekutuan Tanah Melayu, bukannya membentuk kabinet atau menetapkan tarikh kemerdekaan, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 220."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：联盟提交的政治信托备忘录称 Testament Amanah Politik Perikatan，内容包括公民资格方面的协议，选D。（答案纸参考：F4，第222页。）
+Bahasa Melayu: Memorandum Perikatan yang merangkumi persetujuan tentang kewarganegaraan dikenali sebagai Testament Amanah Politik Perikatan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 222."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：al-Afghani 主张团结及共同反抗外来支配，因此题中独立观对应团结精神，选B。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Pandangan al-Afghani menekankan semangat bersatu padu dalam menentang penguasaan asing, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：第一马来亚计划重视乡村与经济发展，透过提高收入和创造工作减少贫穷，I、II对应A。（答案纸参考：F4，第244页。）
+Bahasa Melayu: Rancangan Malaya Pertama menumpukan pembangunan ekonomi dan luar bandar untuk mengurangkan kemiskinan serta menyediakan pekerjaan; I dan II memberikan A. Rujukan skema: Tingkatan 4, m.s. 244."

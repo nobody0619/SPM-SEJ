@@ -1,53 +1,105 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 4,radio,JohorBahru_Q27,A,B,C,D,B,Johor Bahru/Picture27.png
-F5 Chp 4,radio,JohorKulaiSet_Q27,A,B,C,D,D,Johor Kulai Set 1/Picture27.png
-F5 Chp 4,radio,JohorKulaiSet_Q27,A,B,C,D,B,Johor Kulai Set 2/Picture27.png
-F5 Chp 4,radio,JohorMuar_Q27,A,B,C,D,C,Johor Muar/Picture27.png
-F5 Chp 4,radio,JohorPasirGudang_Q27,A,B,C,D,C,Johor Pasir Gudang/Picture27.png
-F5 Chp 4,radio,JohorSegamatSet_Q27,A,B,C,D,C,Johor Segamat Set 1/Picture27.png
-F5 Chp 4,radio,JohorSegamatSet_Q27,A,B,C,D,C,Johor Segamat Set 2/Picture27.png
-F5 Chp 4,radio,Kedah_Q27,A,B,C,D,C,Kedah/Picture27.png
-F5 Chp 4,radio,Kelantan_Q27,A,B,C,D,A,Kelantan/Picture27.png
-F5 Chp 4,radio,KualaLumpur_Q27,A,B,C,D,B,Kuala Lumpur/Picture27.png
-F5 Chp 4,radio,Melaka_Q27,A,B,C,D,D,Melaka/Picture27.png
-F5 Chp 4,radio,Mrsm_Q27,A,B,C,D,B,MRSM/Picture27.png
-F5 Chp 4,radio,N_Q27,A,B,C,D,A,N9/Picture27.png
-F5 Chp 4,radio,Pahang_Q27,A,B,C,D,B,Pahang/Picture27.png
-F5 Chp 4,radio,Perak_Q27,A,B,C,D,D,Perak/Picture27.png
-F5 Chp 4,radio,Perlis_Q27,A,B,C,D,D,Perlis/Picture27.png
-F5 Chp 4,radio,PulauPinang_Q27,A,B,C,D,D,Pulau Pinang/Picture27.png
-F5 Chp 4,radio,PutrajayaSet_Q27,A,B,C,D,A,Putrajaya set 1/Picture27.png
-F5 Chp 4,radio,PutrajayaSet_Q27,A,B,C,D,A,Putrajaya set 2/Picture27.png
-F5 Chp 4,radio,Sabah_Q27,A,B,C,D,B,Sabah/Picture27.png
-F5 Chp 4,radio,Sabk_Q27,A,B,C,D,B,SABK/Picture27.png
-F5 Chp 4,radio,SarawakSibu_Q27,A,B,C,D,B,Sarawak Sibu/Picture27.png
-F5 Chp 4,radio,Sbp_Q27,A,B,C,D,B,SBP/Picture27.png
-F5 Chp 4,radio,Selangor_Q27,A,B,C,D,A,Selangor/Picture27.png
-F5 Chp 4,radio,Smka_Q27,A,B,C,D,A,SMKA/Picture27.png
-F5 Chp 4,radio,Terengganu_Q27,A,B,C,D,C,Terengganu/Picture27.png
-F5 Chp 4,radio,JohorBahru_Q28,A,B,C,D,B,Johor Bahru/Picture28.png
-F5 Chp 4,radio,JohorKulaiSet_Q28,A,B,C,D,B,Johor Kulai Set 1/Picture28.png
-F5 Chp 4,radio,JohorKulaiSet_Q28,A,B,C,D,C,Johor Kulai Set 2/Picture28.png
-F5 Chp 4,radio,JohorMuar_Q28,A,B,C,D,C,Johor Muar/Picture28.png
-F5 Chp 4,radio,JohorPasirGudang_Q28,A,B,C,D,D,Johor Pasir Gudang/Picture28.png
-F5 Chp 4,radio,JohorSegamatSet_Q28,A,B,C,D,B,Johor Segamat Set 1/Picture28.png
-F5 Chp 4,radio,JohorSegamatSet_Q28,A,B,C,D,A,Johor Segamat Set 2/Picture28.png
-F5 Chp 4,radio,Kedah_Q28,A,B,C,D,C,Kedah/Picture28.png
-F5 Chp 4,radio,Kelantan_Q28,A,B,C,D,D,Kelantan/Picture28.png
-F5 Chp 4,radio,KualaLumpur_Q28,A,B,C,D,C,Kuala Lumpur/Picture28.png
-F5 Chp 4,radio,Melaka_Q28,A,B,C,D,C,Melaka/Picture28.png
-F5 Chp 4,radio,Mrsm_Q28,A,B,C,D,C,MRSM/Picture28.png
-F5 Chp 4,radio,N_Q28,A,B,C,D,D,N9/Picture28.png
-F5 Chp 4,radio,Pahang_Q28,A,B,C,D,D,Pahang/Picture28.png
-F5 Chp 4,radio,Perak_Q28,A,B,C,D,D,Perak/Picture28.png
-F5 Chp 4,radio,PulauPinang_Q28,A,B,C,D,A,Pulau Pinang/Picture28.png
-F5 Chp 4,radio,PutrajayaSet_Q28,A,B,C,D,B,Putrajaya set 1/Picture28.png
-F5 Chp 4,radio,PutrajayaSet_Q28,A,B,C,D,C,Putrajaya set 2/Picture28.png
-F5 Chp 4,radio,Sabah_Q28,A,B,C,D,A,Sabah/Picture28.png
-F5 Chp 4,radio,Sabk_Q28,A,B,C,D,B,SABK/Picture28.png
-F5 Chp 4,radio,SarawakSibu_Q28,A,B,C,D,D,Sarawak Sibu/Picture28.png
-F5 Chp 4,radio,Sbp_Q28,A,B,C,D,D,SBP/Picture28.png
-F5 Chp 4,radio,Selangor_Q28,A,B,C,D,D,Selangor/Picture28.png
-F5 Chp 4,radio,Smka_Q28,A,B,C,D,D,SMKA/Picture28.png
-F5 Chp 4,radio,Terengganu_Q28,A,B,C,D,B,Terengganu/Picture28.png
-F5 Chp 4,radio,SarawakSibu_Q29,A,B,C,D,B,Sarawak Sibu/Picture29.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 4,radio,JohorBahru_Q27,A,B,C,D,B,Johor Bahru/Picture27.png,"中文：Persekutuan 指多个州联合为一个联邦，并按宪法分配中央与州的权力，选B。（答案纸参考：F5，第66页。）
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dengan pembahagian kuasa antara kerajaan Persekutuan dan Negeri menurut perlembagaan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 66."
+F5 Chp 4,radio,JohorKulaiSet_Q27,A,B,C,D,D,Johor Kulai Set 1/Picture27.png,"中文：联邦是多个州联合的政治结构，与只说明君主或民主制度不同，因此选D。（答案纸参考：F5，第66页。）
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dalam satu struktur pemerintahan, bukan sekadar sistem beraja atau demokrasi, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 66."
+F5 Chp 4,radio,JohorKulaiSet_Q27,A,B,C,D,B,Johor Kulai Set 2/Picture27.png,"中文：Persekutuan 的基本含义是多个州的联合，并以宪法协调彼此权力，选B。（答案纸参考：F5，第66页。）
+Bahasa Melayu: Persekutuan bermaksud penyatuan beberapa negeri dengan kuasa yang diselaraskan melalui perlembagaan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 66."
+F5 Chp 4,radio,JohorMuar_Q27,A,B,C,D,C,Johor Muar/Picture27.png,"中文：州政府权限包括土地、农业、林业及地方政府。国防和教育属于联邦权限，因此题目所问柔佛州政府的事务是农业，选C。（答案纸参考：F5，第70页。）
+Bahasa Melayu: Pertanian, tanah, perhutanan dan kerajaan tempatan merupakan antara bidang kuasa kerajaan negeri. Pertahanan dan pendidikan ialah urusan Persekutuan, maka C betul. Rujukan skema: Tingkatan 5, m.s. 70."
+F5 Chp 4,radio,JohorPasirGudang_Q27,A,B,C,D,C,Johor Pasir Gudang/Picture27.png,"中文：国防和教育属于联邦权限；土地与伊斯兰事务主要属于州权限。因此II和III正确，选C。（答案纸参考：F5，第69页。）
+Bahasa Melayu: Pertahanan dan pelajaran berada dalam Senarai Persekutuan. Hal ehwal tanah serta undang-undang Islam pula terutama bidang kuasa negeri, maka II dan III betul, iaitu C. Rujukan skema: Tingkatan 5, m.s. 69."
+F5 Chp 4,radio,JohorSegamatSet_Q27,A,B,C,D,C,Johor Segamat Set 1/Picture27.png,"中文：1927年重组联邦议会的目的，是改进行政并巩固英国在马来州的地位。虽然图片出现马来统治者，改革目标仍应按课本理解，因此选C。（答案纸参考：F5，第67页。）
+Bahasa Melayu: Penstrukturan semula Majlis Mesyuarat Persekutuan 1927 bertujuan memperkemas tadbir urus dan mengukuhkan kedudukan British di negeri Melayu. Oleh itu, C tepat. Rujukan skema: Tingkatan 5, m.s. 67."
+F5 Chp 4,radio,JohorSegamatSet_Q27,A,B,C,D,C,Johor Segamat Set 2/Picture27.png,"中文：1946年Malayan Union的中央集权及削弱苏丹地位引发统治者与马来人的强烈反对，制度无法持续。因此选C。（答案纸参考：F5，第67页。）
+Bahasa Melayu: Malayan Union menerima bantahan Raja-raja Melayu dan orang Melayu kerana menjejaskan kedaulatan serta kedudukan mereka. Penentangan ini menyebabkan sistem kesatuan gagal diteruskan, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 67."
+F5 Chp 4,radio,Kedah_Q27,A,B,C,D,C,Kedah/Picture27.png,"中文：房屋事务属于共同清单，由联邦和州政府共同负责；国防、财政和公民权属联邦领域。答案纸参考：F5第70页。
+Bahasa Melayu: Perumahan termasuk Senarai Bersama yang melibatkan kerajaan persekutuan dan negeri; pertahanan, kewangan dan kewarganegaraan bidang persekutuan. Rujukan skema: T5 ms.70."
+F5 Chp 4,radio,Kelantan_Q27,A,B,C,D,A,Kelantan/Picture27.png,"中文：土地事务属于州清单；教育、卫生和外交主要属于联邦权限。 答案纸参考：F5第70页。
+Bahasa Melayu: Tanah termasuk Senarai Negeri; pelajaran, kesihatan dan hal ehwal luar ialah bidang persekutuan. Rujukan skema: T5 ms.70."
+F5 Chp 4,radio,KualaLumpur_Q27,A,B,C,D,B,Kuala Lumpur/Picture27.png,"中文：FELDA负责土地开发和居民安置，提升农村经济与生活水平。 答案纸参考：F5第72页。
+Bahasa Melayu: FELDA menjalankan pembangunan tanah dan penempatan untuk meningkatkan ekonomi serta taraf hidup luar bandar. Rujukan skema: T5 ms.72."
+F5 Chp 4,radio,Melaka_Q27,A,B,C,D,D,Melaka/Picture27.png,"中文：较强中央权力有助统一协调重大政策，保障全国稳定并促进发展，III、IV正确。 答案纸参考：F5第68页。
+Bahasa Melayu: Kuasa pusat lebih besar memudahkan penyelarasan dasar utama untuk kestabilan dan kemajuan negara; III dan IV betul. Rujukan skema: T5 ms.68."
+F5 Chp 4,radio,Mrsm_Q27,A,B,C,D,B,MRSM/Picture27.png,"中文：1927年重组联邦议会旨在改善治理并巩固英国在马来州的地位。 答案纸参考：F5第67页。
+Bahasa Melayu: Penstrukturan Majlis Mesyuarat Persekutuan 1927 memperkemas tadbir urus dan mengukuhkan kedudukan British di negeri Melayu. Rujukan skema: T5 ms.67."
+F5 Chp 4,radio,N_Q27,A,B,C,D,A,N9/Picture27.png,"中文：联邦拥有较大权限，能统一协调国家政策和安全事务，保障整体稳定。 答案纸参考：F5第68页。
+Bahasa Melayu: Kuasa persekutuan lebih besar membolehkan penyelarasan dasar serta keselamatan negara untuk menjamin kestabilan. Rujukan skema: T5 ms.68."
+F5 Chp 4,radio,Pahang_Q27,A,B,C,D,B,Pahang/Picture27.png,"中文：B：奖学金属于联邦与州政府都能处理的共同清单；财务和教育属联邦清单，土地属州清单。答案纸参考：F5第70页。
+Bahasa Melayu: B: Biasiswa berada dalam Senarai Bersama dan boleh diurus kedua-dua kerajaan. Kewangan serta pelajaran ialah Senarai Persekutuan, manakala tanah ialah Senarai Negeri. Rujukan skema: T5 ms. 70."
+F5 Chp 4,radio,Perak_Q27,A,B,C,D,D,Perak/Picture27.png,"中文：公共福利以及文化和体育属于共同权限，由联邦及州共同负责，所以III和IV正确；财政及公民权属于联邦权限。答案纸参考：F5，第70页。
+Bahasa Melayu: Kebajikan masyarakat serta kebudayaan dan sukan termasuk Senarai Bersama, maka III dan IV tepat. Kewangan dan kewarganegaraan ialah bidang Persekutuan. Rujukan skema: F5, halaman 70."
+F5 Chp 4,radio,Perlis_Q27,A,B,C,D,D,Perlis/Picture27.png,"中文：联邦是数个州联合组成国家，并依据宪法在中央与州之间分配权力，不等于一切事务都由中央决定。答案纸参考：F5，第66页。
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dengan pembahagian kuasa antara kerajaan Persekutuan dan negeri menurut Perlembagaan. Rujukan skema: F5, halaman 66."
+F5 Chp 4,radio,PulauPinang_Q27,A,B,C,D,D,Pulau Pinang/Picture27.png,"中文：维护地方道路、公共房屋及美化环境属于地方政府的服务，图中的X是地方当局。答案纸参考：F5，第71页。
+Bahasa Melayu: Pihak Berkuasa Tempatan menyenggara jalan, membangunkan perumahan awam dan mengindahkan kawasan setempat. Maka X ialah PBT. Rujukan skema: F5, halaman 71."
+F5 Chp 4,radio,PutrajayaSet_Q27,A,B,C,D,A,Putrajaya set 1/Picture27.png,"中文：殖民时期调整行政制度主要服务英国的经济及政治利益，不是为了加强马来统治者的全部权力。马来亚联盟并非联邦，题目把它放在同一发展表中应理解为行政演变。答案纸参考：F5，第66至67页。
+Bahasa Melayu: Penyusunan pentadbiran kolonial menjaga kepentingan British. Malayan Union bukan sistem persekutuan; jadual ini wajar difahami sebagai perkembangan pentadbiran, bukan semua bentuknya persekutuan. Rujukan skema: F5, halaman 66–67."
+F5 Chp 4,radio,PutrajayaSet_Q27,A,B,C,D,A,Putrajaya set 2/Picture27.png,"中文：房屋属于共同权限，可由国会及州议会在各自权限内立法；土地、农业及森林属于州权限，财政属于联邦。答案纸参考：F5，第70页。
+Bahasa Melayu: Perumahan termasuk Senarai Bersama. Tanah, pertanian dan perhutanan ialah bidang negeri, manakala kewangan ialah bidang Persekutuan. Rujukan skema: F5, halaman 70."
+F5 Chp 4,radio,Sabah_Q27,A,B,C,D,B,Sabah/Picture27.png,"中文：B：州务大臣及首席部长会议协调政策落实，让联邦与州政府合作执行计划。
+Bahasa Melayu: B: Mesyuarat Menteri Besar dan Ketua Menteri menyelaras pelaksanaan dasar serta kerjasama antara kerajaan negeri dengan Persekutuan."
+F5 Chp 4,radio,Sabk_Q27,A,B,C,D,B,SABK/Picture27.png,"中文：马来亚联盟遭马来人及统治者强烈反对，最终被1948年联邦取代。它曾实际实施，题干“失败实施”应理解为未能持续。答案纸参考：F5，第67页。
+Bahasa Melayu: Malayan Union menghadapi bantahan kuat rakyat dan raja lalu digantikan pada 1948. Ia pernah dilaksanakan; kegagalan dalam soalan bermaksud gagal diteruskan. Rujukan skema: F5, halaman 67."
+F5 Chp 4,radio,SarawakSibu_Q27,A,B,C,D,B,Sarawak Sibu/Picture27.png,"中文：B：地方政府提供当地服务与公共设施，例如道路、排水、清洁及休闲设施。【答案纸参考：71；书页内容待逐页确认。】
+Bahasa Melayu: B: Kerajaan tempatan menyediakan perkhidmatan dan kemudahan awam seperti jalan, saliran, kebersihan serta kemudahan rekreasi. [Rujukan skema: 71; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Sbp_Q27,A,B,C,D,B,SBP/Picture27.png,"中文：B：Rumah Selangorku及Rumah Perakku提供负担得起的房屋，帮助符合资格的人拥有住所。【答案纸参考：77；书页内容待逐页确认。】
+Bahasa Melayu: B: Rumah Selangorku dan Rumah Perakku menyediakan rumah mampu milik supaya golongan yang layak dapat memiliki kediaman. [Rujukan skema: 77; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Selangor_Q27,A,B,C,D,A,Selangor/Picture27.png,"中文：A：1895年森美兰联合后，英国派驻Residen协助行政，强化殖民介入。【答案纸参考：B4T5M66；书页内容待逐页确认。】
+Bahasa Melayu: A: Pembentukan Konfederasi Negeri Sembilan 1895 membawa kepada pelantikan Residen British dalam pentadbiran. [Rujukan skema: B4T5M66; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Smka_Q27,A,B,C,D,A,SMKA/Picture27.png,"中文：A：房屋事务属于联邦与州共同负责的Senarai Bersama；国防则属于联邦清单。【答案纸参考：T5 Hal.70；书页内容待逐页确认。】
+Bahasa Melayu: A: Perumahan berada dalam Senarai Bersama yang melibatkan Kerajaan Persekutuan dan negeri, manakala pertahanan ialah urusan Persekutuan. [Rujukan skema: T5 Hal.70; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Terengganu_Q27,A,B,C,D,C,Terengganu/Picture27.png,"中文：C：农业与林业属于州清单；国防、教育及医药健康属于联邦权限。【答案纸参考：BAB 4- MS 70；书页内容待逐页确认。】
+Bahasa Melayu: C: Pertanian dan perhutanan ialah bidang Senarai Negeri, manakala pertahanan, pelajaran serta perubatan dan kesihatan ialah urusan Persekutuan. [Rujukan skema: BAB 4- MS 70; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,JohorBahru_Q28,A,B,C,D,B,Johor Bahru/Picture28.png,"中文：Sabah 的海洋保护区由州政府通过 Taman-Taman Sabah 管理，目的是保护海洋生态及资源，选B。（答案纸参考：F5，第75页。）
+Bahasa Melayu: Kerajaan Negeri Sabah mengurus kawasan perlindungan marin melalui Taman-Taman Sabah untuk memelihara khazanah laut, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 75."
+F5 Chp 4,radio,JohorKulaiSet_Q28,A,B,C,D,B,Johor Kulai Set 1/Picture28.png,"中文：设立海洋公园限制破坏海洋生态的活动，保护珊瑚、海洋生物及自然资源，选B。（答案纸参考：F5，第75页。）
+Bahasa Melayu: Pewartaan taman laut melindungi terumbu karang, hidupan marin dan khazanah laut daripada kegiatan yang merosakkan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 75."
+F5 Chp 4,radio,JohorKulaiSet_Q28,A,B,C,D,C,Johor Kulai Set 2/Picture28.png,"中文：Iskandar 等区域发展计划把经济活动扩展到不同地区，减少州与地区的发展差距，选C。（答案纸参考：F5，第73页。）
+Bahasa Melayu: Koridor pembangunan seperti Iskandar membantu menyeimbangkan pembangunan negeri dan wilayah serta mengurangkan jurang, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 73."
+F5 Chp 4,radio,JohorMuar_Q28,A,B,C,D,C,Johor Muar/Picture28.png,"中文：ESSCOM整合警方、武装部队和马来西亚海事执法机构的合作，维护沙巴东海岸安全。选项中海事执法机构符合这一合作体系，所以选C。（答案纸参考：F5，第79页。）
+Bahasa Melayu: ESSCOM menyelaraskan kerjasama Polis Diraja Malaysia, Angkatan Tentera Malaysia dan Agensi Penguatkuasaan Maritim Malaysia untuk menjaga keselamatan pantai timur Sabah. Oleh itu, C tepat. Rujukan skema: Tingkatan 5, m.s. 79."
+F5 Chp 4,radio,JohorPasirGudang_Q28,A,B,C,D,D,Johor Pasir Gudang/Picture28.png,"中文：Akta716与野生动物保护有关，课本把它放在联邦与州合作管理野生动物和国家公园的内容中。由双方配合保护生态，因此选D。（答案纸参考：F5，第74页。）
+Bahasa Melayu: Akta 716 berkaitan pemuliharaan hidupan liar. Dalam konteks buku teks, kerjasama Persekutuan dan negeri melibatkan pengurusan hidupan liar serta taman negara, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 74."
+F5 Chp 4,radio,JohorSegamatSet_Q28,A,B,C,D,B,Johor Segamat Set 1/Picture28.png,"中文：In-Situ在原有乡村地区改善基础设施，如道路、供水和社区设施，不是开辟新的土地。重点是乡村实体发展，因此选B。（答案纸参考：F5，第72页。）
+Bahasa Melayu: Pembangunan In-Situ memperbaiki kawasan desa sedia ada melalui kemudahan fizikal seperti jalan dan bekalan air. Ia berbeza daripada pembukaan tanah baharu, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 72."
+F5 Chp 4,radio,JohorSegamatSet_Q28,A,B,C,D,A,Johor Segamat Set 2/Picture28.png,"中文：联邦与州结合资源、专业知识和行动，才能处理发展、保育及安全等跨领域事务。因此最全面的启示是共同贡献力量与思想，选A。（答案纸参考：F5，第79页。）
+Bahasa Melayu: Kerjasama Persekutuan dan negeri menggabungkan sumber, tenaga dan idea untuk pembangunan, pemuliharaan serta keselamatan. Iktibar menyeluruhnya ialah menggembleng tenaga dan fikiran, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 79."
+F5 Chp 4,radio,Kedah_Q28,A,B,C,D,C,Kedah/Picture28.png,"中文：全国财政理事会与全国房屋理事会协调联邦、州的政策与执行，因此II、III正确。答案纸参考：F5第81页。
+Bahasa Melayu: Majlis Kewangan Negara dan Majlis Perumahan Negara menyelaraskan dasar serta pelaksanaan antara persekutuan dengan negeri, maka II dan III betul. Rujukan skema: T5 ms.81."
+F5 Chp 4,radio,Kelantan_Q28,A,B,C,D,D,Kelantan/Picture28.png,"中文：联邦制定海洋公园政策，州政府负责相关岛屿的发展规划，D体现权限分工。 答案纸参考：F5第75页。
+Bahasa Melayu: Kerajaan Persekutuan membentuk dasar Taman Laut, manakala kerajaan negeri menyediakan pembangunan pulau; D menunjukkan pembahagian tugas. Rujukan skema: T5 ms.75."
+F5 Chp 4,radio,KualaLumpur_Q28,A,B,C,D,C,Kuala Lumpur/Picture28.png,"中文：首相与州领袖的会议协调政策执行，让联邦和州措施相互配合。 答案纸参考：F5第80页。
+Bahasa Melayu: Mesyuarat Perdana Menteri dengan pemimpin negeri menyelaraskan pelaksanaan dasar agar tindakan persekutuan dan negeri seiring. Rujukan skema: T5 ms.80."
+F5 Chp 4,radio,Melaka_Q28,A,B,C,D,C,Melaka/Picture28.png,"中文：增加可负担房屋让中等收入家庭负担得起住房，是两级政府合作的措施。 答案纸参考：F5第77页。
+Bahasa Melayu: Memperbanyak rumah mampu milik membolehkan keluarga berpendapatan pertengahan membeli kediaman melalui kerjasama kedua-dua kerajaan. Rujukan skema: T5 ms.77."
+F5 Chp 4,radio,Mrsm_Q28,A,B,C,D,C,MRSM/Picture28.png,"中文：全国财政理事会协调贷款、税务及联邦州财政关系，所以II、III符合其财政职责。 答案纸参考：F5第81页。
+Bahasa Melayu: Majlis Kewangan Negara menyelaraskan pinjaman, percukaian dan hubungan kewangan persekutuan-negeri; II dan III menepati tugas kewangan. Rujukan skema: T5 ms.81."
+F5 Chp 4,radio,N_Q28,A,B,C,D,D,N9/Picture28.png,"中文：ESSCOM在Sabah东海岸加强安全，防止武装人员和恐怖分子入侵。 答案纸参考：F5第79页。
+Bahasa Melayu: ESSCOM memperkukuh keselamatan pantai timur Sabah untuk menghalang pencerobohan pihak bersenjata dan pengganas. Rujukan skema: T5 ms.79."
+F5 Chp 4,radio,Pahang_Q28,A,B,C,D,D,Pahang/Picture28.png,"中文：D：首相与州务大臣、首席部长开会，协调联邦和各州政策的执行，确保行政配合而非相互竞争。答案纸参考：F5第80页。
+Bahasa Melayu: D: Mesyuarat menyelaraskan pelaksanaan dasar antara Kerajaan Persekutuan dengan kerajaan negeri supaya pentadbiran berjalan secara kerjasama. Rujukan skema: T5 ms. 80."
+F5 Chp 4,radio,Perak_Q28,A,B,C,D,D,Perak/Picture28.png,"中文：首相与州务大臣及首席部长会议加强联邦和州的协调，确保政策能在各州顺利实施。答案纸参考：F5，第80页。
+Bahasa Melayu: Mesyuarat Menteri Besar dan Ketua Menteri bersama Perdana Menteri menyelaraskan tindakan Persekutuan dengan negeri supaya dasar dilaksanakan dengan berkesan. Rujukan skema: F5, halaman 80."
+F5 Chp 4,radio,PulauPinang_Q28,A,B,C,D,A,Pulau Pinang/Picture28.png,"中文：In-Situ在原有乡村推动设施及实际环境改善，重点是乡村物质建设，不是把居民一律迁走。答案纸参考：F5，第72页。
+Bahasa Melayu: Program In-Situ menekankan pembangunan fizikal desa di petempatan sedia ada, termasuk peningkatan kemudahan, bukan pemindahan semua penduduk. Rujukan skema: F5, halaman 72."
+F5 Chp 4,radio,PutrajayaSet_Q28,A,B,C,D,B,Putrajaya set 1/Picture28.png,"中文：奖学金属于共同权限；土地属于州权限，教育及公民权属于联邦权限，因此B正确。答案纸参考：F5，第70页。
+Bahasa Melayu: Biasiswa termasuk Senarai Bersama. Tanah ialah bidang negeri, manakala pelajaran dan kewarganegaraan ialah bidang Persekutuan. Rujukan skema: F5, halaman 70."
+F5 Chp 4,radio,PutrajayaSet_Q28,A,B,C,D,C,Putrajaya set 2/Picture28.png,"中文：宪法明确分配中央和州的权力，减少权限争执并让双方协调治理，有助国家稳定。答案纸参考：F5，第81页。
+Bahasa Melayu: Pembahagian kuasa yang jelas antara Persekutuan dan negeri mengurangkan pertikaian bidang kuasa serta menyokong kestabilan negara. Rujukan skema: F5, halaman 81."
+F5 Chp 4,radio,Sabah_Q28,A,B,C,D,A,Sabah/Picture28.png,"中文：A：马来西亚成立让联邦加强对有关地区的安全合作，更有效遏制共产党威胁。
+Bahasa Melayu: A: Pembentukan Malaysia membolehkan usaha keselamatan diselaraskan dengan lebih berkesan untuk membendung ancaman komunis di wilayah berkenaan."
+F5 Chp 4,radio,Sabk_Q28,A,B,C,D,B,SABK/Picture28.png,"中文：国家水务理事会与国家安全及房屋理事会同属政府设立的协调机构。其他三个选项是宪法规定的国家理事会，应分清分类。答案纸参考：F5，第81页。
+Bahasa Melayu: Majlis Air Negara, seperti majlis keselamatan dan perumahan, ditubuhkan oleh kerajaan untuk penyelarasan. Tiga pilihan lain ialah majlis yang diperuntukkan Perlembagaan. Rujukan skema: F5, halaman 81."
+F5 Chp 4,radio,SarawakSibu_Q28,A,B,C,D,D,Sarawak Sibu/Picture28.png,"中文：题库及答案纸写D，但选项有疑点：课本列“公共福利”为共同清单，“地方政府”为州清单。按现有四项只有III属于共同清单，没有完全符合的组合。【答案纸参考：70；书页内容待逐页确认。】
+Bahasa Melayu: Kunci dan skema mencatat D, tetapi pilihan bermasalah: buku teks meletakkan kebajikan awam dalam Senarai Bersama dan kerajaan tempatan dalam Senarai Negeri. Hanya III sesuai, maka tiada pasangan jawapan yang sepenuhnya tepat. [Rujukan skema: 70; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Sbp_Q28,A,B,C,D,D,SBP/Picture28.png,"中文：D：ESSCOM及ESSZONE把联邦与沙巴州政府的力量结合，提升沙巴东海岸的安全合作和协调。【答案纸参考：79；书页内容待逐页确认。】
+Bahasa Melayu: D: ESSCOM dan ESSZONE memperkukuh kerjasama serta penyelarasan keselamatan antara Kerajaan Persekutuan dengan Kerajaan Sabah di pantai timur Sabah. [Rujukan skema: 79; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Selangor_Q28,A,B,C,D,D,Selangor/Picture28.png,"中文：D（III、IV）：协调海洋公园管理及野生动物保护法，让联邦与州共同保存自然财富。【答案纸参考：B4T5M74-75；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Penyelarasan pentadbiran taman laut dan Akta Pemuliharaan Hidupan Liar membolehkan kerjasama pemuliharaan khazanah alam. [Rujukan skema: B4T5M74-75; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Smka_Q28,A,B,C,D,D,SMKA/Picture28.png,"中文：D：FELCRA负责整合、恢复及开发土地，使土地更有生产力并改善居民收入。【答案纸参考：T5 Hal.72；书页内容待逐页确认。】
+Bahasa Melayu: D: FELCRA menyatukan, memulihkan dan membangunkan tanah bagi meningkatkan produktiviti serta pendapatan penduduk. [Rujukan skema: T5 Hal.72; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,Terengganu_Q28,A,B,C,D,B,Terengganu/Picture28.png,"中文：B：州务大臣及首席部长会议协调政府政策落实，促进联邦与各州合作。【答案纸参考：BAB 4- MS 80；书页内容待逐页确认。】
+Bahasa Melayu: B: Mesyuarat Menteri Besar dan Ketua Menteri menyelaras pelaksanaan dasar serta kerjasama antara kerajaan negeri dengan Persekutuan. [Rujukan skema: BAB 4- MS 80; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 4,radio,SarawakSibu_Q29,A,B,C,D,B,Sarawak Sibu/Picture29.png,"中文：B：增加可负担房屋供应，让中等收入群体以较合理价格购买住所。【答案纸参考：76-77；书页内容待逐页确认。】
+Bahasa Melayu: B: Pembinaan lebih banyak rumah mampu milik membolehkan golongan pertengahan memiliki kediaman pada harga yang munasabah. [Rujukan skema: 76-77; kandungan halaman buku belum disahkan satu demi satu.]"

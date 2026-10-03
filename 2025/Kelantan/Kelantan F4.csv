@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：早期马来世界国家的特征包括君主、法律、势力范围和人民，因此选法律C；其他选项属于马六甲国家特征的表述。 答案纸参考：F4第4页。
+Bahasa Melayu: Ciri negara bangsa kerajaan Alam Melayu ialah raja, undang-undang, wilayah pengaruh dan rakyat; maka undang-undang C tepat. Rujukan skema: T4 ms.4."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：Nakhoda Jenal与Nakhoda Sahak参与制定Undang-Undang Laut Melaka，规范航行、船上权力与贸易。 答案纸参考：F4第11页。
+Bahasa Melayu: Nakhoda Jenal dan Nakhoda Sahak mengusahakan Undang-Undang Laut Melaka bagi mengatur pelayaran, kuasa di kapal dan perdagangan. Rujukan skema: T4 ms.11."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：光荣革命限制君主专断并确立国会主权，为君主立宪制度奠定基础。 答案纸参考：F4第24页。
+Bahasa Melayu: Revolusi Keagungan mengehadkan kuasa mutlak raja dan menegakkan kedaulatan parlimen, menjadi asas Raja Berperlembagaan. Rujukan skema: T4 ms.24."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：Kajai和Za'ba通过文学创作批评社会问题、唤醒马来人的进步意识，传播民族主义。 答案纸参考：F4第33页。
+Bahasa Melayu: Kajai dan Za'ba menggunakan karya kreatif untuk mengkritik masalah masyarakat dan menyedarkan orang Melayu tentang kemajuan serta nasionalisme. Rujukan skema: T4 ms.33."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：Hitler派军队进驻原本非军事化的Rhineland，违反Versailles条约以恢复德国实力。 答案纸参考：F4第58页。
+Bahasa Melayu: Hitler menduduki Rhineland yang dinyahketenteraan, melanggar Perjanjian Versailles untuk memulihkan kekuatan Jerman. Rujukan skema: T4 ms.58."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：粮食配给卡记录居民领取物资的数量，让短缺情况下的分配有据可查。 答案纸参考：F4第72页。
+Bahasa Melayu: Kad catuan merekod kuantiti barangan yang diterima penduduk agar pengagihan semasa kekurangan makanan dapat dikawal. Rujukan skema: T4 ms.72."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：日军投降后的马来亚秩序混乱，BMA负责恢复稳定、公共秩序和行政。 答案纸参考：F4第94页。
+Bahasa Melayu: Selepas Jepun menyerah, Tanah Melayu tidak stabil; BMA bertugas memulihkan kestabilan, ketenteraman dan pentadbiran. Rujukan skema: T4 ms.94."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：Halimahton Majid与Datin Puteh Mariah动员妇女参与反Malayan Union运动，捍卫马来权益。 答案纸参考：F4第103页。
+Bahasa Melayu: Halimahton Majid dan Datin Puteh Mariah menggerakkan wanita membantah Malayan Union demi mempertahankan kepentingan orang Melayu. Rujukan skema: T4 ms.103."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：1946年工作委员会由英国、君主代表及UMNO组成，商讨取代Malayan Union的联邦协议。 答案纸参考：F4第126页。
+Bahasa Melayu: Jawatankuasa Kerja 1946 melibatkan British, wakil raja dan UMNO untuk membincangkan Perjanjian Persekutuan yang menggantikan Malayan Union. Rujukan skema: T4 ms.126."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：1948年协议保障马来人的特殊地位，并以高级专员责任等安排落实保护。 答案纸参考：F4第136页。
+Bahasa Melayu: Perjanjian 1948 melindungi kedudukan istimewa orang Melayu melalui peruntukan termasuk tanggungjawab Pesuruhjaya Tinggi. Rujukan skema: T4 ms.136."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：共产党通过渗透组织及国民党分支等渠道传播思想，所以III、IV正确。 答案纸参考：F4第146–147页。
+Bahasa Melayu: Ideologi komunis disebarkan melalui penyusupan pertubuhan dan cawangan Parti Kuomintang, maka III dan IV betul. Rujukan skema: T4 ms.146–147."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Baling谈判中政府要求共产党投降，不接受承认PKM为合法政党的要求，导致谈判失败。 答案纸参考：F4第160页。
+Bahasa Melayu: Kerajaan menuntut komunis menyerah dan tidak menerima tuntutan pengiktirafan PKM sebagai parti sah, menyebabkan Rundingan Baling gagal. Rujukan skema: T4 ms.160."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：IMP开放给各族加入，以跨族合作建立全国团结，而非单一族群政党。 答案纸参考：F4第173页。
+Bahasa Melayu: IMP dibuka kepada semua kaum untuk membina perpaduan kebangsaan melalui kerjasama, bukan parti satu kaum sahaja. Rujukan skema: T4 ms.173."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：英国时期各源流学校使用不同课程，分隔族群。原答案B为英国支付薪金，但题意应选D，答案纸也写D，保留原key并注明差异。 答案纸参考：F4第180页。
+Bahasa Melayu: Sekolah pelbagai aliran menggunakan kurikulum berlainan, memisahkan kaum. Jawapan asal B ialah gaji dibayar British, tetapi D menepati soalan dan skema; key asal dikekalkan dengan perbezaan ini dicatat. Rujukan skema: T4 ms.180."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：联盟赢得绝大多数州席位，表明选民接受跨族合作，应选B；原key D强调地方行政，并非数据最直接结论，答案纸也写B。 答案纸参考：F4第197页。
+Bahasa Melayu: Kemenangan besar Perikatan membuktikan kerjasama kaum diterima, B. Key asal D tentang pentadbiran tempatan bukan kesimpulan paling langsung daripada keputusan ini; skema juga B. Rujukan skema: T4 ms.197."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：1955年候选人须年满21岁并为马来亚公民，不要求高学历或必须是党领袖，所以I、IV正确。 答案纸参考：F4第200页。
+Bahasa Melayu: Calon 1955 mesti berumur sekurang-kurangnya 21 tahun dan warganegara Tanah Melayu, bukan semestinya berpendidikan tinggi atau ketua parti; I dan IV betul. Rujukan skema: T4 ms.200."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：Sheikh Abdullah Fahim提供意见，协助Tunku确定适当的独立日期。 答案纸参考：F4第218页。
+Bahasa Melayu: Sheikh Abdullah Fahim memberi pandangan kepada Tunku untuk menentukan tarikh kemerdekaan yang sesuai. Rujukan skema: T4 ms.218."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：1956年2月20日Tunku在Banda Hilir向民众宣布1957年8月31日独立，传播伦敦谈判成果。 答案纸参考：F4第219页。
+Bahasa Melayu: Pada 20 Februari 1956, Tunku mengumumkan tarikh merdeka 31 Ogos 1957 di Banda Hilir selepas kejayaan rundingan London. Rujukan skema: T4 ms.219."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：庆典委员会举办礼仪课程，确保独立庆典的程序、座位及正式礼节顺利执行。 答案纸参考：F4第237页。
+Bahasa Melayu: Jawatankuasa sambutan menganjurkan kursus protokol untuk memastikan tatacara dan istiadat sambutan kemerdekaan berjalan teratur. Rujukan skema: T4 ms.237."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：降下Union Jack象征英国殖民统治终结，国家开始独立自主。 答案纸参考：F4第238页。
+Bahasa Melayu: Penurunan Union Jack melambangkan berakhirnya penjajahan British dan bermulanya kemerdekaan negara. Rujukan skema: T4 ms.238."

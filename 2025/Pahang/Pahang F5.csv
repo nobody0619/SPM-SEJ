@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：B：传统主权强调统治者拥有最高或绝对权力；法律主权、国际主权与现代民族国家主权则是其他类别。答案纸参考：F5第6页。
+Bahasa Melayu: B: Kedaulatan tradisional dikaitkan dengan kuasa tertinggi atau mutlak pemerintah. Kedaulatan undang-undang, antarabangsa dan moden ialah jenis yang berbeza. Rujukan skema: T5 ms. 6."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：D：尊重国家象征和促进种族合作能培养共同认同并保护主权，因此III与IV正确；个人利益不应凌驾国家利益。答案纸参考：F5第12、14页。
+Bahasa Melayu: D: Menghormati lambang negara dan memupuk kerjasama kaum mengukuhkan identiti serta kedaulatan negara. III dan IV tepat; kepentingan peribadi tidak mengatasi kepentingan negara. Rujukan skema: T5 ms. 12, 14."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：C：议会民主让人民通过选举选出代表，由获得多数支持的政党组成政府。答案纸参考：F5第29页。
+Bahasa Melayu: C: Demokrasi Berparlimen memberi rakyat hak memilih wakil melalui pilihan raya. Parti yang mendapat sokongan majoriti membentuk kerajaan. Rujukan skema: T5 ms. 29."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：A：1963年马来西亚成立，需要把沙巴、砂拉越和新加坡纳入联邦制度，因此修订原1957年宪法。答案纸参考：F5第30页。
+Bahasa Melayu: A: Pembentukan Malaysia pada 1963 memerlukan pindaan bagi memasukkan Sabah, Sarawak dan Singapura ke dalam sistem Persekutuan. Rujukan skema: T5 ms. 30."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：B：统治者会议在九位马来统治者中选出最高元首。召集国会与颁布紧急状态属于最高元首的宪法职权。答案纸参考：F5第44–45页。
+Bahasa Melayu: B: Majlis Raja-Raja memilih Yang di-Pertuan Agong daripada sembilan Raja Melayu. Memanggil Parlimen dan mengisytiharkan darurat merupakan bidang kuasa Yang di-Pertuan Agong. Rujukan skema: T5 ms. 44–45."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：A：跨族群政党结盟、共享政治权力，能在议会民主中争取较广泛支持并组成政府。图中年份是联盟成立阶段，并不表示每个联盟当年已经执政。答案纸参考：F5第57页。
+Bahasa Melayu: A: Gabungan parti pelbagai kaum berkongsi kuasa dan mendapatkan sokongan luas untuk membentuk kerajaan. Tahun dalam rajah menunjukkan penubuhan gabungan, bukan semuanya sudah memerintah pada tahun tersebut. Rujukan skema: T5 ms. 57."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：B：奖学金属于联邦与州政府都能处理的共同清单；财务和教育属联邦清单，土地属州清单。答案纸参考：F5第70页。
+Bahasa Melayu: B: Biasiswa berada dalam Senarai Bersama dan boleh diurus kedua-dua kerajaan. Kewangan serta pelajaran ialah Senarai Persekutuan, manakala tanah ialah Senarai Negeri. Rujukan skema: T5 ms. 70."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：D：首相与州务大臣、首席部长开会，协调联邦和各州政策的执行，确保行政配合而非相互竞争。答案纸参考：F5第80页。
+Bahasa Melayu: D: Mesyuarat menyelaraskan pelaksanaan dasar antara Kerajaan Persekutuan dengan kerajaan negeri supaya pentadbiran berjalan secara kerjasama. Rujukan skema: T5 ms. 80."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：C：把英国在东南亚的领地合并，可使分散地区的行政统筹更方便、更有效率。答案纸参考：F5第90页。
+Bahasa Melayu: C: Penyatuan wilayah British di Asia Tenggara memudahkan penyelarasan pentadbiran yang sebelumnya berasingan. Rujukan skema: T5 ms. 90."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：A：Azahari认为马来西亚方案会延续英国殖民影响，也担忧文莱失去资源利益，因此I与II对应反对理由。答案纸参考：F5第97页。
+Bahasa Melayu: A: A.M. Azahari menganggap gagasan Malaysia mengukuhkan pengaruh penjajah dan menimbulkan kebimbangan kehilangan sumber kekayaan Brunei. Maka I dan II tepat. Rujukan skema: T5 ms. 97."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：B：马来西亚与新加坡领导人通过协商达成分离安排，避免以暴力解决政治及经济矛盾。答案纸参考：F5第120页。
+Bahasa Melayu: B: Pemimpin Malaysia dan Singapura menggunakan rundingan untuk mencapai persetujuan pemisahan dan mengelakkan penyelesaian secara kekerasan. Rujukan skema: T5 ms. 120."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：D：心理战争取人民支持；跨境合作阻止共产党利用边境基地活动，两者互补，即III和IV。答案纸参考：F5第121、125页。
+Bahasa Melayu: D: Perang saraf memperoleh sokongan rakyat, manakala kerjasama sempadan menyekat pergerakan serta pangkalan komunis. III dan IV saling melengkapi. Rujukan skema: T5 ms. 121, 125."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：A：国家文化政策的三原则之一是伊斯兰作为重要元素，另两项涉及本区域原有文化及接受适合的其他文化。答案纸参考：F5第150页。
+Bahasa Melayu: A: Islam menjadi unsur penting ialah salah satu prinsip Dasar Kebudayaan Kebangsaan, bersama budaya asal rantau ini dan penerimaan unsur budaya lain yang sesuai. Rujukan skema: T5 ms. 150."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：C：RIMUP让不同族群学生参加共同活动，建立友谊、团队精神与团结。答案纸参考：F5第152页。
+Bahasa Melayu: C: RIMUP melibatkan murid pelbagai kaum dalam aktiviti bersama untuk membina persahabatan, semangat setia kawan dan perpaduan. Rujukan skema: T5 ms. 152."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：D：新经济政策两大策略为不分种族消除贫穷及重组社会，减少族群与经济职业的固定联系。答案纸参考：F5第167页。
+Bahasa Melayu: D: Strategi DEB ialah membasmi kemiskinan tanpa mengira kaum dan menyusun semula masyarakat supaya kaum tidak lagi dikenal pasti melalui kegiatan ekonomi. Rujukan skema: T5 ms. 167."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：B：ILP和Giatmara提供技术训练，提升劳动者技能，让他们更容易就业或从事技术型创业。答案纸参考：F5第176页。
+Bahasa Melayu: B: ILP dan Giatmara menyediakan latihan kemahiran yang meningkatkan kebolehpasaran tenaga kerja serta peluang pekerjaan dan keusahawanan. Rujukan skema: T5 ms. 176."
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：A：历史关系影响国家与外界的联系，国家需求决定安全与发展的外交重点，因此I与II属于政策制定因素。答案纸参考：F5第197页。
+Bahasa Melayu: A: Ikatan sejarah mempengaruhi hubungan luar, manakala keperluan nasional menentukan kepentingan keselamatan dan pembangunan. Maka I dan II ialah faktor penggubalan dasar luar. Rujukan skema: T5 ms. 197."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：C：UNESCO是联合国教育、科学与文化机构，马来西亚参与其活动属于在联合国体系的贡献；其他选项属英联邦或东盟。答案纸参考：F5第199页。
+Bahasa Melayu: C: UNESCO ialah agensi PBB dalam pendidikan, sains dan kebudayaan. Penyertaannya merupakan sumbangan dalam sistem PBB; pilihan lain berkaitan Komanwel atau ASEAN. Rujukan skema: T5 ms. 199."
+,radio,F5 Bab 9,A,B,C,D,D,Picture39.png,"中文：D：东盟通过降低成员之间的关税促进贸易，扩大马来西亚商品市场与经济合作机会。答案纸参考：F5第211页。
+Bahasa Melayu: D: Pengurangan cukai atau tarif sesama anggota ASEAN memudahkan perdagangan dan meluaskan pasaran barangan Malaysia. Rujukan skema: T5 ms. 211."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：A：Langkawi奖项表扬个人或机构对环保的贡献，鼓励社会持续保护自然环境。答案纸参考：F5第238页。
+Bahasa Melayu: A: Anugerah Langkawi menghargai sumbangan individu atau organisasi dalam pemeliharaan alam sekitar dan menggalakkan usaha tersebut diteruskan. Rujukan skema: T5 ms. 238."

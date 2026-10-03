@@ -1,50 +1,99 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 10,radio,JohorBahru_Q19,A,B,C,D,D,Johor Bahru/Picture19.png
-F4 Chp 10,radio,JohorKulaiSet_Q19,A,B,C,D,B,Johor Kulai Set 1/Picture19.png
-F4 Chp 10,radio,JohorKulaiSet_Q19,A,B,C,D,D,Johor Kulai Set 2/Picture19.png
-F4 Chp 10,radio,JohorMuar_Q19,A,B,C,D,C,Johor Muar/Picture19.png
-F4 Chp 10,radio,JohorPasirGudang_Q19,A,B,C,D,B,Johor Pasir Gudang/Picture19.png
-F4 Chp 10,radio,JohorSegamatSet_Q19,A,B,C,D,B,Johor Segamat Set 1/Picture19.png
-F4 Chp 10,radio,JohorSegamatSet_Q19,A,B,C,D,A,Johor Segamat Set 2/Picture19.png
-F4 Chp 10,radio,Kedah_Q19,A,B,C,D,B,Kedah/Picture19.png
-F4 Chp 10,radio,Kelantan_Q19,A,B,C,D,B,Kelantan/Picture19.png
-F4 Chp 10,radio,KualaLumpur_Q19,A,B,C,D,B,Kuala Lumpur/Picture19.png
-F4 Chp 10,radio,Melaka_Q19,A,B,C,D,D,Melaka/Picture19.png
-F4 Chp 10,radio,Mrsm_Q19,A,B,C,D,A,MRSM/Picture19.png
-F4 Chp 10,radio,N_Q19,A,B,C,D,B,N9/Picture19.png
-F4 Chp 10,radio,Perak_Q19,A,B,C,D,C,Perak/Picture19.png
-F4 Chp 10,radio,Perlis_Q19,A,B,C,D,D,Perlis/Picture19.png
-F4 Chp 10,radio,PulauPinang_Q19,A,B,C,D,A,Pulau Pinang/Picture19.png
-F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,C,Putrajaya set 1/Picture19.png
-F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,A,Putrajaya set 2/Picture19.png
-F4 Chp 10,radio,Sabah_Q19,A,B,C,D,A,Sabah/Picture19.png
-F4 Chp 10,radio,Sabk_Q19,A,B,C,D,B,SABK/Picture19.png
-F4 Chp 10,radio,Sbp_Q19,A,B,C,D,A,SBP/Picture19.png
-F4 Chp 10,radio,Selangor_Q19,A,B,C,D,B,Selangor/Picture19.png
-F4 Chp 10,radio,Smka_Q19,A,B,C,D,B,SMKA/Picture19.png
-F4 Chp 10,radio,Terengganu_Q19,A,B,C,D,C,Terengganu/Picture19.png
-F4 Chp 10,radio,JohorBahru_Q20,A,B,C,D,A,Johor Bahru/Picture20.png
-F4 Chp 10,radio,JohorKulaiSet_Q20,A,B,C,D,A,Johor Kulai Set 1/Picture20.png
-F4 Chp 10,radio,JohorKulaiSet_Q20,A,B,C,D,C,Johor Kulai Set 2/Picture20.png
-F4 Chp 10,radio,JohorMuar_Q20,A,B,C,D,B,Johor Muar/Picture20.png
-F4 Chp 10,radio,JohorPasirGudang_Q20,A,B,C,D,A,Johor Pasir Gudang/Picture20.png
-F4 Chp 10,radio,JohorSegamatSet_Q20,A,B,C,D,C,Johor Segamat Set 1/Picture20.png
-F4 Chp 10,radio,JohorSegamatSet_Q20,A,B,C,D,D,Johor Segamat Set 2/Picture20.png
-F4 Chp 10,radio,Kedah_Q20,A,B,C,D,C,Kedah/Picture20.png
-F4 Chp 10,radio,Kelantan_Q20,A,B,C,D,A,Kelantan/Picture20.png
-F4 Chp 10,radio,KualaLumpur_Q20,A,B,C,D,A,Kuala Lumpur/Picture20.png
-F4 Chp 10,radio,Melaka_Q20,A,B,C,D,C,Melaka/Picture20.png
-F4 Chp 10,radio,Mrsm_Q20,A,B,C,D,B,MRSM/Picture20.png
-F4 Chp 10,radio,N_Q20,A,B,C,D,D,N9/Picture20.png
-F4 Chp 10,radio,Pahang_Q20,A,B,C,D,C,Pahang/Picture20.png
-F4 Chp 10,radio,Perak_Q20,A,B,C,D,B,Perak/Picture20.png
-F4 Chp 10,radio,Perlis_Q20,A,B,C,D,B,Perlis/Picture20.png
-F4 Chp 10,radio,PulauPinang_Q20,A,B,C,D,D,Pulau Pinang/Picture20.png
-F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,A,Putrajaya set 1/Picture20.png
-F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,C,Putrajaya set 2/Picture20.png
-F4 Chp 10,radio,Sabah_Q20,A,B,C,D,A,Sabah/Picture20.png
-F4 Chp 10,radio,Sabk_Q20,A,B,C,D,D,SABK/Picture20.png
-F4 Chp 10,radio,Sbp_Q20,A,B,C,D,B,SBP/Picture20.png
-F4 Chp 10,radio,Selangor_Q20,A,B,C,D,B,Selangor/Picture20.png
-F4 Chp 10,radio,Smka_Q20,A,B,C,D,D,SMKA/Picture20.png
-F4 Chp 10,radio,Terengganu_Q20,A,B,C,D,C,Terengganu/Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 10,radio,JohorBahru_Q19,A,B,C,D,D,Johor Bahru/Picture19.png,"中文：课本引用 Mandela 对独立的理解，强调摆脱奴役与压迫；四个选项中对应D。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Takrif kemerdekaan menurut Nelson Mandela menekankan kebebasan daripada perhambaan dan penindasan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+F4 Chp 10,radio,JohorKulaiSet_Q19,A,B,C,D,B,Johor Kulai Set 1/Picture19.png,"中文：al-Afghani 主张团结及共同反抗外来支配，因此题中独立观对应团结精神，选B。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Pandangan al-Afghani menekankan semangat bersatu padu dalam menentang penguasaan asing, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+F4 Chp 10,radio,JohorKulaiSet_Q19,A,B,C,D,D,Johor Kulai Set 2/Picture19.png,"中文：Kamus Dewan 的独立定义是摆脱殖民、外来约束与支配，因此最直接对应D。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Kamus Dewan mentakrifkan kemerdekaan sebagai bebas daripada penjajahan, kurungan atau naungan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+F4 Chp 10,radio,JohorMuar_Q19,A,B,C,D,C,Johor Muar/Picture19.png,"中文：马哈迪认为独立不仅是脱离殖民统治与殖民思想，也包括全心爱国、愿意为国家牺牲。因此“全心爱国”符合他的定义，选C。（答案纸参考：F4，第235页。）
+Bahasa Melayu: Tun Dr. Mahathir mentakrifkan merdeka bukan sekadar bebas daripada kuasa dan pemikiran penjajah, tetapi juga menyayangi negara sepenuh hati serta sanggup berkorban. Oleh itu, C tepat. Rujukan skema: Tingkatan 4, m.s. 235."
+F4 Chp 10,radio,JohorPasirGudang_Q19,A,B,C,D,B,Johor Pasir Gudang/Picture19.png,"中文：1957年8月31日正式独立庆典在Stadium Merdeka举行，东姑宣读独立宣言并高喊Merdeka。因此选B。（答案纸参考：F4，第240页。）
+Bahasa Melayu: Upacara rasmi kemerdekaan pada 31 Ogos 1957 berlangsung di Stadium Merdeka. Tunku membaca pemasyhuran kemerdekaan dan melaungkan Merdeka, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 240."
+F4 Chp 10,radio,JohorSegamatSet_Q19,A,B,C,D,B,Johor Segamat Set 1/Picture19.png,"中文：课本把甘地的独立观念与摆脱贫困、种姓压迫及束缚人的观念联系起来。因此题目中的种姓压迫最符合，选B。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Menurut huraian buku teks, kemerdekaan bagi Mahatma Gandhi berkaitan pembebasan daripada kemiskinan, penindasan kasta dan belenggu pemikiran. Oleh itu, B tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+F4 Chp 10,radio,JohorSegamatSet_Q19,A,B,C,D,A,Johor Segamat Set 2/Picture19.png,"中文：甘地认为每个国家都有权自行治理，独立也应涵盖政治、经济及道德方面。因此“自由管理国家”符合他的独立观念，选A。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Mahatma Gandhi berpendapat setiap negara berhak mengurus negaranya sendiri dan kemerdekaan merangkumi politik, ekonomi serta moral. Oleh itu, A tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+F4 Chp 10,radio,Kedah_Q19,A,B,C,D,B,Kedah/Picture19.png,"中文：国会制定联邦法律，州议会制定州法律，两者同属立法机关而非司法或行政机关。答案纸参考：F4第242页。
+Bahasa Melayu: Parlimen menggubal undang-undang persekutuan dan DUN menggubal undang-undang negeri; kedua-duanya badan perundangan. Rujukan skema: T4 ms.242."
+F4 Chp 10,radio,Kelantan_Q19,A,B,C,D,B,Kelantan/Picture19.png,"中文：庆典委员会举办礼仪课程，确保独立庆典的程序、座位及正式礼节顺利执行。 答案纸参考：F4第237页。
+Bahasa Melayu: Jawatankuasa sambutan menganjurkan kursus protokol untuk memastikan tatacara dan istiadat sambutan kemerdekaan berjalan teratur. Rujukan skema: T4 ms.237."
+F4 Chp 10,radio,KualaLumpur_Q19,A,B,C,D,B,Kuala Lumpur/Picture19.png,"中文：马来君主批准使用国家徽章，体现君主在国家象征及主权中的作用。 答案纸参考：F4第236页。
+Bahasa Melayu: Raja-raja Melayu memperkenankan penggunaan jata negara, menunjukkan peranan raja dalam lambang dan kedaulatan negara. Rujukan skema: T4 ms.236."
+F4 Chp 10,radio,Melaka_Q19,A,B,C,D,D,Melaka/Picture19.png,"中文：Gandhi强调每个国家有权自主管理自身事务，独立意味着摆脱外国控制。 答案纸参考：F4第234页。
+Bahasa Melayu: Gandhi menegaskan setiap negara berhak mengurus negaranya sendiri; kemerdekaan bermakna bebas daripada kawalan asing. Rujukan skema: T4 ms.234."
+F4 Chp 10,radio,Mrsm_Q19,A,B,C,D,A,MRSM/Picture19.png,"中文：庆典委员会举办礼仪课程，确保独立宣告庆典按正式程序顺利进行。 答案纸参考：F4第237页。
+Bahasa Melayu: Jawatankuasa Sambutan menganjurkan kursus protokol agar upacara pemasyhuran kemerdekaan berjalan mengikut tatacara rasmi. Rujukan skema: T4 ms.237."
+F4 Chp 10,radio,N_Q19,A,B,C,D,B,N9/Picture19.png,"中文：政府逐步任命本地人民接替欧洲官员，在国防、专业与高等教育领域实现本地化。 答案纸参考：F4第242页。
+Bahasa Melayu: Kerajaan melantik rakyat tempatan secara berperingkat menggantikan pegawai Eropah dalam pertahanan, bidang profesional dan pendidikan tinggi. Rujukan skema: T4 ms.242."
+F4 Chp 10,radio,Perak_Q19,A,B,C,D,C,Perak/Picture19.png,"中文：FELDA通过大规模开发土地及安置居民，扩大农业活动并改善乡区居民的经济生活。答案纸参考：F4，第244页。
+Bahasa Melayu: FELDA membuka tanah secara besar-besaran dan menempatkan peneroka bagi memperluas pertanian serta meningkatkan kehidupan ekonomi penduduk luar bandar. Rujukan skema: F4, halaman 244."
+F4 Chp 10,radio,Perlis_Q19,A,B,C,D,D,Perlis/Picture19.png,"中文：物质准备委员会负责场地及设施，庆典委员会负责庆祝活动，两者都为独立庆典作准备。答案纸参考：F4，第236至237页。
+Bahasa Melayu: Jawatankuasa Persediaan Fizikal menyediakan kemudahan, manakala Jawatankuasa Sambutan menguruskan acara sambutan; kedua-duanya membuat persediaan kemerdekaan. Rujukan skema: F4, halaman 236–237."
+F4 Chp 10,radio,PulauPinang_Q19,A,B,C,D,A,Pulau Pinang/Picture19.png,"中文：国家象征展示独立国家的身份与主权，让人民认识共同国家标志，并不只是表现某位领袖个人权威。答案纸参考：F4，第236页。
+Bahasa Melayu: Lambang negara menonjolkan identiti dan kedaulatan negara serta menjadi simbol bersama rakyat, bukan semata-mata kewibawaan seseorang pemimpin. Rujukan skema: F4, halaman 236."
+F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,C,Putrajaya set 1/Picture19.png,"中文：独立后须由本地人员逐步接替欧洲官员，建立由本国人民治理的行政体系，这是政治与行政挑战。答案纸参考：F4，第242页。
+Bahasa Melayu: Selepas merdeka, jawatan pegawai Eropah perlu digantikan secara berperingkat oleh pegawai tempatan untuk membina pentadbiran negara sendiri. Rujukan skema: F4, halaman 242."
+F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,A,Putrajaya set 2/Picture19.png,"中文：独立庆典的设施、仪式及国家标志展示新国家身份，因此准备工作的重要意义是突出国家认同。答案纸参考：F4，第236页。
+Bahasa Melayu: Persediaan kemudahan, upacara dan lambang kemerdekaan menonjolkan identiti negara baharu. Rujukan skema: F4, halaman 236."
+F4 Chp 10,radio,Sabah_Q19,A,B,C,D,A,Sabah/Picture19.png,"中文：A（I、II）：1957年协议规定伊斯兰为联邦宗教，并维持马来人的特殊地位。
+Bahasa Melayu: A (I dan II): Perjanjian 1957 menetapkan Islam sebagai agama Persekutuan dan mengekalkan kedudukan istimewa orang Melayu."
+F4 Chp 10,radio,Sabk_Q19,A,B,C,D,B,SABK/Picture19.png,"中文：独立庆典为部长与高级官员准备的特别礼服是baju muskat，体现正式国家仪式身份。答案纸参考：F4，第237页。
+Bahasa Melayu: Baju muskat disediakan sebagai pakaian khas menteri dan pegawai kerajaan bagi upacara sambutan kemerdekaan. Rujukan skema: F4, halaman 237."
+F4 Chp 10,radio,Sbp_Q19,A,B,C,D,A,SBP/Picture19.png,"中文：A：加入Sterling Bloc有利于贸易和金融往来，从而加强独立后的国家经济。【答案纸参考：243；书页内容待逐页确认。】
+Bahasa Melayu: A: Penyertaan dalam Blok Sterling memudahkan hubungan perdagangan dan kewangan, sekali gus mengukuhkan ekonomi negara selepas merdeka. [Rujukan skema: 243; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 10,radio,Selangor_Q19,A,B,C,D,B,Selangor/Picture19.png,"中文：B：礼宾课程训练官员接待及陪同受邀嘉宾，确保独立庆典符合正式礼仪。【答案纸参考：B10T4M237；书页内容待逐页确认。】
+Bahasa Melayu: B: Kursus protokol menyediakan pegawai untuk mengiringi dan mengurus tetamu jemputan semasa sambutan kemerdekaan mengikut tatacara rasmi. [Rujukan skema: B10T4M237; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 10,radio,Smka_Q19,A,B,C,D,B,SMKA/Picture19.png,"中文：B：Mahatma Gandhi强调独立涵盖政治、经济和道德，每个国家有权自行管理国家。【答案纸参考：T4 Hal.234；书页内容待逐页确认。】
+Bahasa Melayu: B: Mahatma Gandhi menegaskan kemerdekaan merangkumi politik, ekonomi dan moral serta hak setiap negara mengurus negaranya sendiri. [Rujukan skema: T4 Hal.234; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 10,radio,Terengganu_Q19,A,B,C,D,C,Terengganu/Picture19.png,"中文：C（II、III）：拒绝负面外来影响，并为民族和国家需要贡献思想，有助维护独立。
+Bahasa Melayu: C (II dan III): Mengelakkan pengaruh luar yang negatif dan menyumbangkan idea untuk keperluan bangsa membantu mengekalkan kemerdekaan."
+F4 Chp 10,radio,JohorBahru_Q20,A,B,C,D,A,Johor Bahru/Picture20.png,"中文：公民获法律承认，才享有受保障的基本权利；题干描述的是对人民公民身份的承认，所以选A。（答案纸参考：F4，第247页。）
+Bahasa Melayu: Pengiktirafan sebagai rakyat memberikan kedudukan warganegara serta hak asasi yang dilindungi undang-undang, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 247."
+F4 Chp 10,radio,JohorKulaiSet_Q20,A,B,C,D,A,Johor Kulai Set 1/Picture20.png,"中文：第一马来亚计划重视乡村与经济发展，透过提高收入和创造工作减少贫穷，I、II对应A。（答案纸参考：F4，第244页。）
+Bahasa Melayu: Rancangan Malaya Pertama menumpukan pembangunan ekonomi dan luar bandar untuk mengurangkan kemiskinan serta menyediakan pekerjaan; I dan II memberikan A. Rujukan skema: Tingkatan 4, m.s. 244."
+F4 Chp 10,radio,JohorKulaiSet_Q20,A,B,C,D,C,Johor Kulai Set 2/Picture20.png,"中文：开发新地区及实行马来亚发展计划能扩展生产、改善基础设施及收入；II、III对应C。（答案纸参考：F4，第244页。）
+Bahasa Melayu: Pembukaan kawasan baharu dan pelaksanaan Rancangan Malaya memperluas kegiatan ekonomi serta pembangunan, maka II dan III memberikan C. Rujukan skema: Tingkatan 4, m.s. 244."
+F4 Chp 10,radio,JohorMuar_Q20,A,B,C,D,B,Johor Muar/Picture20.png,"中文：独立后马来亚签订AMDA防卫协定，并维持与英联邦的良好关系，以获得防务合作与安全支持。Letter Box和Goodsir则是紧急状态措施，所以选I和IV，即B。（答案纸参考：F4，第243页。）
+Bahasa Melayu: Selepas merdeka, AMDA dan hubungan baik dengan Komanwel membantu memperkukuh pertahanan negara. Operasi Letter Box serta Rancangan Goodsir ialah langkah semasa darurat, maka I dan IV betul, iaitu B. Rujukan skema: Tingkatan 4, m.s. 243."
+F4 Chp 10,radio,JohorPasirGudang_Q20,A,B,C,D,A,Johor Pasir Gudang/Picture20.png,"中文：各族领袖合作与协商，再通过与英国谈判争取独立，使马来亚能够和平取得主权。因此关键是谈判及各族共识，选A。（答案纸参考：F4，第241页。）
+Bahasa Melayu: Kerjasama dan muafakat antara kaum mengukuhkan tuntutan kemerdekaan, manakala rundingan dengan British membuka jalan secara aman. Oleh itu, A tepat. Rujukan skema: Tingkatan 4, m.s. 241."
+F4 Chp 10,radio,JohorSegamatSet_Q20,A,B,C,D,C,Johor Segamat Set 1/Picture20.png,"中文：红皮书计划记录各地区的发展项目，方便监督与评估执行进度，确保乡村发展落实。因此目的对应C。（答案纸参考：F4，第244页。）
+Bahasa Melayu: Rancangan Buku Merah merekodkan projek pembangunan untuk memantau dan menilai pelaksanaannya. Pemantauan membantu menjayakan pembangunan terutama di luar bandar, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 244."
+F4 Chp 10,radio,JohorSegamatSet_Q20,A,B,C,D,D,Johor Segamat Set 2/Picture20.png,"中文：共同教学语言有助各族学生沟通并建立共同国家认同。Rahman Talib报告强调马来语作为教学媒介，因此选D。（答案纸参考：F4，第245页。）
+Bahasa Melayu: Bahasa pengantar bersama membantu komunikasi serta pembentukan identiti kebangsaan. Penyata Rahman Talib menekankan bahasa Melayu sebagai bahasa pengantar, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 245."
+F4 Chp 10,radio,Kedah_Q20,A,B,C,D,C,Kedah/Picture20.png,"中文：独立后的国防能力仍需支持，AMDA安排英国及盟友军事援助，以保障马来亚安全。答案纸参考：F4第243页。
+Bahasa Melayu: Pertahanan negara selepas merdeka masih memerlukan sokongan; AMDA menyediakan bantuan ketenteraan British dan sekutunya untuk keselamatan Tanah Melayu. Rujukan skema: T4 ms.243."
+F4 Chp 10,radio,Kelantan_Q20,A,B,C,D,A,Kelantan/Picture20.png,"中文：降下Union Jack象征英国殖民统治终结，国家开始独立自主。 答案纸参考：F4第238页。
+Bahasa Melayu: Penurunan Union Jack melambangkan berakhirnya penjajahan British dan bermulanya kemerdekaan negara. Rujukan skema: T4 ms.238."
+F4 Chp 10,radio,KualaLumpur_Q20,A,B,C,D,A,Kuala Lumpur/Picture20.png,"中文：公民拥有表达意见的基本自由，但须遵守法律，不等于无限制批评。 答案纸参考：F4第247页。
+Bahasa Melayu: Warganegara mempunyai kebebasan menyuarakan pendapat tertakluk pada undang-undang, bukan kebebasan mengkritik tanpa batas. Rujukan skema: T4 ms.247."
+F4 Chp 10,radio,Melaka_Q20,A,B,C,D,C,Melaka/Picture20.png,"中文：体育馆、宫殿和国歌等准备，是为独立庆典及独立国家象征提供条件。 答案纸参考：F4第236页。
+Bahasa Melayu: Persediaan stadium, istana dan lagu kebangsaan dibuat untuk meraikan kemerdekaan serta menyediakan lambang negara merdeka. Rujukan skema: T4 ms.236."
+F4 Chp 10,radio,Mrsm_Q20,A,B,C,D,B,MRSM/Picture20.png,"中文：国旗和国花是共同国家象征，培养国家身份、忠诚及民族自我认同。 答案纸参考：F4第247页。
+Bahasa Melayu: Bendera dan bunga kebangsaan ialah lambang bersama yang membentuk jati diri, identiti dan kesetiaan bangsa. Rujukan skema: T4 ms.247."
+F4 Chp 10,radio,N_Q20,A,B,C,D,D,N9/Picture20.png,"中文：独立国家的主权原则包括政府、国家象征和势力或领土范围，因此X为wilayah pengaruh。 答案纸参考：F4第246页。
+Bahasa Melayu: Prinsip kedaulatan negara merdeka merangkumi kerajaan, lambang kebangsaan dan wilayah pengaruh, maka X ialah wilayah pengaruh. Rujukan skema: T4 ms.246."
+F4 Chp 10,radio,Pahang_Q20,A,B,C,D,C,Pahang/Picture20.png,"中文：C：独立宣告象征外国殖民统治结束，国家与人民取得自主治理的权力。答案纸参考：F4第238页。
+Bahasa Melayu: C: Pemasyhuran kemerdekaan menandakan berakhirnya penjajahan asing dan bermulanya pemerintahan negara oleh rakyatnya sendiri. Rujukan skema: T4 ms. 238."
+F4 Chp 10,radio,Perak_Q20,A,B,C,D,B,Perak/Picture20.png,"中文：主权让国家自行保障人民权益，包括依法表达意见的权利；表达自由仍须遵守宪法及法律，并非不受限制。答案纸参考：F4，第247页。
+Bahasa Melayu: Kedaulatan membolehkan negara menjamin hak rakyat, termasuk kebebasan bersuara mengikut Perlembagaan dan undang-undang, bukannya kebebasan tanpa batas. Rujukan skema: F4, halaman 247."
+F4 Chp 10,radio,Perlis_Q20,A,B,C,D,B,Perlis/Picture20.png,"中文：乡村发展部提升偏远地区的道路及公共设施，改善乡区生活并缩小城乡差距。答案纸参考：F4，第244页。
+Bahasa Melayu: Kementerian Luar Bandar membangunkan jalan dan kemudahan di pedalaman untuk meningkatkan taraf hidup serta mengurangkan jurang bandar dengan luar bandar. Rujukan skema: F4, halaman 244."
+F4 Chp 10,radio,PulauPinang_Q20,A,B,C,D,D,Pulau Pinang/Picture20.png,"中文：红皮书计划记录及检查发展项目的进度，帮助政府评估计划实施情况及采取跟进措施。答案纸参考：F4，第244页。
+Bahasa Melayu: Rancangan Buku Merah merekod dan menilai kemajuan rancangan pembangunan supaya kerajaan dapat memantau pelaksanaan serta membuat tindakan susulan. Rujukan skema: F4, halaman 244."
+F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,A,Putrajaya set 1/Picture20.png,"中文：物质准备委员会筹备独立场地及国家象征，突出独立国家的身份；这项职务不是直接建立整个民主社会。答案纸参考：F4，第236页。
+Bahasa Melayu: Jawatankuasa Persediaan Fizikal menyediakan tempat sambutan dan lambang negara untuk menonjolkan identiti negara merdeka. Rujukan skema: F4, halaman 236."
+F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,C,Putrajaya set 2/Picture20.png,"中文：红皮书记录发展项目及进展，使政府能监控落实情况并检查哪些地方需要进一步支援。答案纸参考：F4，第244页。
+Bahasa Melayu: Buku Merah merekod projek dan kemajuan pembangunan untuk memantau pelaksanaan serta menentukan tindakan susulan. Rujukan skema: F4, halaman 244."
+F4 Chp 10,radio,Sabah_Q20,A,B,C,D,A,Sabah/Picture20.png,"中文：A：独立庆典及场地准备展示旗帜、国歌等国家象征，让新国家的身份被看见。
+Bahasa Melayu: A: Persediaan fizikal dan sambutan kemerdekaan menonjolkan lambang serta identiti negara baharu seperti bendera dan lagu kebangsaan."
+F4 Chp 10,radio,Sabk_Q20,A,B,C,D,D,SABK/Picture20.png,"中文：现代联邦的领土由明确边界界定，政府在该地域行使权力；与古代较松动的属地势力范围不同。答案纸参考：F4，第246页。
+Bahasa Melayu: Wilayah negara moden merujuk kawasan bersempadan yang berada di bawah kuasa kerajaan, berbeza daripada jajahan pengaruh kerajaan tradisional. Rujukan skema: F4, halaman 246."
+F4 Chp 10,radio,Sbp_Q20,A,B,C,D,B,SBP/Picture20.png,"中文：B：国徽呈现国家的历史、主权及特征，是代表国家身份的象征。【答案纸参考：247；书页内容待逐页确认。】
+Bahasa Melayu: B: Jata Negara menggambarkan sejarah, kedaulatan dan ciri negara, lalu mencerminkan identiti kebangsaan. [Rujukan skema: 247; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 10,radio,Selangor_Q20,A,B,C,D,B,Selangor/Picture20.png,"中文：B：Buku Merah监督各项发展项目，包括道路和基本设施，使计划进度可被检查。【答案纸参考：B10T4M244；书页内容待逐页确认。】
+Bahasa Melayu: B: Rancangan Buku Merah memantau kemajuan projek pembangunan, termasuk kemudahan asas, supaya pelaksanaannya berjalan dengan baik. [Rujukan skema: B10T4M244; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 10,radio,Smka_Q20,A,B,C,D,D,SMKA/Picture20.png,"中文：D：Buku Merah记录及监督乡村发展项目的进度，帮助政府确保计划落实。【答案纸参考：T4 Hal.244；书页内容待逐页确认。】
+Bahasa Melayu: D: Rancangan Buku Merah merekod dan memantau kemajuan projek pembangunan luar bandar supaya pelaksanaannya dapat diselaraskan. [Rujukan skema: T4 Hal.244; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 10,radio,Terengganu_Q20,A,B,C,D,C,Terengganu/Picture20.png,"中文：C：庆典及场地委员会准备国旗、国歌、场所与仪式，以展示独立国家身份。【答案纸参考：BAB 10- MS 236；书页内容待逐页确认。】
+Bahasa Melayu: C: Jawatankuasa fizikal dan sambutan menyediakan tempat, lambang serta upacara untuk menonjolkan identiti negara merdeka. [Rujukan skema: BAB 10- MS 236; kandungan halaman buku belum disahkan satu demi satu.]"

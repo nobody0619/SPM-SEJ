@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：Majapahit使用Kutara Manawa规定社会秩序及司法，保障人民生活安宁。 答案纸参考：F4第4页。
+Bahasa Melayu: Majapahit melaksanakan Kutara Manawa untuk mengatur masyarakat dan kehakiman serta menjamin kesejahteraan. Rujukan skema: T4 ms.4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：人民向君主效忠、遵守法律并履行义务，是维持马六甲统治的重要基础。 答案纸参考：F4第6页。
+Bahasa Melayu: Rakyat memberi taat setia, mematuhi undang-undang dan melaksanakan kewajipan untuk menyokong pemerintahan Melaka. Rujukan skema: T4 ms.6."
+,radio,F4 Bab 1,A,B,C,D,C,Picture3.png,"中文：Temenggung负责国内治安和安全，维护秩序；港口税务由其他官员负责。 答案纸参考：F4第9页。
+Bahasa Melayu: Temenggung menjaga keamanan serta keselamatan dalam negeri; urusan cukai pelabuhan bukan tugas utamanya. Rujukan skema: T4 ms.9."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：法国革命推翻绝对君主统治，推动人民主权与共和国理念，因此选C。 答案纸参考：F4第24–25页。
+Bahasa Melayu: Revolusi Perancis menamatkan pemerintahan beraja mutlak dan mengembangkan kedaulatan rakyat serta idea republik, C. Rujukan skema: T4 ms.24–25."
+,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：受西方教育的缅甸中产阶级成立佛教青年协会，维护佛教文化并发展反殖民意识。 答案纸参考：F4第29页。
+Bahasa Melayu: Kelas pertengahan Burma berpendidikan Barat menubuhkan Persatuan Belia Buddha untuk mempertahankan budaya Buddha serta kesedaran antipenjajah. Rujukan skema: T4 ms.29."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：1914年奥匈皇储被刺引发Balkan危机，各国联盟使冲突扩大为世界大战。 答案纸参考：F4第54页。
+Bahasa Melayu: Pembunuhan pewaris Austria-Hungary pada 1914 mencetuskan krisis Balkan yang meluas menjadi perang melalui pakatan negara. Rujukan skema: T4 ms.54."
+,radio,F4 Bab 3,A,B,C,D,C,Picture7.png,"中文：面对日军暴行，本地居民与英国人员合作提供情报及支援反日行动。 答案纸参考：F4第73页。
+Bahasa Melayu: Penduduk tempatan bekerjasama dengan British dengan memberikan maklumat dan bantuan dalam perjuangan menentang kekejaman Jepun. Rujukan skema: T4 ms.73."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：BMA接管马来亚行政并要求交回武器，减少武装混乱、恢复秩序，所以I、IV正确。 答案纸参考：F4第94页。
+Bahasa Melayu: BMA mengambil alih pentadbiran dan meminta senjata dipulangkan untuk mengurangkan kekacauan serta memulihkan ketenteraman; I dan IV betul. Rujukan skema: T4 ms.94."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：Ralph Hone和George Henry Hall参与规划Malayan Union，整合战后马来州行政。 答案纸参考：F4第96页。
+Bahasa Melayu: Ralph Hone dan George Henry Hall terlibat merancang Malayan Union untuk menyatukan pentadbiran negeri selepas perang. Rujukan skema: T4 ms.96."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：1948年联邦协议在制度中保障本地土著权益，尤其马来人的特殊地位。 答案纸参考：F4第127页。
+Bahasa Melayu: Perjanjian 1948 melindungi hak peribumi, khususnya kedudukan istimewa orang Melayu dalam sistem persekutuan. Rujukan skema: T4 ms.127."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：Sarawak Rangers善于丛林追踪，协助寻找并摧毁共产党营地。 答案纸参考：F4第155页。
+Bahasa Melayu: Sarawak Rangers mahir menjejak dalam hutan dan membantu memusnahkan kem komunis. Rujukan skema: T4 ms.155."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：新村把居民与共产党支援网络分开，切断Min Yuen向游击队提供粮食、情报的渠道。 答案纸参考：F4第157页。
+Bahasa Melayu: Kampung Baru memisahkan penduduk daripada rangkaian komunis untuk memutuskan bekalan makanan dan maklumat Min Yuen. Rujukan skema: T4 ms.157."
+,radio,F4 Bab 6,A,B,C,D,B,Picture13.png,"中文：重新安置造成族群居住隔离，减少日常交流，令族群关系疏远。 答案纸参考：F4第163页。
+Bahasa Melayu: Petempatan semula memisahkan kediaman kaum dan mengurangkan interaksi harian sehingga merenggangkan hubungan kaum. Rujukan skema: T4 ms.163."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：1952年教育法令提出国语或英语为学校教学媒介，本题D的英语符合内容。 答案纸参考：F4第181页。
+Bahasa Melayu: Ordinan Pelajaran 1952 mencadangkan bahasa Melayu atau Inggeris sebagai bahasa pengantar; bahasa Inggeris dalam D menepati kandungannya. Rujukan skema: T4 ms.181."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：1955年举行联邦立法议会选举，是全国层面的选举，而非某个市议会选举。 答案纸参考：F4第197页。
+Bahasa Melayu: Pada 1955 diadakan pilihan raya Majlis Perundangan Persekutuan pada peringkat seluruh persekutuan, bukan majlis perbandaran. Rujukan skema: T4 ms.197."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年的选民年龄门槛为21岁；须依当年的制度作答，而非今天的年龄规定。 答案纸参考：F4第200页。
+Bahasa Melayu: Syarat umur pengundi 1955 ialah sekurang-kurangnya 21 tahun; jawapan berdasarkan peraturan ketika itu. Rujukan skema: T4 ms.200."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：Tunku安排较长海上旅程，让代表团有时间讨论及统一伦敦谈判策略。 答案纸参考：F4第217页。
+Bahasa Melayu: Tunku merancang perjalanan laut supaya rombongan mempunyai masa menyusun dan menyelaraskan strategi rundingan London. Rujukan skema: T4 ms.217."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：1957年协议设依法自动取得及提出申请取得公民权的途径，故II、III正确。 答案纸参考：F4第224页。
+Bahasa Melayu: Perjanjian 1957 menyediakan kewarganegaraan secara kuat kuasa undang-undang dan permohonan; II dan III betul. Rujukan skema: T4 ms.224."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：Gandhi强调每个国家有权自主管理自身事务，独立意味着摆脱外国控制。 答案纸参考：F4第234页。
+Bahasa Melayu: Gandhi menegaskan setiap negara berhak mengurus negaranya sendiri; kemerdekaan bermakna bebas daripada kawalan asing. Rujukan skema: T4 ms.234."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：体育馆、宫殿和国歌等准备，是为独立庆典及独立国家象征提供条件。 答案纸参考：F4第236页。
+Bahasa Melayu: Persediaan stadium, istana dan lagu kebangsaan dibuat untuk meraikan kemerdekaan serta menyediakan lambang negara merdeka. Rujukan skema: T4 ms.236."

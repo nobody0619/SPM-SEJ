@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Sabah 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Sabah 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：B：传统政治中的领土是承认国王权威、向他效忠的人民所在地区，因此人民的忠诚决定其势力范围。
+Bahasa Melayu: B: Wilayah dalam sistem politik Melayu tradisional ialah kawasan penduduk yang menerima dan setia kepada raja; kesetiaan rakyat menentukan pengaruhnya."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：A：Bendahara是首席大臣，领导行政并协助及劝告苏丹；管理财政属于Penghulu Bendahari。
+Bahasa Melayu: A: Bendahara mengetuai pentadbiran dan menjadi penasihat sultan, manakala kewangan diurus oleh Penghulu Bendahari."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：B：法国革命反对绝对君主制，随后以共和制度取代王朝统治。
+Bahasa Melayu: B: Revolusi Perancis menentang pemerintahan raja mutlak dan membawa kepada pelaksanaan sistem republik."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：A：满清未能阻止西方势力介入，民族主义者因此认为王朝不能维护中国主权。
+Bahasa Melayu: A: Dinasti Manchu gagal menghalang kemasukan kuasa Barat, lalu ditentang kerana tidak mempertahankan kedaulatan China."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：B：作品揭露人民受殖民者压迫，激发民族意识。课本说明Kartini书信集译名为Letters of a Javanese Princess；题干Putera（王子）应是Puteri（公主）的笔误。
+Bahasa Melayu: B: Karya tersebut mendedahkan penindasan penjajah dan membangkitkan kesedaran. Buku teks menjelaskan terjemahan surat Kartini berjudul Letters of a Javanese Princess; perkataan Putera dalam soalan sepatutnya Puteri."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：A：英国以拘捕和监禁削弱本地民族主义领袖，使他们不能继续公开组织斗争。
+Bahasa Melayu: A: British menangkap dan memenjarakan pemimpin nasionalis untuk melemahkan kegiatan serta perjuangan mereka."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：D：第一次世界大战包括帝国主义列强争夺殖民地与经济利益；国联失败及新意识形态对应后来的第二次大战。
+Bahasa Melayu: D: Persaingan kuasa imperialis merebut tanah jajahan dan kepentingan ekonomi ialah faktor Perang Dunia Pertama, bukan kegagalan Liga Bangsa-Bangsa atau ideologi baharu."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：C：日本击败中国及俄国，证明亚洲国家也能战胜强国，鼓舞东南亚民族主义。
+Bahasa Melayu: C: Kejayaan Jepun menewaskan China dan Rusia membuktikan negara Asia mampu mengalahkan kuasa besar, lalu membangkitkan nasionalisme di Asia Tenggara."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：A（I、II）：日本通过材料研究委员会及五年生产计划，开发本地资源并应对经济问题。
+Bahasa Melayu: A (I dan II): Jepun menubuhkan Jawatankuasa Penyelidikan Bahan dan Rancangan Pengeluaran Lima Tahun untuk menggunakan sumber tempatan serta mengatasi kemelesetan ekonomi."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：题库暂存D，但课本与答案纸都支持B：BMA负责恢复人民信任与治安，并非专门处理示威。题干的1943年亦不准确；BMA于1945年9月恢复马来亚行政。
+Bahasa Melayu: Kunci semasa ialah D, tetapi buku teks dan skema menyokong B: BMA memulihkan kepercayaan rakyat serta keamanan, bukan khusus menangani demonstrasi. Tahun 1943 dalam soalan juga tidak tepat; pentadbiran BMA bermula pada September 1945."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：题库暂存B，按课本及答案纸应为A：马来人团结反对Malayan Union，促使英国接受1948年联合邦安排。
+Bahasa Melayu: Kunci semasa ialah B, tetapi buku teks dan skema menyokong A: perpaduan orang Melayu menentang Malayan Union mendorong British menggantikannya dengan Persekutuan Tanah Melayu 1948."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：题库暂存A，按课本及答案纸应为D：1948年联合邦承认马来人为原住民并保障特殊地位，并未让他们全面掌控仍受英国统治的行政。
+Bahasa Melayu: Kunci semasa ialah A, tetapi buku teks dan skema menyokong D: Persekutuan 1948 mengiktiraf orang Melayu sebagai penduduk asal serta kedudukan istimewa mereka, bukan memberikan penguasaan penuh terhadap pentadbiran British."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：题库暂存B，按题目、课本及答案纸应为D：破坏胶园、矿场及铁路旨在瘫痪英国经济，削弱殖民统治。
+Bahasa Melayu: Kunci semasa ialah B, tetapi soalan, buku teks dan skema menyokong D: sabotaj ladang getah, lombong dan landasan kereta api bertujuan melumpuhkan ekonomi British."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：B（I、IV）：死亡铁路强迫劳动和食物配给使人民受苦，体现日据时期的残酷与艰难生活。
+Bahasa Melayu: B (I dan IV): Buruh paksa untuk landasan kereta api maut dan catuan makanan menyebabkan penderitaan penduduk semasa pemerintahan Jepun."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：D：Sistem Ahli让本地领袖管理部门，学习政府运作，为自治及独立作准备。
+Bahasa Melayu: D: Sistem Ahli memberi pemimpin tempatan latihan mengurus portfolio dan mentadbir kerajaan sebagai persediaan ke arah kemerdekaan."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：C：IMP向各族开放，以跨族群合作及团结为基础，不是仅依靠单一族群政党。
+Bahasa Melayu: C: IMP terbuka kepada pelbagai kaum dan mengutamakan perpaduan serta kerjasama antara kaum."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：D：联盟党赢得51／52席，显示选民支持由不同族群政党组成的合作模式。
+Bahasa Melayu: D: Kemenangan Perikatan sebanyak 51 daripada 52 kerusi membuktikan rakyat menerima kerjasama politik antara kaum."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：B：制宪委员会负责起草独立国家的宪法，包括联邦结构及中央与州的权力分配。
+Bahasa Melayu: B: Suruhanjaya merangka perlembagaan negara merdeka, termasuk bentuk Persekutuan dan pembahagian kuasa antara kerajaan pusat dengan negeri."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：A（I、II）：1957年协议规定伊斯兰为联邦宗教，并维持马来人的特殊地位。
+Bahasa Melayu: A (I dan II): Perjanjian 1957 menetapkan Islam sebagai agama Persekutuan dan mengekalkan kedudukan istimewa orang Melayu."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：A：独立庆典及场地准备展示旗帜、国歌等国家象征，让新国家的身份被看见。
+Bahasa Melayu: A: Persediaan fizikal dan sambutan kemerdekaan menonjolkan lambang serta identiti negara baharu seperti bendera dan lagu kebangsaan."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：A：传统主权建立在国王拥有最高行政权力；国际承认则属于国际主权概念。
+Bahasa Melayu: A: Kedaulatan tradisional berasaskan kuasa tertinggi raja dalam pemerintahan, manakala pengiktirafan antarabangsa berkaitan kedaulatan antarabangsa."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：A：非联邦马来州通过Majlis Negeri制定各州法律，保留州级法律机制。
+Bahasa Melayu: A: Undang-undang Negeri-negeri Melayu Tidak Bersekutu digubal melalui Majlis Negeri."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：新加坡于1965年退出马来西亚，因此宪法须删除及调整与新加坡有关的条文。
+Bahasa Melayu: A: Pemisahan Singapura daripada Malaysia pada 1965 memerlukan pindaan peruntukan perlembagaan yang berkaitan dengan Singapura."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：C：国家元首任命驻外外交官，代表国家处理正式外交事务。
+Bahasa Melayu: C: Yang di-Pertuan Agong melantik diplomat ke luar negara untuk mewakili Malaysia dalam hubungan diplomatik rasmi."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：B（I、IV）：人民通过选举组成政府，同时国王发挥民主制衡作用；宪法保障的自由并非毫无限制。
+Bahasa Melayu: B (I dan IV): Rakyat membentuk kerajaan melalui pilihan raya, manakala kuasa raja mengimbangi demokrasi. Kebebasan dalam perlembagaan bukan kebebasan mutlak."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：A：土地、农业、林业及州假日是州权限；国防及外交属于联邦。
+Bahasa Melayu: A: Tanah, pertanian, perhutanan dan hari kelepasan negeri ialah bidang kuasa negeri, manakala pertahanan dan hal ehwal luar ialah urusan Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：B：州务大臣及首席部长会议协调政策落实，让联邦与州政府合作执行计划。
+Bahasa Melayu: B: Mesyuarat Menteri Besar dan Ketua Menteri menyelaras pelaksanaan dasar serta kerjasama antara kerajaan negeri dengan Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：A：马来西亚成立让联邦加强对有关地区的安全合作，更有效遏制共产党威胁。
+Bahasa Melayu: A: Pembentukan Malaysia membolehkan usaha keselamatan diselaraskan dengan lebih berkesan untuk membendung ancaman komunis di wilayah berkenaan."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：A：1962年公投确认新加坡居民对加入马来西亚的支持及加入形式。
+Bahasa Melayu: A: Referendum 1962 menentukan sokongan penduduk Singapura dan bentuk penyertaan mereka dalam Malaysia."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：B：新加坡政府与中央在政策、经济及政治方向上出现分歧，不遵从联邦政策加剧冲突。
+Bahasa Melayu: B: Perbezaan dasar politik dan ekonomi serta keengganan mematuhi dasar Kerajaan Persekutuan meningkatkan konflik dengan Singapura."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：D：DEB通过消除贫穷及重组社会，减少分而治之遗留的族群经济不平衡。
+Bahasa Melayu: D: DEB membasmi kemiskinan dan menyusun semula masyarakat untuk mengurangkan ketidakseimbangan ekonomi antara kaum akibat dasar pecah dan perintah."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：B（I、IV）：共同课程及马来语教学媒介为学生提供共同学习基础，培养国家认同及团结。
+Bahasa Melayu: B (I dan IV): Kurikulum yang sama dan bahasa Melayu sebagai bahasa pengantar membentuk pengalaman pendidikan bersama serta memupuk perpaduan."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：D（III、IV）：国家文化政策以本地原有文化为基础，并以伊斯兰为重要元素。
+Bahasa Melayu: D (III dan IV): Dasar Kebudayaan Kebangsaan berasaskan kebudayaan rakyat asal rantau ini dengan Islam sebagai unsur penting."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：B：SUKMA让各州和不同族群共同参与体育活动，促进相互理解及团结。
+Bahasa Melayu: B: SUKMA menghimpunkan peserta pelbagai kaum dan negeri melalui sukan untuk mengukuhkan perpaduan rakyat."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：B：区域发展创造就业、开发土地及改善设施，帮助消除贫穷与重组社会。
+Bahasa Melayu: B: Pembangunan wilayah membuka peluang pekerjaan, membangunkan tanah dan menyediakan kemudahan untuk membasmi kemiskinan serta menyusun semula masyarakat."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：D：自由工业区提供优惠和便利，吸引外国企业投入资金及设厂。
+Bahasa Melayu: D: Zon perindustrian bebas menawarkan kemudahan dan insentif untuk menarik pelaburan modal asing serta pembukaan kilang."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：C：外交政策须保护国家经济利益，争取市场、贸易及投资机会。
+Bahasa Melayu: C: Dasar luar mengambil kira kepentingan ekonomi negara, termasuk pasaran, perdagangan dan peluang pelaburan."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：A：反对Apartheid是维护遭受种族歧视的当地人民权利，符合马来西亚尊重人权的立场。
+Bahasa Melayu: A: Penentangan terhadap Apartheid mempertahankan hak penduduk asal yang mengalami diskriminasi kaum, selaras dengan penghormatan terhadap hak asasi."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：B：推广中庸价值，强调和平、包容和相互尊重，可反驳把伊斯兰与暴力等负面形象相连的指责。
+Bahasa Melayu: B: Nilai kesederhanaan menekankan keamanan, toleransi dan saling menghormati untuk menangkis tohmahan bahawa Islam dikaitkan dengan keganasan serta kemunduran."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：C：Spratly附近位于重要海上贸易路线，具有战略及经济价值，因此被多个国家争夺。
+Bahasa Melayu: C: Kepulauan Spratly mempunyai kepentingan strategik kerana berhampiran laluan perdagangan laut utama, lalu menjadi rebutan beberapa negara."

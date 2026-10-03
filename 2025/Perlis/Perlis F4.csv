@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：势力范围是马来世界王国的重要特征，指人民承认并接受统治者权威的地区；范围体现统治力量。答案纸参考：F4，第4页。
+Bahasa Melayu: Wilayah pengaruh ialah kawasan yang rakyatnya menerima dan mengakui pemerintahan raja, serta menunjukkan kekuatan kerajaan Alam Melayu. Rujukan skema: F4, halaman 4."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：马六甲人民参与集体劳动及公共建设，以履行对统治者的责任；制定法律和领导行政属于统治阶层的职务。答案纸参考：F4，第13页。
+Bahasa Melayu: Rakyat Melaka menunaikan tanggungjawab melalui gotong-royong dan kerja untuk kepentingan kerajaan. Menggubal undang-undang dan mengetuai pentadbiran ialah tugas pemerintah. Rujukan skema: F4, halaman 13."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：法国大革命反对专制王权，随后建立共和制度，体现人民主权的政治理念。答案纸参考：F4，第25页。
+Bahasa Melayu: Revolusi Perancis menentang pemerintahan beraja mutlak dan membawa kemunculan sistem republik yang menekankan kedaulatan rakyat. Rujukan skema: F4, halaman 25."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：Pak Sako的小说强调自由的可贵，并讽刺殖民者的行为，用文学唤醒民族意识，所以III和IV正确。答案纸参考：F4，第34页。
+Bahasa Melayu: Novel Pak Sako menekankan nikmat kebebasan dan menyindir tindakan penjajah untuk membangkitkan kesedaran nasionalisme. Maka III dan IV tepat. Rujukan skema: F4, halaman 34."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：我国地处重要海上通道，对日本进攻东南亚及军事运输有战略价值，因此日本重视这一军事位置。答案纸参考：F4，第68页。
+Bahasa Melayu: Kedudukan negara kita pada laluan penting mempunyai nilai strategik bagi kemaraan tentera Jepun dan perhubungan ketenteraannya di Asia Tenggara. Rujukan skema: F4, halaman 68."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：Giyu Tai协助防卫海岸并维护公共秩序；不要把它与协助日本作战的志愿军Giyu Gun混淆。答案纸参考：F4，第80页。
+Bahasa Melayu: Giyu Tai membantu pertahanan pesisiran pantai dan menjaga ketenteraman awam. Bezakan tugasnya daripada Giyu Gun, iaitu pasukan tentera sukarela. Rujukan skema: F4, halaman 80."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：马来统治者考虑通过高等法院挑战麦迈克尔取得签署的做法，以法律途径反对马来亚联盟。答案纸参考：F4，第100至101页。
+Bahasa Melayu: Raja-raja Melayu menentang Malayan Union melalui tindakan membawa kes berkaitan persetujuan yang diperoleh MacMichael ke Mahkamah Tinggi. Rujukan skema: F4, halaman 100–101."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：支持砂拉越割让的人认为英国能够提供工作机会并促进当地居民发展，因此II和III符合支持者的理由。答案纸参考：F4，第113页。
+Bahasa Melayu: Golongan yang menyokong penyerahan Sarawak menganggap British dapat memberikan peluang pekerjaan dan memajukan penduduk tempatan, maka II dan III tepat. Rujukan skema: F4, halaman 113."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：1946年工作委员会讨论新联邦协议的基础，拟定取代马来亚联盟的1948年马来亚联合邦安排。答案纸参考：F4，第126页。
+Bahasa Melayu: Jawatankuasa Kerja 1946 membincangkan asas Perjanjian Persekutuan Tanah Melayu 1948 untuk menggantikan Malayan Union. Rujukan skema: F4, halaman 126."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：Hartal是一种停止经济活动的抗议，商店关闭以表示反对；因此答案是关店，并非辞职或佩戴白布。答案纸参考：F4，第131页。
+Bahasa Melayu: Hartal ialah tindakan menghentikan kegiatan ekonomi sebagai bantahan, termasuk menutup kedai. Oleh itu, D tepat. Rujukan skema: F4, halaman 131."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：登记及身份证让当局辨识居民、检查身份及控制行动，以阻止共产党自由混入群众或获得支援。答案纸参考：F4，第156页。
+Bahasa Melayu: Pendaftaran kebangsaan dan kad pengenalan membolehkan pihak berkuasa mengenal pasti penduduk serta mengawal pergerakan bagi menyekat kegiatan komunis. Rujukan skema: F4, halaman 156."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：紧急状态需要大量治安开支，也因居民迁移、居住区分隔等措施影响族群关系，所以I和II正确。答案纸参考：F4，第162至163页。
+Bahasa Melayu: Darurat meningkatkan perbelanjaan keselamatan dan merenggangkan hubungan kaum akibat pemindahan serta pengasingan petempatan. Maka I dan II tepat. Rujukan skema: F4, halaman 162–163."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：RIDA协助改善马来人尤其乡区居民的经济，提供训练及发展机会，是族群联络委员会讨论经济问题后推动的机构。答案纸参考：F4，第177页。
+Bahasa Melayu: RIDA ditubuhkan bagi meningkatkan ekonomi orang Melayu, khususnya penduduk luar bandar, melalui bantuan dan latihan hasil usaha menangani isu ekonomi dalam CLC. Rujukan skema: F4, halaman 177."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：1956年教育报告建议普通小学使用马来语作为教学媒介；普通类型小学可使用英语、华语或淡米尔语。D也描述报告的整体建议，但B直接符合这里列出的学校类别。答案纸参考：F4，第183页。
+Bahasa Melayu: Penyata 1956 mencadangkan bahasa Melayu sebagai bahasa pengantar Sekolah Rendah Umum, sementara Sekolah Jenis Umum menggunakan bahasa lain. D juga cadangan umum penyata, tetapi B tepat bagi kategori sekolah tersebut. Rujukan skema: F4, halaman 183."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：1955年大选竞选期为45天；记忆时应分清竞选期与投票当天，而不是按月份估算。答案纸参考：F4，第201页。
+Bahasa Melayu: Tempoh berkempen bagi Pilihan Raya Umum 1955 ialah 45 hari. Bezakan tempoh kempen daripada hari pengundian. Rujukan skema: F4, halaman 201."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：首届内阁成立后取消最高专员的否决权，使本地领袖能更实际参与决策，减少英国的直接控制。答案纸参考：F4，第206页。
+Bahasa Melayu: Pembatalan kuasa veto Pesuruhjaya Tinggi selepas pembentukan kabinet pertama mengurangkan kawalan British dan memperluas kuasa pemimpin tempatan. Rujukan skema: F4, halaman 206."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：伦敦谈判包含独立后国防协助的安排，确保新国家仍能获得必要防务支持，并非成立经济集团。答案纸参考：F4，第218页。
+Bahasa Melayu: Rundingan London merangkumi bantuan pertahanan selepas kemerdekaan untuk membantu keselamatan negara baharu, bukan pembentukan pakatan ekonomi. Rujukan skema: F4, halaman 218."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：1957年协议确立伊斯兰教为联邦宗教，并保障马来人的特殊地位，同时保留其他族群的合法利益，所以II和III正确。答案纸参考：F4，第224至225页。
+Bahasa Melayu: Perjanjian 1957 menetapkan Islam sebagai agama Persekutuan dan menjamin kedudukan istimewa orang Melayu serta kepentingan sah kaum lain. Maka II dan III tepat. Rujukan skema: F4, halaman 224–225."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：物质准备委员会负责场地及设施，庆典委员会负责庆祝活动，两者都为独立庆典作准备。答案纸参考：F4，第236至237页。
+Bahasa Melayu: Jawatankuasa Persediaan Fizikal menyediakan kemudahan, manakala Jawatankuasa Sambutan menguruskan acara sambutan; kedua-duanya membuat persediaan kemerdekaan. Rujukan skema: F4, halaman 236–237."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：乡村发展部提升偏远地区的道路及公共设施，改善乡区生活并缩小城乡差距。答案纸参考：F4，第244页。
+Bahasa Melayu: Kementerian Luar Bandar membangunkan jalan dan kemudahan di pedalaman untuk meningkatkan taraf hidup serta mengurangkan jurang bandar dengan luar bandar. Rujukan skema: F4, halaman 244."

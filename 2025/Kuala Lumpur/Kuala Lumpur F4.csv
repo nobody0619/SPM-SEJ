@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kuala Lumpur F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kuala Lumpur F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：伊斯兰传入后，君主采用Sultan称号，体现伊斯兰政治文化的影响。 答案纸参考：F4第6页。
+Bahasa Melayu: Kedatangan Islam menyebabkan gelaran Sultan digunakan, mencerminkan pengaruh politik dan budaya Islam. Rujukan skema: T4 ms.6."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：王室颜色、nobat及御用器物彰显君主主权与特殊地位，而不只是财富。 答案纸参考：F4第7页。
+Bahasa Melayu: Warna diraja, nobat dan regalia menggambarkan kedaulatan serta kedudukan istimewa raja, bukan sekadar kekayaan. Rujukan skema: T4 ms.7."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：两场革命都反对君主专断，要求限制王权与保障人民或国会权利，并非争取领土独立。 答案纸参考：F4第24页。
+Bahasa Melayu: Kedua-dua revolusi menentang pemerintahan beraja mutlak dan menuntut batas kuasa raja serta hak rakyat atau parlimen, bukan kemerdekaan wilayah. Rujukan skema: T4 ms.24."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：两位作家通过小说、短篇等创作批评殖民和社会问题，唤醒民族意识。 答案纸参考：F4第34页。
+Bahasa Melayu: Kedua-dua penulis menghasilkan novel dan cerpen yang mengkritik penjajahan serta masalah masyarakat untuk membangkitkan nasionalisme. Rujukan skema: T4 ms.34."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：在马来亚出生的印度群体逐渐建立本地身份认同，重视马来亚的社会与政治权益。 答案纸参考：F4第42页。
+Bahasa Melayu: Golongan India kelahiran Tanah Melayu membentuk identiti tersendiri dengan menumpukan kepentingan sosial dan politik tempatan. Rujukan skema: T4 ms.42."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：原答案B对应Askar Melayu，他们确实抗日；但部队1933年已成立，不能说因日军暴行才成立。C的Operasi Semut则在Sarawak进行，题干地区与“成立”的措辞有疑点。 答案纸参考：F4第74页。
+Bahasa Melayu: Key B merujuk Askar Melayu yang memang menentang Jepun, tetapi rejimen sudah ditubuhkan pada 1933, bukan akibat kekejaman pendudukan. Operasi Semut pula di Sarawak; lokasi dan perkataan menubuhkan dalam soalan perlu diperhatikan. Rujukan skema: T4 ms.74."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：由总督领导、实行宽松jus soli公民权是Malayan Union的特征。 答案纸参考：F4第97页。
+Bahasa Melayu: Pentadbiran diketuai Gabenor dan kewarganegaraan jus soli yang longgar ialah ciri Malayan Union. Rujukan skema: T4 ms.97."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：Sarawak战后重建缺乏资金，Vyner Brooke又面临继承问题，因此III、IV正确。 答案纸参考：F4第107页。
+Bahasa Melayu: Sarawak kekurangan dana untuk pemulihan selepas perang dan Vyner Brooke menghadapi masalah pewarisan takhta; III dan IV betul. Rujukan skema: T4 ms.107."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：PUTERA-AMCJA以hartal抗议英国拒绝人民宪法建议。题干日期写20 September；全国hartal通常记为20 Oktober 1947，此处日期有笔误。 答案纸参考：F4第131页。
+Bahasa Melayu: PUTERA-AMCJA mengadakan hartal untuk membantah penolakan Perlembagaan Rakyat. Tarikh 20 September dalam soalan tersilap; hartal seluruh Tanah Melayu lazimnya dicatat pada 20 Oktober 1947. Rujukan skema: T4 ms.131."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：英国行政人员支持联邦方案，认为可维持稳定与英国利益，帮助1948年联邦成立。 答案纸参考：F4第133页。
+Bahasa Melayu: Sokongan pentadbir British terhadap bentuk persekutuan untuk kestabilan dan kepentingan British membantu penubuhan Persekutuan 1948. Rujukan skema: T4 ms.133."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：PKM追求以共产主义共和国取代殖民与既有政治制度。 答案纸参考：F4第144页。
+Bahasa Melayu: PKM bermatlamat menubuhkan republik komunis bagi menggantikan penjajahan dan sistem politik sedia ada. Rujukan skema: T4 ms.144."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Chin Peng要求PKM获合法承认，政府却要求投降而不承认共产党，因而拒绝赦免条件。 答案纸参考：F4第160页。
+Bahasa Melayu: Chin Peng menuntut pengiktirafan PKM, tetapi kerajaan mensyaratkan penyerahan tanpa pengiktirafan parti, lalu tawaran pengampunan ditolak. Rujukan skema: T4 ms.160."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：CLC研究族群关系并以协商解决分歧，创造和谐社会，因此II、III正确。 答案纸参考：F4第174页。
+Bahasa Melayu: CLC mengkaji hubungan kaum dan merundingkan perbezaan untuk mewujudkan keharmonian penduduk; II dan III betul. Rujukan skema: T4 ms.174."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：统一课程、学校制度及马来语教学建立共同教育体验，核心目的为族群团结。 答案纸参考：F4第183页。
+Bahasa Melayu: Kurikulum seragam, sistem persekolahan sama dan bahasa Melayu membentuk pengalaman pendidikan bersama untuk perpaduan kaum. Rujukan skema: T4 ms.183."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：1955年选举让本地领袖获得民意授权并组成政府，为自我管理及独立谈判铺路。 答案纸参考：F4第198页。
+Bahasa Melayu: Pilihan raya 1955 memberi mandat rakyat kepada pemimpin tempatan untuk membentuk kerajaan dan merintis pemerintahan sendiri serta kemerdekaan. Rujukan skema: T4 ms.198."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：Abdul Razak任教育部长并领导1956年教育委员会，推动统一国家教育制度。 答案纸参考：F4第207页。
+Bahasa Melayu: Abdul Razak menjadi Menteri Pelajaran dan mengetuai Jawatankuasa Pelajaran 1956 untuk memajukan sistem pendidikan kebangsaan. Rujukan skema: T4 ms.207."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：1956年伦敦代表团与英国商议结束殖民统治、取得马来亚独立。 答案纸参考：F4第218页。
+Bahasa Melayu: Rombongan London 1956 merundingkan penamatan penjajahan British dan kemerdekaan Tanah Melayu. Rujukan skema: T4 ms.218."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：Reid委员会收集各方意见，起草适合独立国家的宪法。 答案纸参考：F4第220页。
+Bahasa Melayu: Suruhanjaya Reid menerima pandangan pelbagai pihak dan merangka perlembagaan bagi negara merdeka. Rujukan skema: T4 ms.220."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：马来君主批准使用国家徽章，体现君主在国家象征及主权中的作用。 答案纸参考：F4第236页。
+Bahasa Melayu: Raja-raja Melayu memperkenankan penggunaan jata negara, menunjukkan peranan raja dalam lambang dan kedaulatan negara. Rujukan skema: T4 ms.236."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：公民拥有表达意见的基本自由，但须遵守法律，不等于无限制批评。 答案纸参考：F4第247页。
+Bahasa Melayu: Warganegara mempunyai kebebasan menyuarakan pendapat tertakluk pada undang-undang, bukan kebebasan mengkritik tanpa batas. Rujukan skema: T4 ms.247."

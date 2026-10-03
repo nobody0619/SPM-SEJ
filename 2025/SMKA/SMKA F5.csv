@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-SMKA F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SMKA F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：C：拥有自己的政府、能够自主治理而不受外国控制，是主权国家的重要特征。【答案纸参考：T5   Hal.4；书页内容待逐页确认。】
+Bahasa Melayu: C: Negara berdaulat mempunyai pemerintahan sendiri dan berhak mentadbir tanpa dikawal oleh kuasa asing. [Rujukan skema: T5   Hal.4; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：A：现代化军事装备直接提升国防能力，让军队更有效保护主权与安全。【答案纸参考：T5  Hal.15；书页内容待逐页确认。】
+Bahasa Melayu: A: Pemodenan aset ketenteraan meningkatkan keupayaan pertahanan untuk melindungi keselamatan dan kedaulatan negara. [Rujukan skema: T5  Hal.15; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：这些州法律继承马六甲苏丹王朝的法律传统，是本地法制延续的例子。【答案纸参考：T5  Hal.22；书页内容待逐页确认。】
+Bahasa Melayu: A: Undang-undang negeri tersebut mewarisi tradisi perundangan Kesultanan Melayu Melaka dan menunjukkan kesinambungan sistem tempatan. [Rujukan skema: T5  Hal.22; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：D：1963年马来西亚成立，宪法须调整联邦成员、行政及相关制度；新加坡分离属于1965年修宪。【答案纸参考：T5 Hal.30；书页内容待逐页确认。】
+Bahasa Melayu: D: Pembentukan Malaysia pada 1963 memerlukan pindaan susunan Persekutuan dan pentadbiran. Pemisahan Singapura berkaitan pindaan 1965. [Rujukan skema: T5 Hal.30; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：B：统治者会议对重要职位任命提供意见，在民主制度中发挥制衡作用。【答案纸参考：T5 Hal.45；书页内容待逐页确认。】
+Bahasa Melayu: B: Majlis Raja-Raja memberikan nasihat tentang pelantikan jawatan penting sebagai pengimbang dalam sistem demokrasi. [Rujukan skema: T5 Hal.45; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：B（I、IV）：伊斯兰是联邦宗教，同时其他宗教信徒可自由实践各自宗教，体现宪法保障的宗教自由。【答案纸参考：T5 Hal.51；书页内容待逐页确认。】
+Bahasa Melayu: B (I dan IV): Islam ialah agama Persekutuan, manakala penganut agama lain bebas mengamalkan agama masing-masing, selaras dengan kebebasan beragama. [Rujukan skema: T5 Hal.51; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：A：房屋事务属于联邦与州共同负责的Senarai Bersama；国防则属于联邦清单。【答案纸参考：T5 Hal.70；书页内容待逐页确认。】
+Bahasa Melayu: A: Perumahan berada dalam Senarai Bersama yang melibatkan Kerajaan Persekutuan dan negeri, manakala pertahanan ialah urusan Persekutuan. [Rujukan skema: T5 Hal.70; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：D：FELCRA负责整合、恢复及开发土地，使土地更有生产力并改善居民收入。【答案纸参考：T5 Hal.72；书页内容待逐页确认。】
+Bahasa Melayu: D: FELCRA menyatukan, memulihkan dan membangunkan tanah bagi meningkatkan produktiviti serta pendapatan penduduk. [Rujukan skema: T5 Hal.72; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：B：本地民族主义者曾提出Melayu Raya，把同源地区联合；这属于马来西亚成立构想的早期背景。【答案纸参考：T5 Hal.92；书页内容待逐页确认。】
+Bahasa Melayu: B: Nasionalis tempatan memperjuangkan Melayu Raya untuk menyatukan wilayah serumpun sebagai latar awal idea pembentukan Malaysia. [Rujukan skema: T5 Hal.92; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：B：Cobbold委员会调查沙巴及砂拉越居民对加入马来西亚的看法，确认当地反应。【答案纸参考：T5 Hal.100；书页内容待逐页确认。】
+Bahasa Melayu: B: Suruhanjaya Cobbold meninjau pendapat penduduk Sarawak dan Sabah tentang cadangan menyertai Malaysia. [Rujukan skema: T5 Hal.100; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：C（II、III）：各方共识及领袖与人民合作，使独立与成立马来西亚的谈判得以成功。【答案纸参考：T5 Hal.109；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Kesepakatan serta muafakat antara pemimpin dengan rakyat menjadi asas kejayaan kemerdekaan dan pembentukan Malaysia. [Rujukan skema: T5 Hal.109; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：D：MAGERAN在1969年事件后负责恢复及维持治安，使国家逐步恢复正常。【答案纸参考：T5 Hal.130；书页内容待逐页确认。】
+Bahasa Melayu: D: MAGERAN bertanggungjawab memulihkan dan mengekalkan keamanan selepas peristiwa 1969 supaya negara kembali stabil. [Rujukan skema: T5 Hal.130; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：C：Aminuddin Baki研究强调通过学校制度的发展与改善落实国家教育目标；题中对应“学校国民体系”的选项C。【答案纸参考：T5 Hal.145；书页内容待逐页确认。】
+Bahasa Melayu: C: Kajian Aminuddin Baki menambah baik sistem persekolahan untuk melaksanakan matlamat pendidikan kebangsaan; pilihan C merujuk sekolah kebangsaan. [Rujukan skema: T5 Hal.145; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：B：民主生活方式尊重人民参与政治及基本权利，重点是保障基本自由。【答案纸参考：T5 Hal.158；书页内容待逐页确认。】
+Bahasa Melayu: B: Cara hidup demokratik menghormati penyertaan rakyat dan hak individu, lalu menjamin kebebasan hak asasi. [Rujukan skema: T5 Hal.158; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：A（I、II）：补贴及支援帮助农民、渔民减轻成本并增加收入，以消除赤贫。【答案纸参考：T5 Hal.172；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): Subsidi dan sokongan membantu petani serta nelayan mengurangkan beban kos dan meningkatkan pendapatan untuk menghapuskan kemiskinan tegar. [Rujukan skema: T5 Hal.172; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：D：建立MPPB扩大土著在商业与工业的参与，改变职业及经济活动与族群紧密相连的情况。【答案纸参考：T5 Hal.177；书页内容待逐页确认。】
+Bahasa Melayu: D: MPPB memperluas penyertaan Bumiputera dalam perdagangan dan perindustrian untuk menyusun semula masyarakat serta mengurangkan pengenalan kaum mengikut kegiatan ekonomi. [Rujukan skema: T5 Hal.177; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：A：与这些国家的联系有历史根源，包括贸易及宗教交往，所以答案属于历史纽带。【答案纸参考：T5 Hal.197；书页内容待逐页确认。】
+Bahasa Melayu: A: Hubungan dengan negara tersebut mempunyai ikatan sejarah melalui perdagangan dan hubungan keagamaan. [Rujukan skema: T5 Hal.197; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：D：Apartheid实行种族隔离和歧视，违背人权原则；马来西亚因此反对这种政策。【答案纸参考：T5 Hal.208；书页内容待逐页确认。】
+Bahasa Melayu: D: Apartheid mengamalkan pemisahan dan diskriminasi kaum yang bercanggah dengan hak asasi manusia, maka Malaysia menentangnya. [Rujukan skema: T5 Hal.208; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：C：INCEIF培养伊斯兰金融专业人才及发展相关教育，支持伊斯兰金融体系扩展。【答案纸参考：T5 Hal.232；书页内容待逐页确认。】
+Bahasa Melayu: C: INCEIF menyediakan pendidikan dan melahirkan tenaga pakar untuk menyokong perkembangan kewangan Islam. [Rujukan skema: T5 Hal.232; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：D：相关法令提供法律机制，打击人口贩运及偷运移民，并保护受害者。【答案纸参考：T5 Hal.245；书页内容待逐页确认。】
+Bahasa Melayu: D: Akta Antipemerdagangan Orang dan Antipenyeludupan Migran menyediakan tindakan undang-undang untuk membanteras kegiatan tersebut serta melindungi mangsa. [Rujukan skema: T5 Hal.245; kandungan halaman buku belum disahkan satu demi satu.]"

@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：主权的核心意思是最高权力，国家有权独立治理自身事务；它不是指统治者不受任何约束。答案纸参考：F5，第4页。
+Bahasa Melayu: Kedaulatan bermaksud kekuasaan tertinggi yang membolehkan negara menguruskan hal ehwalnya sendiri, bukan kekebalan pemerintah tanpa batas. Rujukan skema: F5, halaman 4."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：政府、法律、人民及疆界构成主权国家的基本特征，因此X是疆界，说明国家行使权力的地域。答案纸参考：F5，第8页。
+Bahasa Melayu: Pemerintahan, perundangan, rakyat dan sempadan ialah ciri negara berdaulat. X ialah sempadan yang menentukan kawasan kuasa negara. Rujukan skema: F5, halaman 8."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：Charter of Justice通过司法制度保护海峡殖民地居民，避免不公与压迫；它并不是针对共产党或民族主义运动。答案纸参考：F5，第24页。
+Bahasa Melayu: Charter of Justice diperkenalkan untuk melindungi penduduk Negeri-negeri Selat daripada penindasan melalui sistem kehakiman, bukan untuk membendung komunis. Rujukan skema: F5, halaman 24."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1965年的宪法修订与新加坡退出马来西亚有关；1963年修订才涉及马来西亚成立。答案纸参考：F5，第30至31页。
+Bahasa Melayu: Pindaan Perlembagaan 1965 berkaitan pemisahan Singapura daripada Malaysia, manakala pembentukan Malaysia berkaitan pindaan 1963. Rujukan skema: F5, halaman 30–31."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：国家元首是联邦的最高国家领导，首相则领导行政政府，两者职能不同。答案纸参考：F5，第41页。
+Bahasa Melayu: Yang di-Pertuan Agong ialah Ketua Utama Negara bagi Persekutuan, sementara Perdana Menteri mengetuai pentadbiran kerajaan. Rujukan skema: F5, halaman 41."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：制衡机制让君主与民选政府在各自宪政权限内互相平衡，帮助缓和政治冲突，避免权力过度集中。答案纸参考：F5，第56页。
+Bahasa Melayu: Mekanisme semak dan imbang melalui peranan raja serta kerajaan yang dipilih membantu meredakan konflik politik dan mengelakkan pemusatan kuasa. Rujukan skema: F5, halaman 56."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：联邦是数个州联合组成国家，并依据宪法在中央与州之间分配权力，不等于一切事务都由中央决定。答案纸参考：F5，第66页。
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dengan pembahagian kuasa antara kerajaan Persekutuan dan negeri menurut Perlembagaan. Rujukan skema: F5, halaman 66."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：英国提出合并殖民地，是推动非殖民化及逐步自治独立的安排，希望形成能稳定治理的政治单位。答案纸参考：F5，第91页。
+Bahasa Melayu: Cadangan penggabungan tanah jajahan merupakan usaha dekolonisasi untuk menyediakan wilayah berkerajaan sendiri dan mencapai kemerdekaan dalam satu unit politik yang stabil. Rujukan skema: F5, halaman 91."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：调查居民支持程度的是科博尔委员会；其报告指出约三分之二支持马来西亚，包括附带保障要求的支持者。答案纸参考：F5，第100页。
+Bahasa Melayu: Suruhanjaya Cobbold meninjau pendapat rakyat dan melaporkan kira-kira dua pertiga menyokong Malaysia, termasuk sokongan dengan syarat perlindungan tertentu. Rujukan skema: F5, halaman 100."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：沙巴及砂拉越地形及道路建设受限，河流是居民往来和运送货物的重要通道。答案纸参考：F5，第117页。
+Bahasa Melayu: Keadaan muka bumi dan kekurangan jalan di Sabah serta Sarawak menjadikan sungai laluan utama perhubungan dan pengangkutan. Rujukan skema: F5, halaman 117."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：新加坡族群关系因平等权利诉求及相关政治争议而紧张，1964年出现种族骚乱；这是当时政治背景，并非说争取平等本身必然引起骚乱。答案纸参考：F5，第119页。
+Bahasa Melayu: Tuntutan hak sama rata dan pertikaian politik meningkatkan ketegangan hubungan kaum di Singapura sehingga berlaku rusuhan 1964. Ini konteks pertikaian ketika itu, bukan bermaksud kesamarataan semestinya menyebabkan rusuhan. Rujukan skema: F5, halaman 119."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：国家整合强调跨地区及各州之间更紧密的关系，让不同区域居民形成共同国家认同；族群团结是相关但不同的概念。答案纸参考：F5，第140页。
+Bahasa Melayu: Integrasi nasional merapatkan hubungan antara negeri dan wilayah untuk membentuk identiti kebangsaan bersama; perpaduan etnik ialah konsep yang berkaitan tetapi berbeza. Rujukan skema: F5, halaman 140."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：“Malaysia Boleh”激励运动员相信能力、坚持奋斗，体现坚强意志，而不是礼貌或长远规划。答案纸参考：F5，第155页。
+Bahasa Melayu: Slogan Malaysia Boleh membangkitkan keyakinan dan semangat kental atlet untuk berusaha mencapai kemenangan. Rujukan skema: F5, halaman 155."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：增加收入与就业机会能直接改善穷困家庭生活，因此III和IV是消除贫困的措施。答案纸参考：F5，第167页。
+Bahasa Melayu: Menambah pendapatan rakyat dan memperbanyak peluang pekerjaan secara langsung membantu membasmi kemiskinan. Oleh itu, III dan IV tepat. Rujukan skema: F5, halaman 167."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：DEB与DPN的发展、就业及收入措施使贫困率下降，是两项政策在改善人民生活方面的重要成果。答案纸参考：F5，第181页。
+Bahasa Melayu: Program pembangunan, pekerjaan dan peningkatan pendapatan melalui DEB serta DPN berjaya menurunkan kadar kemiskinan. Rujukan skema: F5, halaman 181."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：马来西亚支持联合国宪章的和平合作及尊重主权原则，体现和平共处的国际立场。答案纸参考：F5，第198页。
+Bahasa Melayu: Malaysia mendukung Piagam PBB yang menekankan keamanan, kerjasama dan penghormatan terhadap kedaulatan sebagai bukti hidup bersama secara aman. Rujukan skema: F5, halaman 198."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：马来西亚在英联邦参与科伦坡计划并反对种族隔离，所以III和IV正确；安理会属于联合国体系。答案纸参考：F5，第206至207页。
+Bahasa Melayu: Malaysia menyertai Rancangan Colombo dan menentang apartheid melalui Komanwel, maka III dan IV tepat. Majlis Keselamatan ialah badan PBB. Rujukan skema: F5, halaman 206–207."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：疆界与领土主张重叠涉及多个国家，需要外交及国际合作处理，是我国面对的全球议题之一。答案纸参考：F5，第227页。
+Bahasa Melayu: Pertindihan sempadan dan tuntutan wilayah melibatkan beberapa negara serta memerlukan diplomasi dan kerjasama antarabangsa. Rujukan skema: F5, halaman 227."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：课本把京都议定书及相关环保会议与减少温室气体、鼓励太阳能等新能源联系起来，因此D符合课本重点。课本参考：F5，第239页。
+Bahasa Melayu: Buku teks mengaitkan Protokol Kyoto dan persidangan alam sekitar dengan pengurangan gas rumah hijau serta galakan tenaga baharu seperti solar. Oleh itu, D menepati fokus buku teks. Rujukan buku teks: F5, halaman 239."

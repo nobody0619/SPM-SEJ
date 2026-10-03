@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Putrajaya set 1 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Putrajaya set 1 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：Temenggung负责城内治安及安全；Bendahara领导行政，Penghulu Bendahari负责财政，Laksamana领导海军。答案纸参考：F4，第9页。
+Bahasa Melayu: Temenggung menjaga keselamatan kota. Bendahara mengetuai pentadbiran, Penghulu Bendahari mengurus kewangan dan Laksamana mengetuai angkatan laut. Rujukan skema: F4, halaman 9."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：《马六甲法典》第4条将伪造王令及违抗王令列为严重罪行，可判死刑，故II和III正确。答案纸参考：F4，第10页。
+Bahasa Melayu: Fasal 4 Hukum Kanun Melaka memperuntukkan hukuman bunuh bagi memalsukan titah dan mengingkari arahan raja. Maka II dan III tepat. Rujukan skema: F4, halaman 10."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：Jose Rizal成立Liga Filipina，争取改革及菲律宾人的权益；Katipunan由Andres Bonifacio领导。答案纸参考：F4，第28页。
+Bahasa Melayu: Jose Rizal menubuhkan Liga Filipina untuk memperjuangkan pembaharuan dan hak rakyat Filipina. Katipunan pula dipimpin Andres Bonifacio. Rujukan skema: F4, halaman 28."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：教育培养知识分子，使他们接触自由与民族意识等思想，并批判殖民统治，推动民族主义发展。答案纸参考：F4，第35页。
+Bahasa Melayu: Pendidikan melahirkan golongan intelek yang memahami idea kebebasan dan kesedaran bangsa serta mengkritik penjajahan, lalu menggerakkan nasionalisme. Rujukan skema: F4, halaman 35."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：第一次世界大战造成巨大生命及物质损失，说明国家应重视协商合作并维护世界和平。答案纸参考：F4，第57页。
+Bahasa Melayu: Perang Dunia Pertama menyebabkan kehilangan nyawa dan kemusnahan besar, lalu menunjukkan kepentingan memelihara keamanan dunia melalui kerjasama. Rujukan skema: F4, halaman 57."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：“亚洲人的亚洲”等口号借反西方殖民情绪争取当地支持，掩饰日本自身的扩张目的。答案纸参考：F4，第68页。
+Bahasa Melayu: Slogan Asia untuk Orang Asia membangkitkan sentimen anti penjajah Barat untuk mendapatkan sokongan tempatan sambil menyembunyikan tujuan peluasan Jepun. Rujukan skema: F4, halaman 68."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：英国施压与王位继承问题都是Vyner Brooke割让砂拉越的因素；并非全体居民要求割让，故I和II正确。答案纸参考：F4，第107页。
+Bahasa Melayu: Desakan British dan masalah pewarisan takhta mendorong Vyner Brooke menyerahkan Sarawak. Penyerahan bukan permintaan seluruh penduduk, maka I dan II tepat. Rujukan skema: F4, halaman 107."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：Rosli Dhobi作为Rukun Tiga Belas成员刺杀英国总督Duncan Stewart，以反对砂拉越割让；这是历史事件描述，并非鼓励暴力。答案纸参考：F4，第112页。
+Bahasa Melayu: Rosli Dhobi, anggota Rukun Tiga Belas, membunuh Gabenor British Duncan Stewart dalam gerakan antipenyerahan Sarawak. Rujukan skema: F4, halaman 112."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：1946年工作委员会拟定取代马来亚联盟的联邦协议基础，最终形成1948年马来亚联合邦。答案纸参考：F4，第126页。
+Bahasa Melayu: Jawatankuasa Kerja 1946 merangka asas Perjanjian Persekutuan Tanah Melayu yang menggantikan Malayan Union pada 1948. Rujukan skema: F4, halaman 126."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：协议恢复马来州的保护国地位及统治者在法律方面的权力，所以II和III正确。国家元首职位是1957年独立制度的一部分。答案纸参考：F4，第132至133页。
+Bahasa Melayu: Perjanjian mengembalikan taraf naungan dan kuasa perundangan raja, maka II dan III tepat. Jawatan YDPA berkaitan sistem kemerdekaan 1957. Rujukan skema: F4, halaman 132–133."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：加尔各答会议鼓励共产党采取武装斗争，之后马共加剧暴力以争取政权，已不是抗日时期的合作。答案纸参考：F4，第148页。
+Bahasa Melayu: Persidangan Calcutta mendorong perjuangan bersenjata dan PKM meningkatkan keganasan untuk mendapatkan kuasa, bukan meneruskan kerjasama anti-Jepun. Rujukan skema: F4, halaman 148."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：双溪 siput欧洲种植园经理遭杀害，是英国宣布紧急状态的重要直接触发事件。答案纸参考：F4，第148页。
+Bahasa Melayu: Pembunuhan pengurus ladang Eropah di Sungai Siput menjadi pencetus penting pengisytiharan darurat oleh British. Rujukan skema: F4, halaman 148."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：PKMM领袖与其他族群合作争取独立，包括参与跨族群政治联合，而不是拒绝政治合作。答案纸参考：F4，第172页。
+Bahasa Melayu: Pemimpin PKMM bekerjasama dengan kaum lain dalam gabungan politik untuk memperjuangkan kemerdekaan, bukan menolak kerjasama tersebut. Rujukan skema: F4, halaman 172."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：IMP由Dato' Onn Jaafar推动，开放给各族加入，强调同一个政党内的跨族群合作。答案纸参考：F4，第173页。
+Bahasa Melayu: IMP yang dipelopori Dato' Onn Jaafar terbuka kepada semua kaum dan mengutamakan kerjasama kaum dalam sebuah parti. Rujukan skema: F4, halaman 173."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：联盟通过UMNO、MCA及MIC的政治合作争取不同族群支持，因而在1955年赢得52席中的51席。答案纸参考：F4，第202页。
+Bahasa Melayu: Kerjasama UMNO, MCA dan MIC dalam Perikatan menarik sokongan pelbagai kaum, lalu memenangi 51 daripada 52 kerusi pada 1955. Rujukan skema: F4, halaman 202."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：1955年选举加强民主行政，并由东姑阿都拉曼领导政府，故III和IV正确；成员制度及市议会选举早于这次选举。答案纸参考：F4，第204页。
+Bahasa Melayu: Pilihan raya 1955 mengukuhkan amalan demokrasi dan Tunku Abdul Rahman mengetuai kerajaan. Maka III dan IV tepat; Sistem Ahli dan pilihan raya bandaran berlaku lebih awal. Rujukan skema: F4, halaman 204."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：宪法委员会检查各州宪法的地位与结构，以协调新联邦宪法及州的制度安排。答案纸参考：F4，第221页。
+Bahasa Melayu: Suruhanjaya Perlembagaan meneliti kedudukan perlembagaan negeri untuk menyelaraskannya dengan kerangka perlembagaan Persekutuan yang baharu. Rujukan skema: F4, halaman 221."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：马来统治者建议从统治者中选出一位联邦国家领导，成为后来国家元首制度的基础。答案纸参考：F4，第222页。
+Bahasa Melayu: Memorandum Raja-raja Melayu mencadangkan pelantikan seorang ketua negara daripada kalangan raja sebagai asas institusi YDPA. Rujukan skema: F4, halaman 222."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：独立后须由本地人员逐步接替欧洲官员，建立由本国人民治理的行政体系，这是政治与行政挑战。答案纸参考：F4，第242页。
+Bahasa Melayu: Selepas merdeka, jawatan pegawai Eropah perlu digantikan secara berperingkat oleh pegawai tempatan untuk membina pentadbiran negara sendiri. Rujukan skema: F4, halaman 242."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：物质准备委员会筹备独立场地及国家象征，突出独立国家的身份；这项职务不是直接建立整个民主社会。答案纸参考：F4，第236页。
+Bahasa Melayu: Jawatankuasa Persediaan Fizikal menyediakan tempat sambutan dan lambang negara untuk menonjolkan identiti negara merdeka. Rujukan skema: F4, halaman 236."
+,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：课本列出传统、现代、法律及国际主权四类，因此图中X是国际主权。答案纸参考：F5，第7页。
+Bahasa Melayu: Empat jenis kedaulatan dalam buku teks ialah tradisional, moden, undang-undang dan antarabangsa. Maka X ialah kedaulatan antarabangsa. Rujukan skema: F5, halaman 7."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：高效行政促进政治稳定，公平分配财富促进经济繁荣及社会信任，故I和IV符合题目列出的两项目标。答案纸参考：F5，第12页。
+Bahasa Melayu: Pentadbiran cekap menyokong kestabilan politik, manakala pengagihan kekayaan yang adil menyokong kemakmuran ekonomi. Maka I dan IV tepat. Rujukan skema: F5, halaman 12."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：19世纪英国干预并引入西方法律，使马来州原有法律制度出现变化。答案纸参考：F5，第23页。
+Bahasa Melayu: Campur tangan British dan pengenalan undang-undang Barat pada abad ke-19 membawa perubahan terhadap undang-undang negeri Melayu. Rujukan skema: F5, halaman 23."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：1948年联邦安排将符合条件的“统治者臣民”与“英国臣民”纳入联邦公民权制度。答案纸参考：F5，第28页。
+Bahasa Melayu: Persekutuan Tanah Melayu 1948 memperkenalkan kewarganegaraan Persekutuan melibatkan rakyat Raja dan rakyat British yang memenuhi syarat. Rujukan skema: F5, halaman 28."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：国家元首宣告紧急状态及解散国会在课本归入立法权限，所以I和II正确；任命内阁与领导武装部队属于行政方面。答案纸参考：F5，第49页。
+Bahasa Melayu: Pengisytiharan darurat dan pembubaran Parlimen dikelaskan sebagai kuasa perundangan YDPA dalam buku teks. Maka I dan II tepat; pelantikan kabinet dan ketenteraan berkaitan eksekutif. Rujukan skema: F5, halaman 49."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：内阁承担集体责任，部长必须支持共同决定；若不能接受政府政策，应辞去部长职位。课本参考：F5，第54页。
+Bahasa Melayu: Jemaah Menteri bertanggungjawab secara kolektif. Menteri yang tidak bersetuju dan tidak dapat mempertahankan dasar kerajaan hendaklah meletakkan jawatan. Rujukan buku teks: F5, halaman 54."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：殖民时期调整行政制度主要服务英国的经济及政治利益，不是为了加强马来统治者的全部权力。马来亚联盟并非联邦，题目把它放在同一发展表中应理解为行政演变。答案纸参考：F5，第66至67页。
+Bahasa Melayu: Penyusunan pentadbiran kolonial menjaga kepentingan British. Malayan Union bukan sistem persekutuan; jadual ini wajar difahami sebagai perkembangan pentadbiran, bukan semua bentuknya persekutuan. Rujukan skema: F5, halaman 66–67."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：奖学金属于共同权限；土地属于州权限，教育及公民权属于联邦权限，因此B正确。答案纸参考：F5，第70页。
+Bahasa Melayu: Biasiswa termasuk Senarai Bersama. Tanah ialah bidang negeri, manakala pelajaran dan kewarganegaraan ialah bidang Persekutuan. Rujukan skema: F5, halaman 70."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：纳入沙巴及砂拉越有助平衡人口组成，是安全与区域发展之外的马来西亚成立因素。答案纸参考：F5，第93页。
+Bahasa Melayu: Penyertaan Sabah dan Sarawak membantu mengimbangi komposisi penduduk, selain faktor keselamatan dan pembangunan wilayah dalam pembentukan Malaysia. Rujukan skema: F5, halaman 93."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：JSKM向沙巴及砂拉越居民解释建议、提供讨论平台并加强信心，以争取对成立马来西亚的支持。答案纸参考：F5，第99页。
+Bahasa Melayu: JSKM memberikan penerangan dan ruang perbincangan untuk meyakinkan penduduk Sabah serta Sarawak tentang manfaat pembentukan Malaysia. Rujukan skema: F5, halaman 99."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：MAGERAN在513事件后恢复秩序及族群和谐，故I和II正确；并非废除煽动法或帮助报刊自由出版。答案纸参考：F5，第130页。
+Bahasa Melayu: MAGERAN bertanggungjawab mengembalikan keamanan dan keharmonian kaum selepas 13 Mei, maka I dan II tepat. Rujukan skema: F5, halaman 130."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：心理战通过宣传、解释及争取民心削弱共产党支持，使居民愿意与政府合作或促使成员投降。答案纸参考：F5，第121页。
+Bahasa Melayu: Perang saraf menggunakan penerangan dan usaha memenangi hati rakyat untuk melemahkan sokongan kepada komunis serta mendorong kerjasama atau penyerahan diri. Rujukan skema: F5, halaman 121."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：语文出版局发展词汇、出版及语言使用，提升马来语作为国语的地位；这是其最直接的设立目的。答案纸参考：F5，第149页。
+Bahasa Melayu: DBP mengembangkan istilah, penerbitan dan penggunaan bahasa untuk memartabatkan bahasa Melayu sebagai bahasa kebangsaan. Rujukan skema: F5, halaman 149."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：私立学校教授国语与马来西亚研究，让学生认识国家及共同身份，培养爱国意识；宗教或道德教育也支持价值培养。答案纸参考：F5，第147页。
+Bahasa Melayu: Pengajaran bahasa kebangsaan dan Pengajian Malaysia membina pengetahuan serta identiti negara, lalu memupuk cinta akan negara; pendidikan agama atau moral turut membentuk nilai. Rujukan skema: F5, halaman 147."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：绿皮书计划鼓励种植及生产食物，目标是取得充足粮食、减少依赖并改善人民收入；补贴只是可能的手段。答案纸参考：F5，第169页。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan pengeluaran makanan yang mencukupi untuk mengurangkan kebergantungan dan meningkatkan pendapatan; bantuan pertanian ialah cara, bukan matlamat utama. Rujukan skema: F5, halaman 169."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：自由工业区以税务优惠吸引投资与工业，产生就业及相关商业活动，刺激周围地区经济。答案纸参考：F5，第186页。
+Bahasa Melayu: Insentif cukai di Zon Perindustrian Bebas menarik pelaburan dan industri, menjana pekerjaan serta merangsang ekonomi kawasan sekitar. Rujukan skema: F5, halaman 186."
+,radio,F5 Bab 8,A,B,C,D,B,Picture37.png,"中文：教育、专业就业及经济机会扩大，推动中产阶级形成，这是DEB与DPN社会经济发展的成果之一。答案纸参考：F5，第181页。
+Bahasa Melayu: Peluasan pendidikan, pekerjaan profesional dan peluang ekonomi melalui DEB serta DPN melahirkan golongan kelas pertengahan. Rujukan skema: F5, halaman 181."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：ASA由马来亚、菲律宾及泰国于1961年成立，因此X是泰国。题表用“Malaysia”是之后国家名称，成立时称马来亚。答案纸参考：F5，第210页。
+Bahasa Melayu: ASA ditubuhkan pada 1961 oleh Persekutuan Tanah Melayu, Filipina dan Thailand. Maka X ialah Thailand; nama Malaysia dalam rajah ialah nama negara kemudian. Rujukan skema: F5, halaman 210."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：课本在援助巴勒斯坦的NGO名单中列出Muslim Care Malaysia，因此C符合本题课本分类；其他机构也可能参与人道援助，不能据此断言从未支援巴勒斯坦。课本参考：F5，第234页。
+Bahasa Melayu: Muslim Care Malaysia disenaraikan oleh buku teks sebagai NGO membantu Palestin, maka C menepati pengelasan soalan. Ini tidak bermaksud organisasi lain tidak pernah memberi bantuan kemanusiaan. Rujukan buku teks: F5, halaman 234."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：东盟粮食安全储备建立紧急稻米库存，在成员国供应受影响时提供支援，重点是粮食保障而非剩余销售。答案纸参考：F5，第243页。
+Bahasa Melayu: Rizab Sekuriti Makanan ASEAN membentuk Simpanan Beras Kecemasan untuk membantu negara anggota ketika bekalan makanan terjejas. Rujukan skema: F5, halaman 243."

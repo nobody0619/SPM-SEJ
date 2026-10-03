@@ -1,54 +1,107 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 8,radio,Sabk_Q14,A,B,C,D,A,SABK/Picture14.png
-F4 Chp 8,radio,JohorBahru_Q15,A,B,C,D,C,Johor Bahru/Picture15.png
-F4 Chp 8,radio,JohorKulaiSet_Q15,A,B,C,D,D,Johor Kulai Set 1/Picture15.png
-F4 Chp 8,radio,JohorKulaiSet_Q15,A,B,C,D,B,Johor Kulai Set 2/Picture15.png
-F4 Chp 8,radio,JohorMuar_Q15,A,B,C,D,A,Johor Muar/Picture15.png
-F4 Chp 8,radio,JohorPasirGudang_Q15,A,B,C,D,C,Johor Pasir Gudang/Picture15.png
-F4 Chp 8,radio,JohorSegamatSet_Q15,A,B,C,D,C,Johor Segamat Set 1/Picture15.png
-F4 Chp 8,radio,JohorSegamatSet_Q15,A,B,C,D,B,Johor Segamat Set 2/Picture15.png
-F4 Chp 8,radio,Kedah_Q15,A,B,C,D,D,Kedah/Picture15.png
-F4 Chp 8,radio,Kelantan_Q15,A,B,C,D,D,Kelantan/Picture15.png
-F4 Chp 8,radio,KualaLumpur_Q15,A,B,C,D,C,Kuala Lumpur/Picture15.png
-F4 Chp 8,radio,Melaka_Q15,A,B,C,D,D,Melaka/Picture15.png
-F4 Chp 8,radio,Mrsm_Q15,A,B,C,D,A,MRSM/Picture15.png
-F4 Chp 8,radio,N_Q15,A,B,C,D,D,N9/Picture15.png
-F4 Chp 8,radio,Perak_Q15,A,B,C,D,C,Perak/Picture15.png
-F4 Chp 8,radio,Perlis_Q15,A,B,C,D,A,Perlis/Picture15.png
-F4 Chp 8,radio,PulauPinang_Q15,A,B,C,D,C,Pulau Pinang/Picture15.png
-F4 Chp 8,radio,PutrajayaSet_Q15,A,B,C,D,D,Putrajaya set 1/Picture15.png
-F4 Chp 8,radio,PutrajayaSet_Q15,A,B,C,D,B,Putrajaya set 2/Picture15.png
-F4 Chp 8,radio,Sabah_Q15,A,B,C,D,D,Sabah/Picture15.png
-F4 Chp 8,radio,Sabk_Q15,A,B,C,D,C,SABK/Picture15.png
-F4 Chp 8,radio,Sbp_Q15,A,B,C,D,D,SBP/Picture15.png
-F4 Chp 8,radio,Selangor_Q15,A,B,C,D,B,Selangor/Picture15.png
-F4 Chp 8,radio,Smka_Q15,A,B,C,D,A,SMKA/Picture15.png
-F4 Chp 8,radio,Terengganu_Q15,A,B,C,D,D,Terengganu/Picture15.png
-F4 Chp 8,radio,JohorBahru_Q16,A,B,C,D,A,Johor Bahru/Picture16.png
-F4 Chp 8,radio,JohorKulaiSet_Q16,A,B,C,D,C,Johor Kulai Set 1/Picture16.png
-F4 Chp 8,radio,JohorKulaiSet_Q16,A,B,C,D,C,Johor Kulai Set 2/Picture16.png
-F4 Chp 8,radio,JohorMuar_Q16,A,B,C,D,D,Johor Muar/Picture16.png
-F4 Chp 8,radio,JohorPasirGudang_Q16,A,B,C,D,A,Johor Pasir Gudang/Picture16.png
-F4 Chp 8,radio,JohorSegamatSet_Q16,A,B,C,D,B,Johor Segamat Set 1/Picture16.png
-F4 Chp 8,radio,JohorSegamatSet_Q16,A,B,C,D,C,Johor Segamat Set 2/Picture16.png
-F4 Chp 8,radio,Kedah_Q16,A,B,C,D,A,Kedah/Picture16.png
-F4 Chp 8,radio,Kelantan_Q16,A,B,C,D,B,Kelantan/Picture16.png
-F4 Chp 8,radio,KualaLumpur_Q16,A,B,C,D,C,Kuala Lumpur/Picture16.png
-F4 Chp 8,radio,Melaka_Q16,A,B,C,D,A,Melaka/Picture16.png
-F4 Chp 8,radio,Mrsm_Q16,A,B,C,D,A,MRSM/Picture16.png
-F4 Chp 8,radio,N_Q16,A,B,C,D,A,N9/Picture16.png
-F4 Chp 8,radio,Pahang_Q16,A,B,C,D,A,Pahang/Picture16.png
-F4 Chp 8,radio,Perak_Q16,A,B,C,D,B,Perak/Picture16.png
-F4 Chp 8,radio,Perlis_Q16,A,B,C,D,A,Perlis/Picture16.png
-F4 Chp 8,radio,PulauPinang_Q16,A,B,C,D,B,Pulau Pinang/Picture16.png
-F4 Chp 8,radio,PutrajayaSet_Q16,A,B,C,D,D,Putrajaya set 1/Picture16.png
-F4 Chp 8,radio,PutrajayaSet_Q16,A,B,C,D,B,Putrajaya set 2/Picture16.png
-F4 Chp 8,radio,Sabah_Q16,A,B,C,D,C,Sabah/Picture16.png
-F4 Chp 8,radio,Sabk_Q16,A,B,C,D,B,SABK/Picture16.png
-F4 Chp 8,radio,SarawakSibu_Q16,A,B,C,D,B,Sarawak Sibu/Picture16.png
-F4 Chp 8,radio,Sbp_Q16,A,B,C,D,B,SBP/Picture16.png
-F4 Chp 8,radio,Selangor_Q16,A,B,C,D,B,Selangor/Picture16.png
-F4 Chp 8,radio,Smka_Q16,A,B,C,D,B,SMKA/Picture16.png
-F4 Chp 8,radio,Terengganu_Q16,A,B,C,D,A,Terengganu/Picture16.png
-F4 Chp 8,radio,Pahang_Q17,A,B,C,D,C,Pahang/Picture17.png
-F4 Chp 8,radio,SarawakSibu_Q17,A,B,C,D,C,Sarawak Sibu/Picture17.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 8,radio,Sabk_Q14,A,B,C,D,A,SABK/Picture14.png,"中文：联盟的跨族群协商及合作获得广泛支持，体现共识与合作的价值，帮助赢得52席中的51席。答案纸参考：F4，第202页。
+Bahasa Melayu: Permuafakatan antara kaum dalam Perikatan memperoleh sokongan luas dan membantu kemenangan 51 daripada 52 kerusi. Rujukan skema: F4, halaman 202."
+F4 Chp 8,radio,JohorBahru_Q15,A,B,C,D,C,Johor Bahru/Picture15.png,"中文：Bentuk A 与 Bentuk B 都保留11名州代表及3名少数群体代表；选举席位数量则不同，因此共同点是II、III，选C。（答案纸参考：F4，第198页。）
+Bahasa Melayu: Kedua-dua Bentuk A dan B mempunyai 11 wakil negeri serta tiga wakil golongan minoriti; jumlah ahli yang dipilih berbeza, maka II dan III memberikan C. Rujukan skema: Tingkatan 4, m.s. 198."
+F4 Chp 8,radio,JohorKulaiSet_Q15,A,B,C,D,D,Johor Kulai Set 1/Picture15.png,"中文：1955年候选人须具备马来语及英语知识；年龄要求为21岁或以上，并非“不超过21岁”，因此选D。（答案纸参考：F4，第200页。）
+Bahasa Melayu: Calon pilihan raya 1955 perlu berpengetahuan dalam bahasa Melayu dan bahasa Inggeris serta berumur sekurang-kurangnya 21 tahun, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 200."
+F4 Chp 8,radio,JohorKulaiSet_Q15,A,B,C,D,B,Johor Kulai Set 2/Picture15.png,"中文：1954年10月18日开始登记选民，在提名与投票前确定有资格参与选举的人，所以X为B。（答案纸参考：F4，第200页。）
+Bahasa Melayu: Pendaftaran pengundi bermula pada 18 Oktober 1954 sebelum penamaan calon dan pengundian, maka X ialah B. Rujukan skema: Tingkatan 4, m.s. 200."
+F4 Chp 8,radio,JohorMuar_Q15,A,B,C,D,A,Johor Muar/Picture15.png,"中文：候选人提名之后，需要进行竞选宣传，让选民了解候选人及政策，然后才投票。因此流程中X是Kempen pilihan raya，选A。（答案纸参考：F4，第201页。）
+Bahasa Melayu: Selepas penamaan calon, kempen pilihan raya dijalankan untuk memperkenalkan calon dan perjuangan mereka kepada pengundi. Pengundian berlaku selepas kempen, maka X ialah A. Rujukan skema: Tingkatan 4, m.s. 201."
+F4 Chp 8,radio,JohorPasirGudang_Q15,A,B,C,D,C,Johor Pasir Gudang/Picture15.png,"中文：1955年联邦立法议会选举的选民年龄条件是21岁及以上。因此选C；不要把现今投票年龄套用到历史时期。（答案纸参考：F4，第200页。）
+Bahasa Melayu: Dalam Pilihan Raya Majlis Perundangan Persekutuan 1955, pengundi perlu berumur 21 tahun ke atas serta memenuhi syarat lain. Oleh itu, C tepat mengikut tempoh sejarah tersebut. Rujukan skema: Tingkatan 4, m.s. 200."
+F4 Chp 8,radio,JohorSegamatSet_Q15,A,B,C,D,C,Johor Segamat Set 1/Picture15.png,"中文：选举规则或法案获通过后，需要登记选民，确认有资格参与投票的人，之后才进入候选人提名等阶段。因此X是选民登记，选C。（答案纸参考：F4，第200-201页。）
+Bahasa Melayu: Selepas rang undang-undang diluluskan, pendaftaran pengundi dilaksanakan bagi menyediakan senarai pengundi yang layak sebelum penamaan calon. Oleh itu, X ialah C. Rujukan skema: Tingkatan 4, m.s. 200-201."
+F4 Chp 8,radio,JohorSegamatSet_Q15,A,B,C,D,B,Johor Segamat Set 2/Picture15.png,"中文：1955年选举让人民选出当地领袖，使自治获得民意基础，并为争取独立铺路。因此选B，而不是把选举当成结束紧急状态的措施。（答案纸参考：F4，第198页。）
+Bahasa Melayu: Pilihan raya 1955 memberi mandat rakyat kepada pemimpin tempatan dan menunjukkan kesediaan berkerajaan sendiri. Kejayaan ini merintis kemerdekaan negara, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 198."
+F4 Chp 8,radio,Kedah_Q15,A,B,C,D,D,Kedah/Picture15.png,"中文：1955年选民须是马来亚联邦公民并年满21岁，因此III、IV正确；不要套用今天的投票年龄。答案纸参考：F4第200页。
+Bahasa Melayu: Pengundi tahun 1955 mestilah warganegara Persekutuan Tanah Melayu dan berumur sekurang-kurangnya 21 tahun, maka III dan IV betul. Rujukan skema: T4 ms.200."
+F4 Chp 8,radio,Kelantan_Q15,A,B,C,D,D,Kelantan/Picture15.png,"中文：联盟赢得绝大多数州席位，表明选民接受跨族合作，应选B；原key D强调地方行政，并非数据最直接结论，答案纸也写B。 答案纸参考：F4第197页。
+Bahasa Melayu: Kemenangan besar Perikatan membuktikan kerjasama kaum diterima, B. Key asal D tentang pentadbiran tempatan bukan kesimpulan paling langsung daripada keputusan ini; skema juga B. Rujukan skema: T4 ms.197."
+F4 Chp 8,radio,KualaLumpur_Q15,A,B,C,D,C,Kuala Lumpur/Picture15.png,"中文：1955年选举让本地领袖获得民意授权并组成政府，为自我管理及独立谈判铺路。 答案纸参考：F4第198页。
+Bahasa Melayu: Pilihan raya 1955 memberi mandat rakyat kepada pemimpin tempatan untuk membentuk kerajaan dan merintis pemerintahan sendiri serta kemerdekaan. Rujukan skema: T4 ms.198."
+F4 Chp 8,radio,Melaka_Q15,A,B,C,D,D,Melaka/Picture15.png,"中文：1955年举行联邦立法议会选举，是全国层面的选举，而非某个市议会选举。 答案纸参考：F4第197页。
+Bahasa Melayu: Pada 1955 diadakan pilihan raya Majlis Perundangan Persekutuan pada peringkat seluruh persekutuan, bukan majlis perbandaran. Rujukan skema: T4 ms.197."
+F4 Chp 8,radio,Mrsm_Q15,A,B,C,D,A,MRSM/Picture15.png,"中文：1955年选民须年满21岁及为联邦公民，所以I、II正确；此题考当年的规定。 答案纸参考：F4第200页。
+Bahasa Melayu: Pengundi 1955 mesti berumur sekurang-kurangnya 21 tahun dan warganegara Persekutuan, maka I dan II betul berdasarkan syarat ketika itu. Rujukan skema: T4 ms.200."
+F4 Chp 8,radio,N_Q15,A,B,C,D,D,N9/Picture15.png,"中文：联盟取得226席的压倒性胜利，显示选民接受UMNO与MCA的跨族政治合作。 答案纸参考：F4第197页。
+Bahasa Melayu: Kemenangan 226 kerusi menunjukkan rakyat menerima kerjasama politik antara kaum melalui UMNO dan MCA. Rujukan skema: T4 ms.197."
+F4 Chp 8,radio,Perak_Q15,A,B,C,D,C,Perak/Picture15.png,"中文：选民通过投票选出代表；获支持的政党再组成政府，因此选举让人民参与决定国家领导。答案纸参考：F4，第196页。
+Bahasa Melayu: Pengundi memilih wakil melalui undi dan parti yang memperoleh sokongan membentuk kerajaan. Pilihan raya membolehkan rakyat menentukan kepimpinan negara. Rujukan skema: F4, halaman 196."
+F4 Chp 8,radio,Perlis_Q15,A,B,C,D,A,Perlis/Picture15.png,"中文：1955年大选竞选期为45天；记忆时应分清竞选期与投票当天，而不是按月份估算。答案纸参考：F4，第201页。
+Bahasa Melayu: Tempoh berkempen bagi Pilihan Raya Umum 1955 ialah 45 hari. Bezakan tempoh kempen daripada hari pengundian. Rujukan skema: F4, halaman 201."
+F4 Chp 8,radio,PulauPinang_Q15,A,B,C,D,C,Pulau Pinang/Picture15.png,"中文：选举的举行须先有获通过的法律依据，因此选举法案通过是1955年联邦立法议会选举的正式程序之一。答案纸参考：F4，第200页。
+Bahasa Melayu: Pelaksanaan pilihan raya memerlukan asas undang-undang, maka kelulusan rang undang-undang membolehkan pilihan raya MPP 1955 diadakan. Rujukan skema: F4, halaman 200."
+F4 Chp 8,radio,PutrajayaSet_Q15,A,B,C,D,D,Putrajaya set 1/Picture15.png,"中文：联盟通过UMNO、MCA及MIC的政治合作争取不同族群支持，因而在1955年赢得52席中的51席。答案纸参考：F4，第202页。
+Bahasa Melayu: Kerjasama UMNO, MCA dan MIC dalam Perikatan menarik sokongan pelbagai kaum, lalu memenangi 51 daripada 52 kerusi pada 1955. Rujukan skema: F4, halaman 202."
+F4 Chp 8,radio,PutrajayaSet_Q15,A,B,C,D,B,Putrajaya set 2/Picture15.png,"中文：1955年的选民须是马来亚联合邦公民且年满21岁，所以I和IV正确；这不是现今投票年龄规则。答案纸参考：F4，第200页。
+Bahasa Melayu: Pengundi 1955 perlu menjadi warganegara PTM dan berumur sekurang-kurangnya 21 tahun, maka I dan IV tepat. Ini syarat sejarah 1955. Rujukan skema: F4, halaman 200."
+F4 Chp 8,radio,Sabah_Q15,A,B,C,D,D,Sabah/Picture15.png,"中文：D：Sistem Ahli让本地领袖管理部门，学习政府运作，为自治及独立作准备。
+Bahasa Melayu: D: Sistem Ahli memberi pemimpin tempatan latihan mengurus portfolio dan mentadbir kerajaan sebagai persediaan ke arah kemerdekaan."
+F4 Chp 8,radio,Sabk_Q15,A,B,C,D,C,SABK/Picture15.png,"中文：选举制度推行前，联邦立法议会成员由英国最高专员任命，而不是由选民投票选出。答案纸参考：F4，第199页。
+Bahasa Melayu: Sebelum pilihan raya Persekutuan, ahli MPP dilantik oleh Pesuruhjaya Tinggi British, bukannya dipilih rakyat. Rujukan skema: F4, halaman 199."
+F4 Chp 8,radio,Sbp_Q15,A,B,C,D,D,SBP/Picture15.png,"中文：D（III、IV）：选区划定后须登记选民，再进行候选人提名；投票结束后则点算选票。【答案纸参考：200-201；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Selepas penentuan sempadan kawasan, pengundi didaftarkan sebelum penamaan calon. Pengiraan undi dilakukan selepas pengundian. [Rujukan skema: 200-201; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Selangor_Q15,A,B,C,D,B,Selangor/Picture15.png,"中文：B：UMNO与MCA合作取得多数议席，显示人民接受跨族群政治联盟。【答案纸参考：B8T4M197；书页内容待逐页确认。】
+Bahasa Melayu: B: Kemenangan Perikatan UMNO-MCA menunjukkan penerimaan rakyat terhadap kerjasama politik antara kaum. [Rujukan skema: B8T4M197; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Smka_Q15,A,B,C,D,A,SMKA/Picture15.png,"中文：A：1955年联邦选举的选民须为联邦公民并年满21岁；会说马来语不是这里的必要条件。【答案纸参考：T4 Hal.200；书页内容待逐页确认。】
+Bahasa Melayu: A: Pengundi pilihan raya Persekutuan 1955 perlu menjadi warganegara dan berumur 21 tahun ke atas; kemahiran bahasa Melayu bukan syarat yang ditanya. [Rujukan skema: T4 Hal.200; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Terengganu_Q15,A,B,C,D,D,Terengganu/Picture15.png,"中文：D：1954年代表团争取民选议员在联邦立法议会中的席位安排，以扩大人民代表权。【答案纸参考：BAB 8- MS 199；书页内容待逐页确认。】
+Bahasa Melayu: D: Rombongan 1954 membincangkan keanggotaan Majlis Perundangan Persekutuan, khususnya kedudukan ahli yang dipilih rakyat. [Rujukan skema: BAB 8- MS 199; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,JohorBahru_Q16,A,B,C,D,A,Johor Bahru/Picture16.png,"中文：1955年联邦选举产生民选代表，并为成立首届内阁奠定基础；题列人物是获选代表，因此本题选A。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Pilihan Raya Umum 1955 melahirkan wakil yang dipilih rakyat dan menjadi asas pembentukan kabinet pertama; tokoh yang disenaraikan ialah wakil terpilih, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 206."
+F4 Chp 8,radio,JohorKulaiSet_Q16,A,B,C,D,C,Johor Kulai Set 1/Picture16.png,"中文：首届内阁由不同族群代表组成，显示合作、妥协及共同治理的能力，为独立作准备，选C。（答案纸参考：F4，第207页。）
+Bahasa Melayu: Kabinet pertama terdiri daripada wakil pelbagai kaum dan menunjukkan kompromi serta kerjasama untuk berkerajaan sendiri, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 207."
+F4 Chp 8,radio,JohorKulaiSet_Q16,A,B,C,D,C,Johor Kulai Set 2/Picture16.png,"中文：首届内阁讨论安全及财政问题，并逐步接管政府职能；II、III对应C。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Kabinet pertama mengutarakan isu keselamatan dan membangkitkan soal kewangan dalam usaha mengambil alih fungsi pentadbiran; II dan III memberikan C. Rujukan skema: Tingkatan 4, m.s. 206."
+F4 Chp 8,radio,JohorMuar_Q16,A,B,C,D,D,Johor Muar/Picture16.png,"中文：阿都拉萨担任教育部长，推动通过教育建立团结的国家民族。共同课程及教育政策有助各族培养共同认同，所以选D。（答案纸参考：F4，第207页。）
+Bahasa Melayu: Dato' Abdul Razak sebagai Menteri Pelajaran berusaha membina bangsa yang bersatu melalui pendidikan. Dasar pendidikan bersama dapat memupuk identiti kebangsaan dan perpaduan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 207."
+F4 Chp 8,radio,JohorPasirGudang_Q16,A,B,C,D,A,Johor Pasir Gudang/Picture16.png,"中文：1955年选举后，东姑出任首席部长Ketua Menteri；独立后才担任首相Perdana Menteri。题目明确是1955年第一届内阁，所以选A。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Selepas pilihan raya 1955, Tunku Abdul Rahman dilantik sebagai Ketua Menteri. Jawatan Perdana Menteri berkaitan negara yang telah merdeka, maka A tepat untuk tahun 1955. Rujukan skema: Tingkatan 4, m.s. 206."
+F4 Chp 8,radio,JohorSegamatSet_Q16,A,B,C,D,B,Johor Segamat Set 1/Picture16.png,"中文：1955年第一届内阁让当地领袖承担更多行政责任，逐步减少英国在治理中的权力，准备自治与独立。因此选B。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Kabinet pertama membolehkan pemimpin tempatan mengambil tanggungjawab pentadbiran yang lebih besar dan mengurangkan kuasa British secara beransur-ansur. Oleh itu, B tepat. Rujukan skema: Tingkatan 4, m.s. 206."
+F4 Chp 8,radio,JohorSegamatSet_Q16,A,B,C,D,C,Johor Segamat Set 2/Picture16.png,"中文：第一届内阁讨论国家财政、预算及行政事务，使当地领袖逐步掌握治理责任。因此题目所列职责是C。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Kabinet pertama membincangkan urusan kewangan dan pentadbiran sebagai persediaan mengambil tanggungjawab pemerintahan. Oleh itu, C tepat. Rujukan skema: Tingkatan 4, m.s. 206."
+F4 Chp 8,radio,Kedah_Q16,A,B,C,D,A,Kedah/Picture16.png,"中文：联盟通过UMNO、MCA和MIC的跨族政治合作吸引各族选民，获得大量选票。答案纸参考：F4第202页。
+Bahasa Melayu: Kerjasama politik UMNO, MCA dan MIC dalam Parti Perikatan menarik sokongan pengundi pelbagai kaum sehingga memperoleh undi besar. Rujukan skema: T4 ms.202."
+F4 Chp 8,radio,Kelantan_Q16,A,B,C,D,B,Kelantan/Picture16.png,"中文：1955年候选人须年满21岁并为马来亚公民，不要求高学历或必须是党领袖，所以I、IV正确。 答案纸参考：F4第200页。
+Bahasa Melayu: Calon 1955 mesti berumur sekurang-kurangnya 21 tahun dan warganegara Tanah Melayu, bukan semestinya berpendidikan tinggi atau ketua parti; I dan IV betul. Rujukan skema: T4 ms.200."
+F4 Chp 8,radio,KualaLumpur_Q16,A,B,C,D,C,Kuala Lumpur/Picture16.png,"中文：Abdul Razak任教育部长并领导1956年教育委员会，推动统一国家教育制度。 答案纸参考：F4第207页。
+Bahasa Melayu: Abdul Razak menjadi Menteri Pelajaran dan mengetuai Jawatankuasa Pelajaran 1956 untuk memajukan sistem pendidikan kebangsaan. Rujukan skema: T4 ms.207."
+F4 Chp 8,radio,Melaka_Q16,A,B,C,D,A,Melaka/Picture16.png,"中文：1955年的选民年龄门槛为21岁；须依当年的制度作答，而非今天的年龄规定。 答案纸参考：F4第200页。
+Bahasa Melayu: Syarat umur pengundi 1955 ialah sekurang-kurangnya 21 tahun; jawapan berdasarkan peraturan ketika itu. Rujukan skema: T4 ms.200."
+F4 Chp 8,radio,Mrsm_Q16,A,B,C,D,A,MRSM/Picture16.png,"中文：首届内阁推动公务体系本地化，让本地人逐步接替殖民官员并准备自治。 答案纸参考：F4第206页。
+Bahasa Melayu: Kabinet pertama menjadikan perkhidmatan awam bercorak tempatan dengan menggantikan pegawai kolonial sebagai persediaan pemerintahan sendiri. Rujukan skema: T4 ms.206."
+F4 Chp 8,radio,N_Q16,A,B,C,D,A,N9/Picture16.png,"中文：联邦立法议会是立法机构，主要职责是制定法律，而非领导州行政。 答案纸参考：F4第204页。
+Bahasa Melayu: MPP ialah badan perundangan yang menggubal undang-undang, bukan mengetuai pentadbiran negeri. Rujukan skema: T4 ms.204."
+F4 Chp 8,radio,Pahang_Q16,A,B,C,D,A,Pahang/Picture16.png,"中文：A：1955年举行第一次联邦立法议会选举，是从地方及州级选举迈向全国代表制度的重要阶段。答案纸参考：F4第196–197页。
+Bahasa Melayu: A: Pilihan raya Majlis Perundangan Persekutuan diadakan pada 1955, selepas pilihan raya tempatan dan negeri. Ini meluaskan pemilihan wakil ke peringkat Persekutuan. Rujukan skema: T4 ms. 196–197."
+F4 Chp 8,radio,Perak_Q16,A,B,C,D,B,Perak/Picture16.png,"中文：首届内阁讨论安全事务并逐步减少英国官员的行政权力，让本地领袖更实际地负责国家治理，所以I和IV正确。答案纸参考：F4，第206页。
+Bahasa Melayu: Kabinet pertama membincangkan keselamatan dan mengurangkan kuasa pentadbiran pegawai British supaya pemimpin tempatan memainkan peranan lebih besar. Maka I dan IV tepat. Rujukan skema: F4, halaman 206."
+F4 Chp 8,radio,Perlis_Q16,A,B,C,D,A,Perlis/Picture16.png,"中文：首届内阁成立后取消最高专员的否决权，使本地领袖能更实际参与决策，减少英国的直接控制。答案纸参考：F4，第206页。
+Bahasa Melayu: Pembatalan kuasa veto Pesuruhjaya Tinggi selepas pembentukan kabinet pertama mengurangkan kawalan British dan memperluas kuasa pemimpin tempatan. Rujukan skema: F4, halaman 206."
+F4 Chp 8,radio,PulauPinang_Q16,A,B,C,D,B,Pulau Pinang/Picture16.png,"中文：首届内阁减少英国行政权，并讨论国内安全事务，使本地领袖实质参与治理，所以I和IV正确。答案纸参考：F4，第206页。
+Bahasa Melayu: Kabinet pertama mengurangkan kuasa pentadbiran British dan membincangkan keselamatan dalam negeri sebagai langkah berkerajaan sendiri. Maka I dan IV tepat. Rujukan skema: F4, halaman 206."
+F4 Chp 8,radio,PutrajayaSet_Q16,A,B,C,D,D,Putrajaya set 1/Picture16.png,"中文：1955年选举加强民主行政，并由东姑阿都拉曼领导政府，故III和IV正确；成员制度及市议会选举早于这次选举。答案纸参考：F4，第204页。
+Bahasa Melayu: Pilihan raya 1955 mengukuhkan amalan demokrasi dan Tunku Abdul Rahman mengetuai kerajaan. Maka III dan IV tepat; Sistem Ahli dan pilihan raya bandaran berlaku lebih awal. Rujukan skema: F4, halaman 204."
+F4 Chp 8,radio,PutrajayaSet_Q16,A,B,C,D,B,Putrajaya set 2/Picture16.png,"中文：联邦立法议会负责制定法律；日常行政与财政执行属于行政政府职能。答案纸参考：F4，第204页。
+Bahasa Melayu: Majlis Perundangan Persekutuan berperanan menggubal undang-undang, berbeza daripada tugas pentadbiran harian kerajaan. Rujukan skema: F4, halaman 204."
+F4 Chp 8,radio,Sabah_Q16,A,B,C,D,C,Sabah/Picture16.png,"中文：C：IMP向各族开放，以跨族群合作及团结为基础，不是仅依靠单一族群政党。
+Bahasa Melayu: C: IMP terbuka kepada pelbagai kaum dan mengutamakan perpaduan serta kerjasama antara kaum."
+F4 Chp 8,radio,Sabk_Q16,A,B,C,D,B,SABK/Picture16.png,"中文：首届内阁讨论国内安全并减少英国行政权，使本地领导取得更多决策责任，故I和IV正确。答案纸参考：F4，第206页。
+Bahasa Melayu: Kabinet pertama membincangkan keselamatan dalam negeri dan mengurangkan kuasa pentadbiran British. Maka I dan IV tepat. Rujukan skema: F4, halaman 206."
+F4 Chp 8,radio,SarawakSibu_Q16,A,B,C,D,B,Sarawak Sibu/Picture16.png,"中文：B：选举产生获得人民支持的政府，使政府拥有较稳固的代表性与执政基础。【答案纸参考：196；书页内容待逐页确认。】
+Bahasa Melayu: B: Pilihan raya membentuk kerajaan yang mendapat mandat rakyat dan mempunyai asas pemerintahan yang mantap. [Rujukan skema: 196; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Sbp_Q16,A,B,C,D,B,SBP/Picture16.png,"中文：B：1955年首届内阁让本地领袖承担行政责任，为建立自治政府及争取独立作准备。【答案纸参考：206；书页内容待逐页确认。】
+Bahasa Melayu: B: Kabinet pertama 1955 memberi pemimpin tempatan tanggungjawab pentadbiran dan menjadi asas pembentukan kerajaan sendiri menuju kemerdekaan. [Rujukan skema: 206; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Selangor_Q16,A,B,C,D,B,Selangor/Picture16.png,"中文：B：行政权逐步交给本地人，但英国仍保留财政职位，以管理相关财务事务。【答案纸参考：B8 T4M206；书页内容待逐页确认。】
+Bahasa Melayu: B: Kuasa pentadbiran dipindahkan secara beransur-ansur kepada penduduk tempatan, tetapi pegawai British masih dikekalkan untuk mengurus kewangan. [Rujukan skema: B8 T4M206; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Smka_Q16,A,B,C,D,B,SMKA/Picture16.png,"中文：B：1955年议会选举扩大本地代表参与，使人民逐步接掌国家行政。【答案纸参考：T4 Hal.204；书页内容待逐页确认。】
+Bahasa Melayu: B: Majlis Perundangan Persekutuan 1955 memperluas penyertaan wakil tempatan dan membolehkan rakyat mengambil alih pentadbiran secara beransur-ansur. [Rujukan skema: T4 Hal.204; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Terengganu_Q16,A,B,C,D,A,Terengganu/Picture16.png,"中文：A：Abdul Razak担任教育部长，领导教育改革，包括1956年教育报告。【答案纸参考：BAB 8- MS 206；书页内容待逐页确认。】
+Bahasa Melayu: A: Abdul Razak memegang portfolio pelajaran dan memajukan pendidikan melalui pembaharuan seperti Penyata Jawatankuasa Pelajaran 1956. [Rujukan skema: BAB 8- MS 206; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 8,radio,Pahang_Q17,A,B,C,D,C,Pahang/Picture17.png,"中文：C：1955年选民必须是公民，年龄要求是21岁及以上；选项D的18岁不符合当时的规定。答案纸参考：F4第200页。
+Bahasa Melayu: C: Pengundi dalam pilihan raya 1955 mestilah warganegara dan berumur sekurang-kurangnya 21 tahun. Syarat 18 tahun dalam D tidak merujuk pilihan raya tersebut. Rujukan skema: T4 ms. 200."
+F4 Chp 8,radio,SarawakSibu_Q17,A,B,C,D,C,Sarawak Sibu/Picture17.png,"中文：C（II、III）：1955年选举加强跨族群政治合作，证明本地领袖具备治理能力并加快独立进程。【答案纸参考：198；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Pilihan raya 1955 memperkukuh kerjasama rakyat dalam politik dan mempercepat proses kemerdekaan. [Rujukan skema: 198; kandungan halaman buku belum disahkan satu demi satu.]"

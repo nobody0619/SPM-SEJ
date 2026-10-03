@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：传统主权以君主为最高权力中心，体现君主对臣民和国家的统治权。 答案纸参考：F5第6页。
+Bahasa Melayu: Kedaulatan tradisional berpusat pada raja yang memiliki kuasa tertinggi terhadap rakyat dan negara. Rujukan skema: T5 ms.6."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：国家获得联合国等国际组织承认，体现国际主权，而非传统或法律主权。 答案纸参考：F5第7页。
+Bahasa Melayu: Pengiktirafan negara oleh PBB menunjukkan kedaulatan antarabangsa, bukan kedaulatan tradisional atau undang-undang. Rujukan skema: T5 ms.7."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：宪法规定政府结构、权限和基本原则，为国家治理确定方向。 答案纸参考：F5第20页。
+Bahasa Melayu: Perlembagaan menetapkan struktur, kuasa dan prinsip pemerintahan, lalu menentukan hala tuju pentadbiran negara. Rujukan skema: T5 ms.20."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：议会民主让人民通过选举代表参与治理，而不是法庭立法或君主直接掌管行政。 答案纸参考：F5第29页。
+Bahasa Melayu: Demokrasi Berparlimen membolehkan rakyat terlibat dalam pemerintahan melalui pemilihan wakil, bukan mahkamah menggubal undang-undang. Rujukan skema: T5 ms.29."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：州层面的最高元首是Sultan；Menteri Besar是政府行政首长，两者角色不同。 答案纸参考：F5第41页。
+Bahasa Melayu: Sultan ialah ketua utama negeri; Menteri Besar mengetuai pentadbiran kerajaan negeri, maka peranannya berbeza. Rujukan skema: T5 ms.41."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：国家元首任命被认为获得下议院多数信任的首相，属于行政权。 答案纸参考：F5第48页。
+Bahasa Melayu: YDPA melantik Perdana Menteri yang pada hemat baginda mendapat kepercayaan majoriti Dewan Rakyat, suatu kuasa eksekutif. Rujukan skema: T5 ms.48."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：土地事务属于州清单；教育、卫生和外交主要属于联邦权限。 答案纸参考：F5第70页。
+Bahasa Melayu: Tanah termasuk Senarai Negeri; pelajaran, kesihatan dan hal ehwal luar ialah bidang persekutuan. Rujukan skema: T5 ms.70."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：联邦制定海洋公园政策，州政府负责相关岛屿的发展规划，D体现权限分工。 答案纸参考：F5第75页。
+Bahasa Melayu: Kerajaan Persekutuan membentuk dasar Taman Laut, manakala kerajaan negeri menyediakan pembangunan pulau; D menunjukkan pembahagian tugas. Rujukan skema: T5 ms.75."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：这些民族主义者提出Melayu Raya，将马来亚与印尼结合，以共同文化和独立斗争为基础。 答案纸参考：F5第92页。
+Bahasa Melayu: Tokoh ini mencadangkan Melayu Raya yang menggabungkan Tanah Melayu dengan Indonesia berdasarkan persamaan budaya dan perjuangan kemerdekaan. Rujukan skema: T5 ms.92."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：Cobbold报告显示多数民众支持成立马来西亚，并建议保障Sabah、Sarawak的自治权，故I、II正确。 答案纸参考：F5第100页。
+Bahasa Melayu: Laporan Cobbold menunjukkan majoriti menyokong Malaysia dan mencadangkan jaminan kuasa autonomi Sabah serta Sarawak; I dan II betul. Rujukan skema: T5 ms.100."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：族群紧张及PAP提出平等权利的政治口号，造成与联邦政府冲突，促成分离。 答案纸参考：F5第119页。
+Bahasa Melayu: Masalah perkauman dan tuntutan hak sama rata oleh PAP menimbulkan pertentangan dengan kerajaan persekutuan sehingga menyumbang pemisahan. Rujukan skema: T5 ms.119."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：政府立即宣布紧急状态，以特别措施恢复秩序并制止1969年族群暴力。 答案纸参考：F5第129页。
+Bahasa Melayu: Kerajaan segera mengisytiharkan darurat untuk mengambil langkah khas memulihkan ketenteraman dan menghentikan keganasan kaum 1969. Rujukan skema: T5 ms.129."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：联邦宪法是各族共同遵循的国家制度基础，因此是族群团结和全国整合的指南。 答案纸参考：F5第140页。
+Bahasa Melayu: Perlembagaan Persekutuan menjadi asas bersama yang dipatuhi semua kaum, membimbing perpaduan kaum dan integrasi nasional. Rujukan skema: T5 ms.140."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：UKM以马来语作为高等教育媒介，提升马来语作为知识语言的地位。 答案纸参考：F5第149页。
+Bahasa Melayu: UKM menggunakan bahasa Melayu dalam pengajian tinggi untuk memartabatkannya sebagai bahasa ilmu. Rujukan skema: T5 ms.149."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：政府机构提供就业、创业和农业援助，提高生产力与收入，帮助消除贫困。 答案纸参考：F5第169页。
+Bahasa Melayu: Agensi kerajaan membantu pekerjaan, perniagaan dan pertanian untuk meningkatkan produktiviti serta pendapatan dan mengurangkan kemiskinan. Rujukan skema: T5 ms.169."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：区域开发通过开垦土地、发展油棕种植与相关产业带动就业，按题意选C。题干把KEJORA写成Pahang Tenggara是笔误：KEJORA属Johor Tenggara，Pahang Tenggara是DARA。 答案纸参考：F5第171页。
+Bahasa Melayu: Pembangunan wilayah membuka tanah untuk kelapa sawit dan industri berkaitan bagi menyediakan pekerjaan, C. Nama dalam soalan tersilap: KEJORA ialah Johor Tenggara, manakala Pahang Tenggara ialah DARA. Rujukan skema: T5 ms.171."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：Colombo Plan提供技术援助、培训和教育，提升发展中国家的经济能力以解决贫困。 答案纸参考：F5第206页。
+Bahasa Melayu: Rancangan Colombo menyediakan bantuan teknikal, latihan dan pendidikan untuk meningkatkan keupayaan ekonomi serta menangani kemiskinan. Rujukan skema: T5 ms.206."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：国际政治变化和经济发展需求影响外交政策，马来西亚须在安全与经济利益间协调，所以I、II正确。 答案纸参考：F5第208–209页。
+Bahasa Melayu: Politik antarabangsa dan keperluan pembangunan ekonomi mempengaruhi dasar luar; Malaysia perlu menyelaraskan keselamatan dan kepentingan ekonomi, I dan II. Rujukan skema: T5 ms.208–209."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：东盟高级官员会议讨论毒品问题，协调成员国防止滥用与跨境贩运。 答案纸参考：F5第226页。
+Bahasa Melayu: Mesyuarat pegawai kanan ASEAN membincangkan dadah untuk menyelaraskan pencegahan penyalahgunaan dan pengedaran rentas sempadan. Rujukan skema: T5 ms.226."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：Agenda 21是管理人类活动、促进可持续发展的行动方案，兼顾发展与环境保护。 答案纸参考：F5第239页。
+Bahasa Melayu: Agenda 21 ialah pelan tindakan mengurus aktiviti manusia untuk pembangunan mampan dengan menyeimbangkan pembangunan dan perlindungan alam. Rujukan skema: T5 ms.239."

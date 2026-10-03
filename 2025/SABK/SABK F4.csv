@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-SABK F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SABK F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：Srivijaya由梵文“sri”（光辉）及“vijaya”（胜利）组成，因此意思是胜利之光。答案纸参考：F4，第5页。
+Bahasa Melayu: Srivijaya berasal daripada sri yang bermaksud cahaya dan vijaya yang bermaksud kemenangan, lalu membawa maksud cahaya kemenangan. Rujukan skema: F4, halaman 5."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：《马六甲海事法》及《马六甲法典》分别规范航海与陆上事务，使王国具有有序法律制度，故II和III正确。答案纸参考：F4，第10至11页。
+Bahasa Melayu: Undang-undang Laut Melaka dan Hukum Kanun Melaka mengatur urusan pelayaran serta kehidupan di darat, menjadikan pentadbiran tersusun. Maka II dan III tepat. Rujukan skema: F4, halaman 10–11."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：甘地以satyagraha坚持真理，主张非暴力方式反对殖民统治，不是以武装革命为主要策略。答案纸参考：F4，第26页。
+Bahasa Melayu: Mahatma Gandhi menggunakan satyagraha, berpegang teguh pada kebenaran, sebagai asas perjuangan tanpa keganasan menentang penjajahan. Rujukan skema: F4, halaman 26."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：泰国民族主义曾推动反对专制王权及转向君主立宪，因此B配对正确；Thakin与Pongyi属于缅甸，胡志明属于越南。答案纸参考：F4，第31页。
+Bahasa Melayu: Nasionalisme Thailand menentang raja berkuasa mutlak dan membawa perubahan kepada Raja Berperlembagaan. Thakin dan Pongyi berkaitan Burma, manakala Ho Chi Minh berkaitan Vietnam. Rujukan skema: F4, halaman 31."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：KMM公开批判英国并唤醒反殖民情绪，因此被英国视为激进组织。答案纸参考：F4，第40页。
+Bahasa Melayu: KMM dianggap radikal kerana berani menentang British dan membangkitkan perasaan anti-British melalui perjuangannya. Rujukan skema: F4, halaman 40."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：威尔逊十四点主张人民决定国家命运，并按照民族划定边界，所以I和II正确；不是强化军事联盟或设立否决权。答案纸参考：F4，第56页。
+Bahasa Melayu: Empat Belas Perkara Wilson menekankan penentuan nasib negara oleh rakyat dan sempadan berdasarkan bangsa. Maka I dan II tepat. Rujukan skema: F4, halaman 56."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：这些组织在日军投降后应对Bintang Tiga的暴力，保护马来社区的安全及尊严，时间并非抗日战争中。答案纸参考：F4，第84页。
+Bahasa Melayu: Gerakan ini muncul selepas Jepun menyerah kalah untuk mempertahankan masyarakat dan maruah Melayu daripada kekejaman Bintang Tiga. Rujukan skema: F4, halaman 84."
+,radio,F4 Bab 5,A,B,C,D,D,Picture8.png,"中文：工作委员会拟定新联邦协议以取代马来亚联盟。题干年份1949应为1946；1948年联邦成立后不可能才开始拟定取代联盟的协议。答案纸参考：F4，第126页。
+Bahasa Melayu: Jawatankuasa Kerja merangka perjanjian persekutuan baharu untuk menggantikan Malayan Union. Tahun 1949 dalam soalan sepatutnya 1946. Rujukan skema: F4, halaman 126."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：CLC让各族领袖讨论敏感问题并妥协，培养族群理解与合作。它在1949年成立，题干提1948年应视为制度背景。答案纸参考：F4，第137页。
+Bahasa Melayu: CLC memupuk persefahaman kaum melalui rundingan dan tolak ansur. Jawatankuasa ini ditubuhkan pada 1949; sebutan 1948 dalam soalan ialah latar Persekutuan. Rujukan skema: F4, halaman 137."
+,radio,F4 Bab 6,A,B,C,D,A,Picture10.png,"中文：共产主义强调生产资料及经济资源由国家或集体掌握，A最符合课本基本定义，并非君主统治。答案纸参考：F4，第146页。
+Bahasa Melayu: Komunisme menekankan pemilikan ekonomi dan alat pengeluaran oleh negara atau secara kolektif. A menepati definisi asas buku teks. Rujukan skema: F4, halaman 146."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：新村迁移使不同族群更多分居于各自区域，减少接触，造成族群关系疏远，是紧急状态的社会影响。答案纸参考：F4，第163页。
+Bahasa Melayu: Pemindahan ke Kampung Baharu meningkatkan pengasingan petempatan kaum dan mengurangkan interaksi, lalu merenggangkan hubungan kaum. Rujukan skema: F4, halaman 163."
+,radio,F4 Bab 7,A,B,C,D,D,Picture12.png,"中文：RIDA帮助马来人取得经济发展、训练及经营机会，以改善经济地位并处理族群间差距。答案纸参考：F4，第176页。
+Bahasa Melayu: RIDA memberikan peluang pembangunan, latihan dan kegiatan ekonomi kepada orang Melayu untuk meningkatkan kedudukan ekonomi mereka. Rujukan skema: F4, halaman 176."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：成员制度让本地领袖负责部门并积累行政经验，为自治及独立作准备。答案纸参考：F4，第178页。
+Bahasa Melayu: Sistem Ahli melatih pemimpin tempatan mengurus jabatan dan memperoleh pengalaman sebagai persediaan berkerajaan sendiri. Rujukan skema: F4, halaman 178."
+,radio,F4 Bab 8,A,B,C,D,A,Picture14.png,"中文：联盟的跨族群协商及合作获得广泛支持，体现共识与合作的价值，帮助赢得52席中的51席。答案纸参考：F4，第202页。
+Bahasa Melayu: Permuafakatan antara kaum dalam Perikatan memperoleh sokongan luas dan membantu kemenangan 51 daripada 52 kerusi. Rujukan skema: F4, halaman 202."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：选举制度推行前，联邦立法议会成员由英国最高专员任命，而不是由选民投票选出。答案纸参考：F4，第199页。
+Bahasa Melayu: Sebelum pilihan raya Persekutuan, ahli MPP dilantik oleh Pesuruhjaya Tinggi British, bukannya dipilih rakyat. Rujukan skema: F4, halaman 199."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：首届内阁讨论国内安全并减少英国行政权，使本地领导取得更多决策责任，故I和IV正确。答案纸参考：F4，第206页。
+Bahasa Melayu: Kabinet pertama membincangkan keselamatan dalam negeri dan mengurangkan kuasa pentadbiran British. Maka I dan IV tepat. Rujukan skema: F4, halaman 206."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：伦敦谈判要求由本地人任国防部长，并以财政部长取代财政秘书，逐步把重要部门交给本地政府，所以II和III正确。答案纸参考：F4，第218页。
+Bahasa Melayu: Rundingan London menuntut Menteri Pertahanan daripada rakyat tempatan dan penggantian Setiausaha Kewangan dengan Menteri Kewangan. Maka II dan III tepat. Rujukan skema: F4, halaman 218."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：国家元首从马来统治者中选出是联邦宪法规定，并不代表统治者拥有不受约束的绝对权力。答案纸参考：F4，第224页。
+Bahasa Melayu: Pemilihan YDPA daripada Raja-raja Melayu termaktub dalam Perlembagaan Persekutuan dan tidak bermaksud raja berkuasa mutlak. Rujukan skema: F4, halaman 224."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：独立庆典为部长与高级官员准备的特别礼服是baju muskat，体现正式国家仪式身份。答案纸参考：F4，第237页。
+Bahasa Melayu: Baju muskat disediakan sebagai pakaian khas menteri dan pegawai kerajaan bagi upacara sambutan kemerdekaan. Rujukan skema: F4, halaman 237."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：现代联邦的领土由明确边界界定，政府在该地域行使权力；与古代较松动的属地势力范围不同。答案纸参考：F4，第246页。
+Bahasa Melayu: Wilayah negara moden merujuk kawasan bersempadan yang berada di bawah kuasa kerajaan, berbeza daripada jajahan pengaruh kerajaan tradisional. Rujukan skema: F4, halaman 246."

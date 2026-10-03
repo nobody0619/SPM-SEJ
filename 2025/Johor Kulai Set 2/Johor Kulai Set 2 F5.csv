@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Kulai Set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Kulai Set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：Aristotle 把主权理解为国家政府的最高权力，选A；宗教力量与归属感不是这里的定义。（答案纸参考：F5，第4页。）
+Bahasa Melayu: Aristotle melihat kedaulatan sebagai kuasa tertinggi dalam pemerintahan sesebuah negara, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 4."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：主权让政府自主推行社会政策，保障人民生活与族群关系，因此缺少的项目为 kesejahteraan sosial，选C。（答案纸参考：F5，第10-11页。）
+Bahasa Melayu: Kedaulatan membolehkan kerajaan melaksanakan dasar sosial untuk kesejahteraan rakyat; X ialah kesejahteraan sosial, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 10-11."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：1957年宪制的重要要求是为联邦居民建立共同的公民资格，适用于同一国家的人民，选B。（答案纸参考：F5，第27页。）
+Bahasa Melayu: Salah satu terma rujukan utama ialah mewujudkan kewarganegaraan yang sama bagi penduduk Persekutuan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 27."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：联邦政府是现代宪法特征；马来君主及马来语的地位延续传统制度，所以选B。（答案纸参考：F5，第28-29页。）
+Bahasa Melayu: Kerajaan Persekutuan ialah ciri moden, manakala kesultanan dan kedudukan bahasa Melayu ialah ciri tradisional, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 28-29."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：今日统治者会议选出国家元首，并对涉及受保障事项的宪法修改给予同意；I、II对应A，不负责举办选举或任命首相。（答案纸参考：F5，第44-45页。）
+Bahasa Melayu: Majlis Raja-Raja memilih Yang di-Pertuan Agong dan memperkenankan pindaan bagi perkara tertentu yang dilindungi; I dan II memberikan A, bukan pengurusan pilihan raya atau pelantikan Perdana Menteri. Rujukan skema: Tingkatan 5, m.s. 44-45."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：立法、行政、司法分别承担不同职能，形成分权，避免权力集中于同一机构，选D。（答案纸参考：F5，第52页。）
+Bahasa Melayu: Pembahagian fungsi kepada badan perundangan, eksekutif dan kehakiman menunjukkan pengasingan kuasa, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 52."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：Persekutuan 的基本含义是多个州的联合，并以宪法协调彼此权力，选B。（答案纸参考：F5，第66页。）
+Bahasa Melayu: Persekutuan bermaksud penyatuan beberapa negeri dengan kuasa yang diselaraskan melalui perlembagaan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 66."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：Iskandar 等区域发展计划把经济活动扩展到不同地区，减少州与地区的发展差距，选C。（答案纸参考：F5，第73页。）
+Bahasa Melayu: Koridor pembangunan seperti Iskandar membantu menyeimbangkan pembangunan negeri dan wilayah serta mengurangkan jurang, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 73."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：Sabah Alliance 的成员包括 Democratic Party 与 Sabah Indian Congress，I、II对应A。（答案纸参考：F5，第96页。）
+Bahasa Melayu: Democratic Party dan Sabah Indian Congress ialah anggota Sabah Alliance yang disenaraikan dalam buku teks; I dan II memberikan A. Rujukan skema: Tingkatan 5, m.s. 96."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼领导层改变政策后，马印对抗走向结束，选D。题表把1965年9月30日事件与Suharto就任总统直接并列，时间叙述过于简化，不宜当成准确就任日期。（答案纸参考：F5，第109页。）
+Bahasa Melayu: Perubahan kepimpinan dan dasar Indonesia membawa penamatan konfrontasi, maka D tepat. Jadual terlalu memudahkan hubungan peristiwa 30 September 1965 dengan jawatan presiden Suharto; tarikh itu tidak patut dianggap tarikh pelantikan yang tepat. Rujukan skema: Tingkatan 5, m.s. 109."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：为避免政治分歧继续损害国家稳定与族群关系，联邦决定接受分离，以整体国家利益为考量，选B。（答案纸参考：F5，第120页。）
+Bahasa Melayu: Pemisahan dipersetujui demi kepentingan negara untuk mengelakkan pertikaian terus menggugat kestabilan dan hubungan kaum, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 120."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：增加不同农产与商品种类，可分散国际价格下降的风险，减少只靠橡胶和锡，选C。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Mempelbagaikan pengeluaran komoditi mengurangkan risiko turun naik harga dan pergantungan pada getah serta bijih timah, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 127."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：殖民时期按族群分隔居住、教育与经济活动，减少互动并使族群关系疏远，选C。（答案纸参考：F5，第141页。）
+Bahasa Melayu: Pemisahan kaum dalam petempatan, pendidikan dan ekonomi semasa British mengurangkan interaksi serta merenggangkan hubungan antara kaum, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 141."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：设立 UKM 与在法院使用马来语，提升国语在高等教育和国家制度中的地位；I、IV对应答案B。（答案纸参考：F5，第148页。）
+Bahasa Melayu: Penubuhan UKM dan penggunaan bahasa Melayu di mahkamah memartabatkan bahasa kebangsaan dalam pendidikan tinggi serta institusi negara; I dan IV menyokong B. Rujukan skema: Tingkatan 5, m.s. 148."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：DEB 的两大战略是消除贫穷和重组社会，最终目标为减少族群经济差距、达到团结，选A。（答案纸参考：F5，第167页。）
+Bahasa Melayu: DEB membasmi kemiskinan dan menyusun semula masyarakat dengan matlamat akhir mencapai perpaduan kaum, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 167."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：私营化让私人资本及管理参与服务，意在提高效率和服务品质、减轻政府负担，选D。（答案纸参考：F5，第178页。）
+Bahasa Melayu: Penswastaan melibatkan modal dan pengurusan swasta untuk meningkatkan kecekapan serta kualiti perkhidmatan dan mengurangkan beban kerajaan, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 178."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：外交政策优先维护国家主权、安全、经济及人民利益，这些共同构成 kepentingan nasional，选C。（答案纸参考：F5，第196页。）
+Bahasa Melayu: Dasar luar digubal untuk melindungi kedaulatan, keselamatan, ekonomi dan kepentingan rakyat yang membentuk kepentingan nasional, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 196."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：ASEAN 通过区域经济整合减少贸易障碍、扩大共同市场与合作，增强经济联系，选D。（答案纸参考：F5，第211页。）
+Bahasa Melayu: ASEAN mengintegrasikan ekonomi serantau melalui kerjasama dan pengurangan halangan perdagangan, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 211."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：Aman Palestin 与 CGM 提供福利援助，CGM 项目亦包括 Quran 学习，I、IV对应B，参与安全部队不是这些援助的内容。（答案纸参考：F5，第234页。）
+Bahasa Melayu: Aman Palestin menyalurkan bantuan kebajikan dan projek CGM turut merangkumi pengajian al-Quran; I dan IV memberikan B, bukan penyertaan pasukan keselamatan. Rujukan skema: Tingkatan 5, m.s. 234."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：东南亚无核区禁止有关核武活动，包括测试与使用，以降低军备竞争和核威胁，选A；和平核研究与核武须区分。（答案纸参考：F5，第244页。）
+Bahasa Melayu: Zon bebas nuklear melarang kegiatan senjata nuklear termasuk ujian dan penggunaan untuk mengurangkan ancaman, maka A tepat; penyelidikan nuklear aman berbeza daripada senjata nuklear. Rujukan skema: Tingkatan 5, m.s. 244."

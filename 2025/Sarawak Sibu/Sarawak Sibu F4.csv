@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sarawak Sibu F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 4 & 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture19.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Sarawak Sibu F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：C（II、III）：有远见的统治者及位于战略航线的地理位置，帮助马六甲成为著名王国与贸易中心。【答案纸参考：9；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Pemerintah yang berwawasan dan kedudukan di laluan strategik menjadikan Melaka kerajaan serta pusat perdagangan yang terkenal. [Rujukan skema: 9; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：A：Bendahara领导行政并担任苏丹顾问；财务是Penghulu Bendahari的职责。【答案纸参考：9；书页内容待逐页确认。】
+Bahasa Melayu: A: Bendahara mengetuai pentadbiran dan menjadi penasihat sultan, manakala kewangan diurus oleh Penghulu Bendahari. [Rujukan skema: 9; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：满清未能阻止西方势力介入，民族主义者认为王朝无法维护国家主权。【答案纸参考：26；书页内容待逐页确认。】
+Bahasa Melayu: A: Dinasti Manchu gagal menghalang kemasukan kuasa Barat, lalu dianggap tidak mampu mempertahankan kedaulatan China. [Rujukan skema: 26; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：B：泰国没有受到西方殖民统治，早期运动针对绝对君主制；其他东南亚国家主要反抗外国殖民者。【答案纸参考：31；书页内容待逐页确认。】
+Bahasa Melayu: B: Thailand tidak dijajah oleh Barat, maka gerakannya menentang raja berkuasa mutlak. Gerakan negara lain di Asia Tenggara menentang penjajahan kuasa asing. [Rujukan skema: 31; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：A：知识分子通过教育、写作及组织活动唤醒人民，是本地民族主义兴起的重要因素。【答案纸参考：34-35；书页内容待逐页确认。】
+Bahasa Melayu: A: Golongan intelektual menyebarkan kesedaran melalui pendidikan, penulisan dan pertubuhan, lalu mendorong kemunculan nasionalisme. [Rujukan skema: 34-35; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,B,Picture6.png,"中文：B：法国革命推翻绝对君主制，随后建立共和制度。【答案纸参考：25；书页内容待逐页确认。】
+Bahasa Melayu: B: Revolusi Perancis menentang pemerintahan raja mutlak dan membawa kepada pelaksanaan sistem republik. [Rujukan skema: 25; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：A：十四点原则强调民族自决，以民族作为确定国家边界的基础。【答案纸参考：56；书页内容待逐页确认。】
+Bahasa Melayu: A: Deklarasi Empat Belas Perkara menekankan penentuan nasib sendiri dan sempadan negara berasaskan bangsa. [Rujukan skema: 56; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,A,Picture8.png,"中文：A（I、II）：材料研究委员会及五年生产计划用于研究资源和组织生产，应对战时经济衰退。【答案纸参考：71；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): Jawatankuasa Penyelidikan Bahan dan Rancangan Pengeluaran Lima Tahun mengkaji sumber serta mengatur pengeluaran untuk menangani kemelesetan ekonomi. [Rujukan skema: 71; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4 & 5,A,B,C,D,B,Picture9.png,"中文：B：三种行政安排都把多个州纳入共同体制；它们的权力结构虽不同，共同点仍是州的联合。【答案纸参考：97 & 126；书页内容待逐页确认。】
+Bahasa Melayu: B: Ketiga-tiga susunan menyatukan beberapa negeri dalam satu pentadbiran, walaupun pembahagian kuasanya berbeza. [Rujukan skema: 97 & 126; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：C：1948年联合邦为本地参与政治及行政奠定基础，成为迈向自治的阶段。【答案纸参考：136；书页内容待逐页确认。】
+Bahasa Melayu: C: Persekutuan 1948 menyediakan asas penyertaan tempatan dalam pentadbiran sebagai langkah menuju berkerajaan sendiri. [Rujukan skema: 136; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：A：1948年联合邦协议规定公民资格及取得公民身份的条件，当时尚未宣布独立。【答案纸参考：134；书页内容待逐页确认。】
+Bahasa Melayu: A: Perjanjian Persekutuan 1948 menetapkan syarat kewarganegaraan; kemerdekaan belum dicapai pada ketika itu. [Rujukan skema: 134; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：B（I、IV）：紧急法令允许拘留涉嫌共产党活动者，并严惩非法携带武器者；死刑规定须理解为未经许可携带枪械或爆炸物。【答案纸参考：152；书页内容待逐页确认。】
+Bahasa Melayu: B (I dan IV): Undang-undang Darurat membolehkan penahanan orang yang disyaki terlibat dengan komunis dan hukuman mati bagi membawa senjata api atau bahan letupan tanpa kebenaran. [Rujukan skema: 152; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,D,Picture13.png,"中文：D：马共的目标是推翻现有统治，建立共产主义共和国。【答案纸参考：148；书页内容待逐页确认。】
+Bahasa Melayu: D: PKM bertujuan menggulingkan pemerintahan sedia ada dan menubuhkan sebuah republik komunis. [Rujukan skema: 148; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：D：Sistem Ahli让本地人参与管理部门，体现英国逐步去殖民化的安排。【答案纸参考：178；书页内容待逐页确认。】
+Bahasa Melayu: D: Sistem Ahli memberi penduduk tempatan peluang mentadbir portfolio sebagai sebahagian proses dekolonisasi. [Rujukan skema: 178; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,C,Picture15.png,"中文：C：管理部门及提出法律建议训练本地领袖，为建立自己的政府作准备。【答案纸参考：179；书页内容待逐页确认。】
+Bahasa Melayu: C: Pengurusan portfolio dan cadangan undang-undang melatih pemimpin tempatan sebagai langkah menuju berkerajaan sendiri. [Rujukan skema: 179; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：选举产生获得人民支持的政府，使政府拥有较稳固的代表性与执政基础。【答案纸参考：196；书页内容待逐页确认。】
+Bahasa Melayu: B: Pilihan raya membentuk kerajaan yang mendapat mandat rakyat dan mempunyai asas pemerintahan yang mantap. [Rujukan skema: 196; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：C（II、III）：1955年选举加强跨族群政治合作，证明本地领袖具备治理能力并加快独立进程。【答案纸参考：198；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Pilihan raya 1955 memperkukuh kerjasama rakyat dalam politik dan mempercepat proses kemerdekaan. [Rujukan skema: 198; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C（II、III）：1957年协议维持马来人的特殊地位，并规定伊斯兰为联邦宗教。【答案纸参考：224-225；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Perjanjian 1957 mengekalkan kedudukan istimewa orang Melayu dan menetapkan Islam sebagai agama Persekutuan. [Rujukan skema: 224-225; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：C：Reid委员会的主要任务是起草独立国家宪法，包括联邦结构和中央与州的权限。【答案纸参考：220；书页内容待逐页确认。】
+Bahasa Melayu: C: Tugas utama Suruhanjaya Reid ialah merangka perlembagaan negara merdeka, termasuk struktur Persekutuan dan pembahagian kuasa. [Rujukan skema: 220; kandungan halaman buku belum disahkan satu demi satu.]"

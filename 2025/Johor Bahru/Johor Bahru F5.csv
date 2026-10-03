@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Bahru F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Bahru F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：联邦由多个州联合组成，1957年马来亚联邦与1963年马来西亚联邦都体现州的结合，选B。（答案纸参考：F5，第6页。）
+Bahasa Melayu: Persekutuan terbentuk melalui penggabungan beberapa negeri, seperti Persekutuan Tanah Melayu 1957 dan Persekutuan Malaysia 1963, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 6."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：国家原则、体育与文化活动提供共同价值及交流平台，主要目的为增强不同族群的团结，选C。（答案纸参考：F5，第11页。）
+Bahasa Melayu: Rukun Negara, sukan dan kebudayaan memupuk nilai bersama serta hubungan antara kaum untuk mengukuhkan perpaduan, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 11."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：课本把独立后实行的 Westminster 制度与成文宪法联系起来；I、II对应A，口头法律及划定边界并非这里的特征。（答案纸参考：F5，第27页。）
+Bahasa Melayu: Model Westminster yang dilaksanakan selepas merdeka berasaskan perlembagaan bertulis; I dan II memberikan A, bukannya undang-undang lisan atau penetapan sempadan. Rujukan skema: Tingkatan 5, m.s. 27."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：宪法规范政府权力、人民权利及国家行政，提供稳定、公平的规则以保障人民安宁，选C。（答案纸参考：F5，第29页。）
+Bahasa Melayu: Perlembagaan menetapkan kuasa kerajaan, hak rakyat dan aturan pentadbiran untuk mengekalkan kestabilan serta kesejahteraan rakyat, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 29."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：1897年的 Durbar 是马来统治者会议，讨论与州行政有关的事务；I、II对应A。（答案纸参考：F5，第43页。）
+Bahasa Melayu: Durbar 1897 ialah Majlis Persidangan Raja-raja Melayu untuk membincangkan hal pentadbiran negeri; I dan II memberikan A. Rujukan skema: Tingkatan 5, m.s. 43."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：Dewan Negara 与 Dewan Rakyat 同属国会，参与讨论和通过法案，职责是制定法律，选C；解释宪法属于司法工作。（答案纸参考：F5，第53页。）
+Bahasa Melayu: Dewan Negara dan Dewan Rakyat membentuk Parlimen yang membahaskan serta meluluskan rang undang-undang, maka C tepat; tafsiran perlembagaan berkaitan kehakiman. Rujukan skema: Tingkatan 5, m.s. 53."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：Persekutuan 指多个州联合为一个联邦，并按宪法分配中央与州的权力，选B。（答案纸参考：F5，第66页。）
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dengan pembahagian kuasa antara kerajaan Persekutuan dan Negeri menurut perlembagaan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 66."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：Sabah 的海洋保护区由州政府通过 Taman-Taman Sabah 管理，目的是保护海洋生态及资源，选B。（答案纸参考：F5，第75页。）
+Bahasa Melayu: Kerajaan Negeri Sabah mengurus kawasan perlindungan marin melalui Taman-Taman Sabah untuk memelihara khazanah laut, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 75."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：Thailand 认为成立 Malaysia 有助东南亚的稳定与和平，因此支持这项联合构想，选D。（答案纸参考：F5，第97页。）
+Bahasa Melayu: Thailand menyokong pembentukan Malaysia kerana melihatnya sebagai usaha mewujudkan keamanan dan kestabilan serantau, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 97."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：印尼领导层由 Sukarno 转向 Suharto 后改变政策，促使对抗结束，因此主要转折为领导层变化，选A。（答案纸参考：F5，第108页。）
+Bahasa Melayu: Perubahan kepimpinan Indonesia daripada Sukarno kepada Suharto membawa perubahan dasar dan penamatan konfrontasi, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 108."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：Malaysian Malaysia 运动要求所有公民获得平等权利，题目对应 hak sama rata，选D。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Kempen Malaysian Malaysia menuntut hak sama rata bagi semua warganegara, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 119."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：发展加工工业可增加产品附加值及生产种类，减少单靠橡胶、锡原料出口的风险，选C。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Kemajuan industri pemprosesan menambah nilai dan mempelbagaikan pengeluaran, sekali gus mengurangkan pergantungan pada eksport getah serta bijih timah, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 127."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：国家原则提供共同价值，国语提供共同沟通媒介，两者属于社会层面的团结措施；II、III对应C。（答案纸参考：F5，第140页。）
+Bahasa Melayu: Rukun Negara membentuk nilai bersama dan bahasa kebangsaan menjadi alat komunikasi bersama dalam usaha sosial memperkukuh perpaduan; II dan III memberikan C. Rujukan skema: Tingkatan 5, m.s. 140."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：Sekolah Seri Puteri 与 Kolej Sultan Abdul Halim 是课本列出的加强马来语教学机构，I、IV对应B。（答案纸参考：F5，第148页。）
+Bahasa Melayu: Sekolah Seri Puteri dan Kolej Sultan Abdul Halim ialah institusi yang mempergiat penggunaan bahasa Melayu sebagai bahasa pengantar; I dan IV memberikan B. Rujukan skema: Tingkatan 5, m.s. 148."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：区域开发在较落后地区建立农业、产业及工作机会，提高收入并改善不同群体的经济参与，落实 DEB，选D。（答案纸参考：F5，第168页。）
+Bahasa Melayu: Pembangunan wilayah membuka kegiatan ekonomi dan peluang pekerjaan di kawasan kurang maju untuk meningkatkan pendapatan serta penyertaan masyarakat, selaras dengan DEB, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 168."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：ILP 提供工业技能训练，提高就业能力及收入，是减少贫困的具体措施；配对“ILP—提供技能”正确，选C。（答案纸参考：F5，第179页。）
+Bahasa Melayu: Institut Latihan Perindustrian memberikan latihan kemahiran untuk meningkatkan kebolehpasaran dan pendapatan, maka pasangan ILP–memberikan kemahiran dalam C tepat. Rujukan skema: Tingkatan 5, m.s. 179."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：外交政策随国内与国际环境改变，但重点仍是维护国家安全、主权及经济利益，所以选B。
+Bahasa Melayu: Dasar luar berubah mengikut keadaan dalam dan luar negara untuk melindungi keselamatan, kedaulatan serta kepentingan nasional, maka B tepat."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：ASEAN 把东南亚国家联系起来，透过合作与互助展现区域友谊及团结精神，选C。（答案纸参考：F5，第210页。）
+Bahasa Melayu: ASEAN menghubungkan negara serantau melalui kerjasama dan semangat setiakawan, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 210."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：CGM 向 Gaza 居民提供人道援助；课本列出的项目包括医疗援助，所以四项中选D，而非派军队。（答案纸参考：F5，第234页。）
+Bahasa Melayu: CGM menyalurkan bantuan kemanusiaan kepada penduduk Gaza; projek dalam buku teks merangkumi bantuan perubatan, maka D tepat, bukannya penghantaran tentera. Rujukan skema: Tingkatan 5, m.s. 234."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：区域合作、无核区及粮食安全分别保障稳定、安全和基本生活需要，共同目标是人民福祉，选C。（答案纸参考：F5，第242页。）
+Bahasa Melayu: Kerjasama serantau, zon bebas nuklear dan keselamatan makanan menjamin kestabilan, keselamatan serta keperluan hidup untuk kesejahteraan rakyat, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 242."

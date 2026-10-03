@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Terengganu F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：A：传统主权强调国王在治理中的最高权力，而不是国际组织的承认。【答案纸参考：BAB 1- MS 6；书页内容待逐页确认。】
+Bahasa Melayu: A: Kedaulatan tradisional merujuk kuasa tertinggi raja dalam pemerintahan, bukan pengiktirafan badan antarabangsa. [Rujukan skema: BAB 1- MS 6; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：题库及答案纸写C，但按课本应为A（I、II）：系统化政府及明确边界是主权国家特征。“多元族群”不是必备条件，受外国保护亦非主权特征。【答案纸参考：BAB 1- MS 8 & 9；书页内容待逐页确认。】
+Bahasa Melayu: Kunci dan skema mencatat C, tetapi buku teks menyokong A (I dan II): pemerintahan sistematik dan sempadan jelas ialah ciri negara berdaulat. Rakyat berbilang kaum bukan syarat wajib, manakala naungan asing bukan ciri kedaulatan. [Rujukan skema: BAB 1- MS 8 & 9; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：Charter of Justice提供司法制度，以保护本地居民免受压迫。【答案纸参考：BAB 2- MS 22；书页内容待逐页确认。】
+Bahasa Melayu: A: Charter of Justice menyediakan sistem kehakiman untuk melindungi penduduk asal dan mengelakkan penindasan. [Rujukan skema: BAB 2- MS 22; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：D：宪法规定国家机构、权力及治理原则，成为国家行政方向的基础。【答案纸参考：BAB 2- MS 24；书页内容待逐页确认。】
+Bahasa Melayu: D: Perlembagaan menetapkan institusi, kuasa dan prinsip pemerintahan sebagai asas hala tuju pentadbiran negara. [Rujukan skema: BAB 2- MS 24; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：D：人民通过选举选择代表及领导人，体现议会民主；国家元首由统治者会议选举。【答案纸参考：BAB 3- MS 50；书页内容待逐页确认。】
+Bahasa Melayu: D: Rakyat memilih wakil dan pemimpin melalui pilihan raya dalam Demokrasi Berparlimen, manakala Yang di-Pertuan Agong dipilih oleh Majlis Raja-Raja. [Rujukan skema: BAB 3- MS 50; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：B：国会包括国家元首、Dewan Negara及Dewan Rakyat，所以X为下议院。【答案纸参考：BAB 3- MS 53；书页内容待逐页确认。】
+Bahasa Melayu: B: Parlimen terdiri daripada Yang di-Pertuan Agong, Dewan Negara dan Dewan Rakyat; maka X ialah Dewan Rakyat. [Rujukan skema: BAB 3- MS 53; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：C：农业与林业属于州清单；国防、教育及医药健康属于联邦权限。【答案纸参考：BAB 4- MS 70；书页内容待逐页确认。】
+Bahasa Melayu: C: Pertanian dan perhutanan ialah bidang Senarai Negeri, manakala pertahanan, pelajaran serta perubatan dan kesihatan ialah urusan Persekutuan. [Rujukan skema: BAB 4- MS 70; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：B：州务大臣及首席部长会议协调政府政策落实，促进联邦与各州合作。【答案纸参考：BAB 4- MS 80；书页内容待逐页确认。】
+Bahasa Melayu: B: Mesyuarat Menteri Besar dan Ketua Menteri menyelaras pelaksanaan dasar serta kerjasama antara kerajaan negeri dengan Persekutuan. [Rujukan skema: BAB 4- MS 80; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：A（I、II）：合并领土能发挥共同经济潜力，并加强区域安全，是有关英国官员的考虑。【答案纸参考：BAB 5- MS 91；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): Penggabungan wilayah dapat memanfaatkan potensi ekonomi dan memastikan keselamatan wilayah, selaras dengan cadangan pegawai British. [Rujukan skema: BAB 5- MS 91; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：D：新加坡公投让居民表达加入马来西亚的形式选择，不是调查Cobbold自治报告。【答案纸参考：BAB 5- MS 100；书页内容待逐页确认。】
+Bahasa Melayu: D: Referendum Singapura menentukan bentuk pilihan penduduk untuk menyertai Malaysia, bukan menilai laporan autonomi Suruhanjaya Cobbold. [Rujukan skema: BAB 5- MS 100; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：A（I、II）：成立马来西亚后，政府面对族群团结及地区发展、经济差距等挑战。【答案纸参考：BAB 6- MS 117 & 118；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): Selepas pembentukan Malaysia, kerajaan menghadapi cabaran pemaduan kaum serta pembangunan dan ekonomi wilayah. [Rujukan skema: BAB 6- MS 117 & 118; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：B：“Malaysian Malaysia”与联邦既有政策发生冲突，加剧中央与新加坡之间矛盾，最终促成分离。【答案纸参考：BAB 6- MS 119；书页内容待逐页确认。】
+Bahasa Melayu: B: Slogan Malaysian Malaysia bercanggah dengan dasar Persekutuan dan meningkatkan pertentangan yang akhirnya membawa kepada pemisahan Singapura. [Rujukan skema: BAB 6- MS 119; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：A：共同参与社团、制服团体及体育活动增加各族互动，培养合作及团结。【答案纸参考：BAB 7- MS 146；书页内容待逐页确认。】
+Bahasa Melayu: A: Persatuan, unit beruniform dan sukan mempertemukan murid pelbagai kaum untuk bekerjasama serta memupuk perpaduan. [Rujukan skema: BAB 7- MS 146; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：B（I、IV）：Rukun Negara的目标包括公平社会及维持民主生活方式；强化州主义不利国家团结。【答案纸参考：BAB 7- MS 158；书页内容待逐页确认。】
+Bahasa Melayu: B (I dan IV): Rukun Negara bertujuan mencipta masyarakat adil dan memelihara cara hidup demokratik, bukan memperkasa semangat kenegerian. [Rujukan skema: BAB 7- MS 158; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：B：Buku Hijau鼓励种植及生产粮食，提高供应并减少对进口食品的依赖。【答案纸参考：BAB 8- MS 169；书页内容待逐页确认。】
+Bahasa Melayu: B: Rancangan Buku Hijau menggalakkan pertanian dan pengeluaran makanan untuk meningkatkan bekalan serta mengurangkan pergantungan import. [Rujukan skema: BAB 8- MS 169; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：D：私营化计划拨出股份给土著，提升其在现代部门的拥有权、控制及管理参与。题干DPN全名应为Dasar Pembangunan Nasional。【答案纸参考：BAB 8- MS 178；书页内容待逐页确认。】
+Bahasa Melayu: D: Program penswastaan memperuntukkan saham kepada Bumiputera bagi meningkatkan pemilikan, penguasaan dan pengurusan sektor moden. Nama DPN yang betul ialah Dasar Pembangunan Nasional. [Rujukan skema: BAB 8- MS 178; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：A：MAPHILINDO以协商处理三国之间问题，维护区域和谐与友好关系。【答案纸参考：BAB 9- MS 210；书页内容待逐页确认。】
+Bahasa Melayu: A: MAPHILINDO menyediakan ruang rundingan antara tiga negara untuk menjaga keharmonian dan hubungan baik serantau. [Rujukan skema: BAB 9- MS 210; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：A：马来西亚在OIC框架内参与调解伊朗与伊拉克冲突，推动停火和和平解决。【答案纸参考：BAB 9- MS 216；书页内容待逐页确认。】
+Bahasa Melayu: A: Malaysia membantu pengantaraan konflik Iran-Iraq dalam OIC bagi mengusahakan gencatan senjata dan penyelesaian damai. [Rujukan skema: BAB 9- MS 216; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：C：Spratly靠近重要海上贸易路线，具有地缘战略位置，因此引发主权争夺。【答案纸参考：BAB 10- MS 227；书页内容待逐页确认。】
+Bahasa Melayu: C: Kepulauan Spratly terletak berhampiran laluan perdagangan laut penting dan mempunyai kedudukan geostrategik yang menjadi rebutan. [Rujukan skema: BAB 10- MS 227; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：D：推动新能源及较洁净能源，减少对高排放化石燃料的依赖，有助降低温室气体排放。【答案纸参考：BAB 10- MS 239；书页内容待逐页确认。】
+Bahasa Melayu: D: Penggunaan tenaga baharu dan lebih bersih mengurangkan pergantungan pada bahan api fosil serta membantu mengurangkan pelepasan gas rumah hijau. [Rujukan skema: BAB 10- MS 239; kandungan halaman buku belum disahkan satu demi satu.]"

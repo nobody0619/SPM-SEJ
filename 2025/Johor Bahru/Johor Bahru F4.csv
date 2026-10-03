@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Bahru F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Bahru F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：室利佛逝臣民饮用 Telaga Batu 铭文石上流下的水，是宣誓效忠君主的仪式，所以选D。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Rakyat Srivijaya meminum air dari Inskripsi Telaga Batu dalam upacara sumpah setia kepada raja, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：不服从君主被视为违背臣民责任，臣民担心遭受 tulah，即对君主不忠所招致的灾祸；waadat则是君民之间的约定。（答案纸参考：F4，第13页。）
+Bahasa Melayu: Rakyat takut menerima tulah apabila mengingkari pemerintah; waadat pula ialah perjanjian antara pemerintah dengan rakyat, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 13."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：Gandhi 的 Satyagraha 强调坚持真理，以非暴力方式反抗不公，因此核心原则是 kebenaran，选B。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Satyagraha menekankan pegangan pada kebenaran dan penentangan tanpa kekerasan terhadap ketidakadilan, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 26."
+,radio,F4 Bab 3,A,B,C,D,A,Picture4.png,"中文：经济制裁限制日本取得原料，日本因此计划控制资源丰富的东南亚，以满足工业和战争需要，选A。（答案纸参考：F4，第65页。）
+Bahasa Melayu: Sekatan ekonomi menyukarkan bekalan bahan mentah Jepun; Jepun merancang menguasai Asia Tenggara yang kaya dengan sumber untuk keperluan industri dan perang, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 65."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：Barbarossa 是德国进攻苏联的军事行动，属于 Hitler 扩张并企图控制欧洲的计划，所以本题选A。（答案纸参考：F4，第60页。）
+Bahasa Melayu: Operasi Barbarossa ialah serangan Jerman terhadap Soviet Union dalam rancangan peluasan kuasa Hitler untuk menguasai Eropah, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 60."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：日本与中国已有中日战争的敌对关系，部分华人又支援中国抗日，因此日军对华人采取残酷政策，选B。（答案纸参考：F4，第73页。）
+Bahasa Melayu: Permusuhan dalam Perang China–Jepun serta bantuan masyarakat Cina kepada perjuangan China menyebabkan Jepun melayan mereka dengan kejam, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 73."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：Utusan Melayu 等报章报道及批评 Malayan Union，传播反对意见并动员马来人，四个选项中选D。（答案纸参考：F4，第102页。）
+Bahasa Melayu: Utusan Melayu menyebarkan bantahan terhadap Malayan Union dan membangkitkan kesedaran orang Melayu, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 102."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：Sabah 被移交英国政府后成为英国直辖殖民地，主权及行政受殖民政府控制，因此选D。（答案纸参考：F4，第117页。）
+Bahasa Melayu: Penyerahan Sabah menjadikannya tanah jajahan British yang berada di bawah pentadbiran kerajaan British, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 117."
+,radio,F4 Bab 3,A,B,C,D,C,Picture9.png,"中文：日本在1931年侵占满洲，显示其军事扩张及区域实力，符合题目强调的1930年代，选C。（答案纸参考：F4，第59页。）
+Bahasa Melayu: Pendudukan Manchuria pada tahun 1931 menunjukkan peluasan ketenteraan dan kekuatan Jepun pada dekad 1930-an, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 59."
+,radio,F4 Bab 3,A,B,C,D,A,Picture10.png,"中文：Orde Baharu 是日本建立区域新秩序的扩张政策，意图控制亚洲及太平洋地区，选A。（答案纸参考：F4，第64页。）
+Bahasa Melayu: Orde Baharu ialah rancangan Jepun mewujudkan susunan baharu untuk menguasai kawasan Asia Pasifik, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 64."
+,radio,F4 Bab 3,A,B,C,D,D,Picture11.png,"中文：日本用“亚洲人的亚洲”等宣传，把侵略包装成解放亚洲，以争取当地支持并实现经济、军事目标，选D。（答案纸参考：F4，第68页。）
+Bahasa Melayu: Jepun menggunakan propaganda seperti Asia untuk Orang Asia bagi mendapatkan sokongan penduduk sambil memenuhi kepentingan ekonomi dan ketenteraannya, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 68."
+,radio,F4 Bab 3,A,B,C,D,D,Picture12.png,"中文：占领造成苦难，教训是对外来势力保持警惕，并团结合作维护国家安全；III与IV对应D。（答案纸参考：F4，第73页。）
+Bahasa Melayu: Kesengsaraan zaman pendudukan mengajar rakyat supaya sentiasa berwaspada dan bekerjasama mempertahankan negara; III dan IV memberikan D. Rujukan skema: Tingkatan 4, m.s. 73."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：CLC 强调不同族群的平等与公正，通过改善族群关系建立团结，为自治奠定基础，选B。（答案纸参考：F4，第174页。）
+Bahasa Melayu: Moto CLC menekankan kesamaan dan keadilan untuk membina perpaduan antara kaum sebagai asas berkerajaan sendiri, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 174."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：课本列出的 PPP 领导人为 Dr. S. Kanapathippilai；John Thivy、K. L. Devaser 属于 MIC 相关领导人，所以选B。（答案纸参考：F4，第184页。）
+Bahasa Melayu: Pemimpin PPP yang disenaraikan dalam buku teks ialah Dr. S. Kanapathippilai; John Thivy dan K. L. Devaser berkaitan dengan MIC, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 184."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：Bentuk A 与 Bentuk B 都保留11名州代表及3名少数群体代表；选举席位数量则不同，因此共同点是II、III，选C。（答案纸参考：F4，第198页。）
+Bahasa Melayu: Kedua-dua Bentuk A dan B mempunyai 11 wakil negeri serta tiga wakil golongan minoriti; jumlah ahli yang dipilih berbeza, maka II dan III memberikan C. Rujukan skema: Tingkatan 4, m.s. 198."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年联邦选举产生民选代表，并为成立首届内阁奠定基础；题列人物是获选代表，因此本题选A。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Pilihan Raya Umum 1955 melahirkan wakil yang dipilih rakyat dan menjadi asas pembentukan kabinet pertama; tokoh yang disenaraikan ialah wakil terpilih, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 206."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：Lord Reid、Sir Ivor Jennings 等成员组成联邦宪法委员会，负责拟定独立前的宪法，即 Reid Commission，选A。（答案纸参考：F4，第221页。）
+Bahasa Melayu: Lord Reid dan Sir Ivor Jennings merupakan anggota Suruhanjaya Perlembagaan Persekutuan yang merangka perlembagaan menjelang kemerdekaan, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 221."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：PAS 要求把马来语列为官方语言，凸显本地语言在独立国家中的地位，因此选C。（答案纸参考：F4，第223页。）
+Bahasa Melayu: PAS mencadangkan bahasa Melayu dijadikan bahasa rasmi dalam draf Perlembagaan Persekutuan Tanah Melayu, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 223."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：课本引用 Mandela 对独立的理解，强调摆脱奴役与压迫；四个选项中对应D。（答案纸参考：F4，第234页。）
+Bahasa Melayu: Takrif kemerdekaan menurut Nelson Mandela menekankan kebebasan daripada perhambaan dan penindasan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 234."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：公民获法律承认，才享有受保障的基本权利；题干描述的是对人民公民身份的承认，所以选A。（答案纸参考：F4，第247页。）
+Bahasa Melayu: Pengiktirafan sebagai rakyat memberikan kedudukan warganegara serta hak asasi yang dilindungi undang-undang, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 247."

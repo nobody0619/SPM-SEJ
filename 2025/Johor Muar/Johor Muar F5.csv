@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Muar F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Muar F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：按照本课本的术语分类，题目中的希腊语主权对应supernuus或superanus，意思是崇高或最高，强调独立国家的最高权力。因此选A；Sovereignty对应英语，Daulah对应阿拉伯语。（答案纸参考：F5，第4页。）
+Bahasa Melayu: Mengikut pengelasan istilah dalam buku teks, bahasa Yunani dikaitkan dengan supernuus atau superanus yang bermaksud agung atau tertinggi. Sovereignty merujuk bahasa Inggeris dan daulah bahasa Arab, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 4."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：主权让国家自主制定政策并在国际上获得承认，从而提升国家形象与地位。因此建立主权国家的重要性是提高国家形象，选C。（答案纸参考：F5，第11页。）
+Bahasa Melayu: Kedaulatan membolehkan negara mentadbir secara bebas serta mendapat pengiktirafan antarabangsa. Keadaan ini meningkatkan imej dan kedudukan negara, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 11."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：第二份Charter of Justice于1826年把新加坡、马六甲和槟城的法院结合。题目中缺少的阶段属于这次司法制度发展，所以选B。（答案纸参考：F5，第24页。）
+Bahasa Melayu: Charter of Justice kedua pada tahun 1826 menyatukan mahkamah di Singapura, Melaka dan Pulau Pinang. Oleh itu, peristiwa X merujuk perkembangan tersebut, maka B betul. Rujukan skema: Tingkatan 5, m.s. 24."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：联邦宪法的现代特征包括联邦制度、民主政府与公民权。沙巴和砂拉越在加入联邦时享有部分自主权限，体现联邦制度，因此选D。（答案纸参考：F5，第28页。）
+Bahasa Melayu: Ciri moden Perlembagaan Persekutuan termasuk sistem persekutuan, demokrasi dan kewarganegaraan. Autonomi tertentu kepada Sabah dan Sarawak mencerminkan sistem persekutuan, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 28."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：Durbar成员包括马来联邦各州统治者、英国驻扎官及其他英国高级官员，由高级专员主持。选项C的马来联邦英国驻扎官属于成员，因此选C。（答案纸参考：F5，第42页。）
+Bahasa Melayu: Durbar dipengerusikan oleh Pesuruhjaya Tinggi dan dianggotai Raja-raja Melayu Negeri-negeri Melayu Bersekutu serta pegawai British, termasuk Residen British. Oleh itu, C ialah anggota yang tepat. Rujukan skema: Tingkatan 5, m.s. 42."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：三权分立包括立法、行政和司法。选项中I立法与II司法属于这三大机构；统治者顾问不是另一项独立权力，所以选A。（答案纸参考：F5，第52页。）
+Bahasa Melayu: Pengasingan kuasa melibatkan badan perundangan, eksekutif dan kehakiman. Dalam senarai, I dan II ialah dua badan utama tersebut, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 52."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：州政府权限包括土地、农业、林业及地方政府。国防和教育属于联邦权限，因此题目所问柔佛州政府的事务是农业，选C。（答案纸参考：F5，第70页。）
+Bahasa Melayu: Pertanian, tanah, perhutanan dan kerajaan tempatan merupakan antara bidang kuasa kerajaan negeri. Pertahanan dan pendidikan ialah urusan Persekutuan, maka C betul. Rujukan skema: Tingkatan 5, m.s. 70."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：ESSCOM整合警方、武装部队和马来西亚海事执法机构的合作，维护沙巴东海岸安全。选项中海事执法机构符合这一合作体系，所以选C。（答案纸参考：F5，第79页。）
+Bahasa Melayu: ESSCOM menyelaraskan kerjasama Polis Diraja Malaysia, Angkatan Tentera Malaysia dan Agensi Penguatkuasaan Maritim Malaysia untuk menjaga keselamatan pantai timur Sabah. Oleh itu, C tepat. Rujukan skema: Tingkatan 5, m.s. 79."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：东姑提出成立马来西亚，除马来亚和沙巴外，也包括砂拉越、新加坡及文莱的构想。题目选项中砂拉越与新加坡正确，因此I和IV，即B。（答案纸参考：F5，第92页。）
+Bahasa Melayu: Gagasan Malaysia oleh Tunku melibatkan Tanah Melayu, Sabah, Sarawak, Singapura dan Brunei dalam cadangan asal. Dalam senarai pilihan, Sarawak dan Singapura betul, maka I dan IV, iaitu B. Rujukan skema: Tingkatan 5, m.s. 92."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼以Ganyang Malaysia政策反对马来西亚成立，实行对抗行动。这个口号直接体现印尼的反对政策，因此选D。（答案纸参考：F5，第106页。）
+Bahasa Melayu: Indonesia menentang pembentukan Malaysia melalui dasar konfrontasi dengan slogan Ganyang Malaysia. Dasar tersebut melibatkan tindakan untuk menggagalkan Malaysia, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 106."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：新加坡与中央政府的政治、经济及族群矛盾不断加剧，族群冲突威胁稳定，最终双方同意分离。因此选A所指的族群问题。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Pemisahan Singapura berlaku akibat ketegangan politik, ekonomi dan perkauman yang menjejaskan kestabilan Malaysia. Masalah perkauman merupakan salah satu faktor penting, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 119."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：第一马来西亚计划需要应对人民收入低与教育程度低的问题，以改善生活水平并发展经济。题目组合中III和IV符合这些社会经济挑战，所以选D。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Rancangan Malaysia Pertama menangani pendapatan penduduk yang rendah dan taraf pendidikan yang masih rendah bagi meningkatkan kesejahteraan serta pembangunan. Oleh itu, III dan IV betul, iaitu D. Rujukan skema: Tingkatan 5, m.s. 127."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：Citrawarna展示各族文化、艺术及生活传统，有助推广国家文化、培养共同认同并加强团结。因此它符合国家文化政策目标，选B。（答案纸参考：F5，第151页。）
+Bahasa Melayu: Program Citrawarna memperkenalkan kepelbagaian seni dan budaya masyarakat Malaysia. Program ini memperkukuh identiti kebangsaan serta perpaduan selaras dengan Dasar Kebudayaan Kebangsaan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 151."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：国语法令落实马来语作为国语与官方语言的地位，用于行政等正式事务。不是把马来语与英语合并成一种语言，所以选C。（答案纸参考：F5，第148页。）
+Bahasa Melayu: Akta Bahasa Kebangsaan memperkukuh bahasa Melayu sebagai bahasa kebangsaan dan bahasa rasmi, termasuk penggunaannya dalam urusan pentadbiran. Oleh itu, C tepat. Rujukan skema: Tingkatan 5, m.s. 148."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：新经济政策时期的发展计划旨在减少贫困并重组社会，以纠正各族及地区之间的社会经济失衡。因此第二和第三马来西亚计划对应这一目标，选A。（答案纸参考：F5，第166页。）
+Bahasa Melayu: Rancangan Malaysia Kedua dan Ketiga dilaksanakan dalam tempoh DEB untuk membasmi kemiskinan serta menyusun semula masyarakat. Tujuannya ialah memulihkan ketidakseimbangan sosioekonomi, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 166."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：MARA与PERNAS协助土著参与工商活动并增加股权持有，属于经济重组。PORIM和MARDI主要从事油棕及农业研究，所以选III和IV，即D。（答案纸参考：F5，第178页。）
+Bahasa Melayu: MARA dan PERNAS membantu penyertaan bumiputera dalam kegiatan perdagangan, perusahaan dan pemilikan modal. PORIM serta MARDI lebih berkaitan penyelidikan pertanian, maka III dan IV betul, iaitu D. Rujukan skema: Tingkatan 5, m.s. 178."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：Wisma Putra是外交部，负责维护国家利益、执行外交政策及处理对外关系。小农和橡胶研究属于其他机构，所以选D。（答案纸参考：F5，第196页。）
+Bahasa Melayu: Wisma Putra ialah Kementerian Luar Negeri yang menjaga kepentingan nasional melalui hubungan diplomatik dan pelaksanaan dasar luar. Oleh itu, D tepat. Rujukan skema: Tingkatan 5, m.s. 196."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：ZOPFAN希望东南亚成为和平、自由及中立区域，并获得大国承认，使区域免受外部势力干涉。其他选项不是此宣言重点，所以选B。（答案纸参考：F5，第210页。）
+Bahasa Melayu: ZOPFAN mengusahakan pengiktirafan kuasa besar terhadap Asia Tenggara sebagai zon aman, bebas dan berkecuali supaya rantau ini terhindar daripada campur tangan luar. Oleh itu, B paling sesuai. Rujukan skema: Tingkatan 5, m.s. 210."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：Freedom Flotilla向巴勒斯坦运送食物与医疗物资，但参与者面对以色列拦截及扣押船只的危险。题目问任务遭遇的挑战，因此选C。（答案纸参考：F5，第234页。）
+Bahasa Melayu: Misi Freedom Flotilla membawa makanan dan bantuan perubatan ke Palestin. Cabaran yang dihadapi termasuk kapal ditawan oleh pihak Israel, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 234."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：Langkawi奖表扬马来西亚公民对环境保护所作的重要贡献，鼓励维护生态并让下一代继承良好环境。因此选B。（答案纸参考：F5，第238页。）
+Bahasa Melayu: Anugerah Langkawi menghargai warganegara Malaysia yang memberikan sumbangan besar dalam bidang alam sekitar. Pengiktirafan ini menggalakkan pemeliharaan alam dan kelestarian untuk generasi akan datang, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 238."

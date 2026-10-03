@@ -1,54 +1,107 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 1,radio,JohorBahru_Q01,A,B,C,D,D,Johor Bahru/Picture1.png
-F4 Chp 1,radio,JohorKulaiSet_Q01,A,B,C,D,C,Johor Kulai Set 1/Picture1.png
-F4 Chp 1,radio,JohorKulaiSet_Q01,A,B,C,D,B,Johor Kulai Set 2/Picture1.png
-F4 Chp 1,radio,JohorMuar_Q01,A,B,C,D,A,Johor Muar/Picture1.png
-F4 Chp 1,radio,JohorPasirGudang_Q01,A,B,C,D,C,Johor Pasir Gudang/Picture1.png
-F4 Chp 1,radio,JohorSegamatSet_Q01,A,B,C,D,A,Johor Segamat Set 1/Picture1.png
-F4 Chp 1,radio,JohorSegamatSet_Q01,A,B,C,D,C,Johor Segamat Set 2/Picture1.png
-F4 Chp 1,radio,Kedah_Q01,A,B,C,D,B,Kedah/Picture1.png
-F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,C,Kelantan/Picture1.png
-F4 Chp 1,radio,KualaLumpur_Q01,A,B,C,D,D,Kuala Lumpur/Picture1.png
-F4 Chp 1,radio,Melaka_Q01,A,B,C,D,A,Melaka/Picture1.png
-F4 Chp 1,radio,Mrsm_Q01,A,B,C,D,A,MRSM/Picture1.png
-F4 Chp 1,radio,N_Q01,A,B,C,D,B,N9/Picture1.png
-F4 Chp 1,radio,Pahang_Q01,A,B,C,D,B,Pahang/Picture1.png
-F4 Chp 1,radio,Perak_Q01,A,B,C,D,B,Perak/Picture1.png
-F4 Chp 1,radio,Perlis_Q01,A,B,C,D,C,Perlis/Picture1.png
-F4 Chp 1,radio,PulauPinang_Q01,A,B,C,D,D,Pulau Pinang/Picture1.png
-F4 Chp 1,radio,PutrajayaSet_Q01,A,B,C,D,D,Putrajaya set 1/Picture1.png
-F4 Chp 1,radio,PutrajayaSet_Q01,A,B,C,D,B,Putrajaya set 2/Picture1.png
-F4 Chp 1,radio,Sabah_Q01,A,B,C,D,B,Sabah/Picture1.png
-F4 Chp 1,radio,Sabk_Q01,A,B,C,D,C,SABK/Picture1.png
-F4 Chp 1,radio,SarawakSibu_Q01,A,B,C,D,C,Sarawak Sibu/Picture1.png
-F4 Chp 1,radio,Sbp_Q01,A,B,C,D,D,SBP/Picture1.png
-F4 Chp 1,radio,Selangor_Q01,A,B,C,D,B,Selangor/Picture1.png
-F4 Chp 1,radio,Smka_Q01,A,B,C,D,C,SMKA/Picture1.png
-F4 Chp 1,radio,Terengganu_Q01,A,B,C,D,C,Terengganu/Picture1.png
-F4 Chp 1,radio,JohorBahru_Q02,A,B,C,D,A,Johor Bahru/Picture2.png
-F4 Chp 1,radio,JohorKulaiSet_Q02,A,B,C,D,A,Johor Kulai Set 1/Picture2.png
-F4 Chp 1,radio,JohorKulaiSet_Q02,A,B,C,D,A,Johor Kulai Set 2/Picture2.png
-F4 Chp 1,radio,JohorMuar_Q02,A,B,C,D,B,Johor Muar/Picture2.png
-F4 Chp 1,radio,JohorPasirGudang_Q02,A,B,C,D,B,Johor Pasir Gudang/Picture2.png
-F4 Chp 1,radio,JohorSegamatSet_Q02,A,B,C,D,D,Johor Segamat Set 1/Picture2.png
-F4 Chp 1,radio,JohorSegamatSet_Q02,A,B,C,D,A,Johor Segamat Set 2/Picture2.png
-F4 Chp 1,radio,Kedah_Q02,A,B,C,D,C,Kedah/Picture2.png
-F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,D,Kelantan/Picture2.png
-F4 Chp 1,radio,KualaLumpur_Q02,A,B,C,D,A,Kuala Lumpur/Picture2.png
-F4 Chp 1,radio,Melaka_Q02,A,B,C,D,A,Melaka/Picture2.png
-F4 Chp 1,radio,Mrsm_Q02,A,B,C,D,D,MRSM/Picture2.png
-F4 Chp 1,radio,N_Q02,A,B,C,D,D,N9/Picture2.png
-F4 Chp 1,radio,Pahang_Q02,A,B,C,D,A,Pahang/Picture2.png
-F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png
-F4 Chp 1,radio,Perlis_Q02,A,B,C,D,C,Perlis/Picture2.png
-F4 Chp 1,radio,PulauPinang_Q02,A,B,C,D,A,Pulau Pinang/Picture2.png
-F4 Chp 1,radio,PutrajayaSet_Q02,A,B,C,D,C,Putrajaya set 1/Picture2.png
-F4 Chp 1,radio,PutrajayaSet_Q02,A,B,C,D,A,Putrajaya set 2/Picture2.png
-F4 Chp 1,radio,Sabah_Q02,A,B,C,D,A,Sabah/Picture2.png
-F4 Chp 1,radio,Sabk_Q02,A,B,C,D,C,SABK/Picture2.png
-F4 Chp 1,radio,SarawakSibu_Q02,A,B,C,D,A,Sarawak Sibu/Picture2.png
-F4 Chp 1,radio,Sbp_Q02,A,B,C,D,B,SBP/Picture2.png
-F4 Chp 1,radio,Selangor_Q02,A,B,C,D,A,Selangor/Picture2.png
-F4 Chp 1,radio,Smka_Q02,A,B,C,D,D,SMKA/Picture2.png
-F4 Chp 1,radio,Terengganu_Q02,A,B,C,D,B,Terengganu/Picture2.png
-F4 Chp 1,radio,Melaka_Q03,A,B,C,D,C,Melaka/Picture3.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 1,radio,JohorBahru_Q01,A,B,C,D,D,Johor Bahru/Picture1.png,"中文：室利佛逝臣民饮用 Telaga Batu 铭文石上流下的水，是宣誓效忠君主的仪式，所以选D。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Rakyat Srivijaya meminum air dari Inskripsi Telaga Batu dalam upacara sumpah setia kepada raja, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+F4 Chp 1,radio,JohorKulaiSet_Q01,A,B,C,D,C,Johor Kulai Set 1/Picture1.png,"中文：早期马来世界国家的四项特征是君主、法律、人民及势力范围，因此X为 wilayah pengaruh，选C。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Empat ciri negara bangsa kerajaan Alam Melayu ialah raja, undang-undang, rakyat dan wilayah pengaruh; X ialah wilayah pengaruh, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+F4 Chp 1,radio,JohorKulaiSet_Q01,A,B,C,D,B,Johor Kulai Set 2/Picture1.png,"中文：早期马来世界国家具有君主、人民、势力范围及法律四项特征，选项中“法律”对应B。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Undang-undang ialah salah satu daripada empat ciri negara bangsa kerajaan Alam Melayu bersama raja, rakyat dan wilayah pengaruh, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+F4 Chp 1,radio,JohorMuar_Q01,A,B,C,D,A,Johor Muar/Picture1.png,"中文：马来世界王国以国王为统治核心，国王统领行政、司法和军事，并获得人民效忠。因此王权是这类王国的主要特征，选A。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Raja menjadi tonggak utama kerajaan Alam Melayu dengan mengetuai pemerintahan, perundangan dan pertahanan serta menerima kesetiaan rakyat. Oleh itu, A menunjukkan ciri asas kerajaan tersebut. Rujukan skema: Tingkatan 4, m.s. 4."
+F4 Chp 1,radio,JohorPasirGudang_Q01,A,B,C,D,C,Johor Pasir Gudang/Picture1.png,"中文：苏丹对人民和领土拥有最高统治权，体现苏丹主权Kedaulatan Sultan。因此选C；疆域大小和王室象征并不直接说明最高权力。（答案纸参考：F4，第6页。）
+Bahasa Melayu: Hak mutlak sultan terhadap rakyat dan wilayah menunjukkan kedaulatan, iaitu kuasa tertinggi pemerintah. Oleh itu, C tepat, bukan keluasan wilayah atau lambang kebesaran. Rujukan skema: Tingkatan 4, m.s. 6."
+F4 Chp 1,radio,JohorSegamatSet_Q01,A,B,C,D,A,Johor Segamat Set 1/Picture1.png,"中文：马来世界王国的主要特征是国王、法律、势力范围和人民。没有人民支持，王国就无法维持统治，因此X是人民，选A。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Ciri kerajaan Alam Melayu ialah raja, undang-undang, wilayah pengaruh dan rakyat. Rakyat menyokong pemerintahan dan membentuk asas kerajaan, maka X ialah A. Rujukan skema: Tingkatan 4, m.s. 4."
+F4 Chp 1,radio,JohorSegamatSet_Q01,A,B,C,D,C,Johor Segamat Set 2/Picture1.png,"中文：马来世界王国的特征包括国王、人民、法律及势力范围。题图缺少的是势力范围Wilayah Pengaruh，因此选C。（答案纸参考：F4，第4页。）
+Bahasa Melayu: Ciri kerajaan Alam Melayu merangkumi raja, rakyat, undang-undang dan wilayah pengaruh. Unsur yang belum dinyatakan dalam rajah ialah wilayah pengaruh, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 4."
+F4 Chp 1,radio,Kedah_Q01,A,B,C,D,B,Kedah/Picture1.png,"中文：马六甲的势力范围包括Patani，体现其对马来半岛地区的影响；Siam并非马六甲属地。答案纸参考：F4第7页。
+Bahasa Melayu: Wilayah pengaruh Melaka meliputi Patani, menunjukkan pengaruhnya di Semenanjung; Siam bukan wilayah Melaka. Rujukan skema: T4 ms.7."
+F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,C,Kelantan/Picture1.png,"中文：早期马来世界国家的特征包括君主、法律、势力范围和人民，因此选法律C；其他选项属于马六甲国家特征的表述。 答案纸参考：F4第4页。
+Bahasa Melayu: Ciri negara bangsa kerajaan Alam Melayu ialah raja, undang-undang, wilayah pengaruh dan rakyat; maka undang-undang C tepat. Rujukan skema: T4 ms.4."
+F4 Chp 1,radio,KualaLumpur_Q01,A,B,C,D,D,Kuala Lumpur/Picture1.png,"中文：伊斯兰传入后，君主采用Sultan称号，体现伊斯兰政治文化的影响。 答案纸参考：F4第6页。
+Bahasa Melayu: Kedatangan Islam menyebabkan gelaran Sultan digunakan, mencerminkan pengaruh politik dan budaya Islam. Rujukan skema: T4 ms.6."
+F4 Chp 1,radio,Melaka_Q01,A,B,C,D,A,Melaka/Picture1.png,"中文：Majapahit使用Kutara Manawa规定社会秩序及司法，保障人民生活安宁。 答案纸参考：F4第4页。
+Bahasa Melayu: Majapahit melaksanakan Kutara Manawa untuk mengatur masyarakat dan kehakiman serta menjamin kesejahteraan. Rujukan skema: T4 ms.4."
+F4 Chp 1,radio,Mrsm_Q01,A,B,C,D,A,MRSM/Picture1.png,"中文：君主是马来世界国家的统治核心，领导政府并获得臣民效忠，因此选A。 答案纸参考：F4第4页。
+Bahasa Melayu: Raja mengetuai kerajaan Alam Melayu dan menjadi pusat pemerintahan serta kesetiaan rakyat, A. Rujukan skema: T4 ms.4."
+F4 Chp 1,radio,N_Q01,A,B,C,D,B,N9/Picture1.png,"中文：附属地区通过王室婚姻接受马六甲宗主权；武力征服获得的通常称征服地区。 答案纸参考：F4第7页。
+Bahasa Melayu: Wilayah naungan menerima ketuanan Melaka melalui perkahwinan; wilayah yang diperoleh melalui peperangan disebut wilayah taklukan. Rujukan skema: T4 ms.7."
+F4 Chp 1,radio,Pahang_Q01,A,B,C,D,B,Pahang/Picture1.png,"中文：B：人民是马六甲国家民族的特征，须效忠苏丹并遵守法律。课本列出的特征是政府、人民、主权、势力范围、法律及王权象征；这里的正式项目不是选项A的“国王”。答案纸参考：F4第6–7页。
+Bahasa Melayu: B: Rakyat ialah ciri negara bangsa Melaka yang taat kepada sultan dan mematuhi undang-undang. Senarai khususnya ialah kerajaan, rakyat, kedaulatan, wilayah pengaruh, undang-undang dan lambang kebesaran; “raja” bukan istilah senarai tersebut. Rujukan skema: T4 ms. 6–7."
+F4 Chp 1,radio,Perak_Q01,A,B,C,D,B,Perak/Picture1.png,"中文：X是王权象征，例如御玺、王冠及王室礼仪；它们体现苏丹的权威，是马六甲苏丹王朝的特征。答案纸参考：F4，第7页。
+Bahasa Melayu: X ialah lambang kebesaran seperti cap mohor, mahkota dan adat istiadat diraja yang melambangkan kedaulatan sultan Melaka. Rujukan skema: F4, halaman 7."
+F4 Chp 1,radio,Perlis_Q01,A,B,C,D,C,Perlis/Picture1.png,"中文：势力范围是马来世界王国的重要特征，指人民承认并接受统治者权威的地区；范围体现统治力量。答案纸参考：F4，第4页。
+Bahasa Melayu: Wilayah pengaruh ialah kawasan yang rakyatnya menerima dan mengakui pemerintahan raja, serta menunjukkan kekuatan kerajaan Alam Melayu. Rujukan skema: F4, halaman 4."
+F4 Chp 1,radio,PulauPinang_Q01,A,B,C,D,D,Pulau Pinang/Picture1.png,"中文：人民效忠并承认苏丹权力，也必须遵守王国法律；行政、外交及征税不是所有人民的职务。答案纸参考：F4，第6页。
+Bahasa Melayu: Rakyat taat dan mengakui kekuasaan sultan serta mematuhi undang-undang kerajaan. Pentadbiran, diplomasi dan kutipan cukai bukan tugas semua rakyat. Rujukan skema: F4, halaman 6."
+F4 Chp 1,radio,PutrajayaSet_Q01,A,B,C,D,D,Putrajaya set 1/Picture1.png,"中文：Temenggung负责城内治安及安全；Bendahara领导行政，Penghulu Bendahari负责财政，Laksamana领导海军。答案纸参考：F4，第9页。
+Bahasa Melayu: Temenggung menjaga keselamatan kota. Bendahara mengetuai pentadbiran, Penghulu Bendahari mengurus kewangan dan Laksamana mengetuai angkatan laut. Rujukan skema: F4, halaman 9."
+F4 Chp 1,radio,PutrajayaSet_Q01,A,B,C,D,B,Putrajaya set 2/Picture1.png,"中文：马来世界王国的国家民族特征包括统治者、法律、人民及势力范围；“大臣”属于行政人员，不在这组基本特征中。答案纸参考：F4，第4页。
+Bahasa Melayu: Ciri negara bangsa Alam Melayu merangkumi raja, undang-undang, rakyat dan wilayah pengaruh. Pembesar ialah golongan pentadbir, bukan ciri dalam senarai asas ini. Rujukan skema: F4, halaman 4."
+F4 Chp 1,radio,Sabah_Q01,A,B,C,D,B,Sabah/Picture1.png,"中文：B：传统政治中的领土是承认国王权威、向他效忠的人民所在地区，因此人民的忠诚决定其势力范围。
+Bahasa Melayu: B: Wilayah dalam sistem politik Melayu tradisional ialah kawasan penduduk yang menerima dan setia kepada raja; kesetiaan rakyat menentukan pengaruhnya."
+F4 Chp 1,radio,Sabk_Q01,A,B,C,D,C,SABK/Picture1.png,"中文：Srivijaya由梵文“sri”（光辉）及“vijaya”（胜利）组成，因此意思是胜利之光。答案纸参考：F4，第5页。
+Bahasa Melayu: Srivijaya berasal daripada sri yang bermaksud cahaya dan vijaya yang bermaksud kemenangan, lalu membawa maksud cahaya kemenangan. Rujukan skema: F4, halaman 5."
+F4 Chp 1,radio,SarawakSibu_Q01,A,B,C,D,C,Sarawak Sibu/Picture1.png,"中文：C（II、III）：有远见的统治者及位于战略航线的地理位置，帮助马六甲成为著名王国与贸易中心。【答案纸参考：9；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Pemerintah yang berwawasan dan kedudukan di laluan strategik menjadikan Melaka kerajaan serta pusat perdagangan yang terkenal. [Rujukan skema: 9; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Sbp_Q01,A,B,C,D,D,SBP/Picture1.png,"中文：D：Nobat和王室礼器是苏丹权威与国家主权的象征，因此重点不是财富或艺术特色。【答案纸参考：7；书页内容待逐页确认。】
+Bahasa Melayu: D: Nobat dan regalia melambangkan kedaulatan serta kekuasaan sultan, bukan sekadar kekayaan atau keunikan seni. [Rujukan skema: 7; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Selangor_Q01,A,B,C,D,B,Selangor/Picture1.png,"中文：B：征服地区通过战争与军事胜利取得；婚姻取得的是另一类影响地区。【答案纸参考：B1T4M7；书页内容待逐页确认。】
+Bahasa Melayu: B: Wilayah taklukan diperoleh melalui peperangan dan kemenangan ketenteraan, berbeza dengan wilayah pengaruh melalui perkahwinan. [Rujukan skema: B1T4M7; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Smka_Q01,A,B,C,D,C,SMKA/Picture1.png,"中文：C：Kutara Manawa规范社会行为和治理，确保Majapahit国家安宁及人民福祉。【答案纸参考：T4 Hal.4；书页内容待逐页确认。】
+Bahasa Melayu: C: Kutara Manawa mengatur kehidupan dan pentadbiran bagi memastikan kesejahteraan kerajaan Majapahit. [Rujukan skema: T4 Hal.4; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Terengganu_Q01,A,B,C,D,C,Terengganu/Picture1.png,"中文：C（II、III）：统治者治理能力强，加上战略航线位置，使马六甲发展为卓越王国。【答案纸参考：BAB 1- MS 8；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Keupayaan pemerintah dan kedudukan di laluan strategik menjadikan Kesultanan Melayu Melaka sebuah kerajaan yang unggul. [Rujukan skema: BAB 1- MS 8; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,JohorBahru_Q02,A,B,C,D,A,Johor Bahru/Picture2.png,"中文：不服从君主被视为违背臣民责任，臣民担心遭受 tulah，即对君主不忠所招致的灾祸；waadat则是君民之间的约定。（答案纸参考：F4，第13页。）
+Bahasa Melayu: Rakyat takut menerima tulah apabila mengingkari pemerintah; waadat pula ialah perjanjian antara pemerintah dengan rakyat, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 13."
+F4 Chp 1,radio,JohorKulaiSet_Q02,A,B,C,D,A,Johor Kulai Set 1/Picture2.png,"中文：臣民相信违抗君主会遭受 tulah，所以愿意服从命令；这是君民忠诚关系的一部分，选A。（答案纸参考：F4，第12页。）
+Bahasa Melayu: Kepercayaan bahawa penderhaka akan ditimpa tulah mendorong rakyat mematuhi pemerintah, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 12."
+F4 Chp 1,radio,JohorKulaiSet_Q02,A,B,C,D,A,Johor Kulai Set 2/Picture2.png,"中文：臣民相信叛逆会招致 tulah，即对君主不忠的灾祸，因此不敢违抗统治者，选A。（答案纸参考：F4，第13页。）
+Bahasa Melayu: Kepercayaan bahawa penderhakaan membawa tulah menyebabkan rakyat tidak menderhaka kepada pemerintah, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 13."
+F4 Chp 1,radio,JohorMuar_Q02,A,B,C,D,B,Johor Muar/Picture2.png,"中文：马六甲统治者制定并执行法律来维持社会秩序、保障人民安全。效忠统治者和服兵役则属于人民的责任，因此选B。（答案纸参考：F4，第12页。）
+Bahasa Melayu: Pemerintah Melaka memperkenalkan dan melaksanakan undang-undang bagi menjaga keamanan serta mengawal kehidupan rakyat. Taat setia dan menjadi tentera ialah tanggungjawab rakyat, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 12."
+F4 Chp 1,radio,JohorPasirGudang_Q02,A,B,C,D,B,Johor Pasir Gudang/Picture2.png,"中文：人民应效忠苏丹并遵守法律，因此I和IV对应B。II加强经济也可属于人民的贡献，题目组合存在重叠；行政主要由统治者和大臣负责。（答案纸参考：F4，第13页。）
+Bahasa Melayu: Rakyat perlu taat setia kepada sultan dan mematuhi undang-undang, maka I dan IV memberikan B. II juga boleh menjadi sumbangan rakyat kepada kerajaan, jadi pilihan mempunyai pertindihan; pentadbiran terutama dijalankan pemerintah dan pembesar. Rujukan skema: Tingkatan 4, m.s. 13."
+F4 Chp 1,radio,JohorSegamatSet_Q02,A,B,C,D,D,Johor Segamat Set 1/Picture2.png,"中文：Waadat意为统治者与人民之间的协议，规定双方互相承担责任。人民效忠，统治者保障人民，因此选D。（答案纸参考：F4，第13页。）
+Bahasa Melayu: Waadat bermaksud perjanjian antara pemerintah dengan rakyat. Hubungan timbal balik ini menetapkan kesetiaan rakyat serta tanggungjawab pemerintah menjaga rakyat, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 13."
+F4 Chp 1,radio,JohorSegamatSet_Q02,A,B,C,D,A,Johor Segamat Set 2/Picture2.png,"中文：传统社会相信违抗苏丹会招致Tulah，即不忠带来的灾祸，因此人民愿意服从命令。题目问这种观念的作用，所以选A。（答案纸参考：F4，第12-15页。）
+Bahasa Melayu: Rakyat percaya bahawa penderhakaan kepada sultan boleh mendatangkan tulah. Kepercayaan ini mendorong ketaatan terhadap pemerintah, maka A tepat. Rujukan skema: Tingkatan 4, m.s. 12-15."
+F4 Chp 1,radio,Kedah_Q02,A,B,C,D,C,Kedah/Picture2.png,"中文：系统化的行政制度和四级大臣分工，使马六甲管理有序并维持强盛，选C。答案纸参考：F4第8页。
+Bahasa Melayu: Pentadbiran tersusun dan pembahagian tugas Pembesar Empat Lipatan menjamin pengurusan serta keunggulan Melaka, C. Rujukan skema: T4 ms.8."
+F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,D,Kelantan/Picture2.png,"中文：Nakhoda Jenal与Nakhoda Sahak参与制定Undang-Undang Laut Melaka，规范航行、船上权力与贸易。 答案纸参考：F4第11页。
+Bahasa Melayu: Nakhoda Jenal dan Nakhoda Sahak mengusahakan Undang-Undang Laut Melaka bagi mengatur pelayaran, kuasa di kapal dan perdagangan. Rujukan skema: T4 ms.11."
+F4 Chp 1,radio,KualaLumpur_Q02,A,B,C,D,A,Kuala Lumpur/Picture2.png,"中文：王室颜色、nobat及御用器物彰显君主主权与特殊地位，而不只是财富。 答案纸参考：F4第7页。
+Bahasa Melayu: Warna diraja, nobat dan regalia menggambarkan kedaulatan serta kedudukan istimewa raja, bukan sekadar kekayaan. Rujukan skema: T4 ms.7."
+F4 Chp 1,radio,Melaka_Q02,A,B,C,D,A,Melaka/Picture2.png,"中文：人民向君主效忠、遵守法律并履行义务，是维持马六甲统治的重要基础。 答案纸参考：F4第6页。
+Bahasa Melayu: Rakyat memberi taat setia, mematuhi undang-undang dan melaksanakan kewajipan untuk menyokong pemerintahan Melaka. Rujukan skema: T4 ms.6."
+F4 Chp 1,radio,Mrsm_Q02,A,B,C,D,D,MRSM/Picture2.png,"中文：明朝承认马六甲及外国使节来访，证明其自主地位获其他国家承认，III、IV正确。 答案纸参考：F4第6页。
+Bahasa Melayu: Pengiktirafan Dinasti Ming dan penerimaan utusan luar membuktikan kedaulatan Melaka diiktiraf kerajaan lain; III dan IV betul. Rujukan skema: T4 ms.6."
+F4 Chp 1,radio,N_Q02,A,B,C,D,D,N9/Picture2.png,"中文：X为Penghulu Bendahari，负责国库财务与政府收支，因此选D。 答案纸参考：F4第9页。
+Bahasa Melayu: X ialah Penghulu Bendahari yang mengurus perbendaharaan dan kewangan kerajaan, D. Rujukan skema: T4 ms.9."
+F4 Chp 1,radio,Pahang_Q02,A,B,C,D,A,Pahang/Picture2.png,"中文：A：Bendahara是苏丹的主要顾问，协助统筹行政。财务由Penghulu Bendahari负责，城防由Temenggung负责，港口税务由Syahbandar负责。答案纸参考：F4第9页。
+Bahasa Melayu: A: Bendahara menjadi penasihat utama sultan dan membantu pentadbiran. Penghulu Bendahari mengurus kewangan, Temenggung menjaga keselamatan dan Syahbandar mengurus urusan pelabuhan. Rujukan skema: T4 ms. 9."
+F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png,"中文：马六甲通过征服扩大在马来半岛及苏门答腊东部的势力范围，因此答案是战争；文化交流与使节往来不是这里所问的扩张方式。答案纸参考：F4，第7页。
+Bahasa Melayu: Melaka meluaskan wilayah pengaruh di Semenanjung Tanah Melayu dan timur Sumatera melalui penaklukan atau peperangan. Pertukaran budaya dan utusan bukan cara peluasan yang ditanya. Rujukan skema: F4, halaman 7."
+F4 Chp 1,radio,Perlis_Q02,A,B,C,D,C,Perlis/Picture2.png,"中文：马六甲人民参与集体劳动及公共建设，以履行对统治者的责任；制定法律和领导行政属于统治阶层的职务。答案纸参考：F4，第13页。
+Bahasa Melayu: Rakyat Melaka menunaikan tanggungjawab melalui gotong-royong dan kerja untuk kepentingan kerajaan. Menggubal undang-undang dan mengetuai pentadbiran ialah tugas pemerintah. Rujukan skema: F4, halaman 13."
+F4 Chp 1,radio,PulauPinang_Q02,A,B,C,D,A,Pulau Pinang/Picture2.png,"中文：马六甲从贸易及属地缴纳的贡品取得收入，所以I和II正确；应分清中央收入来源与其他社会经济活动。答案纸参考：F4，第9页。
+Bahasa Melayu: Melaka memperoleh pendapatan melalui perdagangan dan pembayaran ufti wilayah taklukan. Maka I dan II tepat sebagai sumber kewangan kerajaan. Rujukan skema: F4, halaman 9."
+F4 Chp 1,radio,PutrajayaSet_Q02,A,B,C,D,C,Putrajaya set 1/Picture2.png,"中文：《马六甲法典》第4条将伪造王令及违抗王令列为严重罪行，可判死刑，故II和III正确。答案纸参考：F4，第10页。
+Bahasa Melayu: Fasal 4 Hukum Kanun Melaka memperuntukkan hukuman bunuh bagi memalsukan titah dan mengingkari arahan raja. Maka II dan III tepat. Rujukan skema: F4, halaman 10."
+F4 Chp 1,radio,PutrajayaSet_Q02,A,B,C,D,A,Putrajaya set 2/Picture2.png,"中文：传统社会相信背叛统治者会遭受tulah，即与王权相关的灾祸；这种信仰强化人民效忠。答案纸参考：F4，第13页。
+Bahasa Melayu: Kepercayaan bahawa penderhaka akan ditimpa tulah, iaitu kecelakaan berkaitan daulat raja, mengukuhkan kesetiaan rakyat kepada pemerintah. Rujukan skema: F4, halaman 13."
+F4 Chp 1,radio,Sabah_Q02,A,B,C,D,A,Sabah/Picture2.png,"中文：A：Bendahara是首席大臣，领导行政并协助及劝告苏丹；管理财政属于Penghulu Bendahari。
+Bahasa Melayu: A: Bendahara mengetuai pentadbiran dan menjadi penasihat sultan, manakala kewangan diurus oleh Penghulu Bendahari."
+F4 Chp 1,radio,Sabk_Q02,A,B,C,D,C,SABK/Picture2.png,"中文：《马六甲海事法》及《马六甲法典》分别规范航海与陆上事务，使王国具有有序法律制度，故II和III正确。答案纸参考：F4，第10至11页。
+Bahasa Melayu: Undang-undang Laut Melaka dan Hukum Kanun Melaka mengatur urusan pelayaran serta kehidupan di darat, menjadikan pentadbiran tersusun. Maka II dan III tepat. Rujukan skema: F4, halaman 10–11."
+F4 Chp 1,radio,SarawakSibu_Q02,A,B,C,D,A,Sarawak Sibu/Picture2.png,"中文：A：Bendahara领导行政并担任苏丹顾问；财务是Penghulu Bendahari的职责。【答案纸参考：9；书页内容待逐页确认。】
+Bahasa Melayu: A: Bendahara mengetuai pentadbiran dan menjadi penasihat sultan, manakala kewangan diurus oleh Penghulu Bendahari. [Rujukan skema: 9; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Sbp_Q02,A,B,C,D,B,SBP/Picture2.png,"中文：B：传统君民关系要求人民忠于国王并服从统治者命令；违抗国王被认为会招致tulah。【答案纸参考：13；书页内容待逐页确认。】
+Bahasa Melayu: B: Dalam hubungan pemerintah dengan rakyat, rakyat perlu setia dan mematuhi arahan raja. Penderhakaan dipercayai membawa tulah. [Rujukan skema: 13; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Selangor_Q02,A,B,C,D,A,Selangor/Picture2.png,"中文：A：Hukum Kanun Melaka第30条规范交易，包括禁止riba，反映伊斯兰对经济法律的影响。【答案纸参考：B1T4 M10；书页内容待逐页确认。】
+Bahasa Melayu: A: Fasal 30 Hukum Kanun Melaka mengatur urus niaga, termasuk pengharaman riba, yang menunjukkan pengaruh Islam dalam perundangan ekonomi. [Rujukan skema: B1T4 M10; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Smka_Q02,A,B,C,D,D,SMKA/Picture2.png,"中文：D：课本把Lingga、Patani及Kedah列为通过王室婚姻取得的影响地区，区别于征服所得地区。【答案纸参考：T4 Hal.7；书页内容待逐页确认。】
+Bahasa Melayu: D: Lingga, Patani dan Kedah termasuk wilayah pengaruh yang diperoleh melalui perkahwinan diraja, bukan penaklukan. [Rujukan skema: T4 Hal.7; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Terengganu_Q02,A,B,C,D,B,Terengganu/Picture2.png,"中文：B：Temenggung负责城内安全及治安；Bendahara则领导行政。【答案纸参考：BAB 1- MS 9；书页内容待逐页确认。】
+Bahasa Melayu: B: Temenggung menjaga keselamatan kota dan ketenteraman, manakala Bendahara mengetuai pentadbiran. [Rujukan skema: BAB 1- MS 9; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 1,radio,Melaka_Q03,A,B,C,D,C,Melaka/Picture3.png,"中文：Temenggung负责国内治安和安全，维护秩序；港口税务由其他官员负责。 答案纸参考：F4第9页。
+Bahasa Melayu: Temenggung menjaga keamanan serta keselamatan dalam negeri; urusan cukai pelabuhan bukan tugas utamanya. Rujukan skema: T4 ms.9."

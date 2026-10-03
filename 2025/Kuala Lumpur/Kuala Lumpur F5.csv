@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kuala Lumpur F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kuala Lumpur F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：以民族共同归属精神为国家力量基础的主权定义出自Ibnu Khaldun。 答案纸参考：F5第5页。
+Bahasa Melayu: Tafsiran kedaulatan berasaskan kekuatan semangat kekitaan bangsa diberikan oleh Ibnu Khaldun. Rujukan skema: T5 ms.5."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：尊重彼此宗教文化及使用国语能促进交流与共同认同，所以I、IV正确。 答案纸参考：F5第12–13页。
+Bahasa Melayu: Menghormati agama dan budaya serta menggunakan bahasa kebangsaan menggalakkan interaksi dan identiti bersama; I dan IV betul. Rujukan skema: T5 ms.12–13."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：Sarawak的Majlis Negeri由首席秘书主持，并依据Sarawak宪法取得职权。 答案纸参考：F5第24页。
+Bahasa Melayu: Majlis Negeri Sarawak dipengerusikan Ketua Setiausaha dan mendapat kuasa daripada Perlembagaan Sarawak. Rujukan skema: T5 ms.24."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：伊斯兰和马来语承继独立前的传统，属宪法传统特征；联邦政府和议会民主属于现代特征。 答案纸参考：F5第29页。
+Bahasa Melayu: Islam dan bahasa Melayu ialah ciri tradisional yang diwarisi; kerajaan persekutuan dan Demokrasi Berparlimen ialah ciri moden. Rujukan skema: T5 ms.29."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：Durbar让马来君主与英国官员共同讨论联邦马来州行政事务。 答案纸参考：F5第42页。
+Bahasa Melayu: Durbar menyediakan ruang Raja-raja Melayu dan pegawai British membincangkan hal ehwal pentadbiran NNMB. Rujukan skema: T5 ms.42."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：国家元首依建议任命总检察长，属于行政权；召集国会等归于立法方面。 答案纸参考：F5第48页。
+Bahasa Melayu: YDPA melantik Peguam Negara atas nasihat, suatu kuasa eksekutif; memanggil Parlimen bersidang berkaitan kuasa perundangan. Rujukan skema: T5 ms.48."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：FELDA负责土地开发和居民安置，提升农村经济与生活水平。 答案纸参考：F5第72页。
+Bahasa Melayu: FELDA menjalankan pembangunan tanah dan penempatan untuk meningkatkan ekonomi serta taraf hidup luar bandar. Rujukan skema: T5 ms.72."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：首相与州领袖的会议协调政策执行，让联邦和州措施相互配合。 答案纸参考：F5第80页。
+Bahasa Melayu: Mesyuarat Perdana Menteri dengan pemimpin negeri menyelaraskan pelaksanaan dasar agar tindakan persekutuan dan negeri seiring. Rujukan skema: T5 ms.80."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：Tory建议马来亚与新加坡合并主要为维护英国经济利益，包括贸易与区域市场。 答案纸参考：F5第91页。
+Bahasa Melayu: Tory mencadangkan penyatuan Tanah Melayu dan Singapura untuk menjaga kepentingan ekonomi British termasuk perdagangan dan pasaran serantau. Rujukan skema: T5 ms.91."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：联合国民意调查报告到9月14日才完成，因此原定8月31日成立马来西亚推迟至9月16日。 答案纸参考：F5第104页。
+Bahasa Melayu: Laporan tinjauan PBB siap pada 14 September, menyebabkan pembentukan Malaysia pada 31 Ogos ditangguhkan kepada 16 September. Rujukan skema: T5 ms.104."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：Sarawak首席部长与州议员间的宪法危机破坏政治稳定并威胁州安全。 答案纸参考：F5第118页。
+Bahasa Melayu: Krisis perlembagaan antara Ketua Menteri Sarawak dan ahli negeri menggugat kestabilan politik serta keselamatan negeri. Rujukan skema: T5 ms.118."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：MAGERAN执行煽动法令，限制挑动族群敌意的言论，以恢复社会秩序。 答案纸参考：F5第130页。
+Bahasa Melayu: MAGERAN menguatkuasakan Akta Hasutan untuk membendung ucapan yang membangkitkan permusuhan kaum dan memulihkan ketenteraman. Rujukan skema: T5 ms.130."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：统一课程让各源流学生学习共同内容和价值，减少教育分隔并培养团结。 答案纸参考：F5第145页。
+Bahasa Melayu: Kurikulum seragam memberikan kandungan dan nilai bersama kepada murid pelbagai aliran, mengurangkan pemisahan serta memupuk perpaduan. Rujukan skema: T5 ms.145."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家原则要建立进步社会及包容多元文化的自由社会，而非州属主义或绝对自由，所以I、IV正确。 答案纸参考：F5第158页。
+Bahasa Melayu: Rukun Negara menghasratkan masyarakat progresif dan liberal terhadap kepelbagaian budaya, bukan kenegerian atau kebebasan mutlak; I dan IV betul. Rujukan skema: T5 ms.158."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：绿色书计划鼓励人民种植和从事农业，增加粮食供应及收入。 答案纸参考：F5第169页。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan penanaman dan kegiatan pertanian untuk menambah bekalan makanan serta pendapatan rakyat. Rujukan skema: T5 ms.169."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：历史联系和领导人的判断影响与哪些国家合作以及外交政策方向，故II、III正确。 答案纸参考：F5第197页。
+Bahasa Melayu: Ikatan sejarah dan kebijaksanaan pemimpin mempengaruhi hubungan dengan negara lain serta hala tuju dasar luar; II dan III betul. Rujukan skema: T5 ms.197."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：Colombo Plan通过培训与技术援助提升生产和经济能力，帮助解决贫困。 答案纸参考：F5第206页。
+Bahasa Melayu: Rancangan Colombo meningkatkan keupayaan pengeluaran dan ekonomi melalui latihan serta bantuan teknikal untuk menangani kemiskinan. Rujukan skema: T5 ms.206."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：马来西亚允许阿富汗Mujahidin设代表处，以支持其斗争并在OIC中表达声援。 答案纸参考：F5第216页。
+Bahasa Melayu: Malaysia membenarkan pejabat perwakilan Mujahidin Afghanistan dibuka sebagai sokongan terhadap perjuangan mereka melalui OIC. Rujukan skema: T5 ms.216."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：马来西亚固定马币汇率以减少汇率波动、稳定经济，并采取资本管制应对金融危机。 答案纸参考：F5第232页。
+Bahasa Melayu: Malaysia menambat kadar pertukaran ringgit untuk mengurangkan turun naik dan menstabilkan ekonomi, bersama kawalan modal ketika krisis. Rujukan skema: T5 ms.232."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：Agenda 21强调可持续发展，Kyoto Protocol减少温室气体排放，两者都针对环境可持续性。 答案纸参考：F5第239页。
+Bahasa Melayu: Agenda 21 menekankan pembangunan mampan dan Protokol Kyoto mengurangkan pelepasan gas rumah hijau; kedua-duanya menjaga kelestarian alam. Rujukan skema: T5 ms.239."

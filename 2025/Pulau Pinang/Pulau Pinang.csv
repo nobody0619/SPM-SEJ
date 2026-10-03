@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Pulau Pinang 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pulau Pinang 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：人民效忠并承认苏丹权力，也必须遵守王国法律；行政、外交及征税不是所有人民的职务。答案纸参考：F4，第6页。
+Bahasa Melayu: Rakyat taat dan mengakui kekuasaan sultan serta mematuhi undang-undang kerajaan. Pentadbiran, diplomasi dan kutipan cukai bukan tugas semua rakyat. Rujukan skema: F4, halaman 6."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：马六甲从贸易及属地缴纳的贡品取得收入，所以I和II正确；应分清中央收入来源与其他社会经济活动。答案纸参考：F4，第9页。
+Bahasa Melayu: Melaka memperoleh pendapatan melalui perdagangan dan pembayaran ufti wilayah taklukan. Maka I dan II tepat sebagai sumber kewangan kerajaan. Rujukan skema: F4, halaman 9."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：两场革命都反对专制王权。光荣革命限制王权并保留君主制度；法国大革命后来建立共和国，不能理解成两者都废除君主。答案纸参考：F4，第24页。
+Bahasa Melayu: Kedua-dua revolusi menentang pemerintahan beraja mutlak. Revolusi Keagungan menghadkan kuasa raja tetapi mengekalkan monarki, manakala Revolusi Perancis membawa republik. Rujukan skema: F4, halaman 24."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：Kartini的著作批评殖民统治及社会压迫，也关注妇女教育与地位；这些内容符合“人民受到压迫”的选项。答案纸参考：F4，第30页。
+Bahasa Melayu: Karya Kartini membincangkan penindasan penjajah dan masyarakat serta kedudukan dan pendidikan wanita. Oleh itu, penindasan terhadap rakyat menepati kandungannya. Rujukan skema: F4, halaman 30."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：经济封锁使日本难以取得原料，因此日本扩张至资源丰富的东南亚，以获取石油、橡胶等战争资源。答案纸参考：F4，第65页。
+Bahasa Melayu: Sekatan ekonomi mendorong Jepun menguasai Asia Tenggara yang kaya dengan minyak, getah dan bahan mentah untuk operasi perang. Rujukan skema: F4, halaman 65."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：Sybil Kathigasu在霹雳照顾伤者并提供药物给抗日游击队，虽受到日军迫害仍继续帮助抵抗者。答案纸参考：F4，第78页。
+Bahasa Melayu: Sybil Kathigasu merawat mangsa perang dan membekalkan ubat kepada gerila anti-Jepun di Perak walaupun menghadapi tindakan kejam Jepun. Rujukan skema: F4, halaman 78."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：BMA未能有效恢复生活与经济，提醒人民不能盲目信赖外国势力，应谨慎保护自身国家利益。答案纸参考：F4，第95页。
+Bahasa Melayu: Kegagalan BMA memulihkan keadaan mengajar rakyat supaya berwaspada terhadap kuasa asing dan tidak bergantung sepenuhnya pada janji mereka. Rujukan skema: F4, halaman 95."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：英国看重砂拉越的资源及已有经济投资，希望控制当地以保障投资利益。答案纸参考：F4，第107页。
+Bahasa Melayu: British berminat menguasai Sarawak untuk menjaga kepentingan pelaburan dan ekonomi di wilayah tersebut. Rujukan skema: F4, halaman 107."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：PUTERA-AMCJA以hartal停止经济活动来抗议联邦协议，表达对制定过程及内容的不满。答案纸参考：F4，第131页。
+Bahasa Melayu: PUTERA-AMCJA menganjurkan hartal, iaitu menghentikan kegiatan ekonomi, sebagai bantahan terhadap Perjanjian Persekutuan Tanah Melayu. Rujukan skema: F4, halaman 131."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：1948年协议恢复马来统治者的主权及权力，解决马来亚联盟削弱王权的问题，因此获得马来人支持。答案纸参考：F4，第136页。
+Bahasa Melayu: Perjanjian 1948 mengembalikan kedaulatan dan kuasa Raja-raja Melayu yang terjejas di bawah Malayan Union, lalu diterima orang Melayu. Rujukan skema: F4, halaman 136."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：人民与政府合作、提供情报并拒绝支援共产党，可减少共产主义的影响及组织活动。答案纸参考：F4，第146页。
+Bahasa Melayu: Kerjasama rakyat dengan kerajaan, termasuk memberikan maklumat dan tidak membantu komunis, menyekat penyebaran pengaruh serta kegiatan komunis. Rujukan skema: F4, halaman 146."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：袭击警局与安全部队使共产党能够宣称政府无力保障人民，打击政府威信及公众信任。C也与行动后果相关，答案纸强调D的政治目的。答案纸参考：F4，第150页。
+Bahasa Melayu: Serangan terhadap balai polis dan pasukan keselamatan bertujuan menunjukkan ketidakupayaan kerajaan melindungi rakyat. C berkaitan kesannya, tetapi skema menekankan tujuan politik dalam D. Rujukan skema: F4, halaman 150."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：族群联络委员会让各族领袖讨论争议并妥协，建立合作基础，以回应英国对独立前族群合作的要求。答案纸参考：F4，第174页。
+Bahasa Melayu: CLC menyediakan ruang pemimpin kaum membincangkan masalah dan bertolak ansur bagi membina kerjasama yang diperlukan sebelum kemerdekaan. Rujukan skema: F4, halaman 174."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：Dr. Ismail Abdul Rahman在成员制度中掌管天然资源事务；Thuraisingham则负责教育，是不同职务。答案纸参考：F4，第178页。
+Bahasa Melayu: Dr. Ismail Abdul Rahman memegang portfolio Hasil Bumi dalam Sistem Ahli, sementara E.E.C. Thuraisingham memegang bidang pelajaran. Rujukan skema: F4, halaman 178."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：选举的举行须先有获通过的法律依据，因此选举法案通过是1955年联邦立法议会选举的正式程序之一。答案纸参考：F4，第200页。
+Bahasa Melayu: Pelaksanaan pilihan raya memerlukan asas undang-undang, maka kelulusan rang undang-undang membolehkan pilihan raya MPP 1955 diadakan. Rujukan skema: F4, halaman 200."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：首届内阁减少英国行政权，并讨论国内安全事务，使本地领袖实质参与治理，所以I和IV正确。答案纸参考：F4，第206页。
+Bahasa Melayu: Kabinet pertama mengurangkan kuasa pentadbiran British dan membincangkan keselamatan dalam negeri sebagai langkah berkerajaan sendiri. Maka I dan IV tepat. Rujukan skema: F4, halaman 206."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：1956年1月18日至2月6日在伦敦Lancaster House进行的是独立谈判；独立宣告及庆典在其他时间地点。答案纸参考：F4，第218页。
+Bahasa Melayu: Peristiwa di Lancaster House pada 18 Januari hingga 6 Februari 1956 ialah rundingan kemerdekaan, bukan pengisytiharan atau sambutannya. Rujukan skema: F4, halaman 218."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：课本以马来人作为马来亚原有居民的历史地位解释特殊地位，同时宪法也保障其他族群的合法利益。答案纸参考：F4，第225页。
+Bahasa Melayu: Kedudukan istimewa orang Melayu berkaitan kedudukan mereka sebagai penduduk asal Tanah Melayu, di samping kepentingan sah kaum lain turut dijamin. Rujukan skema: F4, halaman 225."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：国家象征展示独立国家的身份与主权，让人民认识共同国家标志，并不只是表现某位领袖个人权威。答案纸参考：F4，第236页。
+Bahasa Melayu: Lambang negara menonjolkan identiti dan kedaulatan negara serta menjadi simbol bersama rakyat, bukan semata-mata kewibawaan seseorang pemimpin. Rujukan skema: F4, halaman 236."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：红皮书计划记录及检查发展项目的进度，帮助政府评估计划实施情况及采取跟进措施。答案纸参考：F4，第244页。
+Bahasa Melayu: Rancangan Buku Merah merekod dan menilai kemajuan rancangan pembangunan supaya kerajaan dapat memantau pelaksanaan serta membuat tindakan susulan. Rujukan skema: F4, halaman 244."
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：传统daulat概念强化统治者地位并促使人民效忠，因此I和IV最直接符合这一政治概念。答案纸参考：F5，第6页。
+Bahasa Melayu: Konsep daulat memperkukuh kedudukan raja dan kesetiaan rakyat terhadapnya. Oleh itu, I dan IV paling langsung menepati konsep tersebut. Rujukan skema: F5, halaman 6."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：军事装备现代化提高防卫能力，让安全部队更有效应对威胁；单靠确定边界不会提升作战能力。答案纸参考：F5，第15页。
+Bahasa Melayu: Pemodenan aset ketenteraan meningkatkan keupayaan pasukan mempertahankan negara dan menghadapi ancaman keselamatan. Rujukan skema: F5, halaman 15."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：Charter of Justice建立司法制度以保护居民免受压迫；其设立时间早于后来共产主义暴力活动。答案纸参考：F5，第24页。
+Bahasa Melayu: Charter of Justice mewujudkan sistem kehakiman untuk mengelakkan penindasan penduduk, dan diperkenalkan lebih awal daripada ancaman komunis. Rujukan skema: F5, halaman 24."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：1963年成立马来西亚，国家加入新成员并调整制度，因此宪法必须修订；新加坡退出是1965年的事件。答案纸参考：F5，第30页。
+Bahasa Melayu: Pembentukan Malaysia pada 1963 memerlukan pindaan Perlembagaan untuk memasukkan negeri baharu dan menyesuaikan sistem negara. Pemisahan Singapura berlaku pada 1965. Rujukan skema: F5, halaman 30."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：任命武装部队总司令属于国家元首行政权限；批准法案及解散国会则归入立法方面的职权。答案纸参考：F5，第48页。
+Bahasa Melayu: Pelantikan Panglima Angkatan Tentera ialah kuasa eksekutif YDPA, sementara perkenan rang undang-undang dan pembubaran Parlimen berkaitan perundangan. Rujukan skema: F5, halaman 48."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：君主保持政治中立并协助缓和争端，可以平衡政党竞争，故II和III正确；君主没有全面掌控日常行政。答案纸参考：F5，第56页。
+Bahasa Melayu: Raja bersikap berkecuali dan membantu meredakan konflik, maka II dan III tepat sebagai imbangan terhadap demokrasi. Raja tidak mempunyai kuasa penuh dalam pentadbiran harian. Rujukan skema: F5, halaman 56."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：维护地方道路、公共房屋及美化环境属于地方政府的服务，图中的X是地方当局。答案纸参考：F5，第71页。
+Bahasa Melayu: Pihak Berkuasa Tempatan menyenggara jalan, membangunkan perumahan awam dan mengindahkan kawasan setempat. Maka X ialah PBT. Rujukan skema: F5, halaman 71."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：In-Situ在原有乡村推动设施及实际环境改善，重点是乡村物质建设，不是把居民一律迁走。答案纸参考：F5，第72页。
+Bahasa Melayu: Program In-Situ menekankan pembangunan fizikal desa di petempatan sedia ada, termasuk peningkatan kemudahan, bukan pemindahan semua penduduk. Rujukan skema: F5, halaman 72."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：加入马来西亚帮助沙巴及砂拉越摆脱殖民统治，并通过共同发展扩大经济机会，所以III和IV正确。答案纸参考：F5，第93页。
+Bahasa Melayu: Pembentukan Malaysia mempercepat kemerdekaan Sabah dan Sarawak serta kemajuan ekonomi melalui pembangunan bersama. Maka III dan IV tepat. Rujukan skema: F5, halaman 93."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：JSKM提供讨论及解释马来西亚建议的平台，促进各地代表理解与合作；调查居民意见主要是科博尔委员会的任务。答案纸参考：F5，第99页。
+Bahasa Melayu: JSKM menyediakan ruang perbincangan dan penerangan tentang Malaysia. Meninjau pendapat penduduk secara khusus ialah tugas Suruhanjaya Cobbold. Rujukan skema: F5, halaman 99."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：政府运用国内安全法对付威胁国家安全的共产党活动，以加强防范；这不是说该法律在1975年才创立。答案纸参考：F5，第125页。
+Bahasa Melayu: Kerajaan menggunakan Akta Keselamatan Dalam Negeri untuk menangani ancaman komunis dan memperkukuh keselamatan. Akta tersebut bukan baru diwujudkan pada 1975. Rujukan skema: F5, halaman 125."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：513事件提醒各族必须合作、互相理解并避免挑动仇恨，才能维护国家和平与社会和谐。答案纸参考：F5，第129页。
+Bahasa Melayu: Peristiwa 13 Mei mengajar rakyat supaya bekerjasama, saling memahami dan menjauhi sentimen kebencian demi keamanan serta keharmonian. Rujukan skema: F5, halaman 129."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：多科系学校提供适合不同能力与兴趣的学习及技能训练，培养国家发展所需的熟练劳动力。答案纸参考：F5，第145页。
+Bahasa Melayu: Sistem persekolahan aneka jurusan menawarkan pendidikan dan kemahiran mengikut minat serta kebolehan untuk melahirkan tenaga kerja mahir. Rujukan skema: F5, halaman 145."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：法治原则要求法律受到尊重并有效执行，所以支持依法执法符合这项原则；尊重宪法对应另一项原则。答案纸参考：F5，第159页。
+Bahasa Melayu: Kedaulatan Undang-undang menuntut penghormatan terhadap undang-undang dan sokongan terhadap penguatkuasaannya. Keluhuran Perlembagaan ialah prinsip yang berbeza. Rujukan skema: F5, halaman 159."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：现有答案纸给C，但课本明确列出的DEB策略是消除贫困和重组社会。因此本题选项中A“消除贫困”更符合；加强金融体系不是这项政策的双重策略。课本参考：F5，第167页。
+Bahasa Melayu: Skema sedia ada memberi C, tetapi strategi DEB dalam buku teks ialah membasmi kemiskinan dan menyusun semula masyarakat. Oleh itu, A lebih menepati soalan; memantapkan sistem kewangan bukan strategi serampang dua mata. Rujukan buku teks: F5, halaman 167."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：自由工业区吸引工业及投资，带动就业、相关服务与周围地区经济活动，因此能刺激邻近地区经济。答案纸参考：F5，第186页。
+Bahasa Melayu: Zon Perindustrian Bebas menarik kegiatan industri dan pelaburan, lalu menjana pekerjaan serta perkhidmatan yang merangsang ekonomi kawasan sekitar. Rujukan skema: F5, halaman 186."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：UNHCR协助保护难民及无国籍人士的权益，并帮助寻找安全及安置方案，不是负责传染病或国际刑事案件。答案纸参考：F5，第199页。
+Bahasa Melayu: UNHCR melindungi pelarian dan golongan tidak bernegara serta membantu penyelesaian perlindungan dan penempatan, bukan mengawal penyakit atau jenayah antarabangsa. Rujukan skema: F5, halaman 199."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：英联邦运动会让成员国交流及合作，强化成员间关系；体育精神虽是好处，但题目考组织成员国联系。答案纸参考：F5，第207页。
+Bahasa Melayu: Sukan Komanwel meningkatkan interaksi dan kerjasama negara anggota, lalu mengeratkan hubungan antara mereka. Semangat kesukanan ialah manfaat umum, bukan fokus keanggotaan. Rujukan skema: F5, halaman 207."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：政府通过相关反贩卖人口法律及执法行动，调查、检控犯罪并保护受害者；取消所有旅游签证并非对应措施。答案纸参考：F5，第229页。
+Bahasa Melayu: Kerajaan menguatkuasakan undang-undang antipemerdagangan orang untuk menyiasat, mendakwa penjenayah dan melindungi mangsa. Rujukan skema: F5, halaman 229."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：马来西亚主张南极属于全人类共同遗产，并交由联合国管理，避免少数国家独占，所以I和IV正确。答案纸参考：F5，第240页。
+Bahasa Melayu: Malaysia mencadangkan Antartika sebagai warisan manusia sejagat dan ditadbir PBB supaya tidak dimonopoli beberapa negara. Maka I dan IV tepat. Rujukan skema: F5, halaman 240."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：B：征服地区通过战争与军事胜利取得；婚姻取得的是另一类影响地区。【答案纸参考：B1T4M7；书页内容待逐页确认。】
+Bahasa Melayu: B: Wilayah taklukan diperoleh melalui peperangan dan kemenangan ketenteraan, berbeza dengan wilayah pengaruh melalui perkahwinan. [Rujukan skema: B1T4M7; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：A：Hukum Kanun Melaka第30条规范交易，包括禁止riba，反映伊斯兰对经济法律的影响。【答案纸参考：B1T4 M10；书页内容待逐页确认。】
+Bahasa Melayu: A: Fasal 30 Hukum Kanun Melaka mengatur urus niaga, termasuk pengharaman riba, yang menunjukkan pengaruh Islam dalam perundangan ekonomi. [Rujukan skema: B1T4 M10; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：Pan-Islamisme号召穆斯林跨地区团结，以共同应对西方势力。【答案纸参考：B2T4 M27；书页内容待逐页确认。】
+Bahasa Melayu: A: Pan-Islamisme menyeru penyatuan persaudaraan umat Islam untuk menghadapi tekanan dan penguasaan Barat. [Rujukan skema: B2T4 M27; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：A：MCKK及SITC培养受教育的本地领袖，他们推动民族意识与政治组织。【答案纸参考：B2T4 M35；书页内容待逐页确认。】
+Bahasa Melayu: A: MCKK dan SITC melahirkan golongan pemimpin berpendidikan yang menyebarkan kesedaran kebangsaan dan menggerakkan nasionalisme. [Rujukan skema: B2T4 M35; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：B：十四点原则强调民族自决，以民族作为划定国家边界的基础。【答案纸参考：B3T4 M56；书页内容待逐页确认。】
+Bahasa Melayu: B: Deklarasi tersebut menekankan penentuan nasib sendiri dan sempadan negara berasaskan bangsa. [Rujukan skema: B3T4 M56; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：D（III、IV）：Force 136与马来游击组织通过破坏行动及宣传，共同削弱日本占领统治。【答案纸参考：B3T4 M77；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Force 136 bekerjasama dengan gerila Melayu melakukan sabotaj dan menyebarkan propaganda untuk melemahkan Jepun. [Rujukan skema: B3T4 M77; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：C：Malayan Union放宽公民资格，马来人担忧政治地位受威胁，因此以悼念方式反对。【答案纸参考：B4T4 M102；书页内容待逐页确认。】
+Bahasa Melayu: C: Syarat kewarganegaraan Malayan Union yang longgar membimbangkan orang Melayu tentang kedudukan politik mereka, lalu mereka membantah dengan berkabung. [Rujukan skema: B4T4 M102; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：D（III、IV）：战后重建缺乏资金及王位继承问题，促使Vyner Brooke把砂拉越移交英国。【答案纸参考：B4T4 M107；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Kekurangan kewangan untuk pemulihan selepas perang dan masalah pewarisan takhta mendorong Vyner Brooke menyerahkan Sarawak kepada British. [Rujukan skema: B4T4 M107; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：B：英国支持新的联合邦安排，以缓和反Malayan Union抗争并恢复政治稳定。【答案纸参考：B5T4 M133；书页内容待逐页确认。】
+Bahasa Melayu: B: British menyokong Persekutuan 1948 untuk meredakan penentangan terhadap Malayan Union dan mewujudkan kestabilan politik. [Rujukan skema: B5T4 M133; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：B：统治者重新拥有批准法律草案的权限，体现1948年联合邦恢复其地位。【答案纸参考：B5T4 M134；书页内容待逐页确认。】
+Bahasa Melayu: B: Kuasa memperkenankan rang undang-undang menunjukkan kedudukan Raja-raja Melayu dipulihkan melalui Persekutuan 1948. [Rujukan skema: B5T4 M134; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：A：印尼共产党在爪哇斗争失败后，部分成员转到马来亚传播共产主义。【答案纸参考：B6T4M146；书页内容待逐页确认。】
+Bahasa Melayu: A: Kegagalan gerakan Partai Komunis Indonesia menguasai Pulau Jawa mendorong sebahagian anggotanya menyebarkan pengaruh ke Tanah Melayu. [Rujukan skema: B6T4M146; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：D：心理战争取人民的“心与思想”，让居民支持政府而不再协助共产党。【答案纸参考：B6T4M159；书页内容待逐页确认。】
+Bahasa Melayu: D: Perang Saraf bertujuan memenangi hati dan fikiran rakyat supaya mereka menyokong kerajaan serta menolak bantuan kepada komunis. [Rujukan skema: B6T4M159; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：A（I、II）：CLC促进族群善意关系，并讨论改善经济失衡，为跨族群合作建立基础。【答案纸参考：B7T4M174；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): CLC mewujudkan muhibah dan membetulkan keadaan ekonomi untuk membina kerjasama serta persefahaman antara kaum. [Rujukan skema: B7T4M174; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：A：统一课程内容让各族学生学习共同知识及价值，培养国家认同和团结。【答案纸参考：B7T4M183；书页内容待逐页确认。】
+Bahasa Melayu: A: Kandungan kurikulum yang seragam memberi murid pelbagai kaum pengetahuan dan nilai bersama untuk memupuk perpaduan. [Rujukan skema: B7T4M183; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B：UMNO与MCA合作取得多数议席，显示人民接受跨族群政治联盟。【答案纸参考：B8T4M197；书页内容待逐页确认。】
+Bahasa Melayu: B: Kemenangan Perikatan UMNO-MCA menunjukkan penerimaan rakyat terhadap kerjasama politik antara kaum. [Rujukan skema: B8T4M197; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：行政权逐步交给本地人，但英国仍保留财政职位，以管理相关财务事务。【答案纸参考：B8 T4M206；书页内容待逐页确认。】
+Bahasa Melayu: B: Kuasa pentadbiran dipindahkan secara beransur-ansur kepada penduduk tempatan, tetapi pegawai British masih dikekalkan untuk mengurus kewangan. [Rujukan skema: B8 T4M206; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：C：伦敦独立谈判同意有关防务安排，独立后的马来亚可获得英联邦防务援助。【答案纸参考：B9T4M218；书页内容待逐页确认。】
+Bahasa Melayu: C: Rundingan kemerdekaan di London mencapai persetujuan tentang pertahanan, termasuk bantuan pertahanan daripada Komanwel. [Rujukan skema: B9T4M218; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C（II、III）：委员会参考条款要求强大的中央政府，同时保护马来统治者地位。【答案纸参考：B9T4M220；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Terma rujukan suruhanjaya merangkumi pembentukan kerajaan pusat yang kuat dan perlindungan kedudukan Raja-raja Melayu. [Rujukan skema: B9T4M220; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：B：礼宾课程训练官员接待及陪同受邀嘉宾，确保独立庆典符合正式礼仪。【答案纸参考：B10T4M237；书页内容待逐页确认。】
+Bahasa Melayu: B: Kursus protokol menyediakan pegawai untuk mengiringi dan mengurus tetamu jemputan semasa sambutan kemerdekaan mengikut tatacara rasmi. [Rujukan skema: B10T4M237; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B：Buku Merah监督各项发展项目，包括道路和基本设施，使计划进度可被检查。【答案纸参考：B10T4M244；书页内容待逐页确认。】
+Bahasa Melayu: B: Rancangan Buku Merah memantau kemajuan projek pembangunan, termasuk kemudahan asas, supaya pelaksanaannya berjalan dengan baik. [Rujukan skema: B10T4M244; kandungan halaman buku belum disahkan satu demi satu.]"

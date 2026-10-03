@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-SABK 2025,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SABK 2025,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：Srivijaya由梵文“sri”（光辉）及“vijaya”（胜利）组成，因此意思是胜利之光。答案纸参考：F4，第5页。
+Bahasa Melayu: Srivijaya berasal daripada sri yang bermaksud cahaya dan vijaya yang bermaksud kemenangan, lalu membawa maksud cahaya kemenangan. Rujukan skema: F4, halaman 5."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：《马六甲海事法》及《马六甲法典》分别规范航海与陆上事务，使王国具有有序法律制度，故II和III正确。答案纸参考：F4，第10至11页。
+Bahasa Melayu: Undang-undang Laut Melaka dan Hukum Kanun Melaka mengatur urusan pelayaran serta kehidupan di darat, menjadikan pentadbiran tersusun. Maka II dan III tepat. Rujukan skema: F4, halaman 10–11."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：甘地以satyagraha坚持真理，主张非暴力方式反对殖民统治，不是以武装革命为主要策略。答案纸参考：F4，第26页。
+Bahasa Melayu: Mahatma Gandhi menggunakan satyagraha, berpegang teguh pada kebenaran, sebagai asas perjuangan tanpa keganasan menentang penjajahan. Rujukan skema: F4, halaman 26."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：泰国民族主义曾推动反对专制王权及转向君主立宪，因此B配对正确；Thakin与Pongyi属于缅甸，胡志明属于越南。答案纸参考：F4，第31页。
+Bahasa Melayu: Nasionalisme Thailand menentang raja berkuasa mutlak dan membawa perubahan kepada Raja Berperlembagaan. Thakin dan Pongyi berkaitan Burma, manakala Ho Chi Minh berkaitan Vietnam. Rujukan skema: F4, halaman 31."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：KMM公开批判英国并唤醒反殖民情绪，因此被英国视为激进组织。答案纸参考：F4，第40页。
+Bahasa Melayu: KMM dianggap radikal kerana berani menentang British dan membangkitkan perasaan anti-British melalui perjuangannya. Rujukan skema: F4, halaman 40."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：威尔逊十四点主张人民决定国家命运，并按照民族划定边界，所以I和II正确；不是强化军事联盟或设立否决权。答案纸参考：F4，第56页。
+Bahasa Melayu: Empat Belas Perkara Wilson menekankan penentuan nasib negara oleh rakyat dan sempadan berdasarkan bangsa. Maka I dan II tepat. Rujukan skema: F4, halaman 56."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：这些组织在日军投降后应对Bintang Tiga的暴力，保护马来社区的安全及尊严，时间并非抗日战争中。答案纸参考：F4，第84页。
+Bahasa Melayu: Gerakan ini muncul selepas Jepun menyerah kalah untuk mempertahankan masyarakat dan maruah Melayu daripada kekejaman Bintang Tiga. Rujukan skema: F4, halaman 84."
+,radio,F4 Bab 5,A,B,C,D,D,Picture8.png,"中文：工作委员会拟定新联邦协议以取代马来亚联盟。题干年份1949应为1946；1948年联邦成立后不可能才开始拟定取代联盟的协议。答案纸参考：F4，第126页。
+Bahasa Melayu: Jawatankuasa Kerja merangka perjanjian persekutuan baharu untuk menggantikan Malayan Union. Tahun 1949 dalam soalan sepatutnya 1946. Rujukan skema: F4, halaman 126."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：CLC让各族领袖讨论敏感问题并妥协，培养族群理解与合作。它在1949年成立，题干提1948年应视为制度背景。答案纸参考：F4，第137页。
+Bahasa Melayu: CLC memupuk persefahaman kaum melalui rundingan dan tolak ansur. Jawatankuasa ini ditubuhkan pada 1949; sebutan 1948 dalam soalan ialah latar Persekutuan. Rujukan skema: F4, halaman 137."
+,radio,F4 Bab 6,A,B,C,D,A,Picture10.png,"中文：共产主义强调生产资料及经济资源由国家或集体掌握，A最符合课本基本定义，并非君主统治。答案纸参考：F4，第146页。
+Bahasa Melayu: Komunisme menekankan pemilikan ekonomi dan alat pengeluaran oleh negara atau secara kolektif. A menepati definisi asas buku teks. Rujukan skema: F4, halaman 146."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：新村迁移使不同族群更多分居于各自区域，减少接触，造成族群关系疏远，是紧急状态的社会影响。答案纸参考：F4，第163页。
+Bahasa Melayu: Pemindahan ke Kampung Baharu meningkatkan pengasingan petempatan kaum dan mengurangkan interaksi, lalu merenggangkan hubungan kaum. Rujukan skema: F4, halaman 163."
+,radio,F4 Bab 7,A,B,C,D,D,Picture12.png,"中文：RIDA帮助马来人取得经济发展、训练及经营机会，以改善经济地位并处理族群间差距。答案纸参考：F4，第176页。
+Bahasa Melayu: RIDA memberikan peluang pembangunan, latihan dan kegiatan ekonomi kepada orang Melayu untuk meningkatkan kedudukan ekonomi mereka. Rujukan skema: F4, halaman 176."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：成员制度让本地领袖负责部门并积累行政经验，为自治及独立作准备。答案纸参考：F4，第178页。
+Bahasa Melayu: Sistem Ahli melatih pemimpin tempatan mengurus jabatan dan memperoleh pengalaman sebagai persediaan berkerajaan sendiri. Rujukan skema: F4, halaman 178."
+,radio,F4 Bab 8,A,B,C,D,A,Picture14.png,"中文：联盟的跨族群协商及合作获得广泛支持，体现共识与合作的价值，帮助赢得52席中的51席。答案纸参考：F4，第202页。
+Bahasa Melayu: Permuafakatan antara kaum dalam Perikatan memperoleh sokongan luas dan membantu kemenangan 51 daripada 52 kerusi. Rujukan skema: F4, halaman 202."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：选举制度推行前，联邦立法议会成员由英国最高专员任命，而不是由选民投票选出。答案纸参考：F4，第199页。
+Bahasa Melayu: Sebelum pilihan raya Persekutuan, ahli MPP dilantik oleh Pesuruhjaya Tinggi British, bukannya dipilih rakyat. Rujukan skema: F4, halaman 199."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：首届内阁讨论国内安全并减少英国行政权，使本地领导取得更多决策责任，故I和IV正确。答案纸参考：F4，第206页。
+Bahasa Melayu: Kabinet pertama membincangkan keselamatan dalam negeri dan mengurangkan kuasa pentadbiran British. Maka I dan IV tepat. Rujukan skema: F4, halaman 206."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：伦敦谈判要求由本地人任国防部长，并以财政部长取代财政秘书，逐步把重要部门交给本地政府，所以II和III正确。答案纸参考：F4，第218页。
+Bahasa Melayu: Rundingan London menuntut Menteri Pertahanan daripada rakyat tempatan dan penggantian Setiausaha Kewangan dengan Menteri Kewangan. Maka II dan III tepat. Rujukan skema: F4, halaman 218."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：国家元首从马来统治者中选出是联邦宪法规定，并不代表统治者拥有不受约束的绝对权力。答案纸参考：F4，第224页。
+Bahasa Melayu: Pemilihan YDPA daripada Raja-raja Melayu termaktub dalam Perlembagaan Persekutuan dan tidak bermaksud raja berkuasa mutlak. Rujukan skema: F4, halaman 224."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：独立庆典为部长与高级官员准备的特别礼服是baju muskat，体现正式国家仪式身份。答案纸参考：F4，第237页。
+Bahasa Melayu: Baju muskat disediakan sebagai pakaian khas menteri dan pegawai kerajaan bagi upacara sambutan kemerdekaan. Rujukan skema: F4, halaman 237."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：现代联邦的领土由明确边界界定，政府在该地域行使权力；与古代较松动的属地势力范围不同。答案纸参考：F4，第246页。
+Bahasa Melayu: Wilayah negara moden merujuk kawasan bersempadan yang berada di bawah kuasa kerajaan, berbeza daripada jajahan pengaruh kerajaan tradisional. Rujukan skema: F4, halaman 246."
+,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：主权保障政府不受外来干预地治理，并可通过教育培养有知识的下一代，分别符合行政效率及社会福祉，因此D正确。答案纸参考：F5，第10至11页。
+Bahasa Melayu: Kedaulatan membolehkan pentadbiran tanpa campur tangan asing dan pembangunan pendidikan untuk melahirkan generasi berilmu. Kedua-dua padanan dalam D tepat. Rujukan skema: F5, halaman 10–11."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：国家文化政策促进共同文化认同，并与整合及团结活动一起加强各族联系。答案纸参考：F5，第13页。
+Bahasa Melayu: Dasar berkaitan kebudayaan membina identiti bersama serta melengkapi integrasi nasional dan kempen perpaduan. Rujukan skema: F5, halaman 13."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：1948年联邦协议恢复马来统治者主权及权限，是之后联邦宪政发展的重要基础。答案纸参考：F5，第26页。
+Bahasa Melayu: Perjanjian PTM 1948 mengembalikan kedaulatan dan kuasa Raja-raja Melayu sebagai asas perkembangan perlembagaan Persekutuan. Rujukan skema: F5, halaman 26."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：新加坡于1965年退出马来西亚，国家组成改变，东姑提出修改宪法以落实分离。答案纸参考：F5，第31页。
+Bahasa Melayu: Pemisahan Singapura pada 1965 mengubah susunan Persekutuan dan memerlukan pindaan Perlembagaan yang diusulkan Tunku. Rujukan skema: F5, halaman 31."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：日本占领时统治者保留伊斯兰教及马来习俗方面地位，实际行政与军事权则由日军控制。答案纸参考：F5，第40页。
+Bahasa Melayu: Semasa pendudukan Jepun, raja mengekalkan kuasa hal ehwal Islam dan adat Melayu, sementara pentadbiran serta ketenteraan dikuasai Jepun. Rujukan skema: F5, halaman 40."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：君主中立的平衡角色可缓和政党政治争端，避免冲突危及国家稳定；并非亲自负责全部立法行政。答案纸参考：F5，第56页。
+Bahasa Melayu: Kuasa pengimbang raja yang berkecuali membantu meredakan konflik parti politik dan menjaga kestabilan, bukan mengambil alih seluruh pentadbiran. Rujukan skema: F5, halaman 56."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：马来亚联盟遭马来人及统治者强烈反对，最终被1948年联邦取代。它曾实际实施，题干“失败实施”应理解为未能持续。答案纸参考：F5，第67页。
+Bahasa Melayu: Malayan Union menghadapi bantahan kuat rakyat dan raja lalu digantikan pada 1948. Ia pernah dilaksanakan; kegagalan dalam soalan bermaksud gagal diteruskan. Rujukan skema: F5, halaman 67."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：国家水务理事会与国家安全及房屋理事会同属政府设立的协调机构。其他三个选项是宪法规定的国家理事会，应分清分类。答案纸参考：F5，第81页。
+Bahasa Melayu: Majlis Air Negara, seperti majlis keselamatan dan perumahan, ditubuhkan oleh kerajaan untuk penyelarasan. Tiga pilihan lain ialah majlis yang diperuntukkan Perlembagaan. Rujukan skema: F5, halaman 81."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：政府间委员会拟定宪政保障，保护沙巴及砂拉越在宗教、语言、移民等方面的利益。答案纸参考：F5，第102页。
+Bahasa Melayu: JAK merangka perlindungan perlembagaan bagi kepentingan Sabah dan Sarawak, termasuk hal agama, bahasa dan imigresen. Rujukan skema: F5, halaman 102."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼领导改变后展开谈判，最终结束对抗并恢复关系。题干把正常化协议写成1965年不准确，协议签署日期是1966年8月11日。课本参考：F5，第109页。
+Bahasa Melayu: Perubahan kepimpinan Indonesia membawa rundingan dan penamatan konfrontasi. Perjanjian normalisasi ditandatangani pada 11 Ogos 1966, bukan 1965 seperti dinyatakan soalan. Rujukan buku teks: F5, halaman 109."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：沙巴与砂拉越面积广阔且地形复杂，使建设道路及联系偏远聚落需要较高成本与时间。答案纸参考：F5，第117页。
+Bahasa Melayu: Saiz negeri yang besar dan bentuk muka bumi Sabah serta Sarawak menyukarkan pembangunan jalan dan perhubungan ke pedalaman. Rujukan skema: F5, halaman 117."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：第一大马计划处理健康及生活水平差距，改善设施及人民生活，故I和II正确；不是以政党争执为发展目标。答案纸参考：F5，第128页。
+Bahasa Melayu: RMK Pertama menangani masalah kesihatan dan perbezaan taraf hidup melalui pembangunan kemudahan serta kehidupan rakyat. Maka I dan II tepat. Rujukan skema: F5, halaman 128."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国家文化政策建立共同文化及身份，在尊重适当文化元素下加强国家团结。答案纸参考：F5，第151页。
+Bahasa Melayu: Dasar Kebudayaan Kebangsaan membina kebudayaan dan identiti bersama untuk mengukuhkan perpaduan negara. Rujukan skema: F5, halaman 151."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：国家原则50周年标志的月亮及星星对应“信奉上苍”原则；应按这枚标志的设计说明理解，勿与所有图案的意义混为一谈。答案纸参考：F5，第157页。
+Bahasa Melayu: Bulan dan bintang dalam logo ulang tahun Rukun Negara melambangkan Kepercayaan kepada Tuhan. Makna ini merujuk reka bentuk logo tersebut. Rujukan skema: F5, halaman 157."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：DPN延续改善经济及减少差距的努力，最终目标是通过均衡发展实现国家团结。答案纸参考：F5，第174页。
+Bahasa Melayu: DPN meneruskan usaha pembangunan seimbang dan pengurangan jurang ekonomi untuk mencapai perpaduan negara. Rujukan skema: F5, halaman 174."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：就业机会及家庭收入提高让更多家庭摆脱贫困，所以I和IV是降低贫困率的直接措施。答案纸参考：F5，第180页。
+Bahasa Melayu: Peluang pekerjaan dan peningkatan pendapatan isi rumah membantu keluarga keluar daripada kemiskinan. Maka I dan IV tepat. Rujukan skema: F5, halaman 180."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：科伦坡计划提供发展援助、专业咨询及公务员训练，提升成员国能力以处理贫困。答案纸参考：F5，第206页。
+Bahasa Melayu: Rancangan Colombo memberikan bantuan pembangunan, khidmat nasihat dan latihan kakitangan untuk menangani kemiskinan negara anggota. Rujukan skema: F5, halaman 206."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：马来西亚与中国建交体现不偏向单一强权的中立外交，在国际政治竞争中扩大和平关系。答案纸参考：F5，第208页。
+Bahasa Melayu: Hubungan dengan China mencerminkan dasar berkecuali Malaysia dan usaha menjalin hubungan aman tanpa terikat kepada satu blok kuasa. Rujukan skema: F5, halaman 208."
+,radio,F5 Bab 9,A,B,C,D,D,Picture39.png,"中文：东姑阿都拉曼担任OIC秘书长，推动伊斯兰国家合作及为穆斯林社会发声，体现保护其权益的作用。答案纸参考：F5，第214页。
+Bahasa Melayu: Tunku Abdul Rahman sebagai Setiausaha Agung OIC memperkukuh kerjasama negara Islam dan memastikan pembelaan masyarakat Islam. Rujukan skema: F5, halaman 214."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：AFTA减少东盟成员之间的贸易障碍与关税，扩大货物交易，因此主要目的是促进贸易。答案纸参考：F5，第230页。
+Bahasa Melayu: AFTA mengurangkan halangan dan tarif perdagangan antara anggota ASEAN untuk memajukan perdagangan serantau. Rujukan skema: F5, halaman 230."

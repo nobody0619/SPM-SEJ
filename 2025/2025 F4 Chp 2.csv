@@ -1,56 +1,111 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 2,radio,JohorBahru_Q03,A,B,C,D,B,Johor Bahru/Picture3.png
-F4 Chp 2,radio,JohorKulaiSet_Q03,A,B,C,D,A,Johor Kulai Set 1/Picture3.png
-F4 Chp 2,radio,JohorKulaiSet_Q03,A,B,C,D,A,Johor Kulai Set 2/Picture3.png
-F4 Chp 2,radio,JohorMuar_Q03,A,B,C,D,C,Johor Muar/Picture3.png
-F4 Chp 2,radio,JohorPasirGudang_Q03,A,B,C,D,C,Johor Pasir Gudang/Picture3.png
-F4 Chp 2,radio,JohorSegamatSet_Q03,A,B,C,D,D,Johor Segamat Set 1/Picture3.png
-F4 Chp 2,radio,JohorSegamatSet_Q03,A,B,C,D,B,Johor Segamat Set 2/Picture3.png
-F4 Chp 2,radio,Kedah_Q03,A,B,C,D,A,Kedah/Picture3.png
-F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,B,Kelantan/Picture3.png
-F4 Chp 2,radio,KualaLumpur_Q03,A,B,C,D,D,Kuala Lumpur/Picture3.png
-F4 Chp 2,radio,Mrsm_Q03,A,B,C,D,C,MRSM/Picture3.png
-F4 Chp 2,radio,N_Q03,A,B,C,D,A,N9/Picture3.png
-F4 Chp 2,radio,Pahang_Q03,A,B,C,D,A,Pahang/Picture3.png
-F4 Chp 2,radio,Perak_Q03,A,B,C,D,A,Perak/Picture3.png
-F4 Chp 2,radio,Perlis_Q03,A,B,C,D,A,Perlis/Picture3.png
-F4 Chp 2,radio,PulauPinang_Q03,A,B,C,D,D,Pulau Pinang/Picture3.png
-F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,B,Putrajaya set 1/Picture3.png
-F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,C,Putrajaya set 2/Picture3.png
-F4 Chp 2,radio,Sabah_Q03,A,B,C,D,B,Sabah/Picture3.png
-F4 Chp 2,radio,Sabk_Q03,A,B,C,D,B,SABK/Picture3.png
-F4 Chp 2,radio,SarawakSibu_Q03,A,B,C,D,A,Sarawak Sibu/Picture3.png
-F4 Chp 2,radio,Sbp_Q03,A,B,C,D,A,SBP/Picture3.png
-F4 Chp 2,radio,Selangor_Q03,A,B,C,D,A,Selangor/Picture3.png
-F4 Chp 2,radio,Smka_Q03,A,B,C,D,A,SMKA/Picture3.png
-F4 Chp 2,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png
-F4 Chp 2,radio,JohorKulaiSet_Q04,A,B,C,D,D,Johor Kulai Set 1/Picture4.png
-F4 Chp 2,radio,JohorKulaiSet_Q04,A,B,C,D,C,Johor Kulai Set 2/Picture4.png
-F4 Chp 2,radio,JohorMuar_Q04,A,B,C,D,D,Johor Muar/Picture4.png
-F4 Chp 2,radio,JohorPasirGudang_Q04,A,B,C,D,A,Johor Pasir Gudang/Picture4.png
-F4 Chp 2,radio,JohorSegamatSet_Q04,A,B,C,D,C,Johor Segamat Set 1/Picture4.png
-F4 Chp 2,radio,JohorSegamatSet_Q04,A,B,C,D,B,Johor Segamat Set 2/Picture4.png
-F4 Chp 2,radio,Kedah_Q04,A,B,C,D,C,Kedah/Picture4.png
-F4 Chp 2,radio,Kelantan_Q04,A,B,C,D,B,Kelantan/Picture4.png
-F4 Chp 2,radio,KualaLumpur_Q04,A,B,C,D,B,Kuala Lumpur/Picture4.png
-F4 Chp 2,radio,Melaka_Q04,A,B,C,D,C,Melaka/Picture4.png
-F4 Chp 2,radio,Mrsm_Q04,A,B,C,D,C,MRSM/Picture4.png
-F4 Chp 2,radio,N_Q04,A,B,C,D,A,N9/Picture4.png
-F4 Chp 2,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png
-F4 Chp 2,radio,Perak_Q04,A,B,C,D,A,Perak/Picture4.png
-F4 Chp 2,radio,Perlis_Q04,A,B,C,D,D,Perlis/Picture4.png
-F4 Chp 2,radio,PulauPinang_Q04,A,B,C,D,B,Pulau Pinang/Picture4.png
-F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,A,Putrajaya set 1/Picture4.png
-F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,B,Putrajaya set 2/Picture4.png
-F4 Chp 2,radio,Sabah_Q04,A,B,C,D,A,Sabah/Picture4.png
-F4 Chp 2,radio,Sabk_Q04,A,B,C,D,B,SABK/Picture4.png
-F4 Chp 2,radio,SarawakSibu_Q04,A,B,C,D,B,Sarawak Sibu/Picture4.png
-F4 Chp 2,radio,Sbp_Q04,A,B,C,D,C,SBP/Picture4.png
-F4 Chp 2,radio,Selangor_Q04,A,B,C,D,A,Selangor/Picture4.png
-F4 Chp 2,radio,Smka_Q04,A,B,C,D,A,SMKA/Picture4.png
-F4 Chp 2,radio,Terengganu_Q04,A,B,C,D,A,Terengganu/Picture4.png
-F4 Chp 2,radio,Melaka_Q05,A,B,C,D,B,Melaka/Picture5.png
-F4 Chp 2,radio,Pahang_Q05,A,B,C,D,C,Pahang/Picture5.png
-F4 Chp 2,radio,Sabk_Q05,A,B,C,D,D,SABK/Picture5.png
-F4 Chp 2,radio,SarawakSibu_Q05,A,B,C,D,A,Sarawak Sibu/Picture5.png
-F4 Chp 2,radio,SarawakSibu_Q06,A,B,C,D,B,Sarawak Sibu/Picture6.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 2,radio,JohorBahru_Q03,A,B,C,D,B,Johor Bahru/Picture3.png,"中文：Gandhi 的 Satyagraha 强调坚持真理，以非暴力方式反抗不公，因此核心原则是 kebenaran，选B。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Satyagraha menekankan pegangan pada kebenaran dan penentangan tanpa kekerasan terhadap ketidakadilan, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 26."
+F4 Chp 2,radio,JohorKulaiSet_Q03,A,B,C,D,A,Johor Kulai Set 1/Picture3.png,"中文：课本指出中国民族主义旨在巩固中华文明，并反对满清统治的软弱，I、II符合答案A。课本也提到西方干涉，所以III并非完全错误，这题选项有重叠。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Buku teks menyatakan nasionalisme China bertujuan mengukuhkan peradaban dan menentang kelemahan Dinasti Manchu, menyokong I dan II dalam A. Campur tangan Barat dalam III turut disebut, jadi pilihan tidak sepenuhnya berasingan. Rujukan skema: Tingkatan 4, m.s. 26."
+F4 Chp 2,radio,JohorKulaiSet_Q03,A,B,C,D,A,Johor Kulai Set 2/Picture3.png,"中文：满清无法阻止西方势力渗入，人民失去对其统治的信任，并认为其已失去统治资格；I、II对应A。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Kegagalan Dinasti Manchu menghalang pengaruh Barat menyebabkan rakyat hilang kepercayaan serta menganggapnya kehilangan mandat memerintah; I dan II memberikan A. Rujukan skema: Tingkatan 4, m.s. 26."
+F4 Chp 2,radio,JohorMuar_Q03,A,B,C,D,C,Johor Muar/Picture3.png,"中文：明治维新推动现代化，学习西方技术并改革军事，使日本成为强大的军事国家。题目问明治天皇的改革成果，所以选C。（答案纸参考：F4，第27页。）
+Bahasa Melayu: Pemulihan Meiji memodenkan Jepun melalui pembaharuan pentadbiran, pendidikan dan ketenteraan serta penggunaan teknologi Barat. Jepun kemudian muncul sebagai kuasa ketenteraan yang kuat, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 27."
+F4 Chp 2,radio,JohorPasirGudang_Q03,A,B,C,D,C,Johor Pasir Gudang/Picture3.png,"中文：现有答案C概括反对外来控制。但日本主要通过现代化避免西方殖民威胁，不是从已经被殖民的处境争取独立；中国和印度的具体斗争也不同，应理解共同点是维护国家自主。（答案纸参考：F4，第27页。）
+Bahasa Melayu: Jawapan semasa C merujuk penentangan terhadap penguasaan asing. Namun, Jepun memodenkan negara untuk mengelakkan ancaman imperialisme Barat, bukan membebaskan negara yang telah dijajah. Persamaan yang lebih tepat ialah mempertahankan kebebasan dan kepentingan negara. Rujukan skema: Tingkatan 4, m.s. 27."
+F4 Chp 2,radio,JohorSegamatSet_Q03,A,B,C,D,D,Johor Segamat Set 1/Picture3.png,"中文：越南民族主义者通过Tribune Indigène和Cloche Fêlée传播反法思想。Kalayaan属于菲律宾运动，而El Filibusterismo是黎刹小说，所以选III和IV，即D。（答案纸参考：F4，第29页。）
+Bahasa Melayu: Tribune Indigène dan Cloche Fêlée digunakan dalam gerakan nasionalisme Vietnam. Kalayaan berkaitan Filipina dan El Filibusterismo ialah novel Jose Rizal, maka III dan IV, iaitu D. Rujukan skema: Tingkatan 4, m.s. 29."
+F4 Chp 2,radio,JohorSegamatSet_Q03,A,B,C,D,B,Johor Segamat Set 2/Picture3.png,"中文：满清无法阻止西方势力干预中国政治与经济，令人民失去信任，推动民族主义反清运动。因此选B。（答案纸参考：F4，第26页。）
+Bahasa Melayu: Dinasti Manchu gagal menghalang kemasukan dan pengaruh kuasa Barat. Kelemahan ini menyebabkan rakyat hilang kepercayaan dan menentang pemerintahannya, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 26."
+F4 Chp 2,radio,Kedah_Q03,A,B,C,D,A,Kedah/Picture3.png,"中文：法国平民承担沉重税负，贵族和教士却享有特权，促使民族主义者反抗君主制度。答案纸参考：F4第25页。
+Bahasa Melayu: Rakyat Perancis menanggung cukai berat sedangkan bangsawan dan paderi menikmati keistimewaan, lalu menentang pemerintahan beraja. Rujukan skema: T4 ms.25."
+F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,B,Kelantan/Picture3.png,"中文：光荣革命限制君主专断并确立国会主权，为君主立宪制度奠定基础。 答案纸参考：F4第24页。
+Bahasa Melayu: Revolusi Keagungan mengehadkan kuasa mutlak raja dan menegakkan kedaulatan parlimen, menjadi asas Raja Berperlembagaan. Rujukan skema: T4 ms.24."
+F4 Chp 2,radio,KualaLumpur_Q03,A,B,C,D,D,Kuala Lumpur/Picture3.png,"中文：两场革命都反对君主专断，要求限制王权与保障人民或国会权利，并非争取领土独立。 答案纸参考：F4第24页。
+Bahasa Melayu: Kedua-dua revolusi menentang pemerintahan beraja mutlak dan menuntut batas kuasa raja serta hak rakyat atau parlimen, bukan kemerdekaan wilayah. Rujukan skema: T4 ms.24."
+F4 Chp 2,radio,Mrsm_Q03,A,B,C,D,C,MRSM/Picture3.png,"中文：越南报刊批判殖民压迫并要求本地人民权利，以传播民族主义，所以II、III正确。 答案纸参考：F4第29页。
+Bahasa Melayu: Akhbar Vietnam mengkritik penindasan penjajah dan menuntut hak rakyat tempatan untuk menyebarkan nasionalisme; II dan III betul. Rujukan skema: T4 ms.29."
+F4 Chp 2,radio,N_Q03,A,B,C,D,A,N9/Picture3.png,"中文：Bushido强调勇敢、忠诚、牺牲及奋力达成目标，推动日本民族主义。 答案纸参考：F4第27页。
+Bahasa Melayu: Bushido menekankan keberanian, kesetiaan, pengorbanan dan kesungguhan mencapai cita-cita, menyokong nasionalisme Jepun. Rujukan skema: T4 ms.27."
+F4 Chp 2,radio,Pahang_Q03,A,B,C,D,A,Pahang/Picture3.png,"中文：A：美国革命反对英国殖民统治；光荣革命反对君主专制并确立议会优势。选项A的“反对王政”须理解为限制专制王权，并非废除君主制度。答案纸参考：F4第24–25页。
+Bahasa Melayu: A: Revolusi Amerika menentang penjajahan British, manakala Revolusi Keagungan menentang kuasa mutlak raja dan mengutamakan Parlimen. “Menentang pemerintahan beraja” dalam pilihan A merujuk pemerintahan mutlak, bukan menghapuskan monarki. Rujukan skema: T4 ms. 24–25."
+F4 Chp 2,radio,Perak_Q03,A,B,C,D,A,Perak/Picture3.png,"中文：蒙固王和朱拉隆功王通过外交关系及行政现代化减少西方干预，使泰国得以维护主权。答案纸参考：F4，第31页。
+Bahasa Melayu: Raja Mongkut dan Raja Chulalongkorn menggunakan diplomasi serta pemodenan pentadbiran untuk mengurangkan campur tangan Barat dan mempertahankan kedaulatan Thailand. Rujukan skema: F4, halaman 31."
+F4 Chp 2,radio,Perlis_Q03,A,B,C,D,A,Perlis/Picture3.png,"中文：法国大革命反对专制王权，随后建立共和制度，体现人民主权的政治理念。答案纸参考：F4，第25页。
+Bahasa Melayu: Revolusi Perancis menentang pemerintahan beraja mutlak dan membawa kemunculan sistem republik yang menekankan kedaulatan rakyat. Rujukan skema: F4, halaman 25."
+F4 Chp 2,radio,PulauPinang_Q03,A,B,C,D,D,Pulau Pinang/Picture3.png,"中文：两场革命都反对专制王权。光荣革命限制王权并保留君主制度；法国大革命后来建立共和国，不能理解成两者都废除君主。答案纸参考：F4，第24页。
+Bahasa Melayu: Kedua-dua revolusi menentang pemerintahan beraja mutlak. Revolusi Keagungan menghadkan kuasa raja tetapi mengekalkan monarki, manakala Revolusi Perancis membawa republik. Rujukan skema: F4, halaman 24."
+F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,B,Putrajaya set 1/Picture3.png,"中文：Jose Rizal成立Liga Filipina，争取改革及菲律宾人的权益；Katipunan由Andres Bonifacio领导。答案纸参考：F4，第28页。
+Bahasa Melayu: Jose Rizal menubuhkan Liga Filipina untuk memperjuangkan pembaharuan dan hak rakyat Filipina. Katipunan pula dipimpin Andres Bonifacio. Rujukan skema: F4, halaman 28."
+F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,C,Putrajaya set 2/Picture3.png,"中文：武士道精神强调忠诚、责任与牺牲，推动日本人愿意为国家及职责付出，不是只顾个人家庭利益。答案纸参考：F4，第27页。
+Bahasa Melayu: Semangat Bushido menekankan kesetiaan, tanggungjawab dan kesediaan berkorban, bukan mengutamakan kepentingan diri semata-mata. Rujukan skema: F4, halaman 27."
+F4 Chp 2,radio,Sabah_Q03,A,B,C,D,B,Sabah/Picture3.png,"中文：B：法国革命反对绝对君主制，随后以共和制度取代王朝统治。
+Bahasa Melayu: B: Revolusi Perancis menentang pemerintahan raja mutlak dan membawa kepada pelaksanaan sistem republik."
+F4 Chp 2,radio,Sabk_Q03,A,B,C,D,B,SABK/Picture3.png,"中文：甘地以satyagraha坚持真理，主张非暴力方式反对殖民统治，不是以武装革命为主要策略。答案纸参考：F4，第26页。
+Bahasa Melayu: Mahatma Gandhi menggunakan satyagraha, berpegang teguh pada kebenaran, sebagai asas perjuangan tanpa keganasan menentang penjajahan. Rujukan skema: F4, halaman 26."
+F4 Chp 2,radio,SarawakSibu_Q03,A,B,C,D,A,Sarawak Sibu/Picture3.png,"中文：A：满清未能阻止西方势力介入，民族主义者认为王朝无法维护国家主权。【答案纸参考：26；书页内容待逐页确认。】
+Bahasa Melayu: A: Dinasti Manchu gagal menghalang kemasukan kuasa Barat, lalu dianggap tidak mampu mempertahankan kedaulatan China. [Rujukan skema: 26; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Sbp_Q03,A,B,C,D,A,SBP/Picture3.png,"中文：A：缅甸早期民族主义着重保存佛教传统；越南早期运动则主张恢复君主统治，并非一开始就要求立即独立。【答案纸参考：29；书页内容待逐页确认。】
+Bahasa Melayu: A: Nasionalisme awal di Burma mempertahankan tradisi Buddha, manakala gerakan awal di Vietnam mahu memulihkan pemerintahan beraja. [Rujukan skema: 29; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Selangor_Q03,A,B,C,D,A,Selangor/Picture3.png,"中文：A：Pan-Islamisme号召穆斯林跨地区团结，以共同应对西方势力。【答案纸参考：B2T4 M27；书页内容待逐页确认。】
+Bahasa Melayu: A: Pan-Islamisme menyeru penyatuan persaudaraan umat Islam untuk menghadapi tekanan dan penguasaan Barat. [Rujukan skema: B2T4 M27; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Smka_Q03,A,B,C,D,A,SMKA/Picture3.png,"中文：A：John Locke反对君主拥有绝对权力，主张政府权力受到限制，支持君主立宪原则。【答案纸参考：T4 Hal.24；书页内容待逐页确认。】
+Bahasa Melayu: A: John Locke menolak kuasa mutlak raja dan menyokong pemerintahan yang kuasanya dibatasi, selaras dengan Raja Berperlembagaan. [Rujukan skema: T4 Hal.24; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png,"中文：B：Kartini的作品反映殖民统治下人民受到的压迫，促使读者关注民族处境。【答案纸参考：BAB 2- MS 30；书页内容待逐页确认。】
+Bahasa Melayu: B: Karya Kartini membincangkan penindasan rakyat di bawah penjajahan dan membangkitkan kesedaran tentang nasib bangsa. [Rujukan skema: BAB 2- MS 30; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,JohorKulaiSet_Q04,A,B,C,D,D,Johor Kulai Set 1/Picture4.png,"中文：分权政策把部分权力从中央交回州及苏丹，使马来统治者的地位和权力获得恢复，选D。（答案纸参考：F4，第42页。）
+Bahasa Melayu: Dasar desentralisasi mengembalikan sebahagian kuasa pentadbiran kepada negeri dan sultan, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 42."
+F4 Chp 2,radio,JohorKulaiSet_Q04,A,B,C,D,C,Johor Kulai Set 2/Picture4.png,"中文：Ibu Zain 强调女性教育及知识，认为受教育的女性能为社会与国家进步作贡献，选C。（答案纸参考：F4，第43页。）
+Bahasa Melayu: Ibu Zain memperjuangkan kepentingan ilmu pengetahuan dan pendidikan wanita untuk kemajuan masyarakat serta negara, maka C tepat. Rujukan skema: Tingkatan 4, m.s. 43."
+F4 Chp 2,radio,JohorMuar_Q04,A,B,C,D,D,Johor Muar/Picture4.png,"中文：《Putera Gunung Tahan》等民族主义文学让读者认识社会现实与殖民处境，激发爱国意识。作品的意义在于唤醒思想，所以选D。（答案纸参考：F4，第34页。）
+Bahasa Melayu: Karya seperti Putera Gunung Tahan menyedarkan pembaca tentang realiti kehidupan masyarakat dan penjajahan. Kesedaran ini membangkitkan semangat kebangsaan, maka D paling sesuai. Rujukan skema: Tingkatan 4, m.s. 34."
+F4 Chp 2,radio,JohorPasirGudang_Q04,A,B,C,D,A,Johor Pasir Gudang/Picture4.png,"中文：早期地方领袖的抗争通常局限在各自地区，反对英国干预并争取恢复地方自由。题目组合I和II强调地方性与自由诉求，因此选A。（答案纸参考：F4，第33页。）
+Bahasa Melayu: Penentangan Dol Said, Maharaja Lela dan Bahaman bersifat setempat serta menuntut kebebasan daripada campur tangan British. Oleh itu, I dan II paling sesuai, iaitu A. Rujukan skema: Tingkatan 4, m.s. 33."
+F4 Chp 2,radio,JohorSegamatSet_Q04,A,B,C,D,C,Johor Segamat Set 1/Picture4.png,"中文：Abdul Rahim Kajai和Harun Aminurrashid通过小说及短篇故事描写社会问题，唤醒民族意识。题目指文学创作渠道，因此II和III，即C。（答案纸参考：F4，第149页。）
+Bahasa Melayu: Tokoh tersebut menyampaikan kesedaran nasionalisme melalui karya sastera seperti novel dan cerpen. Karya mereka menyedarkan masyarakat tentang kehidupan serta penjajahan, maka II dan III, iaitu C. Rujukan skema: Tingkatan 4, m.s. 149."
+F4 Chp 2,radio,JohorSegamatSet_Q04,A,B,C,D,B,Johor Segamat Set 2/Picture4.png,"中文：The Malay Mail和The Malayan Tribune筹集基金，帮助马来人到海外继续求学，推动教育机会及知识发展。因此选B。本题图片已按原卷恢复，原图片误重复第3题。（答案纸参考：F4，第42-43页。）
+Bahasa Melayu: The Malay Mail dan The Malayan Tribune mengumpulkan dana untuk membantu orang Melayu melanjutkan pelajaran ke luar negara. Oleh itu, B tepat. Imej soalan telah dipulihkan daripada kertas asal kerana imej sebelumnya tersalah mengulang soalan 3. Rujukan skema: Tingkatan 4, m.s. 42-43."
+F4 Chp 2,radio,Kedah_Q04,A,B,C,D,C,Kedah/Picture4.png,"中文：Kartini的作品强调女性教育，反对限制妇女进步的传统，为印尼民族意识作出贡献。答案纸参考：F4第30页。
+Bahasa Melayu: Karya Kartini menekankan pendidikan wanita dan menentang adat yang menyekat kemajuan mereka, sekali gus menyumbang kesedaran nasionalisme. Rujukan skema: T4 ms.30."
+F4 Chp 2,radio,Kelantan_Q04,A,B,C,D,B,Kelantan/Picture4.png,"中文：Kajai和Za'ba通过文学创作批评社会问题、唤醒马来人的进步意识，传播民族主义。 答案纸参考：F4第33页。
+Bahasa Melayu: Kajai dan Za'ba menggunakan karya kreatif untuk mengkritik masalah masyarakat dan menyedarkan orang Melayu tentang kemajuan serta nasionalisme. Rujukan skema: T4 ms.33."
+F4 Chp 2,radio,KualaLumpur_Q04,A,B,C,D,B,Kuala Lumpur/Picture4.png,"中文：两位作家通过小说、短篇等创作批评殖民和社会问题，唤醒民族意识。 答案纸参考：F4第34页。
+Bahasa Melayu: Kedua-dua penulis menghasilkan novel dan cerpen yang mengkritik penjajahan serta masalah masyarakat untuk membangkitkan nasionalisme. Rujukan skema: T4 ms.34."
+F4 Chp 2,radio,Melaka_Q04,A,B,C,D,C,Melaka/Picture4.png,"中文：法国革命推翻绝对君主统治，推动人民主权与共和国理念，因此选C。 答案纸参考：F4第24–25页。
+Bahasa Melayu: Revolusi Perancis menamatkan pemerintahan beraja mutlak dan mengembangkan kedaulatan rakyat serta idea republik, C. Rujukan skema: T4 ms.24–25."
+F4 Chp 2,radio,Mrsm_Q04,A,B,C,D,C,MRSM/Picture4.png,"中文：Ibrahim Haji Yaakob参与成立Kesatuan Melayu Muda，通过组织推动马来民族意识。 答案纸参考：F4第40页。
+Bahasa Melayu: Ibrahim Haji Yaakob menubuhkan Kesatuan Melayu Muda untuk menggerakkan kesedaran nasionalisme melalui persatuan. Rujukan skema: T4 ms.40."
+F4 Chp 2,radio,N_Q04,A,B,C,D,A,N9/Picture4.png,"中文：这些领袖的反抗集中在各自地区，针对殖民侵犯本地权利，属于地方性斗争。 答案纸参考：F4第33页。
+Bahasa Melayu: Perjuangan tokoh ini tertumpu di kawasan masing-masing untuk menentang pencabulan hak tempatan, maka bersifat setempat. Rujukan skema: T4 ms.33."
+F4 Chp 2,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png,"中文：C：Dol Said与Dato’ Bahaman在各自地区反抗英国侵占权力，属于地方性斗争；当时尚未形成全国统一的民族运动。答案纸参考：F4第33页。
+Bahasa Melayu: C: Dol Said dan Dato’ Bahaman mempertahankan kuasa serta kawasan masing-masing daripada British. Perjuangan mereka bersifat setempat, belum berbentuk gerakan kebangsaan yang menyeluruh. Rujukan skema: T4 ms. 33."
+F4 Chp 2,radio,Perak_Q04,A,B,C,D,A,Perak/Picture4.png,"中文：《Anak Mat Lela Gila》与《Putera Gunung Tahan》借故事传达反殖民意识，唤醒读者争取自由的精神。答案纸参考：F4，第34页。
+Bahasa Melayu: Novel Anak Mat Lela Gila dan Putera Gunung Tahan menyampaikan kesedaran menentang penjajahan serta membangkitkan semangat memperjuangkan kebebasan. Rujukan skema: F4, halaman 34."
+F4 Chp 2,radio,Perlis_Q04,A,B,C,D,D,Perlis/Picture4.png,"中文：Pak Sako的小说强调自由的可贵，并讽刺殖民者的行为，用文学唤醒民族意识，所以III和IV正确。答案纸参考：F4，第34页。
+Bahasa Melayu: Novel Pak Sako menekankan nikmat kebebasan dan menyindir tindakan penjajah untuk membangkitkan kesedaran nasionalisme. Maka III dan IV tepat. Rujukan skema: F4, halaman 34."
+F4 Chp 2,radio,PulauPinang_Q04,A,B,C,D,B,Pulau Pinang/Picture4.png,"中文：Kartini的著作批评殖民统治及社会压迫，也关注妇女教育与地位；这些内容符合“人民受到压迫”的选项。答案纸参考：F4，第30页。
+Bahasa Melayu: Karya Kartini membincangkan penindasan penjajah dan masyarakat serta kedudukan dan pendidikan wanita. Oleh itu, penindasan terhadap rakyat menepati kandungannya. Rujukan skema: F4, halaman 30."
+F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,A,Putrajaya set 1/Picture4.png,"中文：教育培养知识分子，使他们接触自由与民族意识等思想，并批判殖民统治，推动民族主义发展。答案纸参考：F4，第35页。
+Bahasa Melayu: Pendidikan melahirkan golongan intelek yang memahami idea kebebasan dan kesedaran bangsa serta mengkritik penjajahan, lalu menggerakkan nasionalisme. Rujukan skema: F4, halaman 35."
+F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,B,Putrajaya set 2/Picture4.png,"中文：原答案为B。课本说明KMS争取改善马来人的教育与政治地位，其行政就业诉求使马来人在公务体系的人数增加，因此问英国回应时D更直接；B是组织发展的相关现象。答案纸参考：F4，第40页。
+Bahasa Melayu: Jawapan asal ialah B. Buku teks menyatakan desakan KMS meningkatkan bilangan orang Melayu dalam perkhidmatan awam, maka D lebih langsung bagi tindakan British; B berkaitan perkembangan persatuan. Rujukan skema: F4, halaman 40."
+F4 Chp 2,radio,Sabah_Q04,A,B,C,D,A,Sabah/Picture4.png,"中文：A：满清未能阻止西方势力介入，民族主义者因此认为王朝不能维护中国主权。
+Bahasa Melayu: A: Dinasti Manchu gagal menghalang kemasukan kuasa Barat, lalu ditentang kerana tidak mempertahankan kedaulatan China."
+F4 Chp 2,radio,Sabk_Q04,A,B,C,D,B,SABK/Picture4.png,"中文：泰国民族主义曾推动反对专制王权及转向君主立宪，因此B配对正确；Thakin与Pongyi属于缅甸，胡志明属于越南。答案纸参考：F4，第31页。
+Bahasa Melayu: Nasionalisme Thailand menentang raja berkuasa mutlak dan membawa perubahan kepada Raja Berperlembagaan. Thakin dan Pongyi berkaitan Burma, manakala Ho Chi Minh berkaitan Vietnam. Rujukan skema: F4, halaman 31."
+F4 Chp 2,radio,SarawakSibu_Q04,A,B,C,D,B,Sarawak Sibu/Picture4.png,"中文：B：泰国没有受到西方殖民统治，早期运动针对绝对君主制；其他东南亚国家主要反抗外国殖民者。【答案纸参考：31；书页内容待逐页确认。】
+Bahasa Melayu: B: Thailand tidak dijajah oleh Barat, maka gerakannya menentang raja berkuasa mutlak. Gerakan negara lain di Asia Tenggara menentang penjajahan kuasa asing. [Rujukan skema: 31; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Sbp_Q04,A,B,C,D,C,SBP/Picture4.png,"中文：C：SITC培养了关心民族处境的教师和知识分子，其中出现民族主义领袖，推动马来人的民族觉醒。【答案纸参考：37；书页内容待逐页确认。】
+Bahasa Melayu: C: SITC melahirkan guru dan intelektual yang sedar tentang nasib bangsa serta tokoh nasionalis yang menyebarkan kesedaran kebangsaan. [Rujukan skema: 37; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Selangor_Q04,A,B,C,D,A,Selangor/Picture4.png,"中文：A：MCKK及SITC培养受教育的本地领袖，他们推动民族意识与政治组织。【答案纸参考：B2T4 M35；书页内容待逐页确认。】
+Bahasa Melayu: A: MCKK dan SITC melahirkan golongan pemimpin berpendidikan yang menyebarkan kesedaran kebangsaan dan menggerakkan nasionalisme. [Rujukan skema: B2T4 M35; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Smka_Q04,A,B,C,D,A,SMKA/Picture4.png,"中文：A：Pak Sako以小说讽刺殖民者，提醒读者自由的重要性，从而激发反殖民意识。【答案纸参考：T4 Hal.34；书页内容待逐页确认。】
+Bahasa Melayu: A: Pak Sako menggunakan sindiran terhadap penjajah dalam novelnya dan mengingatkan pembaca tentang kepentingan kebebasan. [Rujukan skema: T4 Hal.34; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Terengganu_Q04,A,B,C,D,A,Terengganu/Picture4.png,"中文：A：知识分子通过教育、文章及组织传播改革和民族意识，推动本地民族主义。【答案纸参考：BAB 2- MS 35；书页内容待逐页确认。】
+Bahasa Melayu: A: Golongan intelektual menyebarkan idea pembaharuan dan kesedaran kebangsaan melalui pendidikan, penulisan serta pertubuhan. [Rujukan skema: BAB 2- MS 35; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,Melaka_Q05,A,B,C,D,B,Melaka/Picture5.png,"中文：受西方教育的缅甸中产阶级成立佛教青年协会，维护佛教文化并发展反殖民意识。 答案纸参考：F4第29页。
+Bahasa Melayu: Kelas pertengahan Burma berpendidikan Barat menubuhkan Persatuan Belia Buddha untuk mempertahankan budaya Buddha serta kesedaran antipenjajah. Rujukan skema: T4 ms.29."
+F4 Chp 2,radio,Pahang_Q05,A,B,C,D,C,Pahang/Picture5.png,"中文：C：报刊等印刷媒体传播改革思想、揭露殖民问题，唤醒大众的民族意识，与宗教及文学创作一起推动民族主义。答案纸参考：F4第34–35页。
+Bahasa Melayu: C: Media cetak seperti akhbar dan majalah menyebarkan idea pembaharuan serta membangkitkan kesedaran terhadap penjajahan. Peranannya melengkapi agama dan penulisan kreatif. Rujukan skema: T4 ms. 34–35."
+F4 Chp 2,radio,Sabk_Q05,A,B,C,D,D,SABK/Picture5.png,"中文：KMM公开批判英国并唤醒反殖民情绪，因此被英国视为激进组织。答案纸参考：F4，第40页。
+Bahasa Melayu: KMM dianggap radikal kerana berani menentang British dan membangkitkan perasaan anti-British melalui perjuangannya. Rujukan skema: F4, halaman 40."
+F4 Chp 2,radio,SarawakSibu_Q05,A,B,C,D,A,Sarawak Sibu/Picture5.png,"中文：A：知识分子通过教育、写作及组织活动唤醒人民，是本地民族主义兴起的重要因素。【答案纸参考：34-35；书页内容待逐页确认。】
+Bahasa Melayu: A: Golongan intelektual menyebarkan kesedaran melalui pendidikan, penulisan dan pertubuhan, lalu mendorong kemunculan nasionalisme. [Rujukan skema: 34-35; kandungan halaman buku belum disahkan satu demi satu.]"
+F4 Chp 2,radio,SarawakSibu_Q06,A,B,C,D,B,Sarawak Sibu/Picture6.png,"中文：B：法国革命推翻绝对君主制，随后建立共和制度。【答案纸参考：25；书页内容待逐页确认。】
+Bahasa Melayu: B: Revolusi Perancis menentang pemerintahan raja mutlak dan membawa kepada pelaksanaan sistem republik. [Rujukan skema: 25; kandungan halaman buku belum disahkan satu demi satu.]"

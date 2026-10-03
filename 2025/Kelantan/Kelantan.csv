@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Kelantan 2025,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan 2025,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：早期马来世界国家的特征包括君主、法律、势力范围和人民，因此选法律C；其他选项属于马六甲国家特征的表述。 答案纸参考：F4第4页。
+Bahasa Melayu: Ciri negara bangsa kerajaan Alam Melayu ialah raja, undang-undang, wilayah pengaruh dan rakyat; maka undang-undang C tepat. Rujukan skema: T4 ms.4."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：Nakhoda Jenal与Nakhoda Sahak参与制定Undang-Undang Laut Melaka，规范航行、船上权力与贸易。 答案纸参考：F4第11页。
+Bahasa Melayu: Nakhoda Jenal dan Nakhoda Sahak mengusahakan Undang-Undang Laut Melaka bagi mengatur pelayaran, kuasa di kapal dan perdagangan. Rujukan skema: T4 ms.11."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：光荣革命限制君主专断并确立国会主权，为君主立宪制度奠定基础。 答案纸参考：F4第24页。
+Bahasa Melayu: Revolusi Keagungan mengehadkan kuasa mutlak raja dan menegakkan kedaulatan parlimen, menjadi asas Raja Berperlembagaan. Rujukan skema: T4 ms.24."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：Kajai和Za'ba通过文学创作批评社会问题、唤醒马来人的进步意识，传播民族主义。 答案纸参考：F4第33页。
+Bahasa Melayu: Kajai dan Za'ba menggunakan karya kreatif untuk mengkritik masalah masyarakat dan menyedarkan orang Melayu tentang kemajuan serta nasionalisme. Rujukan skema: T4 ms.33."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：Hitler派军队进驻原本非军事化的Rhineland，违反Versailles条约以恢复德国实力。 答案纸参考：F4第58页。
+Bahasa Melayu: Hitler menduduki Rhineland yang dinyahketenteraan, melanggar Perjanjian Versailles untuk memulihkan kekuatan Jerman. Rujukan skema: T4 ms.58."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：粮食配给卡记录居民领取物资的数量，让短缺情况下的分配有据可查。 答案纸参考：F4第72页。
+Bahasa Melayu: Kad catuan merekod kuantiti barangan yang diterima penduduk agar pengagihan semasa kekurangan makanan dapat dikawal. Rujukan skema: T4 ms.72."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：日军投降后的马来亚秩序混乱，BMA负责恢复稳定、公共秩序和行政。 答案纸参考：F4第94页。
+Bahasa Melayu: Selepas Jepun menyerah, Tanah Melayu tidak stabil; BMA bertugas memulihkan kestabilan, ketenteraman dan pentadbiran. Rujukan skema: T4 ms.94."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：Halimahton Majid与Datin Puteh Mariah动员妇女参与反Malayan Union运动，捍卫马来权益。 答案纸参考：F4第103页。
+Bahasa Melayu: Halimahton Majid dan Datin Puteh Mariah menggerakkan wanita membantah Malayan Union demi mempertahankan kepentingan orang Melayu. Rujukan skema: T4 ms.103."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：1946年工作委员会由英国、君主代表及UMNO组成，商讨取代Malayan Union的联邦协议。 答案纸参考：F4第126页。
+Bahasa Melayu: Jawatankuasa Kerja 1946 melibatkan British, wakil raja dan UMNO untuk membincangkan Perjanjian Persekutuan yang menggantikan Malayan Union. Rujukan skema: T4 ms.126."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：1948年协议保障马来人的特殊地位，并以高级专员责任等安排落实保护。 答案纸参考：F4第136页。
+Bahasa Melayu: Perjanjian 1948 melindungi kedudukan istimewa orang Melayu melalui peruntukan termasuk tanggungjawab Pesuruhjaya Tinggi. Rujukan skema: T4 ms.136."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：共产党通过渗透组织及国民党分支等渠道传播思想，所以III、IV正确。 答案纸参考：F4第146–147页。
+Bahasa Melayu: Ideologi komunis disebarkan melalui penyusupan pertubuhan dan cawangan Parti Kuomintang, maka III dan IV betul. Rujukan skema: T4 ms.146–147."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Baling谈判中政府要求共产党投降，不接受承认PKM为合法政党的要求，导致谈判失败。 答案纸参考：F4第160页。
+Bahasa Melayu: Kerajaan menuntut komunis menyerah dan tidak menerima tuntutan pengiktirafan PKM sebagai parti sah, menyebabkan Rundingan Baling gagal. Rujukan skema: T4 ms.160."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：IMP开放给各族加入，以跨族合作建立全国团结，而非单一族群政党。 答案纸参考：F4第173页。
+Bahasa Melayu: IMP dibuka kepada semua kaum untuk membina perpaduan kebangsaan melalui kerjasama, bukan parti satu kaum sahaja. Rujukan skema: T4 ms.173."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：英国时期各源流学校使用不同课程，分隔族群。原答案B为英国支付薪金，但题意应选D，答案纸也写D，保留原key并注明差异。 答案纸参考：F4第180页。
+Bahasa Melayu: Sekolah pelbagai aliran menggunakan kurikulum berlainan, memisahkan kaum. Jawapan asal B ialah gaji dibayar British, tetapi D menepati soalan dan skema; key asal dikekalkan dengan perbezaan ini dicatat. Rujukan skema: T4 ms.180."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：联盟赢得绝大多数州席位，表明选民接受跨族合作，应选B；原key D强调地方行政，并非数据最直接结论，答案纸也写B。 答案纸参考：F4第197页。
+Bahasa Melayu: Kemenangan besar Perikatan membuktikan kerjasama kaum diterima, B. Key asal D tentang pentadbiran tempatan bukan kesimpulan paling langsung daripada keputusan ini; skema juga B. Rujukan skema: T4 ms.197."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：1955年候选人须年满21岁并为马来亚公民，不要求高学历或必须是党领袖，所以I、IV正确。 答案纸参考：F4第200页。
+Bahasa Melayu: Calon 1955 mesti berumur sekurang-kurangnya 21 tahun dan warganegara Tanah Melayu, bukan semestinya berpendidikan tinggi atau ketua parti; I dan IV betul. Rujukan skema: T4 ms.200."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：Sheikh Abdullah Fahim提供意见，协助Tunku确定适当的独立日期。 答案纸参考：F4第218页。
+Bahasa Melayu: Sheikh Abdullah Fahim memberi pandangan kepada Tunku untuk menentukan tarikh kemerdekaan yang sesuai. Rujukan skema: T4 ms.218."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：1956年2月20日Tunku在Banda Hilir向民众宣布1957年8月31日独立，传播伦敦谈判成果。 答案纸参考：F4第219页。
+Bahasa Melayu: Pada 20 Februari 1956, Tunku mengumumkan tarikh merdeka 31 Ogos 1957 di Banda Hilir selepas kejayaan rundingan London. Rujukan skema: T4 ms.219."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：庆典委员会举办礼仪课程，确保独立庆典的程序、座位及正式礼节顺利执行。 答案纸参考：F4第237页。
+Bahasa Melayu: Jawatankuasa sambutan menganjurkan kursus protokol untuk memastikan tatacara dan istiadat sambutan kemerdekaan berjalan teratur. Rujukan skema: T4 ms.237."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：降下Union Jack象征英国殖民统治终结，国家开始独立自主。 答案纸参考：F4第238页。
+Bahasa Melayu: Penurunan Union Jack melambangkan berakhirnya penjajahan British dan bermulanya kemerdekaan negara. Rujukan skema: T4 ms.238."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：传统主权以君主为最高权力中心，体现君主对臣民和国家的统治权。 答案纸参考：F5第6页。
+Bahasa Melayu: Kedaulatan tradisional berpusat pada raja yang memiliki kuasa tertinggi terhadap rakyat dan negara. Rujukan skema: T5 ms.6."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：国家获得联合国等国际组织承认，体现国际主权，而非传统或法律主权。 答案纸参考：F5第7页。
+Bahasa Melayu: Pengiktirafan negara oleh PBB menunjukkan kedaulatan antarabangsa, bukan kedaulatan tradisional atau undang-undang. Rujukan skema: T5 ms.7."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：宪法规定政府结构、权限和基本原则，为国家治理确定方向。 答案纸参考：F5第20页。
+Bahasa Melayu: Perlembagaan menetapkan struktur, kuasa dan prinsip pemerintahan, lalu menentukan hala tuju pentadbiran negara. Rujukan skema: T5 ms.20."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：议会民主让人民通过选举代表参与治理，而不是法庭立法或君主直接掌管行政。 答案纸参考：F5第29页。
+Bahasa Melayu: Demokrasi Berparlimen membolehkan rakyat terlibat dalam pemerintahan melalui pemilihan wakil, bukan mahkamah menggubal undang-undang. Rujukan skema: T5 ms.29."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：州层面的最高元首是Sultan；Menteri Besar是政府行政首长，两者角色不同。 答案纸参考：F5第41页。
+Bahasa Melayu: Sultan ialah ketua utama negeri; Menteri Besar mengetuai pentadbiran kerajaan negeri, maka peranannya berbeza. Rujukan skema: T5 ms.41."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：国家元首任命被认为获得下议院多数信任的首相，属于行政权。 答案纸参考：F5第48页。
+Bahasa Melayu: YDPA melantik Perdana Menteri yang pada hemat baginda mendapat kepercayaan majoriti Dewan Rakyat, suatu kuasa eksekutif. Rujukan skema: T5 ms.48."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：土地事务属于州清单；教育、卫生和外交主要属于联邦权限。 答案纸参考：F5第70页。
+Bahasa Melayu: Tanah termasuk Senarai Negeri; pelajaran, kesihatan dan hal ehwal luar ialah bidang persekutuan. Rujukan skema: T5 ms.70."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：联邦制定海洋公园政策，州政府负责相关岛屿的发展规划，D体现权限分工。 答案纸参考：F5第75页。
+Bahasa Melayu: Kerajaan Persekutuan membentuk dasar Taman Laut, manakala kerajaan negeri menyediakan pembangunan pulau; D menunjukkan pembahagian tugas. Rujukan skema: T5 ms.75."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：这些民族主义者提出Melayu Raya，将马来亚与印尼结合，以共同文化和独立斗争为基础。 答案纸参考：F5第92页。
+Bahasa Melayu: Tokoh ini mencadangkan Melayu Raya yang menggabungkan Tanah Melayu dengan Indonesia berdasarkan persamaan budaya dan perjuangan kemerdekaan. Rujukan skema: T5 ms.92."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：Cobbold报告显示多数民众支持成立马来西亚，并建议保障Sabah、Sarawak的自治权，故I、II正确。 答案纸参考：F5第100页。
+Bahasa Melayu: Laporan Cobbold menunjukkan majoriti menyokong Malaysia dan mencadangkan jaminan kuasa autonomi Sabah serta Sarawak; I dan II betul. Rujukan skema: T5 ms.100."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：族群紧张及PAP提出平等权利的政治口号，造成与联邦政府冲突，促成分离。 答案纸参考：F5第119页。
+Bahasa Melayu: Masalah perkauman dan tuntutan hak sama rata oleh PAP menimbulkan pertentangan dengan kerajaan persekutuan sehingga menyumbang pemisahan. Rujukan skema: T5 ms.119."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：政府立即宣布紧急状态，以特别措施恢复秩序并制止1969年族群暴力。 答案纸参考：F5第129页。
+Bahasa Melayu: Kerajaan segera mengisytiharkan darurat untuk mengambil langkah khas memulihkan ketenteraman dan menghentikan keganasan kaum 1969. Rujukan skema: T5 ms.129."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：联邦宪法是各族共同遵循的国家制度基础，因此是族群团结和全国整合的指南。 答案纸参考：F5第140页。
+Bahasa Melayu: Perlembagaan Persekutuan menjadi asas bersama yang dipatuhi semua kaum, membimbing perpaduan kaum dan integrasi nasional. Rujukan skema: T5 ms.140."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：UKM以马来语作为高等教育媒介，提升马来语作为知识语言的地位。 答案纸参考：F5第149页。
+Bahasa Melayu: UKM menggunakan bahasa Melayu dalam pengajian tinggi untuk memartabatkannya sebagai bahasa ilmu. Rujukan skema: T5 ms.149."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：政府机构提供就业、创业和农业援助，提高生产力与收入，帮助消除贫困。 答案纸参考：F5第169页。
+Bahasa Melayu: Agensi kerajaan membantu pekerjaan, perniagaan dan pertanian untuk meningkatkan produktiviti serta pendapatan dan mengurangkan kemiskinan. Rujukan skema: T5 ms.169."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：区域开发通过开垦土地、发展油棕种植与相关产业带动就业，按题意选C。题干把KEJORA写成Pahang Tenggara是笔误：KEJORA属Johor Tenggara，Pahang Tenggara是DARA。 答案纸参考：F5第171页。
+Bahasa Melayu: Pembangunan wilayah membuka tanah untuk kelapa sawit dan industri berkaitan bagi menyediakan pekerjaan, C. Nama dalam soalan tersilap: KEJORA ialah Johor Tenggara, manakala Pahang Tenggara ialah DARA. Rujukan skema: T5 ms.171."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：Colombo Plan提供技术援助、培训和教育，提升发展中国家的经济能力以解决贫困。 答案纸参考：F5第206页。
+Bahasa Melayu: Rancangan Colombo menyediakan bantuan teknikal, latihan dan pendidikan untuk meningkatkan keupayaan ekonomi serta menangani kemiskinan. Rujukan skema: T5 ms.206."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：国际政治变化和经济发展需求影响外交政策，马来西亚须在安全与经济利益间协调，所以I、II正确。 答案纸参考：F5第208–209页。
+Bahasa Melayu: Politik antarabangsa dan keperluan pembangunan ekonomi mempengaruhi dasar luar; Malaysia perlu menyelaraskan keselamatan dan kepentingan ekonomi, I dan II. Rujukan skema: T5 ms.208–209."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：东盟高级官员会议讨论毒品问题，协调成员国防止滥用与跨境贩运。 答案纸参考：F5第226页。
+Bahasa Melayu: Mesyuarat pegawai kanan ASEAN membincangkan dadah untuk menyelaraskan pencegahan penyalahgunaan dan pengedaran rentas sempadan. Rujukan skema: T5 ms.226."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：Agenda 21是管理人类活动、促进可持续发展的行动方案，兼顾发展与环境保护。 答案纸参考：F5第239页。
+Bahasa Melayu: Agenda 21 ialah pelan tindakan mengurus aktiviti manusia untuk pembangunan mampan dengan menyeimbangkan pembangunan dan perlindungan alam. Rujukan skema: T5 ms.239."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kedah F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kedah F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：Ibnu Khaldun把主权理解为建立在民族团结精神上的国家力量与权力，故选C。答案纸参考：F5第5页。
+Bahasa Melayu: Ibnu Khaldun mentafsir kedaulatan sebagai kekuatan dan kekuasaan negara berasaskan semangat kekitaan bangsanya, C. Rujukan skema: T5 ms.5."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：主权国家具有政府、法律、边界及人民；人民接受法律和政府管理并组成国家社会。答案纸参考：F5第8–9页。
+Bahasa Melayu: Negara berdaulat mempunyai pemerintahan, perundangan, sempadan dan rakyat; rakyat membentuk masyarakat serta tertakluk pada undang-undang negara. Rujukan skema: T5 ms.8–9."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：Charter of Justice旨在保护海峡殖民地居民，建立法律与司法保障，故按答案选A。答案纸参考：F5第23–24页。
+Bahasa Melayu: Charter of Justice diperkenalkan untuk melindungi penduduk di Negeri-negeri Selat melalui sistem undang-undang dan kehakiman, maka A mengikut skema. Rujukan skema: T5 ms.23–24."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：Sabah、Sarawak等区域加入马来西亚，必须修改宪法以配合新联邦结构与行政安排。答案纸参考：F5第30页。
+Bahasa Melayu: Penggabungan wilayah seperti Sabah dan Sarawak dalam Malaysia memerlukan pindaan perlembagaan bagi menyesuaikan struktur serta pentadbiran persekutuan. Rujukan skema: T5 ms.30."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：涉及君主地位等特定事项的宪法修改须获统治者会议同意，体现其保障宪法重要原则的作用。答案纸参考：F5第44页。
+Bahasa Melayu: Pindaan perlembagaan bagi perkara tertentu seperti kedudukan raja memerlukan perkenan Majlis Raja-Raja, yang melindungi prinsip penting perlembagaan. Rujukan skema: T5 ms.44."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：宗教自由是基本自由之一，人民可信奉及实践各自宗教，但仍受宪法规定约束。答案纸参考：F5第51页。
+Bahasa Melayu: Kebebasan beragama ialah kebebasan asasi; rakyat boleh menganut dan mengamalkan agama masing-masing tertakluk pada perlembagaan. Rujukan skema: T5 ms.51."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：房屋事务属于共同清单，由联邦和州政府共同负责；国防、财政和公民权属联邦领域。答案纸参考：F5第70页。
+Bahasa Melayu: Perumahan termasuk Senarai Bersama yang melibatkan kerajaan persekutuan dan negeri; pertahanan, kewangan dan kewarganegaraan bidang persekutuan. Rujukan skema: T5 ms.70."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：全国财政理事会与全国房屋理事会协调联邦、州的政策与执行，因此II、III正确。答案纸参考：F5第81页。
+Bahasa Melayu: Majlis Kewangan Negara dan Majlis Perumahan Negara menyelaraskan dasar serta pelaksanaan antara persekutuan dengan negeri, maka II dan III betul. Rujukan skema: T5 ms.81."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：联合国秘书长关于Sabah和Sarawak民意调查的报告未及时完成，使成立日期推迟至9月16日。答案纸参考：F5第104页。
+Bahasa Melayu: Laporan Setiausaha PBB tentang tinjauan kehendak rakyat Sabah dan Sarawak lewat disiapkan, menyebabkan tarikh pembentukan ditunda ke 16 September. Rujukan skema: T5 ms.104."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：各委员会和谈判通过协商兼顾各地区利益，体现容忍、接受不同意见的态度。答案纸参考：F5第99–102页。
+Bahasa Melayu: Jawatankuasa dan rundingan mengambil kira kepentingan wilayah melalui perbincangan, menunjukkan toleransi serta penerimaan pandangan berbeza. Rujukan skema: T5 ms.99–102."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：内陆学校不足及交通通讯落后，限制Sabah和Sarawak人民获得教育和发展机会，所以III、IV正确。答案纸参考：F5第116页。
+Bahasa Melayu: Kekurangan sekolah pedalaman serta masalah pengangkutan dan perhubungan mengehadkan pendidikan dan pembangunan Sabah serta Sarawak, maka III dan IV betul. Rujukan skema: T5 ms.116."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：MAGERAN在1969年骚乱后负责恢复治安、秩序与政府运作，因此选D。答案纸参考：F5第130页。
+Bahasa Melayu: MAGERAN ditubuhkan selepas rusuhan 1969 untuk memulihkan ketenteraman, keamanan dan pentadbiran negara, D. Rujukan skema: T5 ms.130."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：1956年教育报告倡议相同学校制度；Rahman Talib报告强调历史教育以加强国家忠诚，C配对正确。答案纸参考：F4第183页及F5第145页。
+Bahasa Melayu: Penyata 1956 mencadangkan sistem persekolahan sama, manakala Laporan Rahman Talib menekankan Sejarah bagi memupuk kesetiaan negara; pasangan C betul. Rujukan skema: T4 ms.183 dan T5 ms.145."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：SUKMA让各州和各族运动员共同参与赛事，在合作与体育精神中培养团结。答案纸参考：F5第150页。
+Bahasa Melayu: SUKMA menghimpunkan atlet pelbagai negeri dan kaum, memupuk perpaduan melalui penyertaan serta semangat kesukanan. Rujukan skema: T5 ms.150."
+,radio,F5 Bab 7,A,B,C,D,A,Picture35.png,"中文：文化活动让不同族群欣赏彼此文化、增加交流，培养muhibbah即友好和睦精神。答案纸参考：F5第153页。
+Bahasa Melayu: Program kebudayaan menggalakkan penghargaan budaya dan interaksi antara kaum, memupuk semangat muhibah. Rujukan skema: T5 ms.153."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：FELDA开发土地并建立居民安置区，配备道路、学校和诊所等设施，提升乡村生活条件。答案纸参考：F5第170页。
+Bahasa Melayu: FELDA membuka tanah dan petempatan dengan jalan, sekolah serta klinik, meningkatkan kemudahan asas dan taraf hidup luar bandar. Rujukan skema: T5 ms.170."
+,radio,F5 Bab 8,A,B,C,D,B,Picture37.png,"中文：自由工业区提供优惠吸引外国投资，同时带动周边就业、商业和经济，故I、IV正确。答案纸参考：F5第186页。
+Bahasa Melayu: Zon perindustrian bebas menawarkan kemudahan untuk menarik pelaburan asing dan merangsang pekerjaan serta ekonomi sekitarnya, maka I dan IV betul. Rujukan skema: T5 ms.186."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：马来西亚与中国建立关系，是落实ZOPFAN和平、自由及中立概念的举措之一。答案纸参考：F5第210页。
+Bahasa Melayu: Hubungan Malaysia dengan China merupakan langkah mengisi konsep ZOPFAN, iaitu keamanan, kebebasan dan berkecuali. Rujukan skema: T5 ms.210."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：Lusaka宣言表达不结盟国家推动禁止核武器的承诺，符合马来西亚支持和平的立场。答案纸参考：F5第213页。
+Bahasa Melayu: Perisytiharan Lusaka menyatakan iltizam NAM mendesak pengharaman senjata nuklear, selaras pendirian keamanan Malaysia. Rujukan skema: T5 ms.213."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：AFTA降低成员间商品关税，减少贸易成本并促进东盟区域贸易与经济。答案纸参考：F5第230页。
+Bahasa Melayu: AFTA mengurangkan tarif barangan antara anggota, menurunkan kos perdagangan dan menggalakkan ekonomi serantau ASEAN. Rujukan skema: T5 ms.230."

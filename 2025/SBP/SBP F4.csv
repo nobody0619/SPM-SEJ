@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-SBP F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SBP F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：D：Nobat和王室礼器是苏丹权威与国家主权的象征，因此重点不是财富或艺术特色。【答案纸参考：7；书页内容待逐页确认。】
+Bahasa Melayu: D: Nobat dan regalia melambangkan kedaulatan serta kekuasaan sultan, bukan sekadar kekayaan atau keunikan seni. [Rujukan skema: 7; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：B：传统君民关系要求人民忠于国王并服从统治者命令；违抗国王被认为会招致tulah。【答案纸参考：13；书页内容待逐页确认。】
+Bahasa Melayu: B: Dalam hubungan pemerintah dengan rakyat, rakyat perlu setia dan mematuhi arahan raja. Penderhakaan dipercayai membawa tulah. [Rujukan skema: 13; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：缅甸早期民族主义着重保存佛教传统；越南早期运动则主张恢复君主统治，并非一开始就要求立即独立。【答案纸参考：29；书页内容待逐页确认。】
+Bahasa Melayu: A: Nasionalisme awal di Burma mempertahankan tradisi Buddha, manakala gerakan awal di Vietnam mahu memulihkan pemerintahan beraja. [Rujukan skema: 29; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：C：SITC培养了关心民族处境的教师和知识分子，其中出现民族主义领袖，推动马来人的民族觉醒。【答案纸参考：37；书页内容待逐页确认。】
+Bahasa Melayu: C: SITC melahirkan guru dan intelektual yang sedar tentang nasib bangsa serta tokoh nasionalis yang menyebarkan kesedaran kebangsaan. [Rujukan skema: 37; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：Nippon Seishin和日语教学用于灌输日本精神，使学生服从并效忠日本统治。【答案纸参考：72；书页内容待逐页确认。】
+Bahasa Melayu: C: Semangat Nippon Seishin dan pengajaran Nippon Go digunakan untuk menanamkan kesetiaan kepada pemerintahan Jepun. [Rujukan skema: 72; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：A：日据时期的报章配合日本宣传，传播反西方殖民的精神，以争取当地人民支持。【答案纸参考：80；书页内容待逐页确认。】
+Bahasa Melayu: A: Akhbar zaman pendudukan Jepun menyebarkan propaganda antipenjajah Barat bagi mendapatkan sokongan penduduk tempatan. [Rujukan skema: 80; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：C（II、III）：BMA的目标是恢复战后治安，并重建人民对行政当局的信任。【答案纸参考：94-95；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): BMA bertujuan mengembalikan keamanan selepas perang serta memulihkan kepercayaan rakyat terhadap pentadbiran. [Rujukan skema: 94-95; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：A：这些口号强调砂拉越属于当地人民，反对Brooke把砂拉越移交给英国成为殖民地。【答案纸参考：110；书页内容待逐页确认。】
+Bahasa Melayu: A: Slogan tersebut menegaskan hak rakyat Sarawak dan membantah penyerahan Sarawak oleh Brooke kepada British sebagai tanah jajahan. [Rujukan skema: 110; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：A：工作委员会建议在各州成立州立法议会，作为1948年马来亚联合邦体制的一部分。【答案纸参考：127；书页内容待逐页确认。】
+Bahasa Melayu: A: Jawatankuasa Kerja mencadangkan penubuhan Dewan Perundangan Negeri dalam susunan Persekutuan Tanah Melayu 1948. [Rujukan skema: 127; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：C：马六甲属于海峡殖民地，在当地出生而符合相关条件的人属于英国臣民，而非马来统治者臣民。【答案纸参考：135；书页内容待逐页确认。】
+Bahasa Melayu: C: Melaka ialah Negeri Selat. Penduduk yang lahir di situ dan memenuhi syarat berkaitan tergolong sebagai rakyat British, bukan rakyat Raja Melayu. [Rujukan skema: 135; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：A：英国拘捕左翼领袖，目的是控制激进政治运动，防止其挑战殖民统治。【答案纸参考：152；书页内容待逐页确认。】
+Bahasa Melayu: A: British menangkap pemimpin berhaluan kiri untuk mengawal gerakan radikal yang mencabar pentadbiran kolonial. [Rujukan skema: 152; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：B（I、IV）：东姑要求马共放下武器并解散组织；马共不肯接受这些条件，谈判未能达成协议。【答案纸参考：160；书页内容待逐页确认。】
+Bahasa Melayu: B (I dan IV): Tunku Abdul Rahman menuntut PKM meletakkan senjata dan membubarkan parti. Keengganan PKM menerima syarat itu menyebabkan rundingan gagal. [Rujukan skema: 160; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：B：Sistem Ahli成员负责所属部门，并提出有关法律建议，训练本地领袖参与行政。【答案纸参考：178；书页内容待逐页确认。】
+Bahasa Melayu: B: Ahli bertanggungjawab terhadap portfolio masing-masing dan mencadangkan undang-undang, sebagai latihan kepada pemimpin tempatan dalam pentadbiran. [Rujukan skema: 178; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：A：1954年全国大会要求举行联邦选举，使人民可以选出代表并推动自治。【答案纸参考：186；书页内容待逐页确认。】
+Bahasa Melayu: A: Persidangan Kebangsaan 1954 menuntut pilihan raya Persekutuan supaya rakyat memilih wakil dan mempercepat usaha berkerajaan sendiri. [Rujukan skema: 186; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：D（III、IV）：选区划定后须登记选民，再进行候选人提名；投票结束后则点算选票。【答案纸参考：200-201；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Selepas penentuan sempadan kawasan, pengundi didaftarkan sebelum penamaan calon. Pengiraan undi dilakukan selepas pengundian. [Rujukan skema: 200-201; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：1955年首届内阁让本地领袖承担行政责任，为建立自治政府及争取独立作准备。【答案纸参考：206；书页内容待逐页确认。】
+Bahasa Melayu: B: Kabinet pertama 1955 memberi pemimpin tempatan tanggungjawab pentadbiran dan menjadi asas pembentukan kerajaan sendiri menuju kemerdekaan. [Rujukan skema: 206; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：C（II、III）：制宪委员会向居民征求建议并审查宪制安排，依据各方意见拟定宪法。【答案纸参考：221；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Suruhanjaya meminta cadangan penduduk dan meneliti kedudukan perlembagaan sebelum merangka cadangan perlembagaan baharu. [Rujukan skema: 221; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：D：马来统治者的备忘录建议由Yang di-Pertuan Agong担任国家元首，保留君主制度。【答案纸参考：222；书页内容待逐页确认。】
+Bahasa Melayu: D: Memorandum Raja-raja Melayu mencadangkan Yang di-Pertuan Agong sebagai Ketua Negara bagi mengekalkan institusi beraja. [Rujukan skema: 222; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：A：加入Sterling Bloc有利于贸易和金融往来，从而加强独立后的国家经济。【答案纸参考：243；书页内容待逐页确认。】
+Bahasa Melayu: A: Penyertaan dalam Blok Sterling memudahkan hubungan perdagangan dan kewangan, sekali gus mengukuhkan ekonomi negara selepas merdeka. [Rujukan skema: 243; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B：国徽呈现国家的历史、主权及特征，是代表国家身份的象征。【答案纸参考：247；书页内容待逐页确认。】
+Bahasa Melayu: B: Jata Negara menggambarkan sejarah, kedaulatan dan ciri negara, lalu mencerminkan identiti kebangsaan. [Rujukan skema: 247; kandungan halaman buku belum disahkan satu demi satu.]"

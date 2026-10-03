@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-SMKA F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SMKA F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：C：Kutara Manawa规范社会行为和治理，确保Majapahit国家安宁及人民福祉。【答案纸参考：T4 Hal.4；书页内容待逐页确认。】
+Bahasa Melayu: C: Kutara Manawa mengatur kehidupan dan pentadbiran bagi memastikan kesejahteraan kerajaan Majapahit. [Rujukan skema: T4 Hal.4; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：D：课本把Lingga、Patani及Kedah列为通过王室婚姻取得的影响地区，区别于征服所得地区。【答案纸参考：T4 Hal.7；书页内容待逐页确认。】
+Bahasa Melayu: D: Lingga, Patani dan Kedah termasuk wilayah pengaruh yang diperoleh melalui perkahwinan diraja, bukan penaklukan. [Rujukan skema: T4 Hal.7; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：John Locke反对君主拥有绝对权力，主张政府权力受到限制，支持君主立宪原则。【答案纸参考：T4 Hal.24；书页内容待逐页确认。】
+Bahasa Melayu: A: John Locke menolak kuasa mutlak raja dan menyokong pemerintahan yang kuasanya dibatasi, selaras dengan Raja Berperlembagaan. [Rujukan skema: T4 Hal.24; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：A：Pak Sako以小说讽刺殖民者，提醒读者自由的重要性，从而激发反殖民意识。【答案纸参考：T4 Hal.34；书页内容待逐页确认。】
+Bahasa Melayu: A: Pak Sako menggunakan sindiran terhadap penjajah dalam novelnya dan mengingatkan pembaca tentang kepentingan kebebasan. [Rujukan skema: T4 Hal.34; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：第一次世界大战的因素包括帝国主义列强争夺殖民地与经济利益。答案纸写A及T4第54页，但“新意识形态”属于第二次世界大战因素；题库C符合题干。【答案纸参考：T4 Hal. 54；书页内容待逐页确认。】
+Bahasa Melayu: C: Persaingan kuasa imperialis untuk tanah jajahan dan kepentingan ekonomi mencetuskan Perang Dunia Pertama. Skema mencatat A dan T4 halaman 54, tetapi ideologi baharu ialah faktor Perang Dunia Kedua; C sesuai dengan soalan ini. [Rujukan skema: T4 Hal. 54; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：A：Dato’ Onn与Kiai Salleh同Bintang Tiga谈判，缓和冲突，恢复柔佛的和平。【答案纸参考：T4 Hal. 85；书页内容待逐页确认。】
+Bahasa Melayu: A: Rundingan Dato’ Onn dan Kiai Salleh dengan Bintang Tiga meredakan konflik serta mengembalikan keamanan di Johor. [Rujukan skema: T4 Hal. 85; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：C：战后BMA恢复治安及基本行政，重建人民对英国政府的信任。【答案纸参考：T4 Hal. 94；书页内容待逐页确认。】
+Bahasa Melayu: C: BMA memulihkan keamanan dan pentadbiran selepas perang untuk mengembalikan kepercayaan rakyat terhadap British. [Rujukan skema: T4 Hal. 94; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：D：1946年移交后，砂拉越成为英国直属殖民地，失去原先的Brooke统治。【答案纸参考：T4 Hal. 108；书页内容待逐页确认。】
+Bahasa Melayu: D: Penyerahan pada 1946 menjadikan Sarawak tanah jajahan British dan menamatkan pemerintahan Brooke. [Rujukan skema: T4 Hal. 108; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：B（I、IV）：工作委员会主张维护马来人的特殊地位，并恢复马来统治者在新联邦中的地位。【答案纸参考：T4 Hal.127；书页内容待逐页确认。】
+Bahasa Melayu: B (I dan IV): Jawatankuasa Kerja mencadangkan pemeliharaan keistimewaan orang Melayu dan pemulihan kedudukan Raja-raja Melayu. [Rujukan skema: T4 Hal.127; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：D：父亲为Rakyat Raja的条件使他可按法律规定取得公民身份，不是通过申请归化。【答案纸参考：T4 Hal.135；书页内容待逐页确认。】
+Bahasa Melayu: D: Status bapanya sebagai Rakyat Raja membolehkan kerakyatan diperoleh secara kuat kuasa undang-undang, bukan naturalisasi. [Rujukan skema: T4 Hal.135; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：B：迁入受管制的新村可切断居民向共产党提供粮食、情报及援助的渠道，削弱共产党活动。【答案纸参考：T4 Hal.157；书页内容待逐页确认。】
+Bahasa Melayu: B: Pemindahan ke Kampung Baru memutuskan bekalan makanan, maklumat dan bantuan penduduk kepada komunis, lalu melemahkan gerakan mereka. [Rujukan skema: T4 Hal.157; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：A：Kawasan Putih指被宣布没有共产党威胁的地区，区别于仍受威胁的Kawasan Hitam。【答案纸参考：T4 Hal.160；书页内容待逐页确认。】
+Bahasa Melayu: A: Kawasan Putih ialah kawasan yang diisytiharkan bebas daripada ancaman komunis, berbeza dengan Kawasan Hitam. [Rujukan skema: T4 Hal.160; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：D：Melayu Raya主张把同属马来民族群体的地区联合，以共同摆脱殖民统治。【答案纸参考：T4 Hal.172；书页内容待逐页确认。】
+Bahasa Melayu: D: Melayu Raya bertujuan menyatukan rumpun Melayu dalam perjuangan bersama membebaskan wilayah daripada penjajahan. [Rujukan skema: T4 Hal.172; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：B：Sistem Ahli成员管理所属部门，并提出有关法律建议，积累自治行政经验。【答案纸参考：T4 Hal.179；书页内容待逐页确认。】
+Bahasa Melayu: B: Ahli mengurus portfolio dan mencadangkan undang-undang berkaitan, sebagai latihan pentadbiran menuju kerajaan sendiri. [Rujukan skema: T4 Hal.179; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：A：1955年联邦选举的选民须为联邦公民并年满21岁；会说马来语不是这里的必要条件。【答案纸参考：T4 Hal.200；书页内容待逐页确认。】
+Bahasa Melayu: A: Pengundi pilihan raya Persekutuan 1955 perlu menjadi warganegara dan berumur 21 tahun ke atas; kemahiran bahasa Melayu bukan syarat yang ditanya. [Rujukan skema: T4 Hal.200; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：1955年议会选举扩大本地代表参与，使人民逐步接掌国家行政。【答案纸参考：T4 Hal.204；书页内容待逐页确认。】
+Bahasa Melayu: B: Majlis Perundangan Persekutuan 1955 memperluas penyertaan wakil tempatan dan membolehkan rakyat mengambil alih pentadbiran secara beransur-ansur. [Rujukan skema: T4 Hal.204; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：C（II、III）：Dato’ Nik Ahmad Kamil和Dato’ Abdul Wahab Aziz代表马来统治者；东姑及Dr. Ismail代表联盟党。【答案纸参考：T4 Hal.216；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Dato’ Nik Ahmad Kamil dan Dato’ Abdul Wahab Aziz mewakili Raja-raja Melayu, manakala Tunku dan Dr. Ismail ialah wakil Parti Perikatan. [Rujukan skema: T4 Hal.216; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C：备忘录要求国家元首除维护马来人的特殊地位，也保障其他族群的合法利益。【答案纸参考：T4 Hal.222；书页内容待逐页确认。】
+Bahasa Melayu: C: Memorandum menghendaki Ketua Negara memelihara kedudukan istimewa orang Melayu serta menjaga kepentingan sah kaum lain. [Rujukan skema: T4 Hal.222; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：B：Mahatma Gandhi强调独立涵盖政治、经济和道德，每个国家有权自行管理国家。【答案纸参考：T4 Hal.234；书页内容待逐页确认。】
+Bahasa Melayu: B: Mahatma Gandhi menegaskan kemerdekaan merangkumi politik, ekonomi dan moral serta hak setiap negara mengurus negaranya sendiri. [Rujukan skema: T4 Hal.234; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：D：Buku Merah记录及监督乡村发展项目的进度，帮助政府确保计划落实。【答案纸参考：T4 Hal.244；书页内容待逐页确认。】
+Bahasa Melayu: D: Rancangan Buku Merah merekod dan memantau kemajuan projek pembangunan luar bandar supaya pelaksanaannya dapat diselaraskan. [Rujukan skema: T4 Hal.244; kandungan halaman buku belum disahkan satu demi satu.]"

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Putrajaya set 2 F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Putrajaya set 2 F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：人民效忠并承认统治者权力，强化马六甲的传统主权；国会及国家原则属于之后的现代制度。答案纸参考：F5，第6页。
+Bahasa Melayu: Taat setia golongan diperintah mengukuhkan kedaulatan raja Melaka. Dewan Negara dan Rukun Negara berkaitan sistem moden yang muncul kemudian. Rujukan skema: F5, halaman 6."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：尊重国徽、国歌及国旗培养对国家的归属、忠诚及自豪感，直接强化爱国精神。答案纸参考：F5，第14页。
+Bahasa Melayu: Menghormati jata, lagu dan bendera negara membina rasa bangga, kesetiaan serta cinta akan negara, lalu mengukuhkan patriotisme. Rujukan skema: F5, halaman 14."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：法律规定权力、责任及处罚，是统治者和大臣处理行政与社会事务的指南。答案纸参考：F5，第22页。
+Bahasa Melayu: Undang-undang menetapkan kuasa, tanggungjawab dan hukuman sebagai panduan raja serta pembesar menjalankan pemerintahan. Rujukan skema: F5, halaman 22."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：君主制度及马来人特殊地位是宪法的传统特征；公民权及议会民主属于现代特征，故I和IV正确。答案纸参考：F5，第28至29页。
+Bahasa Melayu: Pemerintahan beraja dan kedudukan istimewa orang Melayu ialah ciri tradisional, manakala kewarganegaraan dan demokrasi berparlimen ialah ciri moden. Maka I dan IV tepat. Rujukan skema: F5, halaman 28–29."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：人民通过选举选择代表及国家领导，是议会民主的主要政治权利；国家元首由统治者会议选出。答案纸参考：F5，第50页。
+Bahasa Melayu: Rakyat memilih wakil dan pemimpin melalui pilihan raya dalam demokrasi berparlimen. YDPA dipilih oleh Majlis Raja-Raja. Rujukan skema: F5, halaman 50."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：君主保持中立，按宪法发挥平衡作用，协助缓和政治纷争及维护制度稳定。答案纸参考：F5，第56页。
+Bahasa Melayu: Raja bersikap berkecuali dan menjalankan kuasa pengimbang menurut Perlembagaan untuk meredakan pertikaian politik. Rujukan skema: F5, halaman 56."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：房屋属于共同权限，可由国会及州议会在各自权限内立法；土地、农业及森林属于州权限，财政属于联邦。答案纸参考：F5，第70页。
+Bahasa Melayu: Perumahan termasuk Senarai Bersama. Tanah, pertanian dan perhutanan ialah bidang negeri, manakala kewangan ialah bidang Persekutuan. Rujukan skema: F5, halaman 70."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：宪法明确分配中央和州的权力，减少权限争执并让双方协调治理，有助国家稳定。答案纸参考：F5，第81页。
+Bahasa Melayu: Pembahagian kuasa yang jelas antara Persekutuan dan negeri mengurangkan pertikaian bidang kuasa serta menyokong kestabilan negara. Rujukan skema: F5, halaman 81."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：这些民族主义领袖提出Melayu Raya，主张马来亚与印尼联合；这与后来1963年的马来西亚组成不同。答案纸参考：F5，第92页。
+Bahasa Melayu: Tokoh tersebut mengemukakan gagasan Melayu Raya yang menggabungkan Tanah Melayu dengan Indonesia, berbeza daripada pembentukan Malaysia 1963. Rujukan skema: F5, halaman 92."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：科博尔委员会收集沙巴及砂拉越居民意见，评估他们对成立马来西亚的支持及所需保障。答案纸参考：F5，第100页。
+Bahasa Melayu: Suruhanjaya Cobbold menilai sokongan penduduk Sabah dan Sarawak serta syarat perlindungan yang diminta bagi pembentukan Malaysia. Rujukan skema: F5, halaman 100."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：新国家具有不同族群、区域及社会背景，巩固族群团结是成立马来西亚后的重要内部挑战。答案纸参考：F5，第118页。
+Bahasa Melayu: Kepelbagaian kaum, wilayah dan latar masyarakat menjadikan pengukuhan perpaduan kaum cabaran dalaman selepas pembentukan Malaysia. Rujukan skema: F5, halaman 118."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：第一大马计划推动经济及乡区发展，改善收入、设施及生活条件，以提高人民生活水平。答案纸参考：F5，第127页。
+Bahasa Melayu: RMK Pertama membangunkan ekonomi dan luar bandar, meningkatkan pendapatan serta kemudahan untuk menaikkan taraf hidup rakyat. Rujukan skema: F5, halaman 127."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：族群政治及分流教育减少跨族群共同经验，成为独立后团结挑战的历史因素，所以I和II正确。答案纸参考：F5，第141页。
+Bahasa Melayu: Politik berasaskan kaum dan pendidikan vernakular mengurangkan pengalaman bersama antara kaum, lalu menjadi faktor sejarah masalah perpaduan. Maka I dan II tepat. Rujukan skema: F5, halaman 141."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：社团、制服团体及运动让不同族群学生合作并建立友谊，因此课外活动促进团结。答案纸参考：F5，第156页。
+Bahasa Melayu: Persatuan, unit beruniform dan sukan memberi peluang murid pelbagai kaum bekerjasama serta membina persahabatan untuk memupuk perpaduan. Rujukan skema: F5, halaman 156."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：原答案D（PKEN）与课本不符。高科技重工业项目如造船维修、钢铁及发电由HICOM负责，因此C更符合；PKEN与工业园发展有关。表中“Perak”也应核为“Perai”。课本参考：F5，第185页。
+Bahasa Melayu: Skema D, PKEN, tidak sepadan dengan buku teks. Projek industri berat seperti membaiki kapal, besi keluli dan stesen janakuasa dikendalikan HICOM, maka C lebih tepat. PKEN berkaitan estet perindustrian; Perak dalam jadual juga perlu disemak sebagai Perai. Rujukan buku teks: F5, halaman 185."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：原答案C“发展中小工业”不符合自由工业区的直接目的。课本强调吸引投资并刺激邻区经济，因此D“鼓励外资”更合适。答案纸页码185偏向前页重工业；相关说明实际在186页。课本参考：F5，第186页。
+Bahasa Melayu: Skema C tentang IKS bukan tujuan langsung Zon Perindustrian Bebas. Buku teks menekankan tarikan pelaburan dan rangsangan ekonomi setempat, maka D lebih sesuai. Huraian berkaitan berada pada halaman 186, bukan 185 yang diberikan skema. Rujukan buku teks: F5, halaman 186."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：科伦坡计划提供技术训练、教育与发展援助，帮助成员国提升生活及处理贫困；不是军事同盟。答案纸参考：F5，第206页。
+Bahasa Melayu: Rancangan Colombo memberikan latihan, pendidikan dan bantuan pembangunan untuk meningkatkan kehidupan serta menangani kemiskinan, bukan pakatan ketenteraan. Rujukan skema: F5, halaman 206."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：2003年吉隆坡宣言关注巴勒斯坦及美国进攻伊拉克，主张和平处理国际争端，因此I和IV正确。答案纸参考：F5，第212页。
+Bahasa Melayu: Deklarasi Kuala Lumpur 2003 membangkitkan isu Palestin dan serangan Amerika terhadap Iraq serta penyelesaian secara aman. Maka I dan IV tepat. Rujukan skema: F5, halaman 212."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：课本把反棕油运动与植物油市场竞争联系起来：棕油与大豆油竞争，影响其他生产国的经济利益。答案纸参考：F5，第228页。
+Bahasa Melayu: Buku teks mengaitkan kempen antiminyak sawit dengan persaingan pasaran minyak sayuran, khususnya minyak sawit yang menyaingi minyak kacang soya. Rujukan skema: F5, halaman 228."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：减少温室气体及环境破坏有助维持生态，让下一代仍享有良好环境，这是环保国际合作的长远目标。答案纸参考：F5，第239页。
+Bahasa Melayu: Mengurangkan gas rumah hijau dan kemerosotan ekosistem memastikan alam sekitar dapat diwariskan kepada generasi baharu. Rujukan skema: F5, halaman 239."

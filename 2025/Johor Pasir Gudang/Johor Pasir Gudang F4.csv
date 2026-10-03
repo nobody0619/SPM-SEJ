@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Pasir Gudang F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Pasir Gudang F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：苏丹对人民和领土拥有最高统治权，体现苏丹主权Kedaulatan Sultan。因此选C；疆域大小和王室象征并不直接说明最高权力。（答案纸参考：F4，第6页。）
+Bahasa Melayu: Hak mutlak sultan terhadap rakyat dan wilayah menunjukkan kedaulatan, iaitu kuasa tertinggi pemerintah. Oleh itu, C tepat, bukan keluasan wilayah atau lambang kebesaran. Rujukan skema: Tingkatan 4, m.s. 6."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：人民应效忠苏丹并遵守法律，因此I和IV对应B。II加强经济也可属于人民的贡献，题目组合存在重叠；行政主要由统治者和大臣负责。（答案纸参考：F4，第13页。）
+Bahasa Melayu: Rakyat perlu taat setia kepada sultan dan mematuhi undang-undang, maka I dan IV memberikan B. II juga boleh menjadi sumbangan rakyat kepada kerajaan, jadi pilihan mempunyai pertindihan; pentadbiran terutama dijalankan pemerintah dan pembesar. Rujukan skema: Tingkatan 4, m.s. 13."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：现有答案C概括反对外来控制。但日本主要通过现代化避免西方殖民威胁，不是从已经被殖民的处境争取独立；中国和印度的具体斗争也不同，应理解共同点是维护国家自主。（答案纸参考：F4，第27页。）
+Bahasa Melayu: Jawapan semasa C merujuk penentangan terhadap penguasaan asing. Namun, Jepun memodenkan negara untuk mengelakkan ancaman imperialisme Barat, bukan membebaskan negara yang telah dijajah. Persamaan yang lebih tepat ialah mempertahankan kebebasan dan kepentingan negara. Rujukan skema: Tingkatan 4, m.s. 27."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：早期地方领袖的抗争通常局限在各自地区，反对英国干预并争取恢复地方自由。题目组合I和II强调地方性与自由诉求，因此选A。（答案纸参考：F4，第33页。）
+Bahasa Melayu: Penentangan Dol Said, Maharaja Lela dan Bahaman bersifat setempat serta menuntut kebebasan daripada campur tangan British. Oleh itu, I dan II paling sesuai, iaitu A. Rujukan skema: Tingkatan 4, m.s. 33."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：国际联盟无法有效阻止德国违反《凡尔赛条约》，例如扩军，导致侵略不断升级。意大利侵略的是埃塞俄比亚而非波兰，所以选D。（答案纸参考：F4，第59页。）
+Bahasa Melayu: Liga Bangsa-Bangsa gagal menghalang Jerman melanggar Perjanjian Versailles, termasuk tindakan memperkukuh ketenteraan. Itali menceroboh Habsyah, bukan Poland, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 59."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：日本最初把马来亚与苏门答腊合并管理，是为了建立特别防卫区域，协调军事控制，并非实现马来大一统构想。因此选B。（答案纸参考：F4，第70页。）
+Bahasa Melayu: Penggabungan Tanah Melayu dan Sumatera pada peringkat awal pentadbiran Jepun bertujuan membentuk Kawasan Pertahanan Khas. Tujuannya berkaitan keperluan ketenteraan Jepun, bukan Melayu Raya, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 70."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：英国希望通过宽松公民权稳定移民居留，让他们持续提供劳动力，支持矿业和种植业等经济活动。因此经济目的对应B。（答案纸参考：F4，第96页。）
+Bahasa Melayu: British berharap golongan imigran kekal di Tanah Melayu dan membekalkan tenaga kerja secara berterusan. Tenaga kerja ini diperlukan untuk perkembangan ekonomi, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 96."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：英国通过给予晋升等利益来笼络沙巴社团领袖，减少他们组织反对割让的可能。因此选B，而不是把领袖全部监禁或送出国。（答案纸参考：F4，第116页。）
+Bahasa Melayu: British menawarkan kenaikan pangkat kepada pemimpin persatuan di Sabah untuk mendapatkan sokongan dan mengurangkan penentangan terhadap penyerahan. Oleh itu, B tepat. Rujukan skema: Tingkatan 4, m.s. 116."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：1948年联合邦恢复马来统治者的地位，并保障马来人的特殊地位。因此马来人获得的主要保障是特殊地位受到保护，选C。（答案纸参考：F4，第136页。）
+Bahasa Melayu: Perjanjian Persekutuan Tanah Melayu 1948 memulihkan kedudukan Raja-raja Melayu dan melindungi kedudukan istimewa orang Melayu. Oleh itu, C tepat. Rujukan skema: Tingkatan 4, m.s. 136."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：1948年联合邦取代Malayan Union，恢复马来统治者被削弱的权力及州层面的地位。所以对君主制度的影响是归还统治者权力，选B。（答案纸参考：F4，第136页。）
+Bahasa Melayu: Persekutuan Tanah Melayu 1948 menggantikan Malayan Union dan mengembalikan kuasa serta kedudukan Raja-raja Melayu. Oleh itu, B tepat, bukan menghapuskan pemerintahan beraja. Rujukan skema: Tingkatan 4, m.s. 136."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：破坏橡胶树会损害种植业，破坏铁路会阻碍运输与贸易，目的在于瘫痪英国经济并削弱统治。因此选B。（答案纸参考：F4，第149页。）
+Bahasa Melayu: Merosakkan pokok getah menjejaskan perusahaan ladang, manakala sabotaj landasan kereta api mengganggu pengangkutan dan perdagangan. Tindakan PKM bertujuan melumpuhkan ekonomi British, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 149."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：英国要求12岁及以上居民使用身份证，以核实身份、区分普通居民和共产党成员。这是全国登记制度的措施，因此选D。（答案纸参考：F4，第156页。）
+Bahasa Melayu: Sistem pendaftaran kebangsaan mewajibkan kad pengenalan bagi penduduk berumur 12 tahun ke atas. Pengenalan diri membantu membezakan orang awam dengan komunis, maka D tepat. Rujukan skema: Tingkatan 4, m.s. 156."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：Sistem Ahli让当地领袖负责行政部门，接受治理训练，为自治与独立做准备。这体现英国非殖民化政策，所以选B。（答案纸参考：F4，第178页。）
+Bahasa Melayu: Sistem Ahli melatih penduduk tempatan mengendalikan jabatan kerajaan dan memperoleh pengalaman pentadbiran sebelum berkerajaan sendiri. Oleh itu, B menepati dasar dekolonisasi. Rujukan skema: Tingkatan 4, m.s. 178."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：不同学校使用不同教学语言、课程和教育方向，使各族儿童较少交流，难以建立共同认同。因此族群团结不容易实现，选B。（答案纸参考：F4，第180页。）
+Bahasa Melayu: Sekolah yang berasingan mengikut bahasa dan kaum menggunakan sukatan serta orientasi pendidikan berbeza. Interaksi antara kaum terbatas dan perpaduan sukar dicapai, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 180."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：1955年联邦立法议会选举的选民年龄条件是21岁及以上。因此选C；不要把现今投票年龄套用到历史时期。（答案纸参考：F4，第200页。）
+Bahasa Melayu: Dalam Pilihan Raya Majlis Perundangan Persekutuan 1955, pengundi perlu berumur 21 tahun ke atas serta memenuhi syarat lain. Oleh itu, C tepat mengikut tempoh sejarah tersebut. Rujukan skema: Tingkatan 4, m.s. 200."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年选举后，东姑出任首席部长Ketua Menteri；独立后才担任首相Perdana Menteri。题目明确是1955年第一届内阁，所以选A。（答案纸参考：F4，第206页。）
+Bahasa Melayu: Selepas pilihan raya 1955, Tunku Abdul Rahman dilantik sebagai Ketua Menteri. Jawatan Perdana Menteri berkaitan negara yang telah merdeka, maka A tepat untuk tahun 1955. Rujukan skema: Tingkatan 4, m.s. 206."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：里德委员会的主要任务是草拟联邦宪法，作为独立国家治理的基础。它会听取各方意见，而不是主要决定独立日期，所以选B。（答案纸参考：F4，第220页。）
+Bahasa Melayu: Suruhanjaya Perlembagaan dibentuk untuk merangka Perlembagaan Persekutuan sebagai asas pemerintahan negara merdeka. Oleh itu, B tepat. Rujukan skema: Tingkatan 4, m.s. 220."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：公民权可通过法律自动取得，或在符合条件后申请登记。因此I和II正确，选A；在政府工作或与当地人结婚本身不等于自动取得公民权。（答案纸参考：F4，第224页。）
+Bahasa Melayu: Kewarganegaraan boleh diperoleh melalui kuat kuasa undang-undang atau permohonan pendaftaran mengikut syarat. Bekerja dengan kerajaan atau berkahwin sahaja bukan kelayakan automatik, maka I dan II, iaitu A. Rujukan skema: Tingkatan 4, m.s. 224."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：1957年8月31日正式独立庆典在Stadium Merdeka举行，东姑宣读独立宣言并高喊Merdeka。因此选B。（答案纸参考：F4，第240页。）
+Bahasa Melayu: Upacara rasmi kemerdekaan pada 31 Ogos 1957 berlangsung di Stadium Merdeka. Tunku membaca pemasyhuran kemerdekaan dan melaungkan Merdeka, maka B tepat. Rujukan skema: Tingkatan 4, m.s. 240."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：各族领袖合作与协商，再通过与英国谈判争取独立，使马来亚能够和平取得主权。因此关键是谈判及各族共识，选A。（答案纸参考：F4，第241页。）
+Bahasa Melayu: Kerjasama dan muafakat antara kaum mengukuhkan tuntutan kemerdekaan, manakala rundingan dengan British membuka jalan secara aman. Oleh itu, A tepat. Rujukan skema: Tingkatan 4, m.s. 241."

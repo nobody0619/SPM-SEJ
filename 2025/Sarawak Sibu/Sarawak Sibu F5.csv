@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sarawak Sibu F5,radio,F5 Bab 1,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Sarawak Sibu F5,radio,F5 Bab 1,A,B,C,D,A,Picture20.png,"中文：A：传统主权以国王的最高统治权为核心，不是国际组织对国家的承认。【答案纸参考：6；书页内容待逐页确认。】
+Bahasa Melayu: A: Kedaulatan tradisional berpusat pada kuasa tertinggi raja dalam pentadbiran, bukan pengiktirafan badan antarabangsa. [Rujukan skema: 6; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：题库及答案纸写C，但按课本应为A（I、II）：系统化政府及明确边界都是主权国家特征。“多元族群”并非所有主权国家必备条件。【答案纸参考：8-9；书页内容待逐页确认。】
+Bahasa Melayu: Kunci dan skema mencatat C, tetapi buku teks menyokong A (I dan II): pemerintahan sistematik dan sempadan jelas ialah ciri negara berdaulat. Rakyat berbilang kaum bukan syarat wajib setiap negara berdaulat. [Rujukan skema: 8-9; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,D,Picture22.png,"中文：D：宪法规定国家治理原则、机构及权力范围，确定行政方向并防止滥权。【答案纸参考：22；书页内容待逐页确认。】
+Bahasa Melayu: D: Perlembagaan menetapkan prinsip, institusi dan bidang kuasa pemerintahan untuk menentukan hala tuju negara serta mengelakkan penyalahgunaan kuasa. [Rujukan skema: 22; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：新加坡于1965年退出马来西亚，导致宪法中涉及新加坡的条文需要修改。【答案纸参考：31；书页内容待逐页确认。】
+Bahasa Melayu: A: Pemisahan Singapura pada 1965 menyebabkan peruntukan perlembagaan yang berkaitan dengannya perlu dipinda. [Rujukan skema: 31; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：D：Charter of Justice建立司法安排，目的包括保护居民，避免受到压迫。【答案纸参考：24；书页内容待逐页确认。】
+Bahasa Melayu: D: Charter of Justice mewujudkan susunan kehakiman untuk melindungi penduduk dan mengelakkan penindasan. [Rujukan skema: 24; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：A：马来西亚国会由国家元首、下议院及上议院组成，所以X是Dewan Negara。【答案纸参考：41；书页内容待逐页确认。】
+Bahasa Melayu: A: Parlimen Malaysia terdiri daripada Yang di-Pertuan Agong, Dewan Rakyat dan Dewan Negara; maka X ialah Dewan Negara. [Rujukan skema: 41; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：D：议会民主通过选举让人民选择领导人与代表，不由人民直接选举国家元首。【答案纸参考：50；书页内容待逐页确认。】
+Bahasa Melayu: D: Demokrasi Berparlimen membolehkan rakyat memilih pemimpin dan wakil melalui pilihan raya, bukan memilih Yang di-Pertuan Agong secara langsung. [Rujukan skema: 50; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：B：地方政府提供当地服务与公共设施，例如道路、排水、清洁及休闲设施。【答案纸参考：71；书页内容待逐页确认。】
+Bahasa Melayu: B: Kerajaan tempatan menyediakan perkhidmatan dan kemudahan awam seperti jalan, saliran, kebersihan serta kemudahan rekreasi. [Rujukan skema: 71; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：题库及答案纸写D，但选项有疑点：课本列“公共福利”为共同清单，“地方政府”为州清单。按现有四项只有III属于共同清单，没有完全符合的组合。【答案纸参考：70；书页内容待逐页确认。】
+Bahasa Melayu: Kunci dan skema mencatat D, tetapi pilihan bermasalah: buku teks meletakkan kebajikan awam dalam Senarai Bersama dan kerajaan tempatan dalam Senarai Negeri. Hanya III sesuai, maka tiada pasangan jawapan yang sepenuhnya tepat. [Rujukan skema: 70; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：B：增加可负担房屋供应，让中等收入群体以较合理价格购买住所。【答案纸参考：76-77；书页内容待逐页确认。】
+Bahasa Melayu: B: Pembinaan lebih banyak rumah mampu milik membolehkan golongan pertengahan memiliki kediaman pada harga yang munasabah. [Rujukan skema: 76-77; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：C：Melayu Raya构想主张马来亚与印度尼西亚联合，以同源民族团结争取独立。【答案纸参考：92；书页内容待逐页确认。】
+Bahasa Melayu: C: Konsep Melayu Raya mencadangkan penggabungan Tanah Melayu dengan Indonesia bagi menyatukan bangsa serumpun dalam perjuangan kemerdekaan. [Rujukan skema: 92; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 5,A,B,C,D,D,Picture31.png,"中文：D（III、IV）：英国官员希望联合有关领土，发挥经济潜力并加强区域安全。【答案纸参考：91；书页内容待逐页确认。】
+Bahasa Melayu: D (III dan IV): Pegawai British mencadangkan penggabungan wilayah untuk memanfaatkan potensi ekonomi dan memperkasa keselamatan wilayah. [Rujukan skema: 91; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：B：新加坡与联邦政府在政策及政治方向上的冲突，成为分离的重要因素。【答案纸参考：119；书页内容待逐页确认。】
+Bahasa Melayu: B: Keengganan mematuhi dasar Kerajaan Persekutuan serta pertentangan politik dan ekonomi menjadi faktor pemisahan Singapura. [Rujukan skema: 119; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：D：DEB消除贫穷及重组社会，针对殖民时代族群、地区与城乡之间的经济差距。【答案纸参考：143；书页内容待逐页确认。】
+Bahasa Melayu: D: DEB membasmi kemiskinan dan menyusun semula masyarakat untuk mengatasi ketidakseimbangan ekonomi antara kaum, wilayah serta kawasan. [Rujukan skema: 143; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：A：社团、制服团体及体育活动让不同族群学生合作，培养理解及团结。【答案纸参考：146；书页内容待逐页确认。】
+Bahasa Melayu: A: Persatuan, unit beruniform dan sukan memberi murid pelbagai kaum peluang bekerjasama, lalu memupuk perpaduan. [Rujukan skema: 146; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,D,Picture35.png,"中文：D：Feri Malaysia把半岛与沙巴、砂拉越联系起来，增加跨地区交流并促进国家整合。【答案纸参考：140；书页内容待逐页确认。】
+Bahasa Melayu: D: Feri Malaysia menghubungkan Semenanjung dengan Sabah dan Sarawak untuk meningkatkan perhubungan serta integrasi antara wilayah. [Rujukan skema: 140; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 7,A,B,C,D,A,Picture36.png,"中文：A：族群之间居住、经济与教育分隔，减少交流，导致人民团结薄弱。【答案纸参考：141；书页内容待逐页确认。】
+Bahasa Melayu: A: Polarisasi kaum memisahkan masyarakat dari segi tempat tinggal, ekonomi dan pendidikan, lalu melemahkan hubungan serta perpaduan. [Rujukan skema: 141; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 8,A,B,C,D,B,Picture37.png,"中文：B：区域发展通过土地开发、就业及基础设施，减少贫穷与经济差距。【答案纸参考：168-173；书页内容待逐页确认。】
+Bahasa Melayu: B: Pembangunan wilayah menyediakan pembangunan tanah, pekerjaan dan kemudahan bagi membasmi kemiskinan serta menyusun semula masyarakat. [Rujukan skema: 168-173; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：C：区域合作建立互信，维护和平安全，使国家主权获得更好的保障。【答案纸参考：210；书页内容待逐页确认。】
+Bahasa Melayu: C: Hubungan serantau membina persefahaman serta kerjasama keamanan dan keselamatan yang membantu menjamin kedaulatan negara. [Rujukan skema: 210; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 9,A,B,C,D,D,Picture39.png,"中文：D：东姑时期外交受冷战及共产党威胁影响，采取亲西方、反共产主义政策。【答案纸参考：195；书页内容待逐页确认。】
+Bahasa Melayu: D: Pada zaman Tunku Abdul Rahman, dasar luar dipengaruhi Perang Dingin dan ancaman komunis, lalu bersifat probarat serta antikomunis. [Rujukan skema: 195; kandungan halaman buku belum disahkan satu demi satu.]"
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：B：Anugerah Langkawi表扬个人或组织对环境保护的贡献，鼓励爱护自然。【答案纸参考：238；书页内容待逐页确认。】
+Bahasa Melayu: B: Anugerah Langkawi menghargai sumbangan individu atau organisasi dalam pemeliharaan alam sekitar. [Rujukan skema: 238; kandungan halaman buku belum disahkan satu demi satu.]"

@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Melaka 2025,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka 2025,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：Majapahit使用Kutara Manawa规定社会秩序及司法，保障人民生活安宁。 答案纸参考：F4第4页。
+Bahasa Melayu: Majapahit melaksanakan Kutara Manawa untuk mengatur masyarakat dan kehakiman serta menjamin kesejahteraan. Rujukan skema: T4 ms.4."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：人民向君主效忠、遵守法律并履行义务，是维持马六甲统治的重要基础。 答案纸参考：F4第6页。
+Bahasa Melayu: Rakyat memberi taat setia, mematuhi undang-undang dan melaksanakan kewajipan untuk menyokong pemerintahan Melaka. Rujukan skema: T4 ms.6."
+,radio,F4 Bab 1,A,B,C,D,C,Picture3.png,"中文：Temenggung负责国内治安和安全，维护秩序；港口税务由其他官员负责。 答案纸参考：F4第9页。
+Bahasa Melayu: Temenggung menjaga keamanan serta keselamatan dalam negeri; urusan cukai pelabuhan bukan tugas utamanya. Rujukan skema: T4 ms.9."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：法国革命推翻绝对君主统治，推动人民主权与共和国理念，因此选C。 答案纸参考：F4第24–25页。
+Bahasa Melayu: Revolusi Perancis menamatkan pemerintahan beraja mutlak dan mengembangkan kedaulatan rakyat serta idea republik, C. Rujukan skema: T4 ms.24–25."
+,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：受西方教育的缅甸中产阶级成立佛教青年协会，维护佛教文化并发展反殖民意识。 答案纸参考：F4第29页。
+Bahasa Melayu: Kelas pertengahan Burma berpendidikan Barat menubuhkan Persatuan Belia Buddha untuk mempertahankan budaya Buddha serta kesedaran antipenjajah. Rujukan skema: T4 ms.29."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：1914年奥匈皇储被刺引发Balkan危机，各国联盟使冲突扩大为世界大战。 答案纸参考：F4第54页。
+Bahasa Melayu: Pembunuhan pewaris Austria-Hungary pada 1914 mencetuskan krisis Balkan yang meluas menjadi perang melalui pakatan negara. Rujukan skema: T4 ms.54."
+,radio,F4 Bab 3,A,B,C,D,C,Picture7.png,"中文：面对日军暴行，本地居民与英国人员合作提供情报及支援反日行动。 答案纸参考：F4第73页。
+Bahasa Melayu: Penduduk tempatan bekerjasama dengan British dengan memberikan maklumat dan bantuan dalam perjuangan menentang kekejaman Jepun. Rujukan skema: T4 ms.73."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：BMA接管马来亚行政并要求交回武器，减少武装混乱、恢复秩序，所以I、IV正确。 答案纸参考：F4第94页。
+Bahasa Melayu: BMA mengambil alih pentadbiran dan meminta senjata dipulangkan untuk mengurangkan kekacauan serta memulihkan ketenteraman; I dan IV betul. Rujukan skema: T4 ms.94."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：Ralph Hone和George Henry Hall参与规划Malayan Union，整合战后马来州行政。 答案纸参考：F4第96页。
+Bahasa Melayu: Ralph Hone dan George Henry Hall terlibat merancang Malayan Union untuk menyatukan pentadbiran negeri selepas perang. Rujukan skema: T4 ms.96."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：1948年联邦协议在制度中保障本地土著权益，尤其马来人的特殊地位。 答案纸参考：F4第127页。
+Bahasa Melayu: Perjanjian 1948 melindungi hak peribumi, khususnya kedudukan istimewa orang Melayu dalam sistem persekutuan. Rujukan skema: T4 ms.127."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：Sarawak Rangers善于丛林追踪，协助寻找并摧毁共产党营地。 答案纸参考：F4第155页。
+Bahasa Melayu: Sarawak Rangers mahir menjejak dalam hutan dan membantu memusnahkan kem komunis. Rujukan skema: T4 ms.155."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：新村把居民与共产党支援网络分开，切断Min Yuen向游击队提供粮食、情报的渠道。 答案纸参考：F4第157页。
+Bahasa Melayu: Kampung Baru memisahkan penduduk daripada rangkaian komunis untuk memutuskan bekalan makanan dan maklumat Min Yuen. Rujukan skema: T4 ms.157."
+,radio,F4 Bab 6,A,B,C,D,B,Picture13.png,"中文：重新安置造成族群居住隔离，减少日常交流，令族群关系疏远。 答案纸参考：F4第163页。
+Bahasa Melayu: Petempatan semula memisahkan kediaman kaum dan mengurangkan interaksi harian sehingga merenggangkan hubungan kaum. Rujukan skema: T4 ms.163."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：1952年教育法令提出国语或英语为学校教学媒介，本题D的英语符合内容。 答案纸参考：F4第181页。
+Bahasa Melayu: Ordinan Pelajaran 1952 mencadangkan bahasa Melayu atau Inggeris sebagai bahasa pengantar; bahasa Inggeris dalam D menepati kandungannya. Rujukan skema: T4 ms.181."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：1955年举行联邦立法议会选举，是全国层面的选举，而非某个市议会选举。 答案纸参考：F4第197页。
+Bahasa Melayu: Pada 1955 diadakan pilihan raya Majlis Perundangan Persekutuan pada peringkat seluruh persekutuan, bukan majlis perbandaran. Rujukan skema: T4 ms.197."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年的选民年龄门槛为21岁；须依当年的制度作答，而非今天的年龄规定。 答案纸参考：F4第200页。
+Bahasa Melayu: Syarat umur pengundi 1955 ialah sekurang-kurangnya 21 tahun; jawapan berdasarkan peraturan ketika itu. Rujukan skema: T4 ms.200."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：Tunku安排较长海上旅程，让代表团有时间讨论及统一伦敦谈判策略。 答案纸参考：F4第217页。
+Bahasa Melayu: Tunku merancang perjalanan laut supaya rombongan mempunyai masa menyusun dan menyelaraskan strategi rundingan London. Rujukan skema: T4 ms.217."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：1957年协议设依法自动取得及提出申请取得公民权的途径，故II、III正确。 答案纸参考：F4第224页。
+Bahasa Melayu: Perjanjian 1957 menyediakan kewarganegaraan secara kuat kuasa undang-undang dan permohonan; II dan III betul. Rujukan skema: T4 ms.224."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：Gandhi强调每个国家有权自主管理自身事务，独立意味着摆脱外国控制。 答案纸参考：F4第234页。
+Bahasa Melayu: Gandhi menegaskan setiap negara berhak mengurus negaranya sendiri; kemerdekaan bermakna bebas daripada kawalan asing. Rujukan skema: T4 ms.234."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：体育馆、宫殿和国歌等准备，是为独立庆典及独立国家象征提供条件。 答案纸参考：F4第236页。
+Bahasa Melayu: Persediaan stadium, istana dan lagu kebangsaan dibuat untuk meraikan kemerdekaan serta menyediakan lambang negara merdeka. Rujukan skema: T4 ms.236."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：联合国承认体现国际主权，表明国家在国际社会具有独立地位。 答案纸参考：F5第7页。
+Bahasa Melayu: Pengiktirafan PBB menunjukkan kedaulatan antarabangsa dan kedudukan bebas negara dalam masyarakat dunia. Rujukan skema: T5 ms.7."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：有系统的行政及明确边界使国家能管理人民和领土，所以I、II正确；受他国保护不是主权特征。 答案纸参考：F5第8–9页。
+Bahasa Melayu: Pentadbiran sistematik dan sempadan jelas membolehkan negara mengurus rakyat serta wilayah; I dan II betul, bukan naungan negara lain. Rujukan skema: T5 ms.8–9."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：传统法律规范统治职责与行为，为君主治理国家提供指南。 答案纸参考：F5第22页。
+Bahasa Melayu: Undang-undang tradisional mengatur tanggungjawab pemerintahan dan menjadi panduan raja mentadbir negara. Rujukan skema: T5 ms.22."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：1963年成立马来西亚及1965年新加坡分离改变联邦结构，须修改宪法配合现实需求。 答案纸参考：F5第30–31页。
+Bahasa Melayu: Pembentukan Malaysia 1963 dan pemisahan Singapura 1965 mengubah struktur persekutuan, maka perlembagaan dipinda mengikut keperluan semasa. Rujukan skema: T5 ms.30–31."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：按课本分类，召集或解散国会及担任题述地区伊斯兰领袖列在国家元首的立法权部分，因此选A。 答案纸参考：F5第49页。
+Bahasa Melayu: Menurut pengelasan buku teks, memanggil atau membubarkan Parlimen dan menjadi ketua agama Islam di kawasan dinyatakan dihuraikan dalam kuasa perundangan YDPA, A. Rujukan skema: T5 ms.49."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：行政、立法、司法分工并互相制衡，减少权力滥用，促进公平治理。 答案纸参考：F5第55页。
+Bahasa Melayu: Pembahagian eksekutif, perundangan dan kehakiman mewujudkan semak imbang untuk mengurangkan penyalahgunaan kuasa dan menjamin pemerintahan adil. Rujukan skema: T5 ms.55."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：较强中央权力有助统一协调重大政策，保障全国稳定并促进发展，III、IV正确。 答案纸参考：F5第68页。
+Bahasa Melayu: Kuasa pusat lebih besar memudahkan penyelarasan dasar utama untuk kestabilan dan kemajuan negara; III dan IV betul. Rujukan skema: T5 ms.68."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：增加可负担房屋让中等收入家庭负担得起住房，是两级政府合作的措施。 答案纸参考：F5第77页。
+Bahasa Melayu: Memperbanyak rumah mampu milik membolehkan keluarga berpendapatan pertengahan membeli kediaman melalui kerjasama kedua-dua kerajaan. Rujukan skema: T5 ms.77."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：1962年公投征询新加坡人民对加入马来西亚方案的选择与支持。 答案纸参考：F5第100页。
+Bahasa Melayu: Referendum 1962 mendapatkan pilihan dan sokongan rakyat Singapura terhadap cadangan penyertaan dalam Malaysia. Rujukan skema: T5 ms.100."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：Manila会谈讨论印尼对抗及成立马来西亚引起的分歧，寻求通过外交解决。 答案纸参考：F5第108页。
+Bahasa Melayu: Mesyuarat Manila membincangkan konfrontasi dan pertentangan tentang Malaysia untuk mencari penyelesaian diplomatik. Rujukan skema: T5 ms.108."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：族群紧张及新加坡和联邦领袖的政治冲突损害合作，成为分离因素，所以I、II正确。 答案纸参考：F5第119页。
+Bahasa Melayu: Ketegangan kaum dan konflik politik pemimpin Singapura-persekutuan menjejaskan kerjasama serta menyumbang pemisahan; I dan II betul. Rujukan skema: T5 ms.119."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：宣布白区和提供赦免争取居民支持、鼓励共产党投降，属于心理战。 答案纸参考：F5第121页。
+Bahasa Melayu: Pengisytiharan kawasan putih dan tawaran pengampunan memenangi sokongan rakyat serta menggalakkan penyerahan komunis, iaitu perang saraf. Rujukan skema: T5 ms.121."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：课外活动让不同族群共同合作、比赛与交流，培养友谊和团结。 答案纸参考：F5第146页。
+Bahasa Melayu: Kokurikulum menggalakkan murid pelbagai kaum bekerjasama, bermain dan berinteraksi untuk memupuk persahabatan serta perpaduan. Rujukan skema: T5 ms.146."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家文化政策建立共同文化认同、尊重适当的多元文化元素，以加强全国整合。 答案纸参考：F5第150页。
+Bahasa Melayu: Dasar Kebudayaan Kebangsaan membina identiti budaya bersama dan menerima unsur budaya sesuai untuk memperkukuh integrasi nasional. Rujukan skema: T5 ms.150."
+,radio,F5 Bab 7,A,B,C,D,C,Picture35.png,"中文：社会重组减少族群与职业的固定联系，让各族共享经济机会，促进公平。 答案纸参考：F5第167页。
+Bahasa Melayu: Penyusunan semula masyarakat mengurangkan pengenalan kaum mengikut pekerjaan dan memperluas peluang ekonomi secara adil. Rujukan skema: T5 ms.167."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：平衡州际发展缩小地区收入与设施差距，使国家财富分配更公平。 答案纸参考：F5第174页。
+Bahasa Melayu: Pembangunan seimbang antara negeri mengurangkan jurang pendapatan serta kemudahan dan mengagihkan kekayaan lebih adil. Rujukan skema: T5 ms.174."
+,radio,F5 Bab 8,A,B,C,D,B,Picture37.png,"中文：加入联合国让国家获得国际承认，并通过国际原则与合作保护独立主权。 答案纸参考：F5第198页。
+Bahasa Melayu: Keanggotaan PBB memberikan pengiktirafan antarabangsa dan membantu memelihara kedaulatan melalui prinsip serta kerjasama antarabangsa. Rujukan skema: T5 ms.198."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：ZOPFAN宣言表明东南亚追求和平、自由和中立，体现马来西亚外交路线转变。 答案纸参考：F5第210页。
+Bahasa Melayu: Deklarasi ZOPFAN mengisytiharkan Asia Tenggara sebagai zon aman, bebas dan berkecuali, mencerminkan perubahan dasar luar Malaysia. Rujukan skema: T5 ms.210."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：马来西亚以谈判、论坛等外交手段处理Spratly争议，启示和平解决分歧的重要性。 答案纸参考：F5第229页。
+Bahasa Melayu: Malaysia menggunakan rundingan dan forum diplomatik bagi tuntutan Spratly, menunjukkan kepentingan penyelesaian pertikaian secara aman. Rujukan skema: T5 ms.229."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：东盟共同体促进区域经济增长及安全合作，故I、IV正确，不以统一货币为目标。 答案纸参考：F5第242页。
+Bahasa Melayu: Komuniti ASEAN menggalakkan pertumbuhan ekonomi dan keselamatan serantau; I dan IV betul, bukan penetapan mata wang tunggal. Rujukan skema: T5 ms.242."

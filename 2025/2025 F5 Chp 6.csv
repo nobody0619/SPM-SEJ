@@ -1,52 +1,103 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 6,radio,JohorBahru_Q31,A,B,C,D,D,Johor Bahru/Picture31.png
-F5 Chp 6,radio,JohorKulaiSet_Q31,A,B,C,D,B,Johor Kulai Set 1/Picture31.png
-F5 Chp 6,radio,JohorKulaiSet_Q31,A,B,C,D,B,Johor Kulai Set 2/Picture31.png
-F5 Chp 6,radio,JohorMuar_Q31,A,B,C,D,A,Johor Muar/Picture31.png
-F5 Chp 6,radio,JohorPasirGudang_Q31,A,B,C,D,D,Johor Pasir Gudang/Picture31.png
-F5 Chp 6,radio,JohorSegamatSet_Q31,A,B,C,D,B,Johor Segamat Set 1/Picture31.png
-F5 Chp 6,radio,JohorSegamatSet_Q31,A,B,C,D,B,Johor Segamat Set 2/Picture31.png
-F5 Chp 6,radio,Kedah_Q31,A,B,C,D,D,Kedah/Picture31.png
-F5 Chp 6,radio,Kelantan_Q31,A,B,C,D,A,Kelantan/Picture31.png
-F5 Chp 6,radio,KualaLumpur_Q31,A,B,C,D,D,Kuala Lumpur/Picture31.png
-F5 Chp 6,radio,Melaka_Q31,A,B,C,D,A,Melaka/Picture31.png
-F5 Chp 6,radio,Mrsm_Q31,A,B,C,D,C,MRSM/Picture31.png
-F5 Chp 6,radio,N_Q31,A,B,C,D,A,N9/Picture31.png
-F5 Chp 6,radio,Pahang_Q31,A,B,C,D,B,Pahang/Picture31.png
-F5 Chp 6,radio,Perak_Q31,A,B,C,D,A,Perak/Picture31.png
-F5 Chp 6,radio,Perlis_Q31,A,B,C,D,C,Perlis/Picture31.png
-F5 Chp 6,radio,PulauPinang_Q31,A,B,C,D,A,Pulau Pinang/Picture31.png
-F5 Chp 6,radio,PutrajayaSet_Q31,A,B,C,D,A,Putrajaya set 1/Picture31.png
-F5 Chp 6,radio,PutrajayaSet_Q31,A,B,C,D,C,Putrajaya set 2/Picture31.png
-F5 Chp 6,radio,Sabah_Q31,A,B,C,D,D,Sabah/Picture31.png
-F5 Chp 6,radio,Sabk_Q31,A,B,C,D,C,SABK/Picture31.png
-F5 Chp 6,radio,Sbp_Q31,A,B,C,D,B,SBP/Picture31.png
-F5 Chp 6,radio,Selangor_Q31,A,B,C,D,A,Selangor/Picture31.png
-F5 Chp 6,radio,Smka_Q31,A,B,C,D,C,SMKA/Picture31.png
-F5 Chp 6,radio,Terengganu_Q31,A,B,C,D,A,Terengganu/Picture31.png
-F5 Chp 6,radio,JohorBahru_Q32,A,B,C,D,C,Johor Bahru/Picture32.png
-F5 Chp 6,radio,JohorKulaiSet_Q32,A,B,C,D,C,Johor Kulai Set 1/Picture32.png
-F5 Chp 6,radio,JohorKulaiSet_Q32,A,B,C,D,C,Johor Kulai Set 2/Picture32.png
-F5 Chp 6,radio,JohorMuar_Q32,A,B,C,D,D,Johor Muar/Picture32.png
-F5 Chp 6,radio,JohorPasirGudang_Q32,A,B,C,D,B,Johor Pasir Gudang/Picture32.png
-F5 Chp 6,radio,JohorSegamatSet_Q32,A,B,C,D,D,Johor Segamat Set 1/Picture32.png
-F5 Chp 6,radio,JohorSegamatSet_Q32,A,B,C,D,D,Johor Segamat Set 2/Picture32.png
-F5 Chp 6,radio,Kedah_Q32,A,B,C,D,D,Kedah/Picture32.png
-F5 Chp 6,radio,Kelantan_Q32,A,B,C,D,D,Kelantan/Picture32.png
-F5 Chp 6,radio,KualaLumpur_Q32,A,B,C,D,A,Kuala Lumpur/Picture32.png
-F5 Chp 6,radio,Melaka_Q32,A,B,C,D,A,Melaka/Picture32.png
-F5 Chp 6,radio,Mrsm_Q32,A,B,C,D,B,MRSM/Picture32.png
-F5 Chp 6,radio,N_Q32,A,B,C,D,B,N9/Picture32.png
-F5 Chp 6,radio,Pahang_Q32,A,B,C,D,D,Pahang/Picture32.png
-F5 Chp 6,radio,Perak_Q32,A,B,C,D,A,Perak/Picture32.png
-F5 Chp 6,radio,Perlis_Q32,A,B,C,D,A,Perlis/Picture32.png
-F5 Chp 6,radio,PulauPinang_Q32,A,B,C,D,A,Pulau Pinang/Picture32.png
-F5 Chp 6,radio,PutrajayaSet_Q32,A,B,C,D,A,Putrajaya set 1/Picture32.png
-F5 Chp 6,radio,PutrajayaSet_Q32,A,B,C,D,C,Putrajaya set 2/Picture32.png
-F5 Chp 6,radio,Sabah_Q32,A,B,C,D,B,Sabah/Picture32.png
-F5 Chp 6,radio,Sabk_Q32,A,B,C,D,A,SABK/Picture32.png
-F5 Chp 6,radio,SarawakSibu_Q32,A,B,C,D,B,Sarawak Sibu/Picture32.png
-F5 Chp 6,radio,Sbp_Q32,A,B,C,D,B,SBP/Picture32.png
-F5 Chp 6,radio,Selangor_Q32,A,B,C,D,C,Selangor/Picture32.png
-F5 Chp 6,radio,Smka_Q32,A,B,C,D,D,SMKA/Picture32.png
-F5 Chp 6,radio,Terengganu_Q32,A,B,C,D,B,Terengganu/Picture32.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 6,radio,JohorBahru_Q31,A,B,C,D,D,Johor Bahru/Picture31.png,"中文：Malaysian Malaysia 运动要求所有公民获得平等权利，题目对应 hak sama rata，选D。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Kempen Malaysian Malaysia menuntut hak sama rata bagi semua warganegara, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 119."
+F5 Chp 6,radio,JohorKulaiSet_Q31,A,B,C,D,B,Johor Kulai Set 1/Picture31.png,"中文：Malaysian Malaysia 加剧联邦与新加坡的政治分歧，是新加坡分离的政治因素之一，选B。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Kempen Malaysian Malaysia menambahkan pertikaian politik antara kerajaan Persekutuan dengan Singapura dan menjadi salah satu faktor pemisahan, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 119."
+F5 Chp 6,radio,JohorKulaiSet_Q31,A,B,C,D,B,Johor Kulai Set 2/Picture31.png,"中文：为避免政治分歧继续损害国家稳定与族群关系，联邦决定接受分离，以整体国家利益为考量，选B。（答案纸参考：F5，第120页。）
+Bahasa Melayu: Pemisahan dipersetujui demi kepentingan negara untuk mengelakkan pertikaian terus menggugat kestabilan dan hubungan kaum, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 120."
+F5 Chp 6,radio,JohorMuar_Q31,A,B,C,D,A,Johor Muar/Picture31.png,"中文：新加坡与中央政府的政治、经济及族群矛盾不断加剧，族群冲突威胁稳定，最终双方同意分离。因此选A所指的族群问题。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Pemisahan Singapura berlaku akibat ketegangan politik, ekonomi dan perkauman yang menjejaskan kestabilan Malaysia. Masalah perkauman merupakan salah satu faktor penting, maka A tepat. Rujukan skema: Tingkatan 5, m.s. 119."
+F5 Chp 6,radio,JohorPasirGudang_Q31,A,B,C,D,D,Johor Pasir Gudang/Picture31.png,"中文：共产党跨境藏匿，单独在境内行动不足以解决问题。马来西亚与泰国签订边境合作协定，联合遏制跨境活动，因此选D。（答案纸参考：F5，第125页。）
+Bahasa Melayu: Kegiatan komunis yang merentas sempadan memerlukan kerjasama dua negara. Perjanjian kerjasama sempadan Malaysia-Thailand membolehkan tindakan bersama untuk membanteras kegiatan tersebut, maka D tepat. Rujukan skema: Tingkatan 5, m.s. 125."
+F5 Chp 6,radio,JohorSegamatSet_Q31,A,B,C,D,B,Johor Segamat Set 1/Picture31.png,"中文：新加坡与中央政府在平等权利议题及领导人关系上出现矛盾，导致政治紧张。因此I和IV属于分离因素，选B。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Pertentangan mengenai hak sama rata dan hubungan antara pemimpin menimbulkan ketegangan antara Singapura dengan kerajaan pusat. Oleh itu, I dan IV betul, iaitu B. Rujukan skema: Tingkatan 5, m.s. 119."
+F5 Chp 6,radio,JohorSegamatSet_Q31,A,B,C,D,B,Johor Segamat Set 2/Picture31.png,"中文：新加坡与中央政府在政策及政治方向上有矛盾，影响联邦稳定，因此题目B概括双方不愿接受共同政策的冲突。分离原因还包括经济及族群问题。（答案纸参考：F5，第119页。）
+Bahasa Melayu: Perbezaan pendirian Singapura terhadap dasar kerajaan pusat menimbulkan ketegangan politik. B merujuk konflik tersebut; pemisahan turut melibatkan isu ekonomi dan perkauman. Rujukan skema: Tingkatan 5, m.s. 119."
+F5 Chp 6,radio,Kedah_Q31,A,B,C,D,D,Kedah/Picture31.png,"中文：内陆学校不足及交通通讯落后，限制Sabah和Sarawak人民获得教育和发展机会，所以III、IV正确。答案纸参考：F5第116页。
+Bahasa Melayu: Kekurangan sekolah pedalaman serta masalah pengangkutan dan perhubungan mengehadkan pendidikan dan pembangunan Sabah serta Sarawak, maka III dan IV betul. Rujukan skema: T5 ms.116."
+F5 Chp 6,radio,Kelantan_Q31,A,B,C,D,A,Kelantan/Picture31.png,"中文：族群紧张及PAP提出平等权利的政治口号，造成与联邦政府冲突，促成分离。 答案纸参考：F5第119页。
+Bahasa Melayu: Masalah perkauman dan tuntutan hak sama rata oleh PAP menimbulkan pertentangan dengan kerajaan persekutuan sehingga menyumbang pemisahan. Rujukan skema: T5 ms.119."
+F5 Chp 6,radio,KualaLumpur_Q31,A,B,C,D,D,Kuala Lumpur/Picture31.png,"中文：Sarawak首席部长与州议员间的宪法危机破坏政治稳定并威胁州安全。 答案纸参考：F5第118页。
+Bahasa Melayu: Krisis perlembagaan antara Ketua Menteri Sarawak dan ahli negeri menggugat kestabilan politik serta keselamatan negeri. Rujukan skema: T5 ms.118."
+F5 Chp 6,radio,Melaka_Q31,A,B,C,D,A,Melaka/Picture31.png,"中文：族群紧张及新加坡和联邦领袖的政治冲突损害合作，成为分离因素，所以I、II正确。 答案纸参考：F5第119页。
+Bahasa Melayu: Ketegangan kaum dan konflik politik pemimpin Singapura-persekutuan menjejaskan kerjasama serta menyumbang pemisahan; I dan II betul. Rujukan skema: T5 ms.119."
+F5 Chp 6,radio,Mrsm_Q31,A,B,C,D,C,MRSM/Picture31.png,"中文：平等权利的政治诉求及相关族群宣传加剧马来人与华人紧张，促成1964年骚乱。 答案纸参考：F5第119页。
+Bahasa Melayu: Tuntutan hak sama rata dan propaganda berkaitan kaum meningkatkan ketegangan Melayu-Cina sehingga menyumbang rusuhan 1964. Rujukan skema: T5 ms.119."
+F5 Chp 6,radio,N_Q31,A,B,C,D,A,N9/Picture31.png,"中文：平等权利的政治要求及有关族群宣传激化紧张，成为1964年新加坡骚乱背景。 答案纸参考：F5第119页。
+Bahasa Melayu: Tuntutan persamaan hak dan propaganda berkaitan kaum meningkatkan ketegangan yang membawa rusuhan Singapura 1964. Rujukan skema: T5 ms.119."
+F5 Chp 6,radio,Pahang_Q31,A,B,C,D,B,Pahang/Picture31.png,"中文：B：马来西亚与新加坡领导人通过协商达成分离安排，避免以暴力解决政治及经济矛盾。答案纸参考：F5第120页。
+Bahasa Melayu: B: Pemimpin Malaysia dan Singapura menggunakan rundingan untuk mencapai persetujuan pemisahan dan mengelakkan penyelesaian secara kekerasan. Rujukan skema: T5 ms. 120."
+F5 Chp 6,radio,Perak_Q31,A,B,C,D,A,Perak/Picture31.png,"中文：“Malaysian Malaysia”的主张涉及各族政治权利，并与当时宪法保障的马来人及土著特殊地位产生争议，加剧中央与新加坡的紧张关系。答案纸参考：F5，第119页。
+Bahasa Melayu: Slogan Malaysian Malaysia menimbulkan pertikaian tentang hak politik kaum dan kedudukan istimewa orang Melayu serta bumiputera yang dilindungi Perlembagaan, lalu memburukkan hubungan dengan Singapura. Rujukan skema: F5, halaman 119."
+F5 Chp 6,radio,Perlis_Q31,A,B,C,D,C,Perlis/Picture31.png,"中文：沙巴及砂拉越地形及道路建设受限，河流是居民往来和运送货物的重要通道。答案纸参考：F5，第117页。
+Bahasa Melayu: Keadaan muka bumi dan kekurangan jalan di Sabah serta Sarawak menjadikan sungai laluan utama perhubungan dan pengangkutan. Rujukan skema: F5, halaman 117."
+F5 Chp 6,radio,PulauPinang_Q31,A,B,C,D,A,Pulau Pinang/Picture31.png,"中文：政府运用国内安全法对付威胁国家安全的共产党活动，以加强防范；这不是说该法律在1975年才创立。答案纸参考：F5，第125页。
+Bahasa Melayu: Kerajaan menggunakan Akta Keselamatan Dalam Negeri untuk menangani ancaman komunis dan memperkukuh keselamatan. Akta tersebut bukan baru diwujudkan pada 1975. Rujukan skema: F5, halaman 125."
+F5 Chp 6,radio,PutrajayaSet_Q31,A,B,C,D,A,Putrajaya set 1/Picture31.png,"中文：MAGERAN在513事件后恢复秩序及族群和谐，故I和II正确；并非废除煽动法或帮助报刊自由出版。答案纸参考：F5，第130页。
+Bahasa Melayu: MAGERAN bertanggungjawab mengembalikan keamanan dan keharmonian kaum selepas 13 Mei, maka I dan II tepat. Rujukan skema: F5, halaman 130."
+F5 Chp 6,radio,PutrajayaSet_Q31,A,B,C,D,C,Putrajaya set 2/Picture31.png,"中文：新国家具有不同族群、区域及社会背景，巩固族群团结是成立马来西亚后的重要内部挑战。答案纸参考：F5，第118页。
+Bahasa Melayu: Kepelbagaian kaum, wilayah dan latar masyarakat menjadikan pengukuhan perpaduan kaum cabaran dalaman selepas pembentukan Malaysia. Rujukan skema: F5, halaman 118."
+F5 Chp 6,radio,Sabah_Q31,A,B,C,D,D,Sabah/Picture31.png,"中文：D：DEB通过消除贫穷及重组社会，减少分而治之遗留的族群经济不平衡。
+Bahasa Melayu: D: DEB membasmi kemiskinan dan menyusun semula masyarakat untuk mengurangkan ketidakseimbangan ekonomi antara kaum akibat dasar pecah dan perintah."
+F5 Chp 6,radio,Sabk_Q31,A,B,C,D,C,SABK/Picture31.png,"中文：沙巴与砂拉越面积广阔且地形复杂，使建设道路及联系偏远聚落需要较高成本与时间。答案纸参考：F5，第117页。
+Bahasa Melayu: Saiz negeri yang besar dan bentuk muka bumi Sabah serta Sarawak menyukarkan pembangunan jalan dan perhubungan ke pedalaman. Rujukan skema: F5, halaman 117."
+F5 Chp 6,radio,Sbp_Q31,A,B,C,D,B,SBP/Picture31.png,"中文：B：Stephen Kalong Ningkan赢得复职诉讼后，Council Negri通过不信任动议，使他失去州议会支持。【答案纸参考：118；书页内容待逐页确认。】
+Bahasa Melayu: B: Selepas Stephen Kalong Ningkan memenangi kes pemecatannya, Council Negri melaksanakan undi tidak percaya terhadap beliau. [Rujukan skema: 118; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,Selangor_Q31,A,B,C,D,A,Selangor/Picture31.png,"中文：A：争取平等权利的政治主张及族群反应加剧紧张，成为1964年新加坡骚乱的背景。【答案纸参考：B6T5M119；书页内容待逐页确认。】
+Bahasa Melayu: A: Tuntutan hak sama rata dan pertentangan politik perkauman meningkatkan ketegangan sehingga mencetuskan rusuhan Singapura 1964. [Rujukan skema: B6T5M119; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,Smka_Q31,A,B,C,D,C,SMKA/Picture31.png,"中文：C（II、III）：各方共识及领袖与人民合作，使独立与成立马来西亚的谈判得以成功。【答案纸参考：T5 Hal.109；书页内容待逐页确认。】
+Bahasa Melayu: C (II dan III): Kesepakatan serta muafakat antara pemimpin dengan rakyat menjadi asas kejayaan kemerdekaan dan pembentukan Malaysia. [Rujukan skema: T5 Hal.109; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,Terengganu_Q31,A,B,C,D,A,Terengganu/Picture31.png,"中文：A（I、II）：成立马来西亚后，政府面对族群团结及地区发展、经济差距等挑战。【答案纸参考：BAB 6- MS 117 & 118；书页内容待逐页确认。】
+Bahasa Melayu: A (I dan II): Selepas pembentukan Malaysia, kerajaan menghadapi cabaran pemaduan kaum serta pembangunan dan ekonomi wilayah. [Rujukan skema: BAB 6- MS 117 & 118; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,JohorBahru_Q32,A,B,C,D,C,Johor Bahru/Picture32.png,"中文：发展加工工业可增加产品附加值及生产种类，减少单靠橡胶、锡原料出口的风险，选C。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Kemajuan industri pemprosesan menambah nilai dan mempelbagaikan pengeluaran, sekali gus mengurangkan pergantungan pada eksport getah serta bijih timah, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 127."
+F5 Chp 6,radio,JohorKulaiSet_Q32,A,B,C,D,C,Johor Kulai Set 1/Picture32.png,"中文：第一马来西亚计划要改善人民较低的社会经济水平及城乡、地区差距，选C；“失业率下降”不是要解决的问题。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Rancangan Malaysia Pertama menangani kedudukan sosioekonomi yang rendah serta jurang pembangunan, maka C tepat; penurunan pengangguran bukan masalah dalam pilihan D. Rujukan skema: Tingkatan 5, m.s. 127."
+F5 Chp 6,radio,JohorKulaiSet_Q32,A,B,C,D,C,Johor Kulai Set 2/Picture32.png,"中文：增加不同农产与商品种类，可分散国际价格下降的风险，减少只靠橡胶和锡，选C。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Mempelbagaikan pengeluaran komoditi mengurangkan risiko turun naik harga dan pergantungan pada getah serta bijih timah, maka C tepat. Rujukan skema: Tingkatan 5, m.s. 127."
+F5 Chp 6,radio,JohorMuar_Q32,A,B,C,D,D,Johor Muar/Picture32.png,"中文：第一马来西亚计划需要应对人民收入低与教育程度低的问题，以改善生活水平并发展经济。题目组合中III和IV符合这些社会经济挑战，所以选D。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Rancangan Malaysia Pertama menangani pendapatan penduduk yang rendah dan taraf pendidikan yang masih rendah bagi meningkatkan kesejahteraan serta pembangunan. Oleh itu, III dan IV betul, iaitu D. Rujukan skema: Tingkatan 5, m.s. 127."
+F5 Chp 6,radio,JohorPasirGudang_Q32,A,B,C,D,B,Johor Pasir Gudang/Picture32.png,"中文：职业及技术训练中心让人民掌握就业所需技能，改善技能不足及失业问题。因此针对有限就业机会的措施是B。（答案纸参考：F5，第128页。）
+Bahasa Melayu: Pusat latihan vokasional dan teknikal membekalkan kemahiran yang diperlukan pasaran kerja. Latihan ini meningkatkan kebolehpasaran penduduk dan membantu mengurangkan pengangguran, maka B tepat. Rujukan skema: Tingkatan 5, m.s. 128."
+F5 Chp 6,radio,JohorSegamatSet_Q32,A,B,C,D,D,Johor Segamat Set 1/Picture32.png,"中文：职业与技术训练提升就业技能，帮助失业者适应工作需求，故选D。题干“就业机会增加”疑似应为“就业机会有限”，否则与这组问题描述不一致。（答案纸参考：F5，第128页。）
+Bahasa Melayu: Pusat latihan vokasional dan teknikal meningkatkan kemahiran serta peluang mendapatkan pekerjaan, maka D tepat. Frasa peluang pekerjaan meningkat dalam soalan dipercayai tersalah tulis; konteks masalah lebih sesuai dengan peluang pekerjaan terhad. Rujukan skema: Tingkatan 5, m.s. 128."
+F5 Chp 6,radio,JohorSegamatSet_Q32,A,B,C,D,D,Johor Segamat Set 2/Picture32.png,"中文：发展油棕及可可等新商品，能够减少出口过度依赖橡胶和锡矿的风险，促进经济多元化。因此选D。（答案纸参考：F5，第127页。）
+Bahasa Melayu: Penanaman kelapa sawit dan koko mempelbagaikan eksport serta mengurangkan kebergantungan kepada getah dan bijih timah. Oleh itu, D tepat. Rujukan skema: Tingkatan 5, m.s. 127."
+F5 Chp 6,radio,Kedah_Q32,A,B,C,D,D,Kedah/Picture32.png,"中文：MAGERAN在1969年骚乱后负责恢复治安、秩序与政府运作，因此选D。答案纸参考：F5第130页。
+Bahasa Melayu: MAGERAN ditubuhkan selepas rusuhan 1969 untuk memulihkan ketenteraman, keamanan dan pentadbiran negara, D. Rujukan skema: T5 ms.130."
+F5 Chp 6,radio,Kelantan_Q32,A,B,C,D,D,Kelantan/Picture32.png,"中文：政府立即宣布紧急状态，以特别措施恢复秩序并制止1969年族群暴力。 答案纸参考：F5第129页。
+Bahasa Melayu: Kerajaan segera mengisytiharkan darurat untuk mengambil langkah khas memulihkan ketenteraman dan menghentikan keganasan kaum 1969. Rujukan skema: T5 ms.129."
+F5 Chp 6,radio,KualaLumpur_Q32,A,B,C,D,A,Kuala Lumpur/Picture32.png,"中文：MAGERAN执行煽动法令，限制挑动族群敌意的言论，以恢复社会秩序。 答案纸参考：F5第130页。
+Bahasa Melayu: MAGERAN menguatkuasakan Akta Hasutan untuk membendung ucapan yang membangkitkan permusuhan kaum dan memulihkan ketenteraman. Rujukan skema: T5 ms.130."
+F5 Chp 6,radio,Melaka_Q32,A,B,C,D,A,Melaka/Picture32.png,"中文：宣布白区和提供赦免争取居民支持、鼓励共产党投降，属于心理战。 答案纸参考：F5第121页。
+Bahasa Melayu: Pengisytiharan kawasan putih dan tawaran pengampunan memenangi sokongan rakyat serta menggalakkan penyerahan komunis, iaitu perang saraf. Rujukan skema: T5 ms.121."
+F5 Chp 6,radio,Mrsm_Q32,A,B,C,D,B,MRSM/Picture32.png,"中文：MAGERAN暂停报刊出版以阻止挑动族群仇恨的消息，控制紧急时期秩序。 答案纸参考：F5第130页。
+Bahasa Melayu: MAGERAN menggantung penerbitan akhbar untuk membendung berita yang membangkitkan permusuhan kaum dan mengawal ketenteraman. Rujukan skema: T5 ms.130."
+F5 Chp 6,radio,N_Q32,A,B,C,D,B,N9/Picture32.png,"中文：开发新区及争取世界银行援助可提升落后地区，缩小城乡和地区间生活水平差距。 答案纸参考：F5第128页。
+Bahasa Melayu: Pembukaan kawasan dan bantuan Bank Dunia membangunkan kawasan ketinggalan untuk mengurangkan perbezaan taraf hidup antara wilayah. Rujukan skema: T5 ms.128."
+F5 Chp 6,radio,Pahang_Q32,A,B,C,D,D,Pahang/Picture32.png,"中文：D：心理战争取人民支持；跨境合作阻止共产党利用边境基地活动，两者互补，即III和IV。答案纸参考：F5第121、125页。
+Bahasa Melayu: D: Perang saraf memperoleh sokongan rakyat, manakala kerjasama sempadan menyekat pergerakan serta pangkalan komunis. III dan IV saling melengkapi. Rujukan skema: T5 ms. 121, 125."
+F5 Chp 6,radio,Perak_Q32,A,B,C,D,A,Perak/Picture32.png,"中文：职业培训让失业者获得工作技能，提高就业机会，是处理技能不足及工作机会有限问题的措施。答案纸参考：F5，第128页。
+Bahasa Melayu: Latihan vokasional memberi kemahiran pekerjaan kepada penganggur dan meningkatkan peluang mendapat kerja bagi menangani masalah kekurangan kemahiran serta peluang pekerjaan. Rujukan skema: F5, halaman 128."
+F5 Chp 6,radio,Perlis_Q32,A,B,C,D,A,Perlis/Picture32.png,"中文：新加坡族群关系因平等权利诉求及相关政治争议而紧张，1964年出现种族骚乱；这是当时政治背景，并非说争取平等本身必然引起骚乱。答案纸参考：F5，第119页。
+Bahasa Melayu: Tuntutan hak sama rata dan pertikaian politik meningkatkan ketegangan hubungan kaum di Singapura sehingga berlaku rusuhan 1964. Ini konteks pertikaian ketika itu, bukan bermaksud kesamarataan semestinya menyebabkan rusuhan. Rujukan skema: F5, halaman 119."
+F5 Chp 6,radio,PulauPinang_Q32,A,B,C,D,A,Pulau Pinang/Picture32.png,"中文：513事件提醒各族必须合作、互相理解并避免挑动仇恨，才能维护国家和平与社会和谐。答案纸参考：F5，第129页。
+Bahasa Melayu: Peristiwa 13 Mei mengajar rakyat supaya bekerjasama, saling memahami dan menjauhi sentimen kebencian demi keamanan serta keharmonian. Rujukan skema: F5, halaman 129."
+F5 Chp 6,radio,PutrajayaSet_Q32,A,B,C,D,A,Putrajaya set 1/Picture32.png,"中文：心理战通过宣传、解释及争取民心削弱共产党支持，使居民愿意与政府合作或促使成员投降。答案纸参考：F5，第121页。
+Bahasa Melayu: Perang saraf menggunakan penerangan dan usaha memenangi hati rakyat untuk melemahkan sokongan kepada komunis serta mendorong kerjasama atau penyerahan diri. Rujukan skema: F5, halaman 121."
+F5 Chp 6,radio,PutrajayaSet_Q32,A,B,C,D,C,Putrajaya set 2/Picture32.png,"中文：第一大马计划推动经济及乡区发展，改善收入、设施及生活条件，以提高人民生活水平。答案纸参考：F5，第127页。
+Bahasa Melayu: RMK Pertama membangunkan ekonomi dan luar bandar, meningkatkan pendapatan serta kemudahan untuk menaikkan taraf hidup rakyat. Rujukan skema: F5, halaman 127."
+F5 Chp 6,radio,Sabah_Q32,A,B,C,D,B,Sabah/Picture32.png,"中文：B（I、IV）：共同课程及马来语教学媒介为学生提供共同学习基础，培养国家认同及团结。
+Bahasa Melayu: B (I dan IV): Kurikulum yang sama dan bahasa Melayu sebagai bahasa pengantar membentuk pengalaman pendidikan bersama serta memupuk perpaduan."
+F5 Chp 6,radio,Sabk_Q32,A,B,C,D,A,SABK/Picture32.png,"中文：第一大马计划处理健康及生活水平差距，改善设施及人民生活，故I和II正确；不是以政党争执为发展目标。答案纸参考：F5，第128页。
+Bahasa Melayu: RMK Pertama menangani masalah kesihatan dan perbezaan taraf hidup melalui pembangunan kemudahan serta kehidupan rakyat. Maka I dan II tepat. Rujukan skema: F5, halaman 128."
+F5 Chp 6,radio,SarawakSibu_Q32,A,B,C,D,B,Sarawak Sibu/Picture32.png,"中文：B：新加坡与联邦政府在政策及政治方向上的冲突，成为分离的重要因素。【答案纸参考：119；书页内容待逐页确认。】
+Bahasa Melayu: B: Keengganan mematuhi dasar Kerajaan Persekutuan serta pertentangan politik dan ekonomi menjadi faktor pemisahan Singapura. [Rujukan skema: 119; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,Sbp_Q32,A,B,C,D,B,SBP/Picture32.png,"中文：B：争取“平等权利”的政治主张及其引发的族群矛盾加剧紧张，成为新加坡种族冲突的背景。【答案纸参考：119；书页内容待逐页确认。】
+Bahasa Melayu: B: Perjuangan persamaan hak menimbulkan pertentangan politik dan perkauman, lalu meningkatkan ketegangan antara kaum di Singapura. [Rujukan skema: 119; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,Selangor_Q32,A,B,C,D,C,Selangor/Picture32.png,"中文：C：Bong Kee Chok致函表达谈判意愿，后来促成停止武装斗争的和平安排。【答案纸参考：B6T5M122；书页内容待逐页确认。】
+Bahasa Melayu: C: Bong Kee Chok menulis surat untuk menyatakan hasrat berunding, yang membuka jalan kepada usaha perdamaian. [Rujukan skema: B6T5M122; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,Smka_Q32,A,B,C,D,D,SMKA/Picture32.png,"中文：D：MAGERAN在1969年事件后负责恢复及维持治安，使国家逐步恢复正常。【答案纸参考：T5 Hal.130；书页内容待逐页确认。】
+Bahasa Melayu: D: MAGERAN bertanggungjawab memulihkan dan mengekalkan keamanan selepas peristiwa 1969 supaya negara kembali stabil. [Rujukan skema: T5 Hal.130; kandungan halaman buku belum disahkan satu demi satu.]"
+F5 Chp 6,radio,Terengganu_Q32,A,B,C,D,B,Terengganu/Picture32.png,"中文：B：“Malaysian Malaysia”与联邦既有政策发生冲突，加剧中央与新加坡之间矛盾，最终促成分离。【答案纸参考：BAB 6- MS 119；书页内容待逐页确认。】
+Bahasa Melayu: B: Slogan Malaysian Malaysia bercanggah dengan dasar Persekutuan dan meningkatkan pertentangan yang akhirnya membawa kepada pemisahan Singapura. [Rujukan skema: BAB 6- MS 119; kandungan halaman buku belum disahkan satu demi satu.]"
