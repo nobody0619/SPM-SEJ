@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-KL Sentul F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+KL Sentul F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：马来西亚实行联邦制度、议会民主及君主立宪。国家元首依宪法履行职责，并非绝对君主，因此X是C。
+Bahasa Melayu: Malaysia mengamalkan negara Persekutuan, Demokrasi Berparlimen dan Raja Berperlembagaan. Raja menjalankan kuasa mengikut perlembagaan, maka X ialah C."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：人民可加入军警等安全部队，直接参与国家防卫。制定政策、跨境协定和装备现代化属于政府职责，因此选D。
+Bahasa Melayu: Rakyat boleh menganggotai pasukan keselamatan untuk mempertahankan negara. Penggubalan dasar dan pemodenan aset terutama tanggungjawab pemerintah, maka D tepat."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：Charter of Justice建立司法制度，课本强调其目的包括保护本地居民免受压迫。题目问该法律的目的，因此选A。
+Bahasa Melayu: Charter of Justice membentuk asas kehakiman dan, menurut buku teks, bertujuan melindungi penduduk asal daripada penindasan. Oleh itu, A tepat."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1965年修宪对应新加坡分离，因此选B。须注意被删除的是与新加坡有关的条款，不是整部宪法全部条款；题图表述若缺少“新加坡”，是不完整的。
+Bahasa Melayu: Pindaan Perlembagaan 1965 berkaitan pemisahan Singapura, maka B tepat. Perkara yang dimansuhkan ialah perkara berkaitan Singapura, bukannya seluruh perlembagaan; huraian dalam rajah tidak lengkap jika frasa tersebut tiada."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：州宪法规定统治者必须依宪法行使权力，推动君主立宪制度的发展。因此选C。
+Bahasa Melayu: Undang-undang tubuh negeri menetapkan pemerintahan raja berlandaskan perlembagaan. Hal ini memperkenalkan amalan Raja Berperlembagaan, maka C tepat."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：立法机关负责制定法律，行政机关执行政策，司法机关解释法律及裁决争议。因此只有A把机关与职责正确配对。
+Bahasa Melayu: Badan legislatif menggubal undang-undang, eksekutif melaksanakan dasar dan judisiari mentafsir undang-undang. Oleh itu, pasangan yang betul ialah A."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：公共福利和奖学金属于联邦与州共享的共同清单；公民权与司法行政属于联邦事务。因此II和III正确，选C。
+Bahasa Melayu: Kebajikan awam dan biasiswa berada dalam Senarai Bersama. Kewarganegaraan serta pentadbiran keadilan ialah urusan Persekutuan, maka II dan III, iaitu C."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：沙巴东部发生武装入侵后，联邦与州合作成立ESSCOM及ESSZONE，加强海岸和边境安全。因此选A。
+Bahasa Melayu: Pencerobohan pengganas di Sabah mendorong pembentukan ESSCOM dan ESSZONE untuk memperkukuh keselamatan pantai serta sempadan melalui kerjasama Persekutuan dan negeri. Oleh itu, A tepat."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：把新加坡与婆罗洲地区共同纳入联邦，可以遏制共产党威胁并平衡人口族群结构。不是为了加剧族群情绪，所以I和II，即A。
+Bahasa Melayu: Pembentukan Malaysia membantu menyekat ancaman komunis dan menyeimbangkan komposisi kaum melalui penyertaan wilayah Borneo. Oleh itu, I dan II tepat, iaitu A."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：马来亚与英国透过协商成立Cobbold委员会调查居民意见，说明共同商议能处理重大问题。因此启示是B。
+Bahasa Melayu: Rundingan menghasilkan persetujuan menubuhkan Suruhanjaya Cobbold untuk meninjau pandangan penduduk. Langkah ini menunjukkan kepentingan kesepakatan menyelesaikan masalah, maka B tepat."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：持续的政治与族群紧张威胁社会稳定，东姑接受分离以避免冲突扩大、保障公共安宁。因此选B。
+Bahasa Melayu: Ketegangan politik dan perkauman mengancam kestabilan Malaysia. Pemisahan dipilih untuk mengelakkan konflik berterusan dan menjamin ketenteraman awam, maka B tepat."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：1969年族群暴乱导致公共秩序受威胁，MAGERAN采取措施恢复和平，包括控制煽动行为。因此选D。
+Bahasa Melayu: Rusuhan kaum pada tahun 1969 menjejaskan ketenteraman negara. MAGERAN mengambil langkah keselamatan serta mengawal hasutan untuk memulihkan keamanan, maka D tepat."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：Razak及Rahman Talib报告通过共同教学语言、课程及教育制度，促进各族交流与国家认同。其主要焦点是族群团结，选B。
+Bahasa Melayu: Laporan Razak dan Rahman Talib membentuk sistem pendidikan bersama melalui bahasa, sukatan dan dasar untuk menyatukan rakyat. Oleh itu, tumpuan utamanya ialah perpaduan kaum, iaitu B."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：尊重国旗、国歌和国家象征，是表达对君主与国家的忠诚。因此对应Rukun Negara的第二原则，选A。
+Bahasa Melayu: Menghormati simbol dan lambang negara menunjukkan kesetiaan kepada institusi raja serta negara. Prinsip tersebut ialah Kesetiaan kepada Raja dan Negara, maka A tepat."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：FELDA开辟新土地，让参与者从种植业获得收入，改善生活并扩大种植园发展。因此I和II正确，选A。
+Bahasa Melayu: Pembukaan tanah FELDA menyediakan peluang pendapatan kepada peneroka dan mengembangkan sektor perladangan. Kesannya ialah peningkatan taraf hidup serta perkembangan ladang, maka I dan II, iaitu A."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：ASN和ASB扩大土著股权参与，减少不同族群之间经济结构差距，属于重组社会的措施。因此选C。
+Bahasa Melayu: ASN dan ASB meningkatkan pemilikan saham bumiputera untuk mengurangkan ketidakseimbangan ekonomi antara kaum. Usaha ini menyusun semula masyarakat, maka C tepat."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：Razali Ismail担任联合国经济与社会理事会职务及联合国秘书长缅甸特使，题目列出的外交履历指向他。因此选C。
+Bahasa Melayu: Jawatan dalam ECOSOC dan peranan sebagai wakil khas Setiausaha Agung PBB ke Myanmar merujuk Tan Sri Razali Ismail. Oleh itu, C tepat."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：Colombo计划通过技术训练、教育及发展援助提升能力，促进经济发展并减轻贫困。因此选A。
+Bahasa Melayu: Rancangan Colombo menyediakan latihan teknikal, pendidikan dan bantuan pembangunan untuk meningkatkan keupayaan ekonomi serta mengatasi kemiskinan. Oleh itu, A tepat."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：Muslim Care和MAPIM向战争或灾害受害者提供食物、医疗及其他支援，其共同任务是人道援助。因此选C。
+Bahasa Melayu: Muslim Care dan MAPIM menyalurkan keperluan serta bantuan kepada mangsa konflik atau bencana. Misi utamanya ialah bantuan kemanusiaan, maka C tepat."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：东南亚无核区条约限制核武器扩散与部署，降低区域遭受核威胁的风险。因此马来西亚参与是为了保障地区安全，选D。
+Bahasa Melayu: Zon Bebas Nuklear Asia Tenggara mengurangkan ancaman senjata nuklear dan menyokong keamanan rantau. Oleh itu, keselamatan serantau dalam D ialah sebab paling khusus."

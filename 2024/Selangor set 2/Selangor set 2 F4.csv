@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor set 2 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor set 2 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：C：广大的影响地区说明其他地区承认马六甲的权威，体现统治者的能力与威望。
+Bahasa Melayu: C: Wilayah pengaruh yang luas menunjukkan penerimaan terhadap kekuasaan Melaka dan membuktikan kewibawaan pemerintah."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：D：Malim负责导航；若因疏忽导致船只损坏或沉没，可按海事法处死。
+Bahasa Melayu: D: Malim bertanggungjawab mengemudi kapal. Kecuaian yang menyebabkan kerosakan atau kapal tenggelam boleh dikenakan hukuman bunuh."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：B（I、IV）：Islah要求回归《古兰经》与圣训，以改善穆斯林社会生活并摆脱殖民支配。
+Bahasa Melayu: B (I dan IV): Gerakan Islah menyeru kembali kepada al-Quran dan Hadis untuk memperbaik kehidupan masyarakat serta membebaskan diri daripada penjajahan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：B：KMM公开而大胆反对英国殖民统治，因此英国把它视为激进组织。
+Bahasa Melayu: B: KMM berani menyuarakan penentangan terhadap penjajahan British, lalu dianggap pertubuhan radikal."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：A：进攻苏联的Barbarossa行动是希特勒扩张欧洲霸权的一部分，目标是扩大对欧洲的统治。
+Bahasa Melayu: A: Operasi Barbarossa menyerang Kesatuan Soviet sebagai sebahagian cita-cita Hitler meluaskan penguasaan ke seluruh Eropah."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：B：Ibrahim Alla Ditta在对日作战中救助盟军，英勇表现使他获得Military Cross；Pasir Panjang主要相关人物是Adnan Saidi。
+Bahasa Melayu: B: Ibrahim Alla Ditta dianugerahi Military Cross kerana keberanian menyelamatkan tentera Bersekutu. Pertempuran Pasir Panjang lebih dikaitkan dengan Adnan Saidi."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：D：统治者认为签署Malayan Union协议时受到施压，要求取消其对该协议的同意。
+Bahasa Melayu: D: Raja-raja Melayu mempertikaikan persetujuan yang diperoleh melalui tekanan dan meminta persetujuan terhadap Malayan Union dimansuhkan."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：A：YMA关注当地马来人的社会与经济进步，通过组织活动改善人民生活。
+Bahasa Melayu: A: YMA bertujuan memajukan penduduk tempatan melalui kegiatan sosial dan ekonomi."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：C（II、III）：PUTERA提出国旗应含马来民族色彩，并要求外交与国防由马来亚和英国共同承担。
+Bahasa Melayu: C (II dan III): PUTERA mencadangkan unsur warna kebangsaan Melayu dalam bendera serta tanggungjawab bersama Tanah Melayu dan British dalam hal ehwal luar dan pertahanan."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：C：这不是自动取得公民身份，而是符合居住、品格、语言及忠诚条件后提出申请，按本题称为登记。
+Bahasa Melayu: C: Pemuda itu perlu memohon setelah memenuhi syarat pemastautinan, kelakuan baik, bahasa dan kesetiaan; dalam pilihan soalan ini kaedahnya ialah pendaftaran, bukan kuat kuasa undang-undang."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：C：共产党使用暴力和恐吓，引起人民反感，使多数马来人不支持其运动。
+Bahasa Melayu: C: Penggunaan kekerasan dan ugutan oleh komunis menimbulkan penolakan dalam kalangan orang Melayu."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：A：争取原住民信任及放宽公民条件都是心理战措施，用于取得人民支持以对抗共产党。
+Bahasa Melayu: A: Usaha memenangi kepercayaan Orang Asli dan melonggarkan kewarganegaraan ialah langkah Perang Saraf untuk mendapatkan sokongan rakyat."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：C（II、III）：CLC研究族群关系并通过协商减少矛盾，建立社会和谐。
+Bahasa Melayu: C (II dan III): CLC mengkaji hubungan kaum dan mencari persefahaman untuk mewujudkan keadaan harmoni."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：D：Sistem Ahli让本地领袖管理部门，累积政府行政经验，为自治作准备。
+Bahasa Melayu: D: Sistem Ahli melatih penduduk tempatan mengurus portfolio dan memperoleh pengalaman mentadbir sebagai persediaan kerajaan sendiri."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B：选举委员会先研究选举制度、选区及代表安排，为联邦选举拟定建议。
+Bahasa Melayu: B: Jawatankuasa Pilihan Raya mengkaji hal ehwal serta susunan pilihan raya dan menyediakan cadangan pelaksanaannya."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：联邦立法议会是立法机构，职责是讨论及制定法律。
+Bahasa Melayu: B: Majlis Perundangan Persekutuan ialah badan yang membincangkan dan menggubal undang-undang."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：D：Reid委员会负责起草独立马来亚的宪法，并征求各方意见。
+Bahasa Melayu: D: Suruhanjaya Reid merangka perlembagaan Persekutuan Tanah Melayu yang merdeka berdasarkan pandangan pelbagai pihak."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：A（I、II）：1957年协议规定伊斯兰为联邦宗教，并维持马来人的特殊地位。
+Bahasa Melayu: A (I dan II): Perjanjian 1957 menetapkan Islam sebagai agama Persekutuan dan mengekalkan kedudukan istimewa orang Melayu."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：D：场地与国家象征的准备使独立庆典展示新国家身份，而不只是布置街道。
+Bahasa Melayu: D: Persediaan fizikal dan lambang kebangsaan menonjolkan identiti negara merdeka, bukan sekadar menghias jalan."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B：加入英联邦延续与成员国的社会及经济合作，包括教育、贸易与发展。
+Bahasa Melayu: B: Penyertaan Komanwel merapatkan hubungan sosioekonomi dengan negara anggota melalui pendidikan, perdagangan dan pembangunan."

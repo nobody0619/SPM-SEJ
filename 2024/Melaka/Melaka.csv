@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Melaka 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：饮用流经Telaga Batu碑的水是宣誓效忠的仪式，确认人民对Srivijaya君主的忠诚。
+Bahasa Melayu: Meminum air yang dialirkan pada Inskripsi Telaga Batu ialah upacara sumpah taat setia rakyat kepada raja Srivijaya."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：Rokan、Kampar与Inderagiri通过征服纳入马六甲势力范围，因此选A。
+Bahasa Melayu: Rokan, Kampar dan Inderagiri menjadi wilayah pengaruh Melaka melalui penaklukan, A."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：两场革命限制或终结绝对君权，应选D。原key C的经济管制并非共同结果，保留原答案并注明疑点。
+Bahasa Melayu: Kedua-dua revolusi mengehadkan atau menamatkan kuasa mutlak raja, D. Key asal C tentang ekonomi kawalan bukan kesan bersama; jawapan dikekalkan dengan percanggahan dicatat."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：Liga Filipina要求菲律宾人享有平等权利，并推动西班牙殖民政府改革，所以I、IV正确。
+Bahasa Melayu: Liga Filipina menuntut persamaan hak dan mendesak pembaharuan pentadbiran Sepanyol; I dan IV betul."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：Wilson主张民族自决，国家边界依据民族形成，让人民决定政治归属。
+Bahasa Melayu: Wilson menyarankan penentuan nasib sendiri dengan sempadan negara berasaskan bangsa supaya rakyat menentukan kedudukan politiknya."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：战争造成大量伤亡与财产损毁，说明应珍惜和平并避免冲突扩大。
+Bahasa Melayu: Kehilangan nyawa dan kemusnahan harta akibat perang mengingatkan kita menghargai keamanan serta mengelakkan konflik."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：BMA恢复战后秩序、公共设施和基本供应，以重建人民对政府的信任。
+Bahasa Melayu: BMA memulihkan ketenteraman, kemudahan dan bekalan selepas perang untuk mengembalikan kepercayaan rakyat."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：两位妇女领袖动员女性参加反Malayan Union运动，捍卫马来主权和权益。
+Bahasa Melayu: Kedua-dua pemimpin wanita menggerakkan bantahan Malayan Union untuk mempertahankan kedaulatan serta kepentingan Melayu."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：人民宪法建议把统一公民身份称为Melayu，并不意味着所有人的族群身份改变。
+Bahasa Melayu: Perlembagaan Rakyat mencadangkan kewarganegaraan Malaya dinamakan Melayu, bukan perubahan keturunan semua penduduk."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：Gammans与Rees Williams赴马来亚观察人民反Malayan Union的强烈抗议，并向英国反馈。
+Bahasa Melayu: Gammans dan Rees Williams datang menyaksikan bantahan terhadap Malayan Union dan melaporkannya kepada British."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：Sungai Siput杀害事件推动英国宣布紧急法令，采取特别措施应对共产党暴力。
+Bahasa Melayu: Pembunuhan di Sungai Siput membawa pengisytiharan undang-undang darurat untuk menangani keganasan komunis."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Sarawak Rangers擅长丛林追踪，负责寻找共产党藏身地点，B配对正确。
+Bahasa Melayu: Sarawak Rangers mahir menjejak tempat persembunyian komunis dalam hutan, maka pasangan B betul."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：H.S. Lee在Sistem Ahli中担任交通事务成员，负责有关部门工作。
+Bahasa Melayu: H.S. Lee memegang portfolio Ahli Pengangkutan dalam Sistem Ahli dan mengendalikan bidang tersebut."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：统一课程让各族学生学习共同知识与价值，是促进教育团结的措施。
+Bahasa Melayu: Kurikulum seragam memberikan pengetahuan dan nilai bersama kepada murid pelbagai kaum untuk perpaduan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：1955年选举后多数成员由人民选出的机构是联邦立法议会。
+Bahasa Melayu: Majlis dengan majoriti ahli dipilih selepas pilihan raya 1955 ialah Majlis Perundangan Persekutuan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：首届内阁商讨国防等自治事务，准备独立政府接管国家责任。
+Bahasa Melayu: Kabinet pertama membincangkan pertahanan dan urusan pemerintahan sendiri sebagai persediaan tanggungjawab negara merdeka."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：这些人士组成Reid委员会，收集意见并起草独立宪法。
+Bahasa Melayu: Tokoh ini membentuk Suruhanjaya Reid untuk menerima pandangan dan merangka perlembagaan merdeka."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：联盟政治信托备忘录提出共同公民身份及取得公民权的安排，以协调各族利益。
+Bahasa Melayu: Testament Amanah Politik Perikatan mengemukakan kewarganegaraan bersama dan syaratnya untuk menyelaraskan kepentingan kaum."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：庆典委员会举办礼仪课程，让参与独立仪式的人熟悉正式程序。
+Bahasa Melayu: Jawatankuasa Sambutan menganjurkan kursus protokol agar peserta memahami tatacara upacara kemerdekaan."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：降下英国旗、升起联邦旗象征英国统治结束和独立国家开始。
+Bahasa Melayu: Penurunan Union Jack dan penaikan bendera Persekutuan menandakan tamatnya pentadbiran British serta bermulanya kemerdekaan."
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：维护独立国家的身份与主权可赢得外国尊重，确保国际地位。
+Bahasa Melayu: Mempertahankan identiti dan kedaulatan negara membolehkan Malaysia dihormati negara luar serta mengekalkan kedudukan antarabangsa."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：领袖会面增进马来西亚与埃及的理解及合作，巩固外交关系。
+Bahasa Melayu: Pertemuan pemimpin meningkatkan persefahaman dan kerjasama Malaysia-Mesir untuk mengukuhkan hubungan diplomatik."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：Charter of Justice建立司法保护与法律秩序，防止居民受压迫。
+Bahasa Melayu: Charter of Justice menyediakan perlindungan kehakiman dan aturan undang-undang untuk menghalang penindasan penduduk."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：君主制度继承马来州独立前传统，属于宪法传统特征。
+Bahasa Melayu: Pemerintahan beraja diwarisi daripada tradisi negeri Melayu sebelum merdeka, maka ialah ciri tradisional perlembagaan."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：州宪法明确君主权力受法律约束，推动君主立宪而非绝对君权。
+Bahasa Melayu: Undang-undang tubuh negeri menetapkan kuasa raja tertakluk pada perlembagaan, mengamalkan Raja Berperlembagaan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：国家元首是军队最高统帅并任命驻外外交人员；不是所有州的伊斯兰领袖，也不亲自判案。
+Bahasa Melayu: YDPA pemerintah tertinggi tentera dan melantik diplomat; baginda bukan ketua Islam semua negeri atau hakim yang menjatuhkan hukuman."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：外交、教育及司法行政在联邦清单，需全国统一管理。
+Bahasa Melayu: Hal ehwal luar, pelajaran dan pentadbiran keadilan termasuk Senarai Persekutuan untuk pengurusan seluruh negara."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：RASCOM协调Rajang地区安全行动，以对抗Sarawak共产党威胁。
+Bahasa Melayu: RASCOM menyelaraskan operasi keselamatan kawasan Rajang untuk menangani ancaman komunis Sarawak."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：成立马来西亚让加入的地区摆脱殖民，并共享原料和经济资源，II、III正确。
+Bahasa Melayu: Pembentukan Malaysia memberikan kemerdekaan wilayah dan perkongsian bahan mentah serta sumber ekonomi; II dan III betul."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼在对抗期间派游击队和武装人员入侵马来西亚，企图破坏成立计划。
+Bahasa Melayu: Indonesia menghantar gerila dan pihak bersenjata menyerang Malaysia semasa konfrontasi untuk menggagalkan pembentukannya."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：族群骚乱及持续政治紧张危害联邦稳定，促使新加坡在1965年分离。
+Bahasa Melayu: Rusuhan kaum dan ketegangan politik mengancam kestabilan persekutuan sehingga menyumbang pemisahan Singapura pada 1965."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：职业培训中心提供工作技能，改善青年就业能力并减少失业。
+Bahasa Melayu: Pusat latihan vokasional membekalkan kemahiran pekerjaan untuk meningkatkan kebolehpasaran belia serta mengurangkan pengangguran."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：历史教育和Tatarakyat培养爱国、共同认同及公民责任，所以I、IV正确。
+Bahasa Melayu: Sejarah dan Tatarakyat memupuk patriotisme, identiti bersama serta tanggungjawab warganegara; I dan IV betul."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：SUKMA促进跨族、跨州交流，让体育成为全国整合的平台。
+Bahasa Melayu: SUKMA menggalakkan interaksi antara kaum dan negeri, menjadikan sukan wadah integrasi nasional."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：全国咨询理事会讨论经济与族群问题，推动DEB的形成；题干MAPEM应为MAPEN。
+Bahasa Melayu: Majlis Perundingan Negara membincangkan ekonomi serta hubungan kaum dan menyumbang pembentukan DEB; singkatan MAPEM dalam soalan sepatutnya MAPEN."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：DARA和KETENGAH开发落后地区、土地及设施，带动区域就业和经济。
+Bahasa Melayu: DARA dan KETENGAH membangunkan wilayah, tanah serta kemudahan untuk meningkatkan pekerjaan dan ekonomi kawasan."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：外交政策建立与其他国家的良好关系，以维护国家利益与安全。
+Bahasa Melayu: Dasar luar memupuk hubungan baik dengan negara lain untuk melindungi kepentingan serta keselamatan negara."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：Apartheid以种族歧视剥夺黑人权益，马来西亚反对它以捍卫当地人民及人权。
+Bahasa Melayu: Apartheid menafikan hak penduduk kulit hitam melalui diskriminasi kaum; Malaysia menentangnya demi hak penduduk dan kemanusiaan."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：AFTA降低贸易壁垒、扩大区域贸易与投资，增强东盟经济合作。
+Bahasa Melayu: AFTA mengurangkan halangan perdagangan dan memperluas perdagangan serta pelaburan untuk kerjasama ekonomi ASEAN."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：Muslim Care提供食物、医疗和人道支援，帮助灾区及受冲突影响人民。
+Bahasa Melayu: Muslim Care menyalurkan makanan, rawatan dan bantuan kemanusiaan kepada mangsa bencana serta konflik."

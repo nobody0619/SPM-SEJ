@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-KL Sentul F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+KL Sentul F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：主权是国家治理的最高权力，让国家能够管理人民与领土，不受外来支配。因此选B。
+Bahasa Melayu: Kedaulatan ialah kekuasaan tertinggi untuk mentadbir rakyat dan wilayah tanpa penguasaan pihak luar. Oleh itu, B tepat."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：人民效忠苏丹、承认其权力，并遵守国家法律，以维持社会秩序。治理封地和征税主要由大臣负责，所以选C。
+Bahasa Melayu: Rakyat taat setia, mengakui kuasa sultan dan mematuhi undang-undang kerajaan. Pentadbiran wilayah pegangan serta kutipan cukai ialah tugas pembesar, maka C tepat."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：翁惹化的定义强调建立坚强民族，能够凭自身力量站稳脚步，体现民族自立。因此这段话对应Dato' Onn Jaafar，选B。
+Bahasa Melayu: Tafsiran Dato' Onn menekankan pembentukan bangsa yang tegap, kuat dan mampu berdiri atas kekuatan sendiri. Oleh itu, tokoh tersebut ialah B."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：Kartini作品揭示人民落后与教育不足，特别关注女性受教育机会，唤起改善社会的意识。因此选D。
+Bahasa Melayu: Karya Kartini mendedahkan kemunduran rakyat dan kekurangan peluang pendidikan, terutama bagi wanita. Penulisannya menyedarkan masyarakat tentang keperluan pembaharuan, maka D tepat."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：法西斯主义和纳粹主义强调极端民族主义，把国家与民族置于首位，并推动扩张。因此I和IV正确，选B。
+Bahasa Melayu: Fasisme dan Nazisme mengagungkan bangsa serta mengutamakan kepentingan negara secara melampau. Ideologi ini mendorong peluasan kuasa, maka I dan IV, iaitu B."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：Sybil Kathigasu在霹雳提供医疗援助，帮助战争受害者及抗日游击队。题目线索是诊所与药物援助，因此选C。
+Bahasa Melayu: Sybil Kathigasu memberikan rawatan dan ubat kepada mangsa perang serta gerila anti-Jepun di Perak. Oleh itu, C tepat."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：BMA要求MPAJA交出武器，以终止战后武装势力自行行动，恢复社会秩序与安全。因此最全面的目的为D。
+Bahasa Melayu: BMA mengarahkan MPAJA menyerahkan senjata untuk mengawal kegiatan bersenjata dan memulihkan keamanan selepas perang. Oleh itu, D tepat."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：Malayan Union把主要行政权交给英国总督，使苏丹失去原有统治主权。统治者通过抗议信、法院及抵制仪式反对，因此选D。
+Bahasa Melayu: Malayan Union memindahkan kuasa utama kepada Gabenor British dan menjejaskan kedaulatan sultan. Raja-raja Melayu menentang melalui pelbagai saluran, maka D tepat."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：引文承认激进民族主义者也为独立贡献力量，其抗争增加英国面对的压力并唤醒人民。因此选A，即解放祖国。
+Bahasa Melayu: Petikan mengiktiraf sumbangan nasionalis radikal dalam perjuangan membebaskan tanah air daripada penjajah. Tekanan dan kesedaran yang mereka bangkitkan turut membantu kemerdekaan, maka A tepat."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：英国拒绝PUTERA-AMCJA提出的《人民宪法》，促使其发动Hartal停业抗议，因此选B。全国性Hari Hartal Se-Malaya的日期为1947年10月20日，题图若把全国行动标为9月20日，月份有误。
+Bahasa Melayu: Penolakan Perlembagaan Rakyat oleh British mendorong hartal sebagai bantahan, maka B tepat. Hari Hartal Se-Malaya berlangsung pada 20 Oktober 1947; jika gambar merujuk tindakan seluruh Malaya, tarikh 20 September dalam soalan tidak tepat."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：共产党杀害双溪Siput种植园经理，促使英国宣布紧急状态，以加强安全控制。因此即时影响是C；Briggs计划等属于后续措施。
+Bahasa Melayu: Pembunuhan pengurus ladang Eropah di Sungai Siput mencetuskan pengisytiharan darurat. Rancangan Briggs ialah langkah kemudian, maka C tepat."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：现有答案B把死亡人数归因于政府能力不足，但表格只有牺牲人数，不能单凭这些数字证明该原因。可确定的是安全部队在对抗共产党时付出重大牺牲；题目所问原因缺少足够资料，需复核。
+Bahasa Melayu: Jawapan semasa B menyatakan ketidakupayaan kerajaan, tetapi angka korban sahaja tidak membuktikan punca tersebut. Jadual menunjukkan pengorbanan besar pasukan keselamatan ketika menghadapi komunis; sebab khusus memerlukan maklumat tambahan dan jawapan perlu disemak."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：IMP以多族群合作为基础，追求国家团结，因此选C。题干年份有笔误：翁惹化成立IMP是在1951年，而不是1949年。
+Bahasa Melayu: IMP berasaskan penyertaan pelbagai kaum untuk membina perpaduan kebangsaan, maka C tepat. Tahun dalam soalan tersalah tulis; IMP ditubuhkan pada tahun 1951, bukan 1949."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：Woodhead报告建议加强英语在学校的地位，包括统一教学方向及发展教育。题目所列建议中提升英语最符合，因此选D。
+Bahasa Melayu: Laporan Woodhead mencadangkan pengukuhan pendidikan dan penggunaan bahasa Inggeris dalam sistem persekolahan Sabah serta Sarawak. Oleh itu, D paling sesuai."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：1951年George Town举行的是市议会选举，属于地方选举的发展，而非1955年联邦立法议会选举。因此选B。
+Bahasa Melayu: Pilihan raya George Town pada tahun 1951 ialah Pilihan Raya Majlis Perbandaran. Ia merupakan perkembangan pilihan raya tempatan sebelum pilihan raya Persekutuan 1955, maka B tepat."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：不同族群愿意分享权力、听取彼此意见并作出妥协，体现包容和容忍Toleransi。因此选A。
+Bahasa Melayu: Perkongsian kuasa antara kaum memerlukan sikap menerima pandangan dan bertolak ansur. Nilai tersebut ialah toleransi, maka A tepat."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：翁惹化反对过度宽松的公民权条件，促使Parti Negara、PAS及Parti Rakyat举办大会讨论宪法草案。因此选D。
+Bahasa Melayu: Penolakan syarat kewarganegaraan yang longgar mendorong Parti Negara bersama PAS dan Parti Rakyat mengadakan kongres untuk membincangkan draf perlembagaan. Oleh itu, D tepat."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：宣布独立日期代表谈判成功、国家主权即将实现，人民看见独立已接近。因此I和II正确，选A。
+Bahasa Melayu: Pengumuman tarikh kemerdekaan menunjukkan hasil rundingan berjaya dan pembentukan negara berdaulat semakin hampir. Oleh itu, I dan II tepat, iaitu A."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：物质准备委员会除安排体育场及王宫，也重视国家象征，包括准备国歌供独立典礼使用。因此X可对应创作国歌，选D。
+Bahasa Melayu: Persediaan fizikal turut melibatkan pembentukan identiti negara, termasuk penyediaan lagu kebangsaan untuk upacara kemerdekaan. Oleh itu, X ialah D."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：红皮书计划记录发展项目及进度，让政府监督和评估计划落实情况，特别是乡村发展。因此选C。
+Bahasa Melayu: Rancangan Buku Merah merekodkan projek dan kemajuan pembangunan supaya pelaksanaannya dapat dipantau serta dinilai. Oleh itu, C tepat."

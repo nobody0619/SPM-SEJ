@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-SBP F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SBP F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：Lingga与Patani通过友好关系承认马六甲权威，属于友好取得的势力范围，而非战争征服。
+Bahasa Melayu: Lingga dan Patani menerima pengaruh Melaka melalui hubungan persahabatan, bukan penaklukan peperangan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：malim负责导航，严重疏忽可危及船只与人员，重罚的目的在于确保航行安全。
+Bahasa Melayu: Malim mengemudi pelayaran; kecuaian boleh membahayakan kapal dan penumpang, maka hukuman bertujuan menjamin keselamatan pelayaran."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：两人的民族主义解释都强调为民族权益、身份及发展奋斗，不只限于某一种宗教或行动方式。
+Bahasa Melayu: Tafsiran kedua-dua tokoh menekankan perjuangan bangsa, hak dan identitinya, bukan terhad pada agama atau satu bentuk tindakan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：泰国主要反对绝对王权，其他被殖民东南亚国家则反对外国殖民，因此B配对正确。
+Bahasa Melayu: Nasionalisme Thailand menentang raja berkuasa mutlak, sementara negara lain menentang penjajahan asing. Maka B tepat."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：MCKK培养受教育的本地领袖及行政人才。题干若把成立时间写为1920年代应注意：MCKK实际于1905年成立。
+Bahasa Melayu: MCKK melahirkan pemimpin dan pentadbir tempatan berpendidikan. Institusi ini ditubuhkan pada 1905, bukan1920-an seperti dinyatakan soalan."
+,radio,F4 Bab 2,A,B,C,D,D,Picture6.png,"中文：Za'ba让师范生认识高等教育及英语课程的重要性，帮助居民突破只受初等教育的限制，故III和IV正确。
+Bahasa Melayu: Za'ba menyedarkan guru pelatih tentang kepentingan pendidikan tinggi dan kurikulum bahasa Inggeris. Maka III dan IV tepat."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：德国轰炸英国重要工业及城市，意图削弱经济、生产与继续作战能力。
+Bahasa Melayu: Pengeboman Jerman menyasarkan industri dan bandar British untuk melumpuhkan ekonomi serta keupayaan meneruskan perang."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：我国位置有利于控制海峡及向东南亚扩军，是日本进攻的重要军事战略因素。
+Bahasa Melayu: Kedudukan negara kita membantu penguasaan laluan dan kemaraan tentera ke Asia Tenggara, menjadikannya strategik bagi Jepun."
+,radio,F4 Bab 3,A,B,C,D,C,Picture9.png,"中文：Giyu Tai协助海岸防卫并维护公共秩序；不是抗日游击队。
+Bahasa Melayu: Giyu Tai membantu pertahanan pesisiran pantai dan menjaga ketenteraman awam, bukan pasukan gerila anti-Jepun."
+,radio,F4 Bab 4,A,B,C,D,A,Picture10.png,"中文：马来亚联盟设统治者会议，并以宽松jus soli安排公民权；1948联邦的公民权条件更严格。
+Bahasa Melayu: Malayan Union mewujudkan Majlis Raja-Raja dan kewarganegaraan jus soli yang longgar; syarat PTM1948 lebih ketat."
+,radio,F4 Bab 4,A,B,C,D,B,Picture11.png,"中文：支持者认为英国会发展当地并提供公务就业机会，故I和IV是支持割让的理由。
+Bahasa Melayu: Penyokong penyerahan menganggap British akan memajukan penduduk dan memberikan pekerjaan dalam perkhidmatan awam. Maka I dan IV tepat."
+,radio,F4 Bab 5,A,B,C,D,A,Picture12.png,"中文：调查认为若英国继续强行联盟，可能造成严重混乱，促使英国考虑改变制度；A应理解为风险判断，不是证明当时已经发生全面混乱。
+Bahasa Melayu: Tinjauan memberi amaran bahawa penerusan Malayan Union boleh mencetuskan huru-hara. A merujuk risiko yang dibimbangi, bukan bukti kekacauan menyeluruh sudah berlaku."
+,radio,F4 Bab 6,A,B,C,D,A,Picture13.png,"中文：加尔各答会议号召反对帝国主义，并推动共产党采取武装斗争，非维护封建王权。
+Bahasa Melayu: Persidangan Calcutta menggesa penentangan terhadap kuasa imperialis dan perjuangan bersenjata, bukan pemulihan sistem feudal."
+,radio,F4 Bab 6,A,B,C,D,B,Picture14.png,"中文：MCA是本地华人政治组织，协助政府争取华人支持并减少共产党影响。
+Bahasa Melayu: MCA ialah parti berorientasikan tempatan yang membantu mendapatkan sokongan masyarakat Cina dan mengurangkan pengaruh komunis."
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：族群协商中，马来人接受较宽松公民权，同时获得改善经济机会的承诺，体现互相让步。
+Bahasa Melayu: Orang Melayu menerima kelonggaran kewarganegaraan dengan persetujuan bantuan dan peluang ekonomi, mencerminkan tolak ansur antara kaum."
+,radio,F4 Bab 7,A,B,C,D,D,Picture16.png,"中文：拉萨报告列出普通类型小学可使用英语、华语及淡米尔语，国民中学用马来语，符合图中学校安排。
+Bahasa Melayu: Penyata Razak mencadangkan Sekolah Jenis Umum menggunakan bahasa Inggeris, Cina atau Tamil, dan Sekolah Menengah Kebangsaan menggunakan bahasa Melayu."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：45天竞选期让候选人与政党解释计划、接触群众并争取选票。
+Bahasa Melayu: Tempoh kempen45hari memberi peluang calon dan parti menerangkan rancangan serta meraih sokongan pengundi."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：里德委员会须保障马来人特殊地位及其他族群合法利益，故I和IV正确。
+Bahasa Melayu: Suruhanjaya Reid perlu menjaga kedudukan istimewa orang Melayu dan kepentingan sah kaum lain. Maka I dan IV tepat."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：官员接受礼宾训练以接待及陪同受邀来宾，确保独立庆典流程得体。
+Bahasa Melayu: Pegawai diberi latihan protokol untuk mengiringi tetamu jemputan dan memastikan sambutan berjalan tertib."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：人民通过选举选择代表，获支持的政党组成政府，是议会民主运作方式。
+Bahasa Melayu: Rakyat memilih wakil melalui pilihan raya dan parti yang mendapat sokongan membentuk kerajaan dalam demokrasi berparlimen."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Putrajaya set 1 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Putrajaya set 1 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：法律体系构成国家规则的基础，规定权力、责任与处罚，保障有序治理。
+Bahasa Melayu: Sistem perundangan menjadi asas peraturan negara dengan menetapkan kuasa, tanggungjawab dan hukuman."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：国家自行制定外交政策，决定与哪些国家合作及维护何种利益，体现主权。
+Bahasa Melayu: Penggubalan dasar luar menentukan hubungan dan kerjasama antarabangsa menurut kepentingan negara berdaulat."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：马来联邦州的共同法律由联邦理事会制定，是统一殖民行政的制度之一。
+Bahasa Melayu: Majlis Persekutuan menggubal undang-undang bersama bagi NNMB dalam penyelarasan pentadbiran negeri-negeri tersebut."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：独立前马来统治者及沙巴砂拉越原住民领袖负责维护本地居民权益，因此I和II正确。
+Bahasa Melayu: Sebelum merdeka, raja dan ketua pribumi menjaga kedudukan serta kepentingan penduduk tempatan. Maka I dan II tepat."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：国家元首任命武装部队总司令属于行政职权；批准法案及解散国会属于立法相关权限。
+Bahasa Melayu: Pelantikan Panglima Angkatan Tentera ialah kuasa eksekutif YDPA, sementara perkenan rang undang-undang dan pembubaran Parlimen berkaitan perundangan."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：大选让人民选择代表并决定政府领导，是民主的直接实践。
+Bahasa Melayu: Pilihan Raya Umum membolehkan rakyat memilih wakil dan menentukan kepimpinan kerajaan sebagai amalan demokrasi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：文化体育及公共福利属于共同权限，故II和III正确；伊斯兰法属于州权限，医疗卫生通常列为联邦。
+Bahasa Melayu: Kebudayaan dan sukan serta kebajikan awam termasuk Senarai Bersama. Maka II dan III tepat; undang-undang Islam ialah bidang negeri."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：原答案D描述沙巴东部安全地区的范围，符合保护东海岸安全的目的。严格名称上ESSCOM是协调指挥机构，ESSZONE是安全区，C更直接描述ESSCOM的协调职能。
+Bahasa Melayu: D menerangkan pengawasan keselamatan pantai timur. Dari segi nama, ESSCOM ialah perintah penyelarasan manakala ESSZONE ialah kawasan; C lebih langsung menerangkan fungsi penyelarasan ESSCOM."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：科博尔报告指出约三分之二居民支持马来西亚，包括要求保障后才支持的人。
+Bahasa Melayu: Laporan Cobbold menyatakan kira-kira dua pertiga penduduk menyokong Malaysia, termasuk sokongan dengan syarat perlindungan tertentu."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼领导变化后转向谈判，最终1966年结束对抗政策并恢复与马来西亚关系。
+Bahasa Melayu: Perubahan kepimpinan Indonesia membawa rundingan yang akhirnya menamatkan konfrontasi pada 1966 dan memulihkan hubungan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：两州面积广阔，许多聚落相距远，使交通及通讯建设需较多资源和时间。
+Bahasa Melayu: Saiz Sabah dan Sarawak yang besar serta petempatan berjauhan menyukarkan pembangunan pengangkutan dan perhubungan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：新加坡与中央的政治领导争议及族群冲突加剧关系紧张，导致分离，故I和II符合。
+Bahasa Melayu: Pertikaian kepimpinan politik dan konflik perkauman memburukkan hubungan Singapura dengan kerajaan Pusat sehingga berlaku pemisahan. Maka I dan II tepat."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：DBP发展词汇、出版与语言使用，提升国语马来语的地位。
+Bahasa Melayu: DBP mengembangkan istilah, penerbitan dan penggunaan bahasa untuk memartabatkan bahasa Melayu."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：共同运动与支持国家队让不同族群建立团队精神及友谊，而不是鼓励族群对立。
+Bahasa Melayu: Sukan membina semangat setiakawan dan kerjasama antara kaum melalui penyertaan serta sokongan bersama."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：DEB重组社会，减少族群与经济职业的固定联系，并消除贫困，促进公平与团结。
+Bahasa Melayu: DEB menyusun semula masyarakat untuk mengurangkan pengenalan kaum mengikut fungsi ekonomi serta membasmi kemiskinan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：绿皮书鼓励居民种植与生产食物，以提高粮食产量及自给能力。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan pengeluaran makanan untuk menambah bekalan dan keupayaan berdikari."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：与英国及其他国家的历史联系影响外交合作选择，是课本列出的外交因素之一，不代表只有历史因素。
+Bahasa Melayu: Ikatan sejarah mempengaruhi hubungan dan kerjasama luar sebagai salah satu faktor penggubalan dasar luar, bukan satu-satunya faktor."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：防务合作让区域伙伴协调安全、分享支援并应对共同威胁，比单方面封关更符合合作原则。
+Bahasa Melayu: Kerjasama pertahanan menyelaraskan keselamatan dan bantuan antara negara untuk menangani ancaman serantau bersama."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：马来西亚向遭战争及灾害影响者提供物资、医疗及救援，体现国际人道角色。
+Bahasa Melayu: Malaysia memberikan bekalan, rawatan dan bantuan kecemasan kepada mangsa konflik serta bencana sebagai peranan kemanusiaan."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：京都议定书针对温室气体减排及气候变化；日内瓦公约主要关于战争人道规范，是不同议题。
+Bahasa Melayu: Protokol Kyoto berkaitan pengurangan gas rumah hijau dan perubahan iklim, berbeza daripada Konvensyen Geneva tentang kemanusiaan ketika perang."

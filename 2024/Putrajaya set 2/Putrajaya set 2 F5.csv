@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Putrajaya set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Putrajaya set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：主权是国家最高权力及权威，能够独立治理，因此I和II正确；侵略其他国家不是主权定义。
+Bahasa Melayu: Kedaulatan ialah kekuasaan tertinggi dan kewibawaan sesebuah negara untuk mentadbir sendiri. Maka I dan II tepat."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：国家原则建立共同价值，培养各族友好、理解与团结，回应社会关系紧张。
+Bahasa Melayu: Rukun Negara membina nilai bersama untuk memupuk muhibah, persefahaman dan perpaduan rakyat."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：西方势力到来前，马来王国由君主领导，并有大臣及法律协助治理。
+Bahasa Melayu: Sebelum kedatangan Barat, kerajaan Melayu mengamalkan pemerintahan beraja dengan bantuan pembesar dan undang-undang."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：公民权及议会民主属于宪法现代特征；君主及马来语是传统特征，故III和IV正确。
+Bahasa Melayu: Kewarganegaraan dan demokrasi berparlimen ialah ciri moden, manakala kesultanan serta bahasa Melayu ialah ciri tradisional. Maka III dan IV tepat."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：日军让马来统治者保留伊斯兰教及习俗领域的地位，主要行政与军事由日军掌握。
+Bahasa Melayu: Semasa Jepun, raja mengekalkan kedudukan dalam hal Islam dan adat Melayu, sementara pentadbiran serta tentera dikuasai Jepun."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：基本自由依法行使，并受维护公共秩序及他人权益的限制，因此并非绝对。
+Bahasa Melayu: Kebebasan asasi tertakluk pada undang-undang demi ketenteraman awam dan hak orang lain, maka tidak bersifat mutlak."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：1946年英国把马来州、马六甲及槟城纳入马来亚联盟，实行统一中央行政；新加坡另行管理。
+Bahasa Melayu: Malayan Union1946 menyatukan negeri Melayu, Melaka dan Pulau Pinang di bawah pentadbiran pusat, sementara Singapura berasingan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：土地及伊斯兰法属于州权限，教育与国防属于联邦权限，故I和IV正确。
+Bahasa Melayu: Tanah dan undang-undang Islam ialah kuasa negeri; pelajaran serta pertahanan ialah kuasa Persekutuan. Maka I dan IV tepat."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：建议纳入沙巴、砂拉越及文莱以平衡人口组成。文莱最后没有加入，解释建议时不能当作实际成员。
+Bahasa Melayu: Cadangan menggabungkan Sabah, Sarawak dan Brunei bertujuan mengimbangi komposisi penduduk. Brunei akhirnya tidak menyertai Malaysia."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：题目问“例外”。科博尔报告支持地方自治与宪法基础等安排；C把有关宗教保障简化为两州完全豁免联邦宗教条款，不是报告这里的准确表述。
+Bahasa Melayu: Soalan meminta kecuali. Laporan Cobbold merangkumi autonomi dan asas Perlembagaan; C menyederhanakan perlindungan agama sebagai pengecualian menyeluruh dan bukan rumusan tepat laporan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：政府结合军事行动与心理战，通过宣传及争取民心减少共产党支持，所以X为心理战。
+Bahasa Melayu: Kerajaan menggabungkan operasi ketenteraan dengan perang saraf untuk mengurangkan sokongan rakyat kepada komunis."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：MAGERAN处理族群经济不平衡及团结问题，以恢复社会稳定，故X是团结。
+Bahasa Melayu: MAGERAN memberi perhatian kepada ketidakseimbangan ekonomi dan perpaduan untuk memulihkan kestabilan masyarakat."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：设立国大并在教育中使用马来语提升国语的学术及社会地位，因此II和III正确。
+Bahasa Melayu: Penubuhan UKM dan penggunaan bahasa Melayu dalam pendidikan mengangkat kedudukan bahasa kebangsaan. Maka II dan III tepat."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家原则是建立共同价值及团结的国家意识形态；国花、国旗与体育场是象征或设施。
+Bahasa Melayu: Rukun Negara ialah ideologi kebangsaan untuk membina nilai bersama dan perpaduan, berbeza daripada lambang atau bangunan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：DEB通过消除贫困与重组社会纠正社会经济不平衡，促进公平及团结。
+Bahasa Melayu: DEB membasmi kemiskinan dan menyusun semula masyarakat untuk membaiki ketidakseimbangan sosioekonomi."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：Amanah Saham Malaysia开放给马来西亚人民，包括非马来人，扩大投资及资产拥有机会。
+Bahasa Melayu: Amanah Saham Malaysia terbuka kepada rakyat termasuk bukan Melayu untuk memperluas peluang pelaburan dan pemilikan saham."
+,radio,F5 Bab 9,A,B,C,D,D,Picture37.png,"中文：紧密国际合作反映国家外交建立互信及实际伙伴关系，是评估外交成果的重要尺度。
+Bahasa Melayu: Kerjasama erat antarabangsa menunjukkan kepercayaan dan hubungan berkesan sebagai ukuran kejayaan hubungan luar."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：加入不结盟运动说明马来西亚不依附某个强权阵营，转向中立及自主外交。
+Bahasa Melayu: Penyertaan NAM menunjukkan peralihan kepada dasar berkecuali dan tidak terikat pada blok kuasa besar."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：南沙争议涉及中国、越南、文莱、菲律宾及马来西亚等主张，因此D符合题列国家组合。
+Bahasa Melayu: Pertikaian Spratly melibatkan tuntutan China, Vietnam, Brunei, Filipina dan Malaysia, maka D menepati senarai dalam soalan."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：由Muhammad Nadir Al-Nuri创办并推动2020斋月项目的是Cinta Gaza Malaysia，帮助加沙弱势居民。
+Bahasa Melayu: Cinta Gaza Malaysia diasaskan Muhammad Nadir Al-Nuri dan melaksanakan Projek Ramadan2020 untuk membantu penduduk Gaza."

@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Terengganu F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：D：苏丹印玺盖在官方命令上，证明命令确实来自苏丹并具有权威。
+Bahasa Melayu: D: Cop mohor pada dokumen rasmi mengesahkan titah atau arahan sultan dan menunjukkan kewibawaannya."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：D：Bendahara除领导行政及辅佐苏丹，也担任军队总参谋；海上安全主要属于Laksamana。
+Bahasa Melayu: D: Bendahara turut menjadi ketua turus angkatan tentera selain mengetuai pentadbiran. Keselamatan laut ialah tugas Laksamana."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：越南民族主义党以民主、民族主义及社会主义为基础，1930年起义旨在结束法国统治并建立共和国。
+Bahasa Melayu: A: Parti Nasionalisme Vietnam melancarkan pemberontakan untuk menamatkan pemerintahan Perancis dan menubuhkan kerajaan republik."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：B：这两份英文报章推动教育基金，帮助马来学生赴海外升学。
+Bahasa Melayu: B: The Malay Mail dan The Malaya Tribune berusaha mengasaskan dana pendidikan untuk membantu orang Melayu melanjutkan pelajaran di luar negara."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：十四点原则强调民族自决，国家边界应按民族而定。
+Bahasa Melayu: C: Deklarasi Empat Belas Perkara menekankan penentuan nasib sendiri dan sempadan negara berasaskan bangsa."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：A：Force 136联合本地马来游击队开展抗日活动，组织情报及破坏行动。
+Bahasa Melayu: A: Force 136 membentuk dan bekerjasama dengan pasukan gerila tempatan untuk menjalankan kegiatan menentang Jepun."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：B（I、IV）：Malayan Union把马来亚变成英国直接殖民地，并削弱统治者政治主权，因此遭到反对。
+Bahasa Melayu: B (I dan IV): Malayan Union menjadikan Tanah Melayu tanah jajahan secara langsung dan menghakis kedaulatan politik Raja-raja Melayu."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：A：Rosli Dhoby的反移交斗争激发砂拉越民族意识，后来推动本地政党成立；并非当时即恢复传统统治。
+Bahasa Melayu: A: Perjuangan Rosli Dhoby membangkitkan kesedaran nasionalisme yang kemudian membawa kepada penubuhan parti politik di Sarawak."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：A：工作委员会讨论取代Malayan Union的新联邦协议基础，包括行政及公民制度。
+Bahasa Melayu: A: Jawatankuasa Kerja membincangkan asas Perjanjian Persekutuan bagi menggantikan Malayan Union, termasuk pentadbiran dan kewarganegaraan."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：B（I、IV）：马来人的强烈反对及英国行政人员支持新安排，使英国同意以1948年联合邦取代Malayan Union。
+Bahasa Melayu: B (I dan IV): Bantahan orang Melayu dan sokongan pentadbir British mendorong penggantian Malayan Union dengan Persekutuan 1948."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：B：1948年协议为后来族群协商及政治合作提供基础，促进共同建设国家。
+Bahasa Melayu: B: Perjanjian 1948 membuka asas kerjasama dan perundingan antara kaum dalam perkembangan politik negara."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：C：英国把这些反殖民组织视为激进政治力量，利用紧急法令禁止其活动；不应把所有成员直接等同共产党。
+Bahasa Melayu: C: British menganggap organisasi tersebut berhaluan radikal dan mengharamkannya melalui Undang-undang Darurat; ini tidak bermaksud semua anggotanya komunis."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：B：政府要求马共解散组织及放下武器，马共坚持要求政治承认，双方条件不一致导致谈判失败。
+Bahasa Melayu: B: Kerajaan menuntut PKM membubarkan parti dan meletakkan senjata, tetapi PKM mahukan pengiktirafan politik, menyebabkan rundingan gagal."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：B：RIDA提供资金、训练及相关援助，帮助改善乡村经济与生活。
+Bahasa Melayu: B: RIDA memberikan bantuan, latihan dan sokongan ekonomi untuk memajukan penduduk luar bandar."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：A：1956年教育报告通过共同课程及教育方向，促进不同族群学生的团结。
+Bahasa Melayu: A: Penyata Pelajaran 1956 membina asas kurikulum serta pendidikan bersama untuk memupuk perpaduan masyarakat."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：D：选民登记后进行候选人提名，随后竞选、投票及宣布结果。
+Bahasa Melayu: D: Selepas pendaftaran pengundi, penamaan calon dilakukan sebelum kempen, hari mengundi dan pengumuman keputusan."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：A（I、II）：首届内阁仍保留英国官员负责国防及财政，显示行政权是逐步转移。
+Bahasa Melayu: A (I dan II): Pegawai British masih memegang portfolio Setiausaha Pertahanan dan Setiausaha Kewangan dalam kabinet pertama ketika pemindahan kuasa berlaku secara beransur-ansur."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C（II、III）：伦敦谈判同意成立制宪委员会，并安排英联邦防务援助。
+Bahasa Melayu: C (II dan III): Rundingan London bersetuju membentuk Suruhanjaya Perlembagaan dan menyediakan bantuan pertahanan daripada Komanwel."
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：C：1957年协议承认并维护马来人的特殊地位，也保障其他族群的合法利益。
+Bahasa Melayu: C: Perjanjian 1957 mengiktiraf kedudukan istimewa orang Melayu di samping menjaga kepentingan sah kaum lain."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：C：Sheikh Abdullah Fahim向东姑建议适合宣布独立的日期，即1957年8月31日。
+Bahasa Melayu: C: Sheikh Abdullah Fahim memberikan cadangan kepada Tunku tentang tarikh kemerdekaan, iaitu 31 Ogos 1957."
+,radio,F4 Bab 10,A,B,C,D,B,Picture21.png,"中文：B：马来亚通过政治合作及谈判取得独立，庆典代表这一和平争取独立过程的成果。
+Bahasa Melayu: B: Kemerdekaan Tanah Melayu dicapai melalui kerjasama politik dan rundingan, dan pemasyhuran tersebut menandakan kejayaan perjuangan secara aman."

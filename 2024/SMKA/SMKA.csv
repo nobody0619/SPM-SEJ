@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-SMKA 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SMKA 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：法律是马来世界王国的正式特征，规范统治与人民行为，保障有序生活。
+Bahasa Melayu: Undang-undang ialah ciri kerajaan Alam Melayu yang mengatur pemerintahan serta kehidupan rakyat."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：大臣把苏丹命令传达给人民，也处理领地事务，是统治者与人民之间的中介。
+Bahasa Melayu: Pembesar menyampaikan arahan sultan dan mengurus rakyat di kawasan pegangan sebagai perantara antara sultan dengan rakyat."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：satyagraha强调坚持真理及非暴力，甘地以和平抵抗推动印度民族主义。
+Bahasa Melayu: Satyagraha menekankan kebenaran dan perjuangan tanpa keganasan yang digunakan Gandhi untuk menggerakkan nasionalisme India."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：PASPAM鼓励会员团结并交流意见，把各地读者联结成共同文化与民族意识网络。
+Bahasa Melayu: PASPAM menggalakkan ahli bersatu dan bertukar pendapat untuk membina hubungan serta kesedaran bersama."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：第一次世界大战导致德国等君主制度崩溃，也因帝国解体产生新国家，所以I和II正确。
+Bahasa Melayu: Perang Dunia Pertama membawa keruntuhan pemerintahan beraja dan kemunculan negara baharu akibat perpecahan empayar. Maka I dan II tepat."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：Ibrahim Alla Ditta及Yaakob Bidin勇敢抵抗日本入侵，为保卫国家付出，因此受到敬重。
+Bahasa Melayu: Ibrahim Alla Ditta dan Yaakob Bidin disanjung kerana keberanian menentang Jepun untuk mempertahankan negara."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：马来统治者通过在英国高等法院提出挑战，反对马来亚联盟协议取得方式及主权削弱。
+Bahasa Melayu: Raja-raja Melayu menggunakan tindakan di Mahkamah Tinggi England untuk mencabar Malayan Union dan cara persetujuan diperoleh."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：SBUB缺乏重建战争破坏的资金，于1946年把沙巴移交英国政府。
+Bahasa Melayu: SBUB kekurangan dana untuk pembangunan semula selepas perang lalu menyerahkan Sabah kepada British pada 1946."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：委员会包括统治者与UMNO代表，以及英国方面代表，故题列I和IV正确。
+Bahasa Melayu: Jawatankuasa Kerja dianggotai wakil Raja-raja Melayu, UMNO dan British. Dalam pilihan yang diberikan, I dan IV tepat."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：支持联邦的英国官员认为新制度能恢复和平及稳定，让经济活动继续发展。
+Bahasa Melayu: Pentadbir British menyokong Persekutuan kerana dapat mewujudkan keamanan, kestabilan dan kemajuan ekonomi."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：橡胶园与锡矿是英国收入的重要来源，袭击这些产业直接削弱殖民经济。
+Bahasa Melayu: Ladang getah dan lombong bijih timah ialah sumber ekonomi British; serangan komunis bertujuan melemahkannya."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：新村安排按族群集中居住，减少不同社区日常接触，因而疏远族群关系。
+Bahasa Melayu: Petempatan berasaskan kaum mengurangkan interaksi antara masyarakat dan merenggangkan hubungan kaum."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：成员制度让本地领袖承担部门职责，培养领导行政能力，为自治作准备。
+Bahasa Melayu: Sistem Ahli melatih pemimpin tempatan menerajui pentadbiran melalui tanggungjawab jabatan sebelum berkerajaan sendiri."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：Fenn-Wu建议华校教育以马来亚为导向，让学生认识当地社会与共同生活，而不是只关注中国。
+Bahasa Melayu: Laporan Fenn-Wu mencadangkan pendidikan sekolah Cina berorientasikan Tanah Melayu supaya berkaitan masyarakat serta kehidupan tempatan."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：划区、登记及提名后进入竞选阶段，候选人争取选民支持，之后才投票及计票。
+Bahasa Melayu: Selepas penetapan sempadan, pendaftaran dan penamaan calon, kempen diadakan untuk meraih sokongan sebelum pengundian serta pengiraan undi."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：首届内阁讨论国内安全并减少英国行政权，故I和II正确；马共早在1948年已被禁。
+Bahasa Melayu: Kabinet pertama membincangkan keselamatan dalam negeri dan mengurangkan kuasa British. Maka I dan II tepat; PKM telah diharamkan pada 1948."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：英国谈判部分涉及独立后防务合作，由英国及英联邦提供协助；财政部长及独立日期属于马来亚代表诉求。
+Bahasa Melayu: Rundingan pihak British melibatkan bantuan pertahanan Britain dan Komanwel selepas merdeka, berbeza daripada tuntutan tempatan tentang menteri serta tarikh merdeka."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：国家元首由统治者会议在马来统治者中选出，是君主立宪制度的一部分，而非人民直接投票。
+Bahasa Melayu: YDPA dipilih daripada Raja-raja Melayu oleh Majlis Raja-Raja, bukannya melalui undi langsung rakyat."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：降下Union Jack象征英国殖民统治结束，升起联邦旗则象征独立与主权。
+Bahasa Melayu: Penurunan Union Jack melambangkan tamatnya penjajahan British, sementara bendera Persekutuan menunjukkan kemerdekaan."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：公民身份确认人民对国家的权利与责任，国家标志展示独立身份，所以原答案选I和II。国际关系也是主权表现，题项并非完全互斥。
+Bahasa Melayu: Pengiktirafan rakyat menetapkan hak dan tanggungjawab, manakala lambang kebangsaan menunjukkan identiti negara; skema memilih I dan II. Hubungan antarabangsa juga menunjukkan kedaulatan, jadi pilihan tidak sepenuhnya saling mengecualikan."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：阿拉伯语daulah指政府的统治权；题目问词源具体解释，不是所有主权定义的概括。
+Bahasa Melayu: Daulah dalam bahasa Arab bermaksud kuasa pemerintahan sesebuah kerajaan. Soalan meminta maksud istilah khusus, bukan semua takrif umum kedaulatan."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：经济稳定增强国家处理事务及抵御危机的能力，支持维护主权，原答案A因此可理解。但C维持族群团结也明确是课本维护主权措施，题目存在重叠。
+Bahasa Melayu: Ekonomi stabil menyokong keupayaan negara mempertahankan kedaulatan, maka A boleh difahami. Namun C mengekalkan perpaduan juga langkah buku teks yang jelas, menyebabkan pertindihan pilihan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：伊斯兰教及马来人与土著的地位是传统宪法特征，公民权及联邦安排属于现代制度，故I和IV正确。
+Bahasa Melayu: Islam dan kedudukan orang Melayu serta bumiputera ialah ciri tradisional. Maka I dan IV tepat, berbeza daripada ciri moden kewarganegaraan dan Persekutuan."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：国会拥有通过联邦宪法修订的立法权限，内阁提出建议但不能自行取代国会批准。
+Bahasa Melayu: Parlimen meluluskan pindaan Perlembagaan Persekutuan; Jemaah Menteri boleh mengusulkan tetapi tidak menggantikan kelulusan Parlimen."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：国家元首拥有军事法庭相关赦免权限，依法处理军人刑罚；首相及国防部长不能代替此宪法权力。
+Bahasa Melayu: YDPA mempunyai kuasa pengampunan berkaitan mahkamah tentera menurut Perlembagaan, bukan Perdana Menteri atau Menteri Pertahanan."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：君主保持中立并发挥制衡作用，可缓和政党纷争及维持制度稳定。
+Bahasa Melayu: Raja yang berkecuali memainkan kuasa pengimbang untuk meredakan pertikaian parti politik dan menjaga kestabilan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：PERHILITAN负责半岛野生动物及相关国家公园管理；ESSCOM是安全机构，UNESCO不是本地直接管理部门。
+Bahasa Melayu: PERHILITAN mengurus perlindungan hidupan liar dan taman negara berkaitan di Semenanjung. ESSCOM ialah agensi keselamatan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：房屋属于共同权限，中央与州都有角色；国防属联邦，地方政府及伊斯兰法属州。
+Bahasa Melayu: Perumahan termasuk Senarai Bersama. Pertahanan ialah kuasa Persekutuan, manakala kerajaan tempatan dan undang-undang Islam ialah kuasa negeri."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：报告指出约三分之二居民支持马来西亚，并建议宪法基础与地方保障，故X为支持比例。
+Bahasa Melayu: Laporan Cobbold menyatakan kira-kira dua pertiga penduduk menyokong Malaysia serta mencadangkan asas Perlembagaan dan perlindungan negeri."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：马来西亚协议承认成员州在联邦中的地位与权益，并设相关保障；“同等权利”不意味着各州在每项权限上完全一样。
+Bahasa Melayu: Perjanjian Malaysia mengiktiraf kedudukan dan hak negeri dalam Persekutuan serta perlindungan tertentu; hak yang sama bukan bermaksud semua bidang kuasa negeri seragam sepenuhnya."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：两州地域广大、道路有限，长期依赖河流运输，使偏远地区联络及交通建设成为挑战。
+Bahasa Melayu: Kawasan luas dan jalan yang terhad menyebabkan kebergantungan kepada pengangkutan air, lalu menyukarkan perhubungan di pedalaman."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：税收增加与新加坡要求尽快落实共同市场引发经济分歧，故I和IV正确；不是共同市场已经顺利解决的意思。
+Bahasa Melayu: Penambahan cukai dan tuntutan Singapura mempercepat pasaran bersama menimbulkan pertikaian ekonomi. Maka I dan IV tepat."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国家文化政策以本区域原有文化为基础，并把伊斯兰列为重要元素，所以I和II正确；其他文化须按适合与否吸收，非无条件全收。
+Bahasa Melayu: Dasar Kebudayaan Kebangsaan berteraskan budaya rakyat asal rantau ini dan Islam sebagai unsur penting. Maka I dan II tepat; unsur lain diterima jika sesuai."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：共同遵守国家原则促进和谐及人民福祉，因此I和IV正确，不是强化分隔性的州属意识。
+Bahasa Melayu: Penghayatan Rukun Negara memupuk keharmonian dan kesejahteraan rakyat. Maka I dan IV tepat, bukan semangat kenegerian yang memisahkan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：绿皮书鼓励粮食生产及经济活动，既增加粮食供应也提高人民收入。
+Bahasa Melayu: Rancangan Buku Hijau menambah pengeluaran makanan dan pendapatan rakyat melalui kegiatan pengeluaran sendiri."
+,radio,F5 Bab 8,A,B,C,D,C,Picture36.png,"中文：自由工业区给予优惠吸引企业投资，并带动周围经济，故II和III正确；研发中心对应工业科技园。
+Bahasa Melayu: Zon Perindustrian Bebas menarik pelabur dan merangsang ekonomi sekitar. Maka II dan III tepat; pusat penyelidikan berkaitan taman teknologi."
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：马来西亚支持联合国的和平合作原则，体现国家和平共处立场。
+Bahasa Melayu: Kerjasama Malaysia dengan PBB selaras dengan pendirian hidup bersama secara aman dan menghormati keamanan antarabangsa."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：OIC维护全球穆斯林社会利益并促进成员合作。题干1971年提出成立的时间不符课本：组织于1969年成立，东姑1970年起任首任秘书长。
+Bahasa Melayu: OIC menjaga kepentingan masyarakat Islam. Tahun 1971 dalam soalan tidak tepat: OIC ditubuhkan pada 1969 dan Tunku menjadi Setiausaha Agung pertama mulai 1970."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：重叠疆界及领土主张涉及邻国关系，是马来西亚面对的国际议题之一。
+Bahasa Melayu: Pertindihan sempadan dan tuntutan wilayah melibatkan hubungan dengan negara lain sebagai isu global yang dihadapi Malaysia."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：Freedom Flotilla运送粮食及其他人道物资到巴勒斯坦，帮助受封锁影响的居民，而非军事维和任务。
+Bahasa Melayu: Freedom Flotilla membekalkan makanan dan bantuan kemanusiaan kepada penduduk Palestin yang menghadapi sekatan, bukan misi ketenteraan pengaman."

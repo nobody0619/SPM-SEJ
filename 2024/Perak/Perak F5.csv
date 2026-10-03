@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：不同语言的定义都强调最高权力、统治能力及权威，故选C。
+Bahasa Melayu: Takrif pelbagai bahasa menekankan kuasa tertinggi dan kewibawaan pemerintahan, C."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：受承认的明确边界划定国家治理范围，与政府、法律及人民构成主权国家。
+Bahasa Melayu: Sempadan diiktiraf menetapkan wilayah pemerintahan bersama kerajaan, undang-undang dan rakyat sebagai ciri negara berdaulat."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：这些州法律承继马六甲法律传统并作地方调整，体现法律制度延续。
+Bahasa Melayu: Undang-undang negeri mewarisi perundangan Melaka dengan penyesuaian tempatan, menunjukkan kesinambungan tradisi."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：1948年联邦区分马来君主臣民与海峡殖民地英国臣民，作为公民权基础。
+Bahasa Melayu: Persekutuan 1948 membezakan rakyat Raja Melayu dan rakyat British di Negeri-negeri Selat sebagai asas kewarganegaraan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：国家元首通常依首相建议行事，在宪法规定事项可用酌情权，I、II正确。
+Bahasa Melayu: YDPA lazimnya bertindak atas nasihat Perdana Menteri dan menggunakan budi bicara bagi perkara tertentu; I dan II betul."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：X为行政机关，负责制定及执行国家政策，而不是解释宪法。
+Bahasa Melayu: X ialah badan eksekutif yang menggubal serta melaksanakan dasar negara, bukan mentafsir perlembagaan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：NCER、ECER与SDC属于发展走廊，通过区域合作推动投资及社会经济增长。
+Bahasa Melayu: NCER, ECER dan SDC ialah koridor wilayah yang menggalakkan pelaburan serta pembangunan sosioekonomi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：联邦法律与州法律冲突时，国会通过的联邦法优先适用。
+Bahasa Melayu: Apabila undang-undang negeri bercanggah dengan persekutuan, undang-undang Parlimen diguna pakai."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：邻国质疑成立计划，需等联合国民意调查报告完成，导致成立日期推迟。
+Bahasa Melayu: Bantahan negara jiran memerlukan laporan tinjauan PBB disiapkan sebelum pembentukan, menyebabkan tarikh ditunda."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：1966年正常化协议结束印尼对抗政策，恢复两国和平关系。
+Bahasa Melayu: Persetujuan normalisasi 1966 menamatkan konfrontasi Indonesia dan memulihkan hubungan aman kedua-dua negara."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：这些军事行动、安全机构和赦免措施针对Sarawak共产党，逐步削弱其威胁。
+Bahasa Melayu: Operasi keselamatan, RASCOM dan langkah pengampunan menangani serta melemahkan ancaman komunis Sarawak."
+,radio,F5 Bab 7,A,B,C,D,D,Picture32.png,"中文：报告推动FPN及KBSM，即II、III应选C。原key D包括较后实施的KSSR，非报告直接成果，保留原答案并注明疑点。
+Bahasa Melayu: Laporan menghasilkan FPN dan KBSM, iaitu II-III, C. Key asal D memasukkan KSSR yang dilaksanakan jauh kemudian, bukan hasil langsung laporan; jawapan dikekalkan dengan perbezaan dicatat."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：马来区域原住民文化为核心、适当其他文化及伊斯兰，是国家文化政策三原则。
+Bahasa Melayu: Budaya rakyat asal rantau Melayu, unsur lain sesuai dan Islam ialah tiga prinsip Dasar Kebudayaan Kebangsaan."
+,radio,F5 Bab 8,A,B,C,D,B,Picture34.png,"中文：RISDA协助橡胶小园主重植，提升产量和收入，因此B配对正确。
+Bahasa Melayu: RISDA membantu penanaman semula getah pekebun kecil untuk hasil dan pendapatan lebih baik; B betul."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：DEB和DPN都通过社会重组减少族群与经济职业的固定关联。
+Bahasa Melayu: DEB dan DPN menyusun semula masyarakat untuk menghapuskan pengenalan kaum mengikut fungsi ekonomi."
+,radio,F5 Bab 9,A,B,C,D,B,Picture36.png,"中文：冷战等国际政治冲突使马来西亚不再单纯亲西方，转向中立以保护利益。
+Bahasa Melayu: Konflik antarabangsa seperti Perang Dingin mendorong perubahan daripada probarat kepada berkecuali demi kepentingan Malaysia."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：Colombo Plan提供培训和技术援助，提升经济能力、协助减少贫困。
+Bahasa Melayu: Rancangan Colombo memberikan latihan dan bantuan teknikal untuk keupayaan ekonomi serta menangani kemiskinan."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：ZOPFAN宣言表达东南亚和平、自由及中立，是外交政策转变的区域倡议。
+Bahasa Melayu: Deklarasi ZOPFAN menyatakan keamanan, kebebasan dan berkecuali Asia Tenggara sebagai perubahan dasar luar serantau."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：课本以ASEAN-China论坛讨论Spratly争议为外交解决例子；不代表所有重叠主张已经最终解决。
+Bahasa Melayu: Forum ASEAN-China membincangkan pertikaian Spratly sebagai usaha diplomatik; ini tidak bermakna semua tuntutan bertindih telah selesai sepenuhnya."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：CGM及MERCY提供医疗、物资与救灾援助，为受冲突和灾难影响的人争取人道福祉。
+Bahasa Melayu: CGM dan MERCY menyalurkan rawatan, bekalan serta bantuan bencana untuk memperjuangkan kemanusiaan mangsa konflik dan bencana."

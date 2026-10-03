@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：饮用流经Telaga Batu碑的水是宣誓效忠的仪式，确认人民对Srivijaya君主的忠诚。
+Bahasa Melayu: Meminum air yang dialirkan pada Inskripsi Telaga Batu ialah upacara sumpah taat setia rakyat kepada raja Srivijaya."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：Rokan、Kampar与Inderagiri通过征服纳入马六甲势力范围，因此选A。
+Bahasa Melayu: Rokan, Kampar dan Inderagiri menjadi wilayah pengaruh Melaka melalui penaklukan, A."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：两场革命限制或终结绝对君权，应选D。原key C的经济管制并非共同结果，保留原答案并注明疑点。
+Bahasa Melayu: Kedua-dua revolusi mengehadkan atau menamatkan kuasa mutlak raja, D. Key asal C tentang ekonomi kawalan bukan kesan bersama; jawapan dikekalkan dengan percanggahan dicatat."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：Liga Filipina要求菲律宾人享有平等权利，并推动西班牙殖民政府改革，所以I、IV正确。
+Bahasa Melayu: Liga Filipina menuntut persamaan hak dan mendesak pembaharuan pentadbiran Sepanyol; I dan IV betul."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：Wilson主张民族自决，国家边界依据民族形成，让人民决定政治归属。
+Bahasa Melayu: Wilson menyarankan penentuan nasib sendiri dengan sempadan negara berasaskan bangsa supaya rakyat menentukan kedudukan politiknya."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：战争造成大量伤亡与财产损毁，说明应珍惜和平并避免冲突扩大。
+Bahasa Melayu: Kehilangan nyawa dan kemusnahan harta akibat perang mengingatkan kita menghargai keamanan serta mengelakkan konflik."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：BMA恢复战后秩序、公共设施和基本供应，以重建人民对政府的信任。
+Bahasa Melayu: BMA memulihkan ketenteraman, kemudahan dan bekalan selepas perang untuk mengembalikan kepercayaan rakyat."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：两位妇女领袖动员女性参加反Malayan Union运动，捍卫马来主权和权益。
+Bahasa Melayu: Kedua-dua pemimpin wanita menggerakkan bantahan Malayan Union untuk mempertahankan kedaulatan serta kepentingan Melayu."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：人民宪法建议把统一公民身份称为Melayu，并不意味着所有人的族群身份改变。
+Bahasa Melayu: Perlembagaan Rakyat mencadangkan kewarganegaraan Malaya dinamakan Melayu, bukan perubahan keturunan semua penduduk."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：Gammans与Rees Williams赴马来亚观察人民反Malayan Union的强烈抗议，并向英国反馈。
+Bahasa Melayu: Gammans dan Rees Williams datang menyaksikan bantahan terhadap Malayan Union dan melaporkannya kepada British."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：Sungai Siput杀害事件推动英国宣布紧急法令，采取特别措施应对共产党暴力。
+Bahasa Melayu: Pembunuhan di Sungai Siput membawa pengisytiharan undang-undang darurat untuk menangani keganasan komunis."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：Sarawak Rangers擅长丛林追踪，负责寻找共产党藏身地点，B配对正确。
+Bahasa Melayu: Sarawak Rangers mahir menjejak tempat persembunyian komunis dalam hutan, maka pasangan B betul."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：H.S. Lee在Sistem Ahli中担任交通事务成员，负责有关部门工作。
+Bahasa Melayu: H.S. Lee memegang portfolio Ahli Pengangkutan dalam Sistem Ahli dan mengendalikan bidang tersebut."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：统一课程让各族学生学习共同知识与价值，是促进教育团结的措施。
+Bahasa Melayu: Kurikulum seragam memberikan pengetahuan dan nilai bersama kepada murid pelbagai kaum untuk perpaduan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：1955年选举后多数成员由人民选出的机构是联邦立法议会。
+Bahasa Melayu: Majlis dengan majoriti ahli dipilih selepas pilihan raya 1955 ialah Majlis Perundangan Persekutuan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：首届内阁商讨国防等自治事务，准备独立政府接管国家责任。
+Bahasa Melayu: Kabinet pertama membincangkan pertahanan dan urusan pemerintahan sendiri sebagai persediaan tanggungjawab negara merdeka."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：这些人士组成Reid委员会，收集意见并起草独立宪法。
+Bahasa Melayu: Tokoh ini membentuk Suruhanjaya Reid untuk menerima pandangan dan merangka perlembagaan merdeka."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：联盟政治信托备忘录提出共同公民身份及取得公民权的安排，以协调各族利益。
+Bahasa Melayu: Testament Amanah Politik Perikatan mengemukakan kewarganegaraan bersama dan syaratnya untuk menyelaraskan kepentingan kaum."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：庆典委员会举办礼仪课程，让参与独立仪式的人熟悉正式程序。
+Bahasa Melayu: Jawatankuasa Sambutan menganjurkan kursus protokol agar peserta memahami tatacara upacara kemerdekaan."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：降下英国旗、升起联邦旗象征英国统治结束和独立国家开始。
+Bahasa Melayu: Penurunan Union Jack dan penaikan bendera Persekutuan menandakan tamatnya pentadbiran British serta bermulanya kemerdekaan."

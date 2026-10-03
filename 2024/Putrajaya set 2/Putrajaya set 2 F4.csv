@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Putrajaya set 2 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Putrajaya set 2 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：马来世界王国的基本特征为统治者、法律、人民及势力范围，因此X是势力范围。
+Bahasa Melayu: Ciri asas kerajaan Alam Melayu ialah raja, undang-undang, rakyat dan wilayah pengaruh. Maka X ialah wilayah pengaruh."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：宗教学者及大臣协助统治者治理国家，属于统治阶层；商人主要从事经济活动，故I和II正确。
+Bahasa Melayu: Ulama dan pembesar membantu pemerintahan dan tergolong dalam golongan pemerintah. Pedagang menjalankan kegiatan ekonomi, maka I dan II tepat."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：美国独立后建立共和及民主政府，以宪法组织国家，摆脱英国殖民统治。
+Bahasa Melayu: Revolusi Amerika membawa kemerdekaan dan pembentukan pemerintahan republik serta demokrasi berasaskan Perlembagaan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：泰国未被西方殖民，民族主义一方面维护主权，一方面要求人民参与治理，故I和IV符合原答案。
+Bahasa Melayu: Thailand tidak dijajah Barat; nasionalismenya mempertahankan kedaulatan dan menuntut penglibatan rakyat dalam pemerintahan. Maka I dan IV menepati jawapan asal."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：轴心国合作让德国派专家到日本，研究进攻南方地区并帮助飞机制造业发展，故II和III正确。不要把一般工业技术概括取代课本列出的具体任务。
+Bahasa Melayu: Pakatan Kuasa Paksi membolehkan Jerman menghantar pakar untuk mengkaji serangan terhadap wilayah selatan dan membantu industri pembuatan kapal terbang Jepun. Maka II dan III tepat."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：粮食短缺及生产运动促使居民利用本地材料、种植替代食物并制作新用品，表现生活创造力。
+Bahasa Melayu: Kekurangan makanan mendorong penduduk menggunakan bahan tempatan, menanam makanan gantian dan menghasilkan ciptaan untuk kehidupan."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：统治者向伦敦寄出抗议信，反对在压力下签署协议及马来亚联盟削弱主权。
+Bahasa Melayu: Raja-raja Melayu menghantar surat bantahan ke London terhadap persetujuan yang diperoleh melalui tekanan dan pengurangan kedaulatan."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：禁止公务员参与反割让运动的通告引发409人辞职，也影响56名师范生的学习，故II和III正确；Rukun13是随后激进行动。
+Bahasa Melayu: Pekeliling yang melarang kakitangan kerajaan menyertai antipenyerahan menyebabkan409orang meletakkan jawatan dan menjejaskan56pelajar maktab. Maka II dan III tepat."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：Hamzah Abdullah及Nik Ahmad Kamil代表统治者参与工作委员会，Onn及Abdul Rahman Yassin代表UMNO，故II和III正确。
+Bahasa Melayu: Hamzah Abdullah dan Nik Ahmad Kamil mewakili raja, sementara Onn Jaafar serta Abdul Rahman Yassin mewakili UMNO. Maka II dan III tepat."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：1948年联邦确认马来人作为本地原有居民的地位，并保障相关权益，非削弱其社会地位。
+Bahasa Melayu: PTM1948 mengiktiraf orang Melayu sebagai penduduk asal dan menjaga kedudukan serta kepentingan mereka."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：马克思《资本论》分析资本主义经济并成为共产主义思想的重要著作；其他作品属于不同主题或思想。
+Bahasa Melayu: Das Kapital karya Karl Marx membincangkan ekonomi kapitalisme dan menjadi karya penting pemikiran komunisme."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：破坏铁路阻断货运及经济活动，以削弱英国经济。D是直接交通后果，原答案B强调其更广的经济目的。
+Bahasa Melayu: Sabotaj kereta api mengganggu pengangkutan barang dan kegiatan ekonomi untuk melumpuhkan ekonomi British. D ialah kesan perhubungan langsung, manakala B menekankan tujuan ekonomi."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：拉萨报告强调共同、具国家特色的课程及适用于各族儿童的学校体系，故I和IV正确；并非所有学校立即只用国语。题图1951日期与1956报告不符。
+Bahasa Melayu: Penyata Razak menekankan kurikulum seragam bercorak kebangsaan dan sistem persekolahan bersama. Maka I dan IV tepat. Tarikh1951 dalam rajah tidak sepadan dengan Penyata1956."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：帆船是联盟党的标志，代表合作及共同面对挑战。
+Bahasa Melayu: Kapal layar ialah logo Parti Perikatan yang melambangkan kerjasama dan usaha menghadapi cabaran bersama."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：选举让人民选择各层级代表，准备自治。题干“Majlis Perbandaran Persekutuan”应核为“Majlis Perundangan Persekutuan”。
+Bahasa Melayu: Pilihan raya memilih wakil rakyat pada pelbagai peringkat sebagai persediaan berkerajaan sendiri. Istilah Majlis Perbandaran Persekutuan sepatutnya Majlis Perundangan Persekutuan."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：首届大选的候选人与选民都须符合年龄及公民权资格，所以I和IV正确；英语教育或公务员身份不是共同条件。
+Bahasa Melayu: Calon dan pengundi perlu memenuhi syarat umur serta kewarganegaraan, maka I dan IV tepat. Pendidikan Inggeris dan pekerjaan bukan syarat bersama."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：东姑用航程与统治者代表讨论策略，让代表团抵达伦敦时拥有共同谈判立场。
+Bahasa Melayu: Tunku menggunakan perjalanan laut untuk berbincang dengan wakil Raja-raja dan menyelaraskan pendirian sebelum rundingan London."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：1957年协议保留马来人特殊地位并确立伊斯兰为联邦宗教，所以II和III正确。
+Bahasa Melayu: Perjanjian1957 mengekalkan kedudukan istimewa orang Melayu dan menetapkan Islam sebagai agama Persekutuan. Maka II dan III tepat."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：独立典礼、场地及国家标志让新国家展示自身身份与主权。
+Bahasa Melayu: Persediaan upacara, tempat dan lambang kemerdekaan menonjolkan identiti serta kedaulatan negara baharu."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：了解民族主义者的付出并尊重其牺牲，是对他们争取独立贡献的直接感谢。
+Bahasa Melayu: Menyanjung dan memahami pengorbanan tokoh nasionalis merupakan penghargaan langsung terhadap jasa mencapai kemerdekaan."

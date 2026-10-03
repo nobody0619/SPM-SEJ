@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Perak 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：伊斯兰传入使马六甲君主由Raja改称Sultan，体现伊斯兰政治文化影响。
+Bahasa Melayu: Kedatangan Islam menyebabkan gelaran Raja berubah kepada Sultan, menunjukkan pengaruh politik dan budaya Islam."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：王室颜色、nobat及御用器物象征君主主权与特殊地位。
+Bahasa Melayu: Warna diraja, nobat dan regalia menggambarkan kedaulatan serta kedudukan istimewa raja."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：Satyagraha意为坚持真理，Gandhi用非暴力和道德力量反抗殖民。
+Bahasa Melayu: Satyagraha bermaksud berpegang teguh kepada kebenaran, digunakan Gandhi dalam perjuangan tanpa kekerasan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：经费不足限制组织活动，殖民法律又压制政治宣传，I、II是组织发展障碍。
+Bahasa Melayu: Kekurangan kewangan mengehadkan kegiatan dan undang-undang kolonial menyekat gerakan politik; I dan II ialah cabaran pertubuhan."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：国际联盟旨在通过国际协商维护和平，防止世界大战重演。
+Bahasa Melayu: Liga Bangsa-Bangsa ditubuhkan untuk memastikan keamanan melalui kerjasama antarabangsa dan mencegah perang berulang."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：日军口号把自己塑造成亚洲解放者，以争取居民支持并掩盖扩张目的。
+Bahasa Melayu: Slogan Jepun menggambarkannya sebagai pembela Asia untuk mendapat sokongan penduduk serta menutup tujuan imperialisme."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：Malayan Union统一行政、便于资源管理及吸引投资，为英国经济利益服务。
+Bahasa Melayu: Malayan Union menyatukan pentadbiran untuk pengurusan sumber dan pelaburan demi kepentingan ekonomi British."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：支持割让者期望英国带来工作及本地发展机会，所以III、IV正确。
+Bahasa Melayu: Penyokong penyerahan berharap British menyediakan pekerjaan dan memajukan penduduk tempatan; III dan IV betul."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：工作委员会共同拟定1948年联邦协议基础，取代Malayan Union安排。
+Bahasa Melayu: Jawatankuasa Kerja merangka asas Perjanjian Persekutuan 1948 untuk menggantikan Malayan Union."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：1948年协议设依法自动取得及登记公民权两类途径，II、III正确。
+Bahasa Melayu: Perjanjian 1948 menyediakan kewarganegaraan secara kuat kuasa undang-undang dan pendaftaran; II dan III betul."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：Sungai Siput谋杀事件后英国宣布紧急状态，以特别法律控制共产党暴力。
+Bahasa Melayu: Selepas pembunuhan Sungai Siput, British mengisytiharkan darurat untuk mengawal keganasan komunis melalui undang-undang khas."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：放宽非马来人公民权培养国家忠诚及归属，减少受共产党影响的可能。
+Bahasa Melayu: Kelonggaran kewarganegaraan bukan Melayu memupuk kesetiaan serta rasa kepunyaan dan mengurangkan pengaruh komunis."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：PKMM与KRIS都倡议Melayu Raya，即马来亚与印尼结合的独立构想。
+Bahasa Melayu: PKMM dan KRIS memperjuangkan Melayu Raya, gagasan kemerdekaan melalui penggabungan Tanah Melayu dengan Indonesia."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：反Malayan Union、维护马来人地位及君主主权是UMNO早期宗旨。
+Bahasa Melayu: Penentangan Malayan Union serta perlindungan kedudukan Melayu dan kedaulatan raja ialah perjuangan awal UMNO."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：1950年法令为地方议会选举建立法律依据，让居民逐步选代表。
+Bahasa Melayu: Ordinan 1950 menyediakan asas undang-undang bagi pilihan raya pihak berkuasa tempatan supaya rakyat memilih wakil."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：UMNO与MCA合作分配候选人与选区，是争取跨族选票的选举策略。
+Bahasa Melayu: Kerjasama UMNO-MCA menyelaraskan calon dan kawasan sebagai strategi mendapatkan undi pelbagai kaum."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：委员会需建立强大中央政府并保留一定州自治，平衡联邦权力分配。
+Bahasa Melayu: Suruhanjaya perlu mewujudkan pusat kuat sambil menjamin autonomi negeri untuk keseimbangan kuasa persekutuan."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：1957年代表团讨论宪法草案中的公民权安排，协调本地与移民群体权益。
+Bahasa Melayu: Rombongan 1957 membincangkan kewarganegaraan dalam draf perlembagaan untuk menyelaraskan kepentingan penduduk."
+,radio,F4 Bab 10,A,B,C,D,C,Picture19.png,"中文：国旗替代象征新独立主权国家成立，英国殖民权力终结。
+Bahasa Melayu: Pertukaran bendera menandakan pembentukan negara berdaulat merdeka dan berakhirnya kuasa penjajah British."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：这些计划改善乡村设施、开发土地和增加农民收入，共同目标是发展乡村。
+Bahasa Melayu: Rancangan ini memperbaik kemudahan, membuka tanah dan menambah pendapatan petani untuk memajukan luar bandar."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：不同语言的定义都强调最高权力、统治能力及权威，故选C。
+Bahasa Melayu: Takrif pelbagai bahasa menekankan kuasa tertinggi dan kewibawaan pemerintahan, C."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：受承认的明确边界划定国家治理范围，与政府、法律及人民构成主权国家。
+Bahasa Melayu: Sempadan diiktiraf menetapkan wilayah pemerintahan bersama kerajaan, undang-undang dan rakyat sebagai ciri negara berdaulat."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：这些州法律承继马六甲法律传统并作地方调整，体现法律制度延续。
+Bahasa Melayu: Undang-undang negeri mewarisi perundangan Melaka dengan penyesuaian tempatan, menunjukkan kesinambungan tradisi."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：1948年联邦区分马来君主臣民与海峡殖民地英国臣民，作为公民权基础。
+Bahasa Melayu: Persekutuan 1948 membezakan rakyat Raja Melayu dan rakyat British di Negeri-negeri Selat sebagai asas kewarganegaraan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：国家元首通常依首相建议行事，在宪法规定事项可用酌情权，I、II正确。
+Bahasa Melayu: YDPA lazimnya bertindak atas nasihat Perdana Menteri dan menggunakan budi bicara bagi perkara tertentu; I dan II betul."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：X为行政机关，负责制定及执行国家政策，而不是解释宪法。
+Bahasa Melayu: X ialah badan eksekutif yang menggubal serta melaksanakan dasar negara, bukan mentafsir perlembagaan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：NCER、ECER与SDC属于发展走廊，通过区域合作推动投资及社会经济增长。
+Bahasa Melayu: NCER, ECER dan SDC ialah koridor wilayah yang menggalakkan pelaburan serta pembangunan sosioekonomi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：联邦法律与州法律冲突时，国会通过的联邦法优先适用。
+Bahasa Melayu: Apabila undang-undang negeri bercanggah dengan persekutuan, undang-undang Parlimen diguna pakai."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：邻国质疑成立计划，需等联合国民意调查报告完成，导致成立日期推迟。
+Bahasa Melayu: Bantahan negara jiran memerlukan laporan tinjauan PBB disiapkan sebelum pembentukan, menyebabkan tarikh ditunda."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：1966年正常化协议结束印尼对抗政策，恢复两国和平关系。
+Bahasa Melayu: Persetujuan normalisasi 1966 menamatkan konfrontasi Indonesia dan memulihkan hubungan aman kedua-dua negara."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：这些军事行动、安全机构和赦免措施针对Sarawak共产党，逐步削弱其威胁。
+Bahasa Melayu: Operasi keselamatan, RASCOM dan langkah pengampunan menangani serta melemahkan ancaman komunis Sarawak."
+,radio,F5 Bab 7,A,B,C,D,D,Picture32.png,"中文：报告推动FPN及KBSM，即II、III应选C。原key D包括较后实施的KSSR，非报告直接成果，保留原答案并注明疑点。
+Bahasa Melayu: Laporan menghasilkan FPN dan KBSM, iaitu II-III, C. Key asal D memasukkan KSSR yang dilaksanakan jauh kemudian, bukan hasil langsung laporan; jawapan dikekalkan dengan perbezaan dicatat."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：马来区域原住民文化为核心、适当其他文化及伊斯兰，是国家文化政策三原则。
+Bahasa Melayu: Budaya rakyat asal rantau Melayu, unsur lain sesuai dan Islam ialah tiga prinsip Dasar Kebudayaan Kebangsaan."
+,radio,F5 Bab 8,A,B,C,D,B,Picture34.png,"中文：RISDA协助橡胶小园主重植，提升产量和收入，因此B配对正确。
+Bahasa Melayu: RISDA membantu penanaman semula getah pekebun kecil untuk hasil dan pendapatan lebih baik; B betul."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：DEB和DPN都通过社会重组减少族群与经济职业的固定关联。
+Bahasa Melayu: DEB dan DPN menyusun semula masyarakat untuk menghapuskan pengenalan kaum mengikut fungsi ekonomi."
+,radio,F5 Bab 9,A,B,C,D,B,Picture36.png,"中文：冷战等国际政治冲突使马来西亚不再单纯亲西方，转向中立以保护利益。
+Bahasa Melayu: Konflik antarabangsa seperti Perang Dingin mendorong perubahan daripada probarat kepada berkecuali demi kepentingan Malaysia."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：Colombo Plan提供培训和技术援助，提升经济能力、协助减少贫困。
+Bahasa Melayu: Rancangan Colombo memberikan latihan dan bantuan teknikal untuk keupayaan ekonomi serta menangani kemiskinan."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：ZOPFAN宣言表达东南亚和平、自由及中立，是外交政策转变的区域倡议。
+Bahasa Melayu: Deklarasi ZOPFAN menyatakan keamanan, kebebasan dan berkecuali Asia Tenggara sebagai perubahan dasar luar serantau."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：课本以ASEAN-China论坛讨论Spratly争议为外交解决例子；不代表所有重叠主张已经最终解决。
+Bahasa Melayu: Forum ASEAN-China membincangkan pertikaian Spratly sebagai usaha diplomatik; ini tidak bermakna semua tuntutan bertindih telah selesai sepenuhnya."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：CGM及MERCY提供医疗、物资与救灾援助，为受冲突和灾难影响的人争取人道福祉。
+Bahasa Melayu: CGM dan MERCY menyalurkan rawatan, bekalan serta bantuan bencana untuk memperjuangkan kemanusiaan mangsa konflik dan bencana."

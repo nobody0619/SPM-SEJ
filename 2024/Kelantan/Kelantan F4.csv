@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：D：苏丹印玺象征统治者主权，盖在官方文件上可确认命令的权威。
+Bahasa Melayu: D: Cap mohor melambangkan kedaulatan pemerintah dan mengesahkan kewibawaan arahan dalam dokumen rasmi."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：C：Laksamana是海军统帅，负责海上安全；Temenggung负责城内安全。
+Bahasa Melayu: C: Laksamana menjadi panglima angkatan laut dan menjaga keselamatan laut, manakala Temenggung menjaga keselamatan kota."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：D：1932年改革运动终结泰国绝对君主制，推动君主立宪及人民政治参与。
+Bahasa Melayu: D: Gerakan tokoh tersebut menamatkan sistem raja berkuasa mutlak di Thailand dan membawa kepada pemerintahan berperlembagaan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：A（I、II）：宗教知识分子通过报章传播Islah思想，并创办madrasah推动教育。
+Bahasa Melayu: A (I dan II): Intelektual agama menerbitkan akhbar untuk menyebarkan Islah dan menubuhkan madrasah bagi memajukan pendidikan."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：十四点原则强调民族自决，并以民族作为划定国家边界的基础。
+Bahasa Melayu: C: Deklarasi Empat Belas Perkara menekankan penentuan nasib sendiri dan sempadan negara berasaskan bangsa."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：B：战争造成大量死亡和财产毁坏，提醒人民珍惜和平，并以协商解决争端。
+Bahasa Melayu: B: Kehilangan nyawa dan kemusnahan akibat perang mengajar kita menghargai keamanan serta menyelesaikan pertikaian secara damai."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：B：jus soli及未满18岁的公民子女资格是Malayan Union宽松公民条件的一部分。
+Bahasa Melayu: B: Jus soli dan kelayakan anak bawah 18 tahun yang ibu bapanya warganegara ialah sebahagian syarat kewarganegaraan Malayan Union."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：C：英国继续在东南亚维护战略及经济利益，把沙巴直接纳入殖民统治；王位继承是砂拉越因素。
+Bahasa Melayu: C: British meneruskan dasar dan kepentingan strategik serta ekonomi di rantau ini melalui penguasaan Sabah. Masalah pewarisan takhta berkaitan Sarawak."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：C：PUTERA-AMCJA提出的人民宪法没有获英国接受，遂用hartal停业行动表示反对。
+Bahasa Melayu: C: PUTERA-AMCJA melancarkan hartal sebagai bantahan terhadap penolakan Perlembagaan Rakyat yang mereka cadangkan."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：B：部分英国行政人员支持恢复王权和稳定行政的联合邦方案，有助新体制成立。
+Bahasa Melayu: B: Sokongan pentadbir British terhadap susunan Persekutuan yang memulihkan kedudukan raja dan kestabilan membantu penubuhannya."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：B（I、IV）：共产主义思想通过华校及工会传播，接触学生、教师和劳动群体。
+Bahasa Melayu: B (I dan IV): Fahaman komunis tersebar melalui sekolah Cina dan kesatuan sekerja kepada pelajar, guru serta pekerja."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：题库暂存B，但配对有误：课本说Home Guard保护村落，不是矿工；保护矿场属于Special Constables，追踪共产党属Senoi Praaq，保卫城镇村庄属Auxiliary Police。本表没有完全正确的配对。
+Bahasa Melayu: Kunci semasa ialah B, tetapi padanan salah: Home Guard menjaga kampung, Special Constables mengawal lombong, Senoi Praaq menjejak komunis dan Auxiliary Police mempertahankan bandar serta kampung. Tiada padanan yang sepenuhnya betul dalam jadual."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：C：RIDA为乡村马来人提供经济援助、训练及经营机会，改善经商和工业参与不足。
+Bahasa Melayu: C: RIDA menyediakan bantuan ekonomi, latihan dan peluang perusahaan untuk memperbaik kedudukan orang Melayu luar bandar."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：A：共同的国家教育制度让各族学生拥有共同知识与价值，目标是培养团结。
+Bahasa Melayu: A: Sistem pendidikan kebangsaan menyediakan pengetahuan dan nilai bersama untuk memupuk perpaduan kaum."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B：1955年选举让人民选出本地代表，开辟自治政府道路并推进独立。
+Bahasa Melayu: B: Pilihan raya 1955 memberi rakyat peluang memilih wakil tempatan dan merintis pembentukan kerajaan sendiri menuju kemerdekaan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：D：1955年选举后联邦立法议会多数成员由人民选出，东姑讲话指的正是该议会。
+Bahasa Melayu: D: Selepas pilihan raya 1955, majoriti anggota Majlis Perundangan Persekutuan dipilih rakyat; majlis inilah yang dimaksudkan Tunku."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：A：乘船航程提供代表们讨论策略及统一立场的时间，然后从Karachi乘飞机到伦敦谈判。
+Bahasa Melayu: A: Perjalanan laut memberi rombongan masa menyusun strategi rundingan bersama sebelum menaiki kapal terbang dari Karachi ke London."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：D：1957年协议建立君主立宪及议会民主制度，人民通过选举选择代表。
+Bahasa Melayu: D: Perjanjian 1957 menetapkan amalan Raja Berperlembagaan dan Demokrasi Berparlimen dengan wakil dipilih rakyat."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：D：准备体育场、国家象征及庆典设施，使独立国家的新身份在仪式中呈现。
+Bahasa Melayu: D: Persediaan fizikal seperti stadium, lambang dan kemudahan sambutan menonjolkan identiti negara merdeka."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：A：降下Union Jack、结束英国国歌象征殖民统治告终，国家开始独立。
+Bahasa Melayu: A: Penurunan Union Jack dan berakhirnya penggunaan lagu British menandakan tamatnya penjajahan serta permulaan negara merdeka."

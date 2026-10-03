@@ -1,20 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sarawak Serian F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Sarawak Serian F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：D：Penghulu Bendahari管理国库及财政收入，包括贸易税、其他税款和贡金；Bendahara主要领导行政。
+Bahasa Melayu: D: Penghulu Bendahari mengurus perbendaharaan dan hasil kerajaan seperti cukai perdagangan serta ufti, manakala Bendahara mengetuai pentadbiran."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：B：地方官通过sistem serah征收收入并管理辖区；划战船是人民服役的例子。
+Bahasa Melayu: B: Pembesar mengutip hasil melalui sistem serah dan mentadbir kawasan pegangan. Mendayung kapal perang ialah contoh khidmat rakyat."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：早期印尼民族主义者相信教育能改变人民命运，让人民摆脱殖民压迫与落后。
+Bahasa Melayu: A: Nasionalis awal Indonesia melihat pendidikan sebagai cara mengubah nasib rakyat dan membebaskan mereka daripada penindasan serta kemunduran."
+,radio,F4 Bab 3,A,B,C,D,B,Picture4.png,"中文：B（I、IV）：Majalah Guru及Lembaga Melayu讨论教育与民族问题，传播民族觉醒；本题以历史时期的刊物为准。
+Bahasa Melayu: B (I dan IV): Majalah Guru dan Lembaga Melayu membincangkan pendidikan serta masalah bangsa dan menyebarkan kesedaran kebangsaan pada zaman tersebut."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：B（I、IV）：国联未能阻止日本侵占满洲，也未能约束德国违反凡尔赛条约；入侵波兰的是德国，不是意大利。
+Bahasa Melayu: B (I dan IV): Liga Bangsa-Bangsa gagal menangani penaklukan Manchuria oleh Jepun dan keingkaran Jerman terhadap Versailles. Poland diserang Jerman, bukan Itali."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：D：Barbarossa是德国进攻苏联的军事行动，目标是向东扩张并占领俄罗斯地区。
+Bahasa Melayu: D: Operasi Barbarossa ialah serangan Jerman terhadap Kesatuan Soviet untuk meluaskan penguasaan ke timur dan menawan Rusia."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：B（I、IV）：英国统一行政以提高管理效率，并希望加强经济活动与投资；增加行政成本不是目的。
+Bahasa Melayu: B (I dan IV): Malayan Union bertujuan melicinkan pentadbiran dan meningkatkan kegiatan serta pelaburan ekonomi, bukan menambah kos pentadbiran."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：D：1941年宪法承诺让砂拉越人民走向自治，移交英国成为殖民地违背了这项承诺。
+Bahasa Melayu: D: Perlembagaan 1941 menjanjikan arah berkerajaan sendiri kepada rakyat Sarawak; penyerahan kepada British bercanggah dengan janji tersebut."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：A：言论、集会和出版自由让民族主义者传播思想，启发人民争取独立。
+Bahasa Melayu: A: Kebebasan bersuara, berhimpun dan menerbitkan akhbar membolehkan nasionalis membuka minda rakyat ke arah negara merdeka."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：C：课本把Atlantic Charter的去殖民化原则列为英国接受1948年联合邦安排的背景，促进当地人自治。
+Bahasa Melayu: C: Buku teks mengaitkan prinsip dekolonisasi Piagam Atlantik dengan sokongan British terhadap Persekutuan 1948 dan persediaan pemerintahan sendiri."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：B：Karl Marx及Friedrich Engels是共产主义思想的重要奠基者，主张消除阶级差别；Das Kapital主要由Marx撰写，Engels整理后期卷。
+Bahasa Melayu: B: Karl Marx dan Friedrich Engels menjadi pengasas utama fahaman komunisme yang menentang perbezaan kelas. Das Kapital ditulis terutamanya oleh Marx, dengan jilid kemudian disunting Engels."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：D：Senoi Praaq与Sarawak Rangers擅长追踪森林足迹，协助寻找共产党藏身处。
+Bahasa Melayu: D: Senoi Praaq dan Sarawak Rangers mahir menjejak di hutan untuk mengesan tempat persembunyian komunis."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：A：CLC通过族群之间讨论和妥协建立政治合作，减少矛盾并推动独立。
+Bahasa Melayu: A: CLC menggalakkan kerjasama politik melalui perbincangan dan kompromi antara kaum untuk mengurangkan pertentangan serta menuju kemerdekaan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：C：联盟党以帆船为标志，象征愿意克服争取独立过程中的挑战和阻碍。
+Bahasa Melayu: C: Parti Perikatan menggunakan kapal layar sebagai logo yang melambangkan kesediaan menghadapi cabaran dan rintangan untuk mencapai kemerdekaan."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B：1951年首个市议会选举在George Town举行，随后是1952年吉隆坡选举。
+Bahasa Melayu: B: Pilihan raya perbandaran awal diadakan di George Town pada 1951, diikuti Kuala Lumpur pada 1952."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：C：选民参与投票，履行选择代表及决定国家治理方向的公民责任。
+Bahasa Melayu: C: Pengundi melaksanakan tanggungjawab sebagai warganegara dengan memilih wakil untuk menentukan arah pemerintahan."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：A：独立代表团回国后，东姑在马六甲Banda Hilir宣布独立日期为1957年8月31日。
+Bahasa Melayu: A: Selepas rombongan merdeka pulang, Tunku mengumumkan tarikh kemerdekaan 31 Ogos 1957 di Banda Hilir, Melaka."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C：Naturalisasi是取得公民身份的一种方式，须满足居住、品格及其他法定条件。
+Bahasa Melayu: C: Naturalisasi ialah kaedah memperoleh kewarganegaraan dengan memenuhi syarat pemastautinan, kelakuan baik dan syarat undang-undang lain."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：D：Kamus Dewan把独立解释为摆脱殖民、束缚或外来控制，能够自主治理。
+Bahasa Melayu: D: Kemerdekaan menurut Kamus Dewan merujuk kebebasan daripada penjajahan, kurungan atau penguasaan luar."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B（I、IV）：国徽和国旗表现国家身份，并凝聚人民的共同归属感与团结。
+Bahasa Melayu: B (I dan IV): Jata Negara dan bendera menjadi lambang jati diri serta simbol perpaduan rakyat dalam sebuah negara."

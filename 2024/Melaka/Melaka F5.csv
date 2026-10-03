@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：维护独立国家的身份与主权可赢得外国尊重，确保国际地位。
+Bahasa Melayu: Mempertahankan identiti dan kedaulatan negara membolehkan Malaysia dihormati negara luar serta mengekalkan kedudukan antarabangsa."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：领袖会面增进马来西亚与埃及的理解及合作，巩固外交关系。
+Bahasa Melayu: Pertemuan pemimpin meningkatkan persefahaman dan kerjasama Malaysia-Mesir untuk mengukuhkan hubungan diplomatik."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：Charter of Justice建立司法保护与法律秩序，防止居民受压迫。
+Bahasa Melayu: Charter of Justice menyediakan perlindungan kehakiman dan aturan undang-undang untuk menghalang penindasan penduduk."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：君主制度继承马来州独立前传统，属于宪法传统特征。
+Bahasa Melayu: Pemerintahan beraja diwarisi daripada tradisi negeri Melayu sebelum merdeka, maka ialah ciri tradisional perlembagaan."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：州宪法明确君主权力受法律约束，推动君主立宪而非绝对君权。
+Bahasa Melayu: Undang-undang tubuh negeri menetapkan kuasa raja tertakluk pada perlembagaan, mengamalkan Raja Berperlembagaan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：国家元首是军队最高统帅并任命驻外外交人员；不是所有州的伊斯兰领袖，也不亲自判案。
+Bahasa Melayu: YDPA pemerintah tertinggi tentera dan melantik diplomat; baginda bukan ketua Islam semua negeri atau hakim yang menjatuhkan hukuman."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：外交、教育及司法行政在联邦清单，需全国统一管理。
+Bahasa Melayu: Hal ehwal luar, pelajaran dan pentadbiran keadilan termasuk Senarai Persekutuan untuk pengurusan seluruh negara."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：RASCOM协调Rajang地区安全行动，以对抗Sarawak共产党威胁。
+Bahasa Melayu: RASCOM menyelaraskan operasi keselamatan kawasan Rajang untuk menangani ancaman komunis Sarawak."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：成立马来西亚让加入的地区摆脱殖民，并共享原料和经济资源，II、III正确。
+Bahasa Melayu: Pembentukan Malaysia memberikan kemerdekaan wilayah dan perkongsian bahan mentah serta sumber ekonomi; II dan III betul."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼在对抗期间派游击队和武装人员入侵马来西亚，企图破坏成立计划。
+Bahasa Melayu: Indonesia menghantar gerila dan pihak bersenjata menyerang Malaysia semasa konfrontasi untuk menggagalkan pembentukannya."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：族群骚乱及持续政治紧张危害联邦稳定，促使新加坡在1965年分离。
+Bahasa Melayu: Rusuhan kaum dan ketegangan politik mengancam kestabilan persekutuan sehingga menyumbang pemisahan Singapura pada 1965."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：职业培训中心提供工作技能，改善青年就业能力并减少失业。
+Bahasa Melayu: Pusat latihan vokasional membekalkan kemahiran pekerjaan untuk meningkatkan kebolehpasaran belia serta mengurangkan pengangguran."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：历史教育和Tatarakyat培养爱国、共同认同及公民责任，所以I、IV正确。
+Bahasa Melayu: Sejarah dan Tatarakyat memupuk patriotisme, identiti bersama serta tanggungjawab warganegara; I dan IV betul."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：SUKMA促进跨族、跨州交流，让体育成为全国整合的平台。
+Bahasa Melayu: SUKMA menggalakkan interaksi antara kaum dan negeri, menjadikan sukan wadah integrasi nasional."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：全国咨询理事会讨论经济与族群问题，推动DEB的形成；题干MAPEM应为MAPEN。
+Bahasa Melayu: Majlis Perundingan Negara membincangkan ekonomi serta hubungan kaum dan menyumbang pembentukan DEB; singkatan MAPEM dalam soalan sepatutnya MAPEN."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：DARA和KETENGAH开发落后地区、土地及设施，带动区域就业和经济。
+Bahasa Melayu: DARA dan KETENGAH membangunkan wilayah, tanah serta kemudahan untuk meningkatkan pekerjaan dan ekonomi kawasan."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：外交政策建立与其他国家的良好关系，以维护国家利益与安全。
+Bahasa Melayu: Dasar luar memupuk hubungan baik dengan negara lain untuk melindungi kepentingan serta keselamatan negara."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：Apartheid以种族歧视剥夺黑人权益，马来西亚反对它以捍卫当地人民及人权。
+Bahasa Melayu: Apartheid menafikan hak penduduk kulit hitam melalui diskriminasi kaum; Malaysia menentangnya demi hak penduduk dan kemanusiaan."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：AFTA降低贸易壁垒、扩大区域贸易与投资，增强东盟经济合作。
+Bahasa Melayu: AFTA mengurangkan halangan perdagangan dan memperluas perdagangan serta pelaburan untuk kerjasama ekonomi ASEAN."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：Muslim Care提供食物、医疗和人道支援，帮助灾区及受冲突影响人民。
+Bahasa Melayu: Muslim Care menyalurkan makanan, rawatan dan bantuan kemanusiaan kepada mangsa bencana serta konflik."

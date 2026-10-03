@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor set 1 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor set 1 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：B：Inderagiri是马六甲通过战争征服取得的领土，区别于婚姻或友好关系取得的影响地区。
+Bahasa Melayu: B: Inderagiri ialah wilayah taklukan yang diperoleh Melaka melalui peperangan, bukan perkahwinan atau persahabatan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：C：未经国王同意杀人及伪造苏丹命令是严重罪行，Hukum Kanun Melaka规定死刑。
+Bahasa Melayu: C: Membunuh tanpa pengetahuan raja dan memalsukan titah sultan ialah kesalahan berat yang dikenakan hukuman bunuh dalam Hukum Kanun Melaka."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：C：Cerita Awang Putat描述民族生活中的苦难，唤起读者对人民处境的关心与民族意识。
+Bahasa Melayu: C: Cerita Awang Putat mengungkap penderitaan hidup bangsa dan membangkitkan keprihatinan serta kesedaran kebangsaan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：B（I、IV）：al-Jamiah al-Khairiah鼓励马来人经商，并撰写说明进步重要性的文章。
+Bahasa Melayu: B (I dan IV): Al-Jamiah al-Khairiah membangkitkan semangat berniaga dan menghasilkan rencana berinformasi tentang kepentingan kemajuan."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：奥匈王储遇刺引发巴尔干危机及军事联盟连锁参战，促成第一次世界大战。
+Bahasa Melayu: C: Pembunuhan pewaris takhta Austria-Hungary mencetuskan krisis Balkan dan penglibatan pakatan ketenteraan sehingga meletus Perang Dunia Pertama."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：B：日本把华人社团联合于Kakeo Kokokai，方便监督及控制当地华人活动。
+Bahasa Melayu: B: Jepun menggunakan Kakeo Kokokai untuk menggabungkan persatuan Cina dan mengawal kegiatan penduduk di Sarawak."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：A：统一行政有助英国更有效管理资源与经济，提升经济活动和投资。
+Bahasa Melayu: A: Malayan Union menyatukan pentadbiran untuk meningkatkan kecekapan pengurusan serta pelaburan ekonomi."
+,radio,F4 Bab 5,A,B,C,D,D,Picture8.png,"中文：D：英国希望掌握砂拉越的经济财富，因此施压要求取得更大统治权。
+Bahasa Melayu: D: British mendesak perluasan kuasa supaya dapat menguasai kekayaan dan kepentingan ekonomi Sarawak."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：B（I、IV）：PUTERA-AMCJA认为工作委员会没有非马来代表，建议也继续强化英国控制。
+Bahasa Melayu: B (I dan IV): PUTERA-AMCJA menolak cadangan kerana tiada wakil bukan Melayu dan kuasa British terus diperkukuh."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：D：1948年马来亚联合邦由英国最高专员领导；国家元首职位是在独立后建立。
+Bahasa Melayu: D: Persekutuan Tanah Melayu 1948 diketuai Pesuruhjaya Tinggi British, manakala jawatan Yang di-Pertuan Agong diwujudkan selepas merdeka."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：B：破坏公共设施及袭击工作人员影响交通、服务及安全，直接干扰居民日常生活。
+Bahasa Melayu: B: Sabotaj kemudahan dan serangan terhadap pekerja awam menjejaskan pengangkutan, perkhidmatan serta kehidupan harian penduduk."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：A：Briggs计划把居民迁入新村，切断Min Yuen向共产党提供粮食、情报及物资的网络。
+Bahasa Melayu: A: Rancangan Briggs memindahkan penduduk ke Kampung Baru untuk memutuskan rangkaian makanan, maklumat dan bantuan Min Yuen kepada komunis."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：A：API采取激进的反殖民立场，被英国视为威胁殖民统治，因而遭禁止。
+Bahasa Melayu: A: API dianggap kumpulan radikal yang mencabar pemerintahan kolonial, lalu diharamkan oleh British."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：D：联盟党帆船标志象征面对争取独立过程中的风浪、挑战及阻碍。
+Bahasa Melayu: D: Logo kapal layar Perikatan melambangkan kesediaan menghadapi cabaran dan rintangan dalam usaha mencapai kemerdekaan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：D：1955年选举选出联邦立法议会议员，让本地人民以投票参与政治。
+Bahasa Melayu: D: Pilihan Raya Umum 1955 diadakan untuk memilih anggota Majlis Perundangan Persekutuan dan memberi rakyat peluang menyertai politik."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：C：议会正式运作让民选本地领袖承担行政责任，显示建立自治政府的认真努力。
+Bahasa Melayu: C: Pembukaan Majlis Perundangan Persekutuan menunjukkan kesungguhan pemimpin serta rakyat melaksanakan kerajaan sendiri."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：C：制宪委员会收集意见并起草宪法，为独立国家的治理建立法律基础。
+Bahasa Melayu: C: Suruhanjaya mengumpulkan pandangan dan menyusun perlembagaan sebagai asas undang-undang pemerintahan negara merdeka."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：D：政府通过调查人民意见，从候选花卉中选择国花，最后选定大红花。
+Bahasa Melayu: D: Pemilihan bunga kebangsaan dibuat melalui tinjauan pendapat rakyat terhadap beberapa jenis bunga sebelum bunga raya dipilih."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：D：国会大厦象征议会民主，人民代表在其中讨论及制定国家法律。
+Bahasa Melayu: D: Bangunan Parlimen melambangkan pengamalan demokrasi kerana wakil rakyat membincangkan dan menggubal undang-undang di situ."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B（I、IV）：本题以国家象征及人民为答案：象征表现身份，人民构成国家共同体。语言与军队也重要，但不是这里指定的组合。
+Bahasa Melayu: B (I dan IV): Soalan ini menekankan lambang yang menunjukkan identiti dan rakyat yang membentuk negara. Bahasa serta tentera penting, tetapi bukan pasangan yang ditetapkan dalam soalan ini."

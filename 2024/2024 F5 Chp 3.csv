@@ -1,43 +1,85 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 3,radio,Sbp_Q24,A,B,C,D,D,SBP/Picture24.png
-F5 Chp 3,radio,JohorBahru_Q25,A,B,C,D,B,Johor Bahru/Picture25.png
-F5 Chp 3,radio,Kedah_Q25,A,B,C,D,C,Kedah/Picture25.png
-F5 Chp 3,radio,Kelantan_Q25,A,B,C,D,C,Kelantan/Picture25.png
-F5 Chp 3,radio,KlSentul_Q25,A,B,C,D,C,KL Sentul/Picture25.png
-F5 Chp 3,radio,Melaka_Q25,A,B,C,D,C,Melaka/Picture25.png
-F5 Chp 3,radio,Mrsm_Q25,A,B,C,D,A,MRSM/Picture25.png
-F5 Chp 3,radio,N_Q25,A,B,C,D,D,N9/Picture25.png
-F5 Chp 3,radio,Pahang_Q25,A,B,C,D,D,Pahang/Picture25.png
-F5 Chp 3,radio,Penang_Q25,A,B,C,D,B,Penang/Picture25.png
-F5 Chp 3,radio,Perak_Q25,A,B,C,D,A,Perak/Picture25.png
-F5 Chp 3,radio,Perlis_Q25,A,B,C,D,B,Perlis/Picture25.png
-F5 Chp 3,radio,PutrajayaSet_Q25,A,B,C,D,A,Putrajaya set 1/Picture25.png
-F5 Chp 3,radio,PutrajayaSet_Q25,A,B,C,D,D,Putrajaya set 2/Picture25.png
-F5 Chp 3,radio,SarawakSerian_Q25,A,B,C,D,D,Sarawak Serian/Picture25.png
-F5 Chp 3,radio,Sbp_Q25,A,B,C,D,C,SBP/Picture25.png
-F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,D,Selangor set 1/Picture25.png
-F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,A,Selangor set 2/Picture25.png
-F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,A,Selangor set 3/Picture25.png
-F5 Chp 3,radio,Smka_Q25,A,B,C,D,C,SMKA/Picture25.png
-F5 Chp 3,radio,Terengganu_Q25,A,B,C,D,D,Terengganu/Picture25.png
-F5 Chp 3,radio,JohorBahru_Q26,A,B,C,D,C,Johor Bahru/Picture26.png
-F5 Chp 3,radio,Kedah_Q26,A,B,C,D,C,Kedah/Picture26.png
-F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,D,Kelantan/Picture26.png
-F5 Chp 3,radio,KlSentul_Q26,A,B,C,D,A,KL Sentul/Picture26.png
-F5 Chp 3,radio,Melaka_Q26,A,B,C,D,A,Melaka/Picture26.png
-F5 Chp 3,radio,Mrsm_Q26,A,B,C,D,D,MRSM/Picture26.png
-F5 Chp 3,radio,N_Q26,A,B,C,D,C,N9/Picture26.png
-F5 Chp 3,radio,Pahang_Q26,A,B,C,D,B,Pahang/Picture26.png
-F5 Chp 3,radio,Penang_Q26,A,B,C,D,D,Penang/Picture26.png
-F5 Chp 3,radio,Perak_Q26,A,B,C,D,A,Perak/Picture26.png
-F5 Chp 3,radio,Perlis_Q26,A,B,C,D,C,Perlis/Picture26.png
-F5 Chp 3,radio,PutrajayaSet_Q26,A,B,C,D,B,Putrajaya set 1/Picture26.png
-F5 Chp 3,radio,PutrajayaSet_Q26,A,B,C,D,B,Putrajaya set 2/Picture26.png
-F5 Chp 3,radio,SarawakSerian_Q26,A,B,C,D,C,Sarawak Serian/Picture26.png
-F5 Chp 3,radio,Sbp_Q26,A,B,C,D,C,SBP/Picture26.png
-F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,D,Selangor set 1/Picture26.png
-F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,B,Selangor set 2/Picture26.png
-F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,D,Selangor set 3/Picture26.png
-F5 Chp 3,radio,Smka_Q26,A,B,C,D,D,SMKA/Picture26.png
-F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,D,Terengganu/Picture26.png
-F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,C,Selangor set 1/Picture27.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 3,radio,Sbp_Q24,A,B,C,D,D,SBP/Picture24.png,"中文：国家元首依赦免程序可减轻或暂缓已判刑罚，属于司法相关权限；召集国会及批准法案属于立法。
+Bahasa Melayu: YDPA boleh menangguhkan atau mengurangkan hukuman mengikut proses pengampunan sebagai kuasa berkaitan kehakiman."
+F5 Chp 3,radio,JohorBahru_Q25,A,B,C,D,B,Johor Bahru/Picture25.png,"中文：国家元首任命内阁，并担任武装部队最高统帅，属于课本列出的行政权限。召集国会属于立法权限，因此I和IV，即B。
+Bahasa Melayu: Yang di-Pertuan Agong melantik Jemaah Menteri dan menjadi Pemerintah Tertinggi Angkatan Tentera dalam kuasa eksekutif. Memanggil Parlimen berkaitan kuasa perundangan, maka I dan IV, iaitu B."
+F5 Chp 3,radio,Kedah_Q25,A,B,C,D,C,Kedah/Picture25.png,"中文：C：马来统治者的主权及州制度限制英国直接扩权，英国须通过协议逐步介入。
+Bahasa Melayu: C: Kedudukan dan kedaulatan Raja-raja Melayu menjadi halangan kepada perluasan kuasa British secara langsung."
+F5 Chp 3,radio,Kelantan_Q25,A,B,C,D,C,Kelantan/Picture25.png,"中文：C（II、III）：君主地位获得宪法承认，而人民享有投票权；首相是政府首长，国家元首是Yang di-Pertuan Agong。
+Bahasa Melayu: C (II dan III): Perlembagaan mengiktiraf kedudukan raja dan hak rakyat mengundi. Perdana Menteri ialah Ketua Kerajaan, bukan Ketua Negara."
+F5 Chp 3,radio,KlSentul_Q25,A,B,C,D,C,KL Sentul/Picture25.png,"中文：州宪法规定统治者必须依宪法行使权力，推动君主立宪制度的发展。因此选C。
+Bahasa Melayu: Undang-undang tubuh negeri menetapkan pemerintahan raja berlandaskan perlembagaan. Hal ini memperkenalkan amalan Raja Berperlembagaan, maka C tepat."
+F5 Chp 3,radio,Melaka_Q25,A,B,C,D,C,Melaka/Picture25.png,"中文：州宪法明确君主权力受法律约束，推动君主立宪而非绝对君权。
+Bahasa Melayu: Undang-undang tubuh negeri menetapkan kuasa raja tertakluk pada perlembagaan, mengamalkan Raja Berperlembagaan."
+F5 Chp 3,radio,Mrsm_Q25,A,B,C,D,A,MRSM/Picture25.png,"中文：A：课本在国家元首立法权限下列出宣布紧急状态，允许按宪法处理严重危机。
+Bahasa Melayu: A: Buku teks meletakkan kuasa mengisytiharkan darurat dalam bidang perundangan Yang di-Pertuan Agong untuk menangani keadaan serius mengikut perlembagaan."
+F5 Chp 3,radio,N_Q25,A,B,C,D,D,N9/Picture25.png,"中文：课本列出统治者会议在特定案件充当赦免委员会，并同意特定宪法修改，故III、IV正确。
+Bahasa Melayu: Buku teks menyenaraikan Majlis Raja-Raja sebagai Lembaga Pengampunan bagi kes tertentu dan memperkenankan pindaan tertentu; III dan IV betul."
+F5 Chp 3,radio,Pahang_Q25,A,B,C,D,D,Pahang/Picture25.png,"中文：国家元首在安全、经济等受威胁时宣布紧急状态，课本把它列在立法权。
+Bahasa Melayu: YDPA mengisytiharkan darurat apabila keselamatan atau ekonomi terancam, dikategorikan buku teks sebagai kuasa perundangan."
+F5 Chp 3,radio,Penang_Q25,A,B,C,D,B,Penang/Picture25.png,"中文：统治者会议就特定重要职位的任命提供意见，发挥宪法保障作用。
+Bahasa Melayu: Majlis Raja-Raja memberikan nasihat tentang pelantikan jawatan tertentu untuk melaksanakan fungsi perlembagaan."
+F5 Chp 3,radio,Perak_Q25,A,B,C,D,A,Perak/Picture25.png,"中文：国家元首通常依首相建议行事，在宪法规定事项可用酌情权，I、II正确。
+Bahasa Melayu: YDPA lazimnya bertindak atas nasihat Perdana Menteri dan menggunakan budi bicara bagi perkara tertentu; I dan II betul."
+F5 Chp 3,radio,Perlis_Q25,A,B,C,D,B,Perlis/Picture25.png,"中文：司法机关解释法律并在审理案件中适用法律，故I和IV符合这里的分类；制定及修订法律由立法机关负责。
+Bahasa Melayu: Badan kehakiman mentafsir dan melaksanakan undang-undang melalui pengadilan kes, maka I dan IV tepat. Penggubalan serta pindaan ialah tugas perundangan."
+F5 Chp 3,radio,PutrajayaSet_Q25,A,B,C,D,A,Putrajaya set 1/Picture25.png,"中文：国家元首任命武装部队总司令属于行政职权；批准法案及解散国会属于立法相关权限。
+Bahasa Melayu: Pelantikan Panglima Angkatan Tentera ialah kuasa eksekutif YDPA, sementara perkenan rang undang-undang dan pembubaran Parlimen berkaitan perundangan."
+F5 Chp 3,radio,PutrajayaSet_Q25,A,B,C,D,D,Putrajaya set 2/Picture25.png,"中文：日军让马来统治者保留伊斯兰教及习俗领域的地位，主要行政与军事由日军掌握。
+Bahasa Melayu: Semasa Jepun, raja mengekalkan kedudukan dalam hal Islam dan adat Melayu, sementara pentadbiran serta tentera dikuasai Jepun."
+F5 Chp 3,radio,SarawakSerian_Q25,A,B,C,D,D,Sarawak Serian/Picture25.png,"中文：D：国家元首任命驻外外交官，代表国家进行正式外交关系。
+Bahasa Melayu: D: Yang di-Pertuan Agong melantik diplomat ke luar negara untuk mewakili Malaysia dalam hubungan rasmi."
+F5 Chp 3,radio,Sbp_Q25,A,B,C,D,C,SBP/Picture25.png,"中文：日军会议承认马来统治者在伊斯兰教事务的地位，但实际行政及军事仍由日本掌控。
+Bahasa Melayu: Persidangan Jepun mengiktiraf raja sebagai pemimpin hal ehwal Islam, sementara pentadbiran dan ketenteraan dikuasai Jepun."
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,D,Selangor set 1/Picture25.png,"中文：D：非联邦马来州仍由统治者及本地大臣进行州行政，因此王权地位较稳固。
+Bahasa Melayu: D: Pentadbiran negeri dalam Negeri-negeri Melayu Tidak Bersekutu masih dijalankan oleh raja dan pembesar tempatan, lalu mengukuhkan kedudukan raja."
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,A,Selangor set 2/Picture25.png,"中文：A（I、II）：人民通过选举选择领袖，国王则作为依宪法行事的最高统治者。
+Bahasa Melayu: A (I dan II): Rakyat memilih pemimpin melalui pilihan raya, manakala raja menjadi pemerintah tertinggi yang bertindak mengikut perlembagaan."
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,A,Selangor set 3/Picture25.png,"中文：A：保管王室印玺者在官方文件上加盖印玺及签署，确认统治者会议的正式决定。
+Bahasa Melayu: A: Penyimpan Mohor Besar memeterai dokumen rasmi dan menandatanganinya untuk mengesahkan keputusan Majlis Raja-Raja."
+F5 Chp 3,radio,Smka_Q25,A,B,C,D,C,SMKA/Picture25.png,"中文：国家元首拥有军事法庭相关赦免权限，依法处理军人刑罚；首相及国防部长不能代替此宪法权力。
+Bahasa Melayu: YDPA mempunyai kuasa pengampunan berkaitan mahkamah tentera menurut Perlembagaan, bukan Perdana Menteri atau Menteri Pertahanan."
+F5 Chp 3,radio,Terengganu_Q25,A,B,C,D,D,Terengganu/Picture25.png,"中文：D：统治者会议对重要职位任命提供意见，在国家制度中发挥制衡及保障作用。
+Bahasa Melayu: D: Majlis Raja-Raja memberikan nasihat tentang pelantikan jawatan penting sebagai sebahagian fungsi semak dan imbang."
+F5 Chp 3,radio,JohorBahru_Q26,A,B,C,D,C,Johor Bahru/Picture26.png,"中文：现有答案C“缓和政党争议”只是可能效果。制衡机制主要防止权力集中和滥权，选项B更直接符合课本定义，此题答案需要复核。
+Bahasa Melayu: Jawapan semasa C ialah kesan yang mungkin berlaku, tetapi tujuan utama semak dan imbang ialah mengelakkan pemusatan serta penyalahgunaan kuasa. Oleh itu, B lebih langsung menepati konsep buku teks dan jawapan perlu disemak."
+F5 Chp 3,radio,Kedah_Q26,A,B,C,D,C,Kedah/Picture26.png,"中文：C（II、III）：任命首相及担任军队最高统帅属于国家元首行政权限。
+Bahasa Melayu: C (II dan III): Pelantikan Perdana Menteri dan kedudukan sebagai pemerintah tertinggi angkatan tentera ialah bidang kuasa eksekutif Yang di-Pertuan Agong."
+F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,D,Kelantan/Picture26.png,"中文：D：制衡避免权力滥用，让机构互相监督，帮助建立公平及关心人民的政府。
+Bahasa Melayu: D: Semak dan imbang mengelakkan penyalahgunaan kuasa dan membolehkan pengawasan antara institusi untuk mewujudkan kerajaan adil serta prihatin."
+F5 Chp 3,radio,KlSentul_Q26,A,B,C,D,A,KL Sentul/Picture26.png,"中文：立法机关负责制定法律，行政机关执行政策，司法机关解释法律及裁决争议。因此只有A把机关与职责正确配对。
+Bahasa Melayu: Badan legislatif menggubal undang-undang, eksekutif melaksanakan dasar dan judisiari mentafsir undang-undang. Oleh itu, pasangan yang betul ialah A."
+F5 Chp 3,radio,Melaka_Q26,A,B,C,D,A,Melaka/Picture26.png,"中文：国家元首是军队最高统帅并任命驻外外交人员；不是所有州的伊斯兰领袖，也不亲自判案。
+Bahasa Melayu: YDPA pemerintah tertinggi tentera dan melantik diplomat; baginda bukan ketua Islam semua negeri atau hakim yang menjatuhkan hukuman."
+F5 Chp 3,radio,Mrsm_Q26,A,B,C,D,D,MRSM/Picture26.png,"中文：D：国会通过辩论及监督审查政府政策，行政由政府执行，法律解释主要由法院处理。
+Bahasa Melayu: D: Parlimen menyemak dasar kerajaan melalui perbahasan dan pengawasan, manakala pentadbiran dilaksanakan kerajaan dan tafsiran undang-undang dilakukan mahkamah."
+F5 Chp 3,radio,N_Q26,A,B,C,D,C,N9/Picture26.png,"中文：立法、行政和司法各有职责，图表体现权力分工及制衡。
+Bahasa Melayu: Perundangan, eksekutif dan kehakiman mempunyai tugas berasingan, menunjukkan pembahagian kuasa dan semak imbang."
+F5 Chp 3,radio,Pahang_Q26,A,B,C,D,B,Pahang/Picture26.png,"中文：煽动法令限制危害公共秩序及族群和谐的言论，说明自由须在法律范围内行使。
+Bahasa Melayu: Akta Hasutan membatasi ucapan yang mengancam ketenteraman dan keharmonian, menunjukkan kebebasan tertakluk pada undang-undang."
+F5 Chp 3,radio,Penang_Q26,A,B,C,D,D,Penang/Picture26.png,"中文：伊斯兰是联邦宗教，同时其他宗教信徒可实践各自宗教，III、IV体现宪法安排。
+Bahasa Melayu: Islam agama Persekutuan dan penganut lain boleh mengamalkan agama masing-masing; III dan IV menunjukkan peruntukan agama."
+F5 Chp 3,radio,Perak_Q26,A,B,C,D,A,Perak/Picture26.png,"中文：X为行政机关，负责制定及执行国家政策，而不是解释宪法。
+Bahasa Melayu: X ialah badan eksekutif yang menggubal serta melaksanakan dasar negara, bukan mentafsir perlembagaan."
+F5 Chp 3,radio,Perlis_Q26,A,B,C,D,C,Perlis/Picture26.png,"中文：课本明确列出统治者会议在特定案件中担任赦免委员会，因此C正确；不是首相任命者或武装部队领导机关。
+Bahasa Melayu: Buku teks menyatakan Majlis Raja-Raja menjadi Lembaga Pengampunan bagi kes tertentu, maka C tepat. Ia bukan pihak yang melantik Perdana Menteri atau mengetuai tentera."
+F5 Chp 3,radio,PutrajayaSet_Q26,A,B,C,D,B,Putrajaya set 1/Picture26.png,"中文：大选让人民选择代表并决定政府领导，是民主的直接实践。
+Bahasa Melayu: Pilihan Raya Umum membolehkan rakyat memilih wakil dan menentukan kepimpinan kerajaan sebagai amalan demokrasi."
+F5 Chp 3,radio,PutrajayaSet_Q26,A,B,C,D,B,Putrajaya set 2/Picture26.png,"中文：基本自由依法行使，并受维护公共秩序及他人权益的限制，因此并非绝对。
+Bahasa Melayu: Kebebasan asasi tertakluk pada undang-undang demi ketenteraman awam dan hak orang lain, maka tidak bersifat mutlak."
+F5 Chp 3,radio,SarawakSerian_Q26,A,B,C,D,C,Sarawak Serian/Picture26.png,"中文：C：国会是立法机构，负责制定、讨论及通过国家法律。
+Bahasa Melayu: C: Parlimen ialah badan perundangan yang membincangkan dan menggubal undang-undang negara."
+F5 Chp 3,radio,Sbp_Q26,A,B,C,D,C,SBP/Picture26.png,"中文：国家元首象征团结及主权，在宪政中维护国家稳定，因此II和III正确；不是亲自制定所有法律。
+Bahasa Melayu: Institusi YDPA melambangkan perpaduan dan menjamin kedaulatan dalam sistem Perlembagaan. Maka II dan III tepat."
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,D,Selangor set 1/Picture26.png,"中文：D：联邦宪法规定立法、行政及司法机构的权限，是权力分立的法律来源。
+Bahasa Melayu: D: Perlembagaan Persekutuan menetapkan bidang kuasa badan perundangan, eksekutif dan kehakiman sebagai asas pengasingan kuasa."
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,B,Selangor set 2/Picture26.png,"中文：B：君主保持中立，帮助缓和政党争议，为民主政治提供制衡。
+Bahasa Melayu: B: Raja bersikap berkecuali dan membantu meredakan pertikaian parti politik sebagai mekanisme semak dan imbang."
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,D,Selangor set 3/Picture26.png,"中文：D（III、IV）：任命内阁及接见外国外交官属于国家元首的行政权限；召集国会则涉及立法权限。
+Bahasa Melayu: D (III dan IV): Pelantikan Jemaah Menteri dan menerima menghadap diplomat asing ialah kuasa eksekutif, manakala memanggil Parlimen berkaitan kuasa perundangan."
+F5 Chp 3,radio,Smka_Q26,A,B,C,D,D,SMKA/Picture26.png,"中文：君主保持中立并发挥制衡作用，可缓和政党纷争及维持制度稳定。
+Bahasa Melayu: Raja yang berkecuali memainkan kuasa pengimbang untuk meredakan pertikaian parti politik dan menjaga kestabilan."
+F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,D,Terengganu/Picture26.png,"中文：D（III、IV）：权力分立防止权力集中，而政治合作让不同群体通过民主程序共同治理。
+Bahasa Melayu: D (III dan IV): Pengasingan kuasa mengelakkan pemusatan kuasa, manakala kerjasama politik membolehkan pelbagai kumpulan menyertai pemerintahan demokratik."
+F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,C,Selangor set 1/Picture27.png,"中文：C（II、III）：君主保持中立并帮助缓和争议，发挥民主制度中的平衡作用，而非全面掌握行政。
+Bahasa Melayu: C (II dan III): Raja bersikap berkecuali dan meredakan konflik untuk mengimbangi amalan demokrasi, bukannya berkuasa penuh dalam pentadbiran."

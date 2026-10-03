@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-N9 F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+N9 F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：经济繁荣政策增加收入、就业和基本设施，提升生活水平。
+Bahasa Melayu: Dasar kemakmuran menambah pendapatan, pekerjaan serta kemudahan untuk meningkatkan taraf hidup rakyat."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：人民避免勾结危害国家的外来势力，并加入安全部队，III、IV正确。
+Bahasa Melayu: Rakyat mengelakkan kolaborasi yang mengancam negara dan menganggotai pasukan keselamatan; III dan IV betul."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：联邦政府与公民权、议会民主同属宪法现代特征；君主、语言、宗教是传统特征。
+Bahasa Melayu: Kerajaan Persekutuan, kewarganegaraan dan Demokrasi Berparlimen ialah ciri moden; raja, bahasa dan agama ialah ciri tradisional."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：1965年修宪配合新加坡脱离马来西亚，调整涉及新加坡的联邦条文。
+Bahasa Melayu: Pindaan 1965 menyesuaikan peruntukan persekutuan selepas pemisahan Singapura daripada Malaysia."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：课本列出统治者会议在特定案件充当赦免委员会，并同意特定宪法修改，故III、IV正确。
+Bahasa Melayu: Buku teks menyenaraikan Majlis Raja-Raja sebagai Lembaga Pengampunan bagi kes tertentu dan memperkenankan pindaan tertentu; III dan IV betul."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：立法、行政和司法各有职责，图表体现权力分工及制衡。
+Bahasa Melayu: Perundangan, eksekutif dan kehakiman mempunyai tugas berasingan, menunjukkan pembahagian kuasa dan semak imbang."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：联邦与州法律冲突时，联邦法律优先，州法冲突部分失效。
+Bahasa Melayu: Apabila undang-undang negeri bercanggah dengan persekutuan, undang-undang Parlimen mengatasi dan bahagian bercanggah tidak berkuat kuasa."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：可负担住房计划帮助中等收入群体拥有住宅，减轻购房负担。
+Bahasa Melayu: Program rumah mampu milik membantu golongan pertengahan memiliki kediaman dengan mengurangkan beban pembelian."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：英国支持合并以压制共产主义，并让殖民地区更快实现独立，I、IV正确。
+Bahasa Melayu: British menyokong Malaysia untuk membendung komunis dan mempercepat kemerdekaan wilayah jajahan; I dan IV betul."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：菲律宾提出对Sabah的领土主张，因此反对Sabah加入马来西亚。
+Bahasa Melayu: Filipina menuntut wilayah Sabah, lalu menentang penyertaan Sabah dalam Malaysia."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：PAP平等权利诉求及相关族群政治宣传增加紧张，促成1964年骚乱。
+Bahasa Melayu: Tuntutan persamaan hak oleh PAP dan propaganda kaum meningkatkan ketegangan sehingga menyumbang rusuhan 1964."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：Hat Yai和平协议结束PKM武装斗争，并解散其武装队伍，课本概括为PKM解散。
+Bahasa Melayu: Perjanjian Hat Yai menamatkan perjuangan bersenjata PKM dan membubarkan pasukan bersenjatanya, diringkaskan buku teks sebagai pembubaran PKM."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：DBP出版马来文书籍及举办语言月，扩大国语使用和地位，II、III正确。
+Bahasa Melayu: DBP menerbitkan buku dan mengadakan bulan bahasa untuk memperluas penggunaan serta kedudukan bahasa Melayu; II dan III betul."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：大会强调捍卫联邦宪法并加强国家原则作为民族认同，因此II、III正确。
+Bahasa Melayu: Kongres menegaskan pertahanan Perlembagaan Persekutuan serta pengukuhan Rukun Negara sebagai identiti bangsa; II dan III betul."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：DPN鼓励私人部门参与发展，创造工作机会并帮助减少贫困。
+Bahasa Melayu: DPN melibatkan sektor swasta dalam pembangunan untuk menyediakan pekerjaan dan membantu membasmi kemiskinan."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：经济政策让各族参与城市投资及管理岗位，形成资本家与管理阶层，I、IV正确。
+Bahasa Melayu: Dasar ekonomi memperluas penyertaan kaum dalam pelaburan dan pengurusan bandar, melahirkan pemodal serta pengurus; I dan IV betul."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：外交政策优先保护国家利益，包括主权、安全和经济需求。
+Bahasa Melayu: Dasar luar bertujuan melindungi kepentingan nasional seperti kedaulatan, keselamatan dan ekonomi."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：支持联合国宪章及参与维和任务是马来西亚履行成员责任的表现，I、IV正确。
+Bahasa Melayu: Mendukung Piagam PBB dan menyumbang misi pengaman menunjukkan komitmen Malaysia sebagai anggota; I dan IV betul."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：有关岛屿的主权争议交国际法院裁决，以法律和和平方法解决。
+Bahasa Melayu: Pertikaian kedaulatan pulau dirujuk kepada Mahkamah Antarabangsa untuk penyelesaian undang-undang secara aman."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：政府固定马币汇率以稳定货币和市场，减少金融危机中的投机与波动。
+Bahasa Melayu: Kerajaan menambat kadar ringgit untuk menstabilkan mata wang serta pasaran dan mengurangkan turun naik ketika krisis."

@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Terengganu F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：C：主权国家有权自主进行行政，不受外国政府控制。
+Bahasa Melayu: C: Negara berdaulat mempunyai hak melaksanakan pentadbirannya sendiri tanpa dikawal oleh kerajaan asing."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：Charter of Justice建立司法制度，以保护居民及防止不公平待遇。
+Bahasa Melayu: A: Charter of Justice mewujudkan sistem kehakiman untuk melindungi penduduk dan menghalang ketidakadilan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：B：1963年修宪配合马来西亚成立，增设Borneo高等法院及有关新州制度。
+Bahasa Melayu: B: Pindaan 1963 menyesuaikan sistem kehakiman dengan pembentukan Malaysia, termasuk pembentukan Mahkamah Tinggi Borneo."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：D：统治者会议对重要职位任命提供意见，在国家制度中发挥制衡及保障作用。
+Bahasa Melayu: D: Majlis Raja-Raja memberikan nasihat tentang pelantikan jawatan penting sebagai sebahagian fungsi semak dan imbang."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：D（III、IV）：权力分立防止权力集中，而政治合作让不同群体通过民主程序共同治理。
+Bahasa Melayu: D (III dan IV): Pengasingan kuasa mengelakkan pemusatan kuasa, manakala kerjasama politik membolehkan pelbagai kumpulan menyertai pemerintahan demokratik."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：B：较强的联邦政府能统一处理国防、外交及全国性事务，确保中央治理能力。
+Bahasa Melayu: B: Kuasa Persekutuan yang lebih besar membentuk kerajaan pusat yang kuat untuk mengurus pertahanan, hubungan luar dan kepentingan seluruh negara."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：D：土地是州权限，国防、健康及教育主要属于联邦清单。
+Bahasa Melayu: D: Tanah ialah bidang kuasa negeri, manakala pertahanan, kesihatan dan pelajaran ialah urusan Persekutuan."
+,radio,F5 Bab 5,A,B,C,D,A,Picture29.png,"中文：A：马来西亚构想把安全治理联合起来，使联邦更有效遏制新加坡及砂拉越共产党威胁。
+Bahasa Melayu: A: Gagasan Malaysia membolehkan penyelarasan keselamatan untuk membendung ancaman komunis di Singapura dan Sarawak."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：B：1962年8月成立Jawatankuasa Antara Kerajaan，研究沙巴及砂拉越的权利与宪法保障。
+Bahasa Melayu: B: Jawatankuasa Antara Kerajaan ditubuhkan pada Ogos 1962 untuk memperincikan hak dan jaminan perlembagaan bagi Sabah serta Sarawak."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：C：新加坡与联邦政策的分歧及不遵从中央政策，加剧政治与族群矛盾，使东姑认为分离难以避免。
+Bahasa Melayu: C: Keengganan mematuhi dasar Kerajaan Persekutuan dan pertentangan politik menyebabkan Tunku menganggap pemisahan Singapura tidak dapat dielakkan."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：C（II、III）：Hat Yai协议要求马共解散武装单位并销毁陷阱及武器，以终止武装斗争。
+Bahasa Melayu: C (II dan III): Perjanjian Hat Yai menghendaki PKM membubarkan unit bersenjata dan memusnahkan jerangkap samar untuk menamatkan perjuangan bersenjata."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：A：多科制与技能课程为学生提供不同学习路径，培养适合就业市场的技术人才。
+Bahasa Melayu: A: Sistem aneka jurusan dan kursus kemahiran menyediakan pelbagai laluan pendidikan untuk melahirkan tenaga kerja mahir."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：B（I、IV）：进步社会掌握科学与技术，同时保留精神及道德价值，追求现代化而不忽略信仰。
+Bahasa Melayu: B (I dan IV): Masyarakat progresif menggunakan kemajuan sains dan teknologi sambil mengamalkan nilai ketuhanan serta kerohanian."
+,radio,F5 Bab 8,A,B,C,D,C,Picture35.png,"中文：C：Buku Hijau增加本地食物生产，鼓励种植及相关农业活动。
+Bahasa Melayu: C: Rancangan Buku Hijau menggalakkan pertanian untuk menambahkan pengeluaran dan bekalan makanan tempatan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：D：DPN以均衡发展及缩小经济差距促进团结，最终达到国家整合。
+Bahasa Melayu: D: DPN menggalakkan pembangunan seimbang dan pengurangan jurang ekonomi untuk mengukuhkan perpaduan serta mencapai integrasi nasional."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：B：外交政策须维护主权、安全、经济及其他国家利益，而非侵犯他国主权。
+Bahasa Melayu: B: Dasar luar melindungi kepentingan nasional seperti kedaulatan, keselamatan dan ekonomi, bukan mencampuri kedaulatan negara lain."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：A（I、II）：课本把Congo及Lubnan列为马来西亚派遣维和部队的地点；须区分维和部队任务与军事观察员任务。
+Bahasa Melayu: A (I dan II): Buku teks menyenaraikan Congo dan Lubnan sebagai tempat misi pasukan pengaman Malaysia. Misi pasukan pengaman perlu dibezakan daripada tugas pemerhati tentera."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：A：Colombo计划以教育、训练与发展援助提升生活水平，因此马来西亚参与解决贫穷问题。
+Bahasa Melayu: A: Rancangan Colombo meningkatkan taraf hidup melalui pendidikan, latihan dan bantuan pembangunan untuk menangani kemiskinan."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：D：ASEAN Community重视成员之间整合，包括尊重及承认人权，促进共同社会价值。
+Bahasa Melayu: D: Komuniti ASEAN meningkatkan integrasi negara anggota, termasuk pengiktirafan hak asasi dan nilai bersama masyarakat serantau."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：王室象征是国家的身份标志，如御用器物、nobat和王室颜色，体现独特传统。
+Bahasa Melayu: Lambang kebesaran ialah identiti kerajaan seperti regalia, nobat dan warna diraja yang menunjukkan tradisi tersendiri."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：malim是掌握航路的领航员，须确保航行安全，避免船舶遭遇危险。
+Bahasa Melayu: Malim mengetahui laluan pelayaran dan bertanggungjawab memastikan kapal belayar selamat serta mengelakkan bahaya."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：共同国家忠诚让人民形成民族归属，为建立民族国家奠定基础。
+Bahasa Melayu: Kesetiaan kepada negara membina rasa kebangsaan dan menjadi asas pembentukan negara bangsa."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：光荣革命反对专制君王；美国革命反对英国殖民统治，A配对正确。
+Bahasa Melayu: Revolusi Keagungan menentang raja mutlak, manakala Revolusi Amerika menentang penjajahan British; pasangan A betul."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：Kartini揭露对人民、尤其妇女的压迫，并强调教育可改善女性处境。
+Bahasa Melayu: Kartini mendedahkan penindasan rakyat, khususnya wanita, dan menekankan pendidikan untuk kemajuan mereka."
+,radio,F4 Bab 2,A,B,C,D,B,Picture6.png,"中文：Islah运动倡导宗教与社会改革，鼓励穆斯林接受教育和进步，唤醒民族意识。
+Bahasa Melayu: Gerakan Islah menyeru pembaharuan agama serta masyarakat dan menggalakkan pendidikan serta kemajuan untuk kesedaran nasionalisme."
+,radio,F4 Bab 2,A,B,C,D,B,Picture7.png,"中文：教育培养知识分子，使他们理解殖民不公平并领导改革和反殖民活动。
+Bahasa Melayu: Pendidikan melahirkan cendekiawan yang memahami ketidakadilan penjajahan dan memimpin pembaharuan serta penentangan."
+,radio,F4 Bab 2,A,B,C,D,D,Picture8.png,"中文：Ibu Zain通过Bulan Melayu强调妇女教育和进步，提升女性尊严及社会地位。
+Bahasa Melayu: Ibu Zain melalui Bulan Melayu memperjuangkan pendidikan dan kemajuan untuk mengangkat martabat wanita."
+,radio,F4 Bab 3,A,B,C,D,C,Picture9.png,"中文：Versailles条约限制德国军备；德国后来扩充军队违反这些限制。题中1919指条约年份，并非扩军发生年份。
+Bahasa Melayu: Versailles mengehadkan tentera Jerman; pengukuhan tentera kemudian melanggar syarat itu. Tahun 1919 merujuk tahun perjanjian, bukan tindakan memperkuat tentera."
+,radio,F4 Bab 3,A,B,C,D,A,Picture10.png,"中文：经济制裁限制资源供应，日本以南方扩张取得石油等原料，I、II正确。
+Bahasa Melayu: Sekatan ekonomi menghadkan bekalan dan Jepun meluaskan kuasa ke wilayah selatan untuk minyak serta bahan mentah; I dan II betul."
+,radio,F4 Bab 3,A,B,C,D,D,Picture11.png,"中文：口号把日本描绘成亚洲的保护者，掩饰帝国扩张并争取本地支持，D符合强调形象的课本表述。
+Bahasa Melayu: Slogan menggambarkan Jepun sebagai pembela Asia untuk menyembunyikan imperialisme dan menarik sokongan; D menepati penekanan imej dalam buku teks."
+,radio,F4 Bab 3,A,B,C,D,B,Picture12.png,"中文：Gurchan Singh以Lion of Malaya为化名散发反日传单和宣传资料。
+Bahasa Melayu: Gurchan Singh menggunakan nama Lion of Malaya untuk menyebarkan risalah serta propaganda anti-Jepun."
+,radio,F4 Bab 4,A,B,C,D,C,Picture13.png,"中文：BMA要求缴械并解散抗日游击队MPAJA，以减少战后武装混乱，按题意选C。
+Bahasa Melayu: BMA meminta senjata diserahkan dan membubarkan MPAJA untuk mengurangkan kekacauan bersenjata selepas perang, C."
+,radio,F4 Bab 4,A,B,C,D,A,Picture14.png,"中文：宽松jus soli扩大移民公民权，马来人担忧本地特殊地位及政治优势被削弱。
+Bahasa Melayu: Jus soli yang longgar meluaskan kewarganegaraan imigran dan menimbulkan kebimbangan kedudukan istimewa serta kekuatan politik Melayu terhakis."
+,radio,F4 Bab 5,A,B,C,D,C,Picture15.png,"中文：共同公民身份增加非马来人的国家归属，有助各族合作建立联邦。
+Bahasa Melayu: Kewarganegaraan bukan Melayu meningkatkan rasa kepunyaan dan kerjasama kaum dalam pembinaan persekutuan."
+,radio,F4 Bab 6,A,B,C,D,A,Picture16.png,"中文：宵禁限制居民和共产党行动、切断接触及供应，让安全部队更易执行任务。
+Bahasa Melayu: Perintah berkurung mengawal pergerakan serta hubungan dan bekalan komunis, memudahkan operasi keselamatan."
+,radio,F4 Bab 7,A,B,C,D,D,Picture17.png,"中文：Sistem Ahli纳入多族代表共同处理行政，培养互信与团结。
+Bahasa Melayu: Keanggotaan pelbagai kaum dalam Sistem Ahli membina kepercayaan dan perpaduan melalui pentadbiran bersama."
+,radio,F4 Bab 8,A,B,C,D,D,Picture18.png,"中文：1955年选举后成立内阁，以部长负责制取代Sistem Ahli。
+Bahasa Melayu: Selepas pilihan raya 1955, kabinet dibentuk dan Sistem Ahli digantikan dengan pentadbiran kementerian."
+,radio,F4 Bab 9,A,B,C,D,B,Picture19.png,"中文：Tunku在Banda Hilir宣布独立日期，让人民得知伦敦谈判成果。
+Bahasa Melayu: Tunku mengumumkan tarikh kemerdekaan di Banda Hilir untuk memaklumkan hasil rundingan London kepada rakyat."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：独立政府须逐步由本地人接替欧洲官员，建立具备能力的本地行政与专业队伍。
+Bahasa Melayu: Kerajaan merdeka perlu menggantikan pegawai Eropah secara berperingkat dengan rakyat tempatan dalam pentadbiran dan bidang profesional."

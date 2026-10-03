@@ -1,42 +1,83 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 7,radio,Perak_Q32,A,B,C,D,D,Perak/Picture32.png
-F5 Chp 7,radio,JohorBahru_Q33,A,B,C,D,A,Johor Bahru/Picture33.png
-F5 Chp 7,radio,Kedah_Q33,A,B,C,D,B,Kedah/Picture33.png
-F5 Chp 7,radio,Kelantan_Q33,A,B,C,D,A,Kelantan/Picture33.png
-F5 Chp 7,radio,KlSentul_Q33,A,B,C,D,B,KL Sentul/Picture33.png
-F5 Chp 7,radio,Melaka_Q33,A,B,C,D,B,Melaka/Picture33.png
-F5 Chp 7,radio,Mrsm_Q33,A,B,C,D,C,MRSM/Picture33.png
-F5 Chp 7,radio,N_Q33,A,B,C,D,C,N9/Picture33.png
-F5 Chp 7,radio,Pahang_Q33,A,B,C,D,B,Pahang/Picture33.png
-F5 Chp 7,radio,Penang_Q33,A,B,C,D,B,Penang/Picture33.png
-F5 Chp 7,radio,Perak_Q33,A,B,C,D,A,Perak/Picture33.png
-F5 Chp 7,radio,Perlis_Q33,A,B,C,D,B,Perlis/Picture33.png
-F5 Chp 7,radio,PutrajayaSet_Q33,A,B,C,D,A,Putrajaya set 1/Picture33.png
-F5 Chp 7,radio,PutrajayaSet_Q33,A,B,C,D,C,Putrajaya set 2/Picture33.png
-F5 Chp 7,radio,SarawakSerian_Q33,A,B,C,D,C,Sarawak Serian/Picture33.png
-F5 Chp 7,radio,Sbp_Q33,A,B,C,D,D,SBP/Picture33.png
-F5 Chp 7,radio,SelangorSet_Q33,A,B,C,D,D,Selangor set 1/Picture33.png
-F5 Chp 7,radio,SelangorSet_Q33,A,B,C,D,A,Selangor set 2/Picture33.png
-F5 Chp 7,radio,SelangorSet_Q33,A,B,C,D,A,Selangor set 3/Picture33.png
-F5 Chp 7,radio,Smka_Q33,A,B,C,D,A,SMKA/Picture33.png
-F5 Chp 7,radio,Terengganu_Q33,A,B,C,D,A,Terengganu/Picture33.png
-F5 Chp 7,radio,JohorBahru_Q34,A,B,C,D,C,Johor Bahru/Picture34.png
-F5 Chp 7,radio,Kedah_Q34,A,B,C,D,A,Kedah/Picture34.png
-F5 Chp 7,radio,Kelantan_Q34,A,B,C,D,B,Kelantan/Picture34.png
-F5 Chp 7,radio,KlSentul_Q34,A,B,C,D,A,KL Sentul/Picture34.png
-F5 Chp 7,radio,Melaka_Q34,A,B,C,D,A,Melaka/Picture34.png
-F5 Chp 7,radio,Mrsm_Q34,A,B,C,D,B,MRSM/Picture34.png
-F5 Chp 7,radio,N_Q34,A,B,C,D,C,N9/Picture34.png
-F5 Chp 7,radio,Pahang_Q34,A,B,C,D,C,Pahang/Picture34.png
-F5 Chp 7,radio,Penang_Q34,A,B,C,D,B,Penang/Picture34.png
-F5 Chp 7,radio,Perlis_Q34,A,B,C,D,B,Perlis/Picture34.png
-F5 Chp 7,radio,PutrajayaSet_Q34,A,B,C,D,B,Putrajaya set 1/Picture34.png
-F5 Chp 7,radio,PutrajayaSet_Q34,A,B,C,D,B,Putrajaya set 2/Picture34.png
-F5 Chp 7,radio,SarawakSerian_Q34,A,B,C,D,B,Sarawak Serian/Picture34.png
-F5 Chp 7,radio,Sbp_Q34,A,B,C,D,D,SBP/Picture34.png
-F5 Chp 7,radio,SelangorSet_Q34,A,B,C,D,A,Selangor set 1/Picture34.png
-F5 Chp 7,radio,SelangorSet_Q34,A,B,C,D,C,Selangor set 2/Picture34.png
-F5 Chp 7,radio,SelangorSet_Q34,A,B,C,D,C,Selangor set 3/Picture34.png
-F5 Chp 7,radio,Smka_Q34,A,B,C,D,B,SMKA/Picture34.png
-F5 Chp 7,radio,Terengganu_Q34,A,B,C,D,B,Terengganu/Picture34.png
-F5 Chp 7,radio,Mrsm_Q35,A,B,C,D,A,MRSM/Picture35.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 7,radio,Perak_Q32,A,B,C,D,D,Perak/Picture32.png,"中文：报告推动FPN及KBSM，即II、III应选C。原key D包括较后实施的KSSR，非报告直接成果，保留原答案并注明疑点。
+Bahasa Melayu: Laporan menghasilkan FPN dan KBSM, iaitu II-III, C. Key asal D memasukkan KSSR yang dilaksanakan jauh kemudian, bukan hasil langsung laporan; jawapan dikekalkan dengan perbezaan dicatat."
+F5 Chp 7,radio,JohorBahru_Q33,A,B,C,D,A,Johor Bahru/Picture33.png,"中文：国家教育政策培养有知识、身心平衡及和谐的人民，以满足发展需求并促进社会团结。题目描述教育体系，因此选A。
+Bahasa Melayu: Dasar Pendidikan Kebangsaan membentuk rakyat berilmu, seimbang dan harmonis serta memenuhi keperluan pembangunan negara. Oleh itu, A tepat."
+F5 Chp 7,radio,Kedah_Q33,A,B,C,D,B,Kedah/Picture33.png,"中文：B（I、IV）：Sekolah Alam Shah及马来语教学媒介扩大马来语在教育中的使用。
+Bahasa Melayu: B (I dan IV): Sekolah Alam Shah dan bahasa Melayu sebagai bahasa pengantar memperkukuh penggunaan bahasa kebangsaan dalam pendidikan."
+F5 Chp 7,radio,Kelantan_Q33,A,B,C,D,A,Kelantan/Picture33.png,"中文：A：Feri Malaysia把半岛与沙巴、砂拉越联系起来，增加人民交流，促进国家整合。
+Bahasa Melayu: A: Feri Malaysia menghubungkan Semenanjung dengan Sabah serta Sarawak untuk menggalakkan hubungan dan integrasi penduduk."
+F5 Chp 7,radio,KlSentul_Q33,A,B,C,D,B,KL Sentul/Picture33.png,"中文：Razak及Rahman Talib报告通过共同教学语言、课程及教育制度，促进各族交流与国家认同。其主要焦点是族群团结，选B。
+Bahasa Melayu: Laporan Razak dan Rahman Talib membentuk sistem pendidikan bersama melalui bahasa, sukatan dan dasar untuk menyatukan rakyat. Oleh itu, tumpuan utamanya ialah perpaduan kaum, iaitu B."
+F5 Chp 7,radio,Melaka_Q33,A,B,C,D,B,Melaka/Picture33.png,"中文：历史教育和Tatarakyat培养爱国、共同认同及公民责任，所以I、IV正确。
+Bahasa Melayu: Sejarah dan Tatarakyat memupuk patriotisme, identiti bersama serta tanggungjawab warganegara; I dan IV betul."
+F5 Chp 7,radio,Mrsm_Q33,A,B,C,D,C,MRSM/Picture33.png,"中文：C（II、III）：UKM通过马来语高等教育巩固国语地位，ATMA研究马来世界、文明及文化。
+Bahasa Melayu: C (II dan III): UKM memartabatkan bahasa Melayu dalam pendidikan tinggi, manakala ATMA mengembangkan pengajian alam dan tamadun Melayu."
+F5 Chp 7,radio,N_Q33,A,B,C,D,C,N9/Picture33.png,"中文：DBP出版马来文书籍及举办语言月，扩大国语使用和地位，II、III正确。
+Bahasa Melayu: DBP menerbitkan buku dan mengadakan bulan bahasa untuk memperluas penggunaan serta kedudukan bahasa Melayu; II dan III betul."
+F5 Chp 7,radio,Pahang_Q33,A,B,C,D,B,Pahang/Picture33.png,"中文：全国整合把不同州、族群及地区人民联系为共同国家民族，同时保留适当文化差异。
+Bahasa Melayu: Integrasi nasional menyatukan rakyat pelbagai negeri, kaum dan wilayah sebagai satu bangsa tanpa menghapuskan semua perbezaan budaya."
+F5 Chp 7,radio,Penang_Q33,A,B,C,D,B,Penang/Picture33.png,"中文：共同课程让不同族群学生获得一致的知识和价值，加强团结。
+Bahasa Melayu: Kurikulum sama memberikan pengetahuan dan nilai bersama kepada murid pelbagai kaum untuk perpaduan."
+F5 Chp 7,radio,Perak_Q33,A,B,C,D,A,Perak/Picture33.png,"中文：马来区域原住民文化为核心、适当其他文化及伊斯兰，是国家文化政策三原则。
+Bahasa Melayu: Budaya rakyat asal rantau Melayu, unsur lain sesuai dan Islam ialah tiga prinsip Dasar Kebudayaan Kebangsaan."
+F5 Chp 7,radio,Perlis_Q33,A,B,C,D,B,Perlis/Picture33.png,"中文：团结让不同族群在共同国家认同下合作，而不是以狭隘州属意识区分彼此。
+Bahasa Melayu: Perpaduan menghubungkan rakyat pelbagai kaum berasaskan identiti kebangsaan bersama, bukan semangat kenegerian yang memisahkan mereka."
+F5 Chp 7,radio,PutrajayaSet_Q33,A,B,C,D,A,Putrajaya set 1/Picture33.png,"中文：DBP发展词汇、出版与语言使用，提升国语马来语的地位。
+Bahasa Melayu: DBP mengembangkan istilah, penerbitan dan penggunaan bahasa untuk memartabatkan bahasa Melayu."
+F5 Chp 7,radio,PutrajayaSet_Q33,A,B,C,D,C,Putrajaya set 2/Picture33.png,"中文：设立国大并在教育中使用马来语提升国语的学术及社会地位，因此II和III正确。
+Bahasa Melayu: Penubuhan UKM dan penggunaan bahasa Melayu dalam pendidikan mengangkat kedudukan bahasa kebangsaan. Maka II dan III tepat."
+F5 Chp 7,radio,SarawakSerian_Q33,A,B,C,D,C,Sarawak Serian/Picture33.png,"中文：C：Feri Malaysia联系半岛与东马，促进人员交流与国家整合。
+Bahasa Melayu: C: Feri Malaysia menghubungkan Semenanjung dengan Sabah serta Sarawak untuk menggalakkan perhubungan dan integrasi nasional."
+F5 Chp 7,radio,Sbp_Q33,A,B,C,D,D,SBP/Picture33.png,"中文：UKM以国语发展高等教育，提升马来语学术地位并建立共同国家认同。
+Bahasa Melayu: UKM memperkasakan bahasa Melayu dalam pendidikan tinggi dan membina identiti kebangsaan bersama."
+F5 Chp 7,radio,SelangorSet_Q33,A,B,C,D,D,Selangor set 1/Picture33.png,"中文：D：这些教育政策建立共同价值和国家认同，培养有责任感及爱国的人民。
+Bahasa Melayu: D: Dasar pendidikan tersebut membina nilai bersama dan identiti kebangsaan untuk melahirkan rakyat yang bertanggungjawab serta patriotik."
+F5 Chp 7,radio,SelangorSet_Q33,A,B,C,D,A,Selangor set 2/Picture33.png,"中文：A：国语法确立马来语在官方事务中的使用，巩固其官方语言地位。
+Bahasa Melayu: A: Akta Bahasa Kebangsaan menetapkan penggunaan bahasa Melayu dalam urusan rasmi dan memartabatkan kedudukannya."
+F5 Chp 7,radio,SelangorSet_Q33,A,B,C,D,A,Selangor set 3/Picture33.png,"中文：A：1979年内阁委员会报告推动KBSR及KBSM的课程改革，改善国家教育。
+Bahasa Melayu: A: Laporan Jawatankuasa Kabinet 1979 menjadi asas pembaharuan kurikulum KBSR dan KBSM untuk memperbaik pendidikan negara."
+F5 Chp 7,radio,Smka_Q33,A,B,C,D,A,SMKA/Picture33.png,"中文：国家文化政策以本区域原有文化为基础，并把伊斯兰列为重要元素，所以I和II正确；其他文化须按适合与否吸收，非无条件全收。
+Bahasa Melayu: Dasar Kebudayaan Kebangsaan berteraskan budaya rakyat asal rantau ini dan Islam sebagai unsur penting. Maka I dan II tepat; unsur lain diterima jika sesuai."
+F5 Chp 7,radio,Terengganu_Q33,A,B,C,D,A,Terengganu/Picture33.png,"中文：A：多科制与技能课程为学生提供不同学习路径，培养适合就业市场的技术人才。
+Bahasa Melayu: A: Sistem aneka jurusan dan kursus kemahiran menyediakan pelbagai laluan pendidikan untuk melahirkan tenaga kerja mahir."
+F5 Chp 7,radio,JohorBahru_Q34,A,B,C,D,C,Johor Bahru/Picture34.png,"中文：Citrawarna展示马来西亚多元文化和艺术，吸引游客认识国家特色。因此题目问活动推广目的时，旅游宣传C可成立，同时也有塑造国家文化认同的作用。
+Bahasa Melayu: Citrawarna mempamerkan kepelbagaian budaya dan seni Malaysia untuk menarik pelancong. Oleh itu, C sesuai sebagai tujuan promosi, di samping peranannya membina identiti budaya kebangsaan."
+F5 Chp 7,radio,Kedah_Q34,A,B,C,D,A,Kedah/Picture34.png,"中文：A：“Malaysia Boleh”表达对国家运动员的支持和国家自豪感，体现爱国精神。
+Bahasa Melayu: A: Laungan Malaysia Boleh menunjukkan sokongan kepada atlet negara dan kebanggaan terhadap Malaysia sebagai nilai patriotisme."
+F5 Chp 7,radio,Kelantan_Q34,A,B,C,D,B,Kelantan/Picture34.png,"中文：B（I、IV）：实践Rukun Negara培养相互尊重和共同价值，有助和谐及人民福祉。
+Bahasa Melayu: B (I dan IV): Penghayatan Rukun Negara memupuk nilai bersama dan saling menghormati untuk meningkatkan keharmonian serta kesejahteraan rakyat."
+F5 Chp 7,radio,KlSentul_Q34,A,B,C,D,A,KL Sentul/Picture34.png,"中文：尊重国旗、国歌和国家象征，是表达对君主与国家的忠诚。因此对应Rukun Negara的第二原则，选A。
+Bahasa Melayu: Menghormati simbol dan lambang negara menunjukkan kesetiaan kepada institusi raja serta negara. Prinsip tersebut ialah Kesetiaan kepada Raja dan Negara, maka A tepat."
+F5 Chp 7,radio,Melaka_Q34,A,B,C,D,A,Melaka/Picture34.png,"中文：SUKMA促进跨族、跨州交流，让体育成为全国整合的平台。
+Bahasa Melayu: SUKMA menggalakkan interaksi antara kaum dan negeri, menjadikan sukan wadah integrasi nasional."
+F5 Chp 7,radio,Mrsm_Q34,A,B,C,D,B,MRSM/Picture34.png,"中文：B：国家文化政策以共同文化基础促进理解，巩固各族及地区的国家整合。
+Bahasa Melayu: B: Dasar Kebudayaan Kebangsaan membina asas budaya bersama untuk memperkukuh perpaduan dan integrasi nasional."
+F5 Chp 7,radio,N_Q34,A,B,C,D,C,N9/Picture34.png,"中文：大会强调捍卫联邦宪法并加强国家原则作为民族认同，因此II、III正确。
+Bahasa Melayu: Kongres menegaskan pertahanan Perlembagaan Persekutuan serta pengukuhan Rukun Negara sebagai identiti bangsa; II dan III betul."
+F5 Chp 7,radio,Pahang_Q34,A,B,C,D,C,Pahang/Picture34.png,"中文：UKM以马来语开展高等教育和研究，提升国语作为知识语言的地位。
+Bahasa Melayu: UKM menggunakan bahasa Melayu dalam pengajian tinggi dan penyelidikan untuk memartabatkannya sebagai bahasa ilmu."
+F5 Chp 7,radio,Penang_Q34,A,B,C,D,B,Penang/Picture34.png,"中文：国家原则在族群冲突后提供共同价值与忠诚基础，巩固人民团结。
+Bahasa Melayu: Rukun Negara menyediakan nilai dan kesetiaan bersama selepas konflik kaum untuk mengukuhkan perpaduan rakyat."
+F5 Chp 7,radio,Perlis_Q34,A,B,C,D,B,Perlis/Picture34.png,"中文：国家教育政策培养熟练人力并团结各族人民，故I和IV正确；不是以增加分流为主要目标。
+Bahasa Melayu: Dasar Pendidikan Kebangsaan menyediakan tenaga kerja mahir dan menyatukan rakyat pelbagai kaum. Maka I dan IV tepat."
+F5 Chp 7,radio,PutrajayaSet_Q34,A,B,C,D,B,Putrajaya set 1/Picture34.png,"中文：共同运动与支持国家队让不同族群建立团队精神及友谊，而不是鼓励族群对立。
+Bahasa Melayu: Sukan membina semangat setiakawan dan kerjasama antara kaum melalui penyertaan serta sokongan bersama."
+F5 Chp 7,radio,PutrajayaSet_Q34,A,B,C,D,B,Putrajaya set 2/Picture34.png,"中文：国家原则是建立共同价值及团结的国家意识形态；国花、国旗与体育场是象征或设施。
+Bahasa Melayu: Rukun Negara ialah ideologi kebangsaan untuk membina nilai bersama dan perpaduan, berbeza daripada lambang atau bangunan."
+F5 Chp 7,radio,SarawakSerian_Q34,A,B,C,D,B,Sarawak Serian/Picture34.png,"中文：B：DBP发展语言与出版，UKM以马来语推动高等教育，两者都强化马来语地位。
+Bahasa Melayu: B: DBP memajukan bahasa serta penerbitan, manakala UKM menggunakan bahasa Melayu dalam pendidikan tinggi untuk memperkasakan bahasa kebangsaan."
+F5 Chp 7,radio,Sbp_Q34,A,B,C,D,D,SBP/Picture34.png,"中文：信仰上苍引导道德责任与良好品格，因此这一原则有助塑造良好人格。
+Bahasa Melayu: Kepercayaan kepada Tuhan membimbing nilai moral dan tanggungjawab untuk membentuk keperibadian baik."
+F5 Chp 7,radio,SelangorSet_Q34,A,B,C,D,A,Selangor set 1/Picture34.png,"中文：A：DBP通过词汇、出版及语言发展工作，提高国语地位及使用范围。
+Bahasa Melayu: A: DBP memartabatkan bahasa kebangsaan melalui pengembangan bahasa, istilah dan penerbitan."
+F5 Chp 7,radio,SelangorSet_Q34,A,B,C,D,C,Selangor set 2/Picture34.png,"中文：C：大学体育让不同州及背景的学生交流合作，促进地区整合和团结。
+Bahasa Melayu: C: Sukan universiti mempertemukan pelajar pelbagai negeri untuk bekerjasama, lalu menggalakkan integrasi antara negeri."
+F5 Chp 7,radio,SelangorSet_Q34,A,B,C,D,C,Selangor set 3/Picture34.png,"中文：C（II、III）：Rukun Negara涵盖宗教和文化等社会生活价值，指导人民共同生活。
+Bahasa Melayu: C (II dan III): Rukun Negara merangkumi norma sosial seperti agama dan budaya untuk membimbing kehidupan bernegara."
+F5 Chp 7,radio,Smka_Q34,A,B,C,D,B,SMKA/Picture34.png,"中文：共同遵守国家原则促进和谐及人民福祉，因此I和IV正确，不是强化分隔性的州属意识。
+Bahasa Melayu: Penghayatan Rukun Negara memupuk keharmonian dan kesejahteraan rakyat. Maka I dan IV tepat, bukan semangat kenegerian yang memisahkan."
+F5 Chp 7,radio,Terengganu_Q34,A,B,C,D,B,Terengganu/Picture34.png,"中文：B（I、IV）：进步社会掌握科学与技术，同时保留精神及道德价值，追求现代化而不忽略信仰。
+Bahasa Melayu: B (I dan IV): Masyarakat progresif menggunakan kemajuan sains dan teknologi sambil mengamalkan nilai ketuhanan serta kerohanian."
+F5 Chp 7,radio,Mrsm_Q35,A,B,C,D,A,MRSM/Picture35.png,"中文：A：Rukun Negara目标包括团结国家、民主、公平、自由宽容及进步社会，因此X是公平社会。
+Bahasa Melayu: A: Matlamat Rukun Negara merangkumi negara bersatu serta masyarakat demokratik, adil, liberal dan progresif; maka X ialah masyarakat adil."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor set 1 F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor set 1 F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：D：Ibnu Khaldun把主权与国家力量及权威相连，体现国家统治能力。
+Bahasa Melayu: D: Ibnu Khaldun mentafsir kedaulatan sebagai kekuatan dan kekuasaan sesebuah negara."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：A：边界是国家之间的分隔线，可确定治理、国防及经济活动的范围。
+Bahasa Melayu: A: Sempadan ialah garis pemisah antara negara dan menentukan ruang pentadbiran, pertahanan serta kegiatan negara."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：B：Charter of Justice建立司法机制，保护本地居民免受压迫。
+Bahasa Melayu: B: Charter of Justice menyediakan sistem kehakiman untuk melindungi penduduk asal dan mengelakkan penindasan."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：A：新加坡于1965年退出马来西亚，宪法需修改与其相关的条文。
+Bahasa Melayu: A: Pemisahan Singapura daripada Malaysia pada 1965 memerlukan pindaan peruntukan perlembagaan yang berkaitan dengannya."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：D：非联邦马来州仍由统治者及本地大臣进行州行政，因此王权地位较稳固。
+Bahasa Melayu: D: Pentadbiran negeri dalam Negeri-negeri Melayu Tidak Bersekutu masih dijalankan oleh raja dan pembesar tempatan, lalu mengukuhkan kedudukan raja."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：D：联邦宪法规定立法、行政及司法机构的权限，是权力分立的法律来源。
+Bahasa Melayu: D: Perlembagaan Persekutuan menetapkan bidang kuasa badan perundangan, eksekutif dan kehakiman sebagai asas pengasingan kuasa."
+,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：C（II、III）：君主保持中立并帮助缓和争议，发挥民主制度中的平衡作用，而非全面掌握行政。
+Bahasa Melayu: C (II dan III): Raja bersikap berkecuali dan meredakan konflik untuk mengimbangi amalan demokrasi, bukannya berkuasa penuh dalam pentadbiran."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：A（I、II）：土地及林业属于州清单；公民身份及外交属于联邦事务。
+Bahasa Melayu: A (I dan II): Tanah dan perhutanan ialah perkara dalam Senarai Negeri, manakala kewarganegaraan dan hal ehwal luar ialah urusan Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture29.png,"中文：D：独立初期成立地方政府与房屋部，负责协调房屋及相关发展事务。
+Bahasa Melayu: D: Kementerian Kerajaan Tempatan dan Perumahan ditubuhkan pada awal kemerdekaan untuk mengurus serta menyelaraskan masalah perumahan."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：A：Sarawak Alliance及Sabah Alliance由支持成立马来西亚的政党合作组成。
+Bahasa Melayu: A: Sarawak Alliance dan Sabah Alliance ialah gabungan parti yang menyokong pembentukan Malaysia."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：B：1966年砂拉越危机涉及Stephen Kalong Ningkan的首席部长地位、撤职与州议会支持问题。
+Bahasa Melayu: B: Krisis Sarawak 1966 melibatkan kepimpinan Stephen Kalong Ningkan sebagai Ketua Menteri, pemecatan dan sokongan Council Negri."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：C：COIN结合安全行动与发展计划，争取人民支持并遏制共产党叛乱。
+Bahasa Melayu: C: Strategi COIN menggabungkan tindakan keselamatan dengan pembangunan untuk memperoleh sokongan rakyat dan mengatasi ancaman komunis."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：D：这些教育政策建立共同价值和国家认同，培养有责任感及爱国的人民。
+Bahasa Melayu: D: Dasar pendidikan tersebut membina nilai bersama dan identiti kebangsaan untuk melahirkan rakyat yang bertanggungjawab serta patriotik."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：A：DBP通过词汇、出版及语言发展工作，提高国语地位及使用范围。
+Bahasa Melayu: A: DBP memartabatkan bahasa kebangsaan melalui pengembangan bahasa, istilah dan penerbitan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：D：Buku Hijau鼓励粮食种植与生产，增加本地食品供应。
+Bahasa Melayu: D: Rancangan Buku Hijau menggalakkan kegiatan pertanian untuk menambahkan pengeluaran serta bekalan makanan tempatan."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：B：智慧农业以研究和技术提高农业产量，改善较落后地区的收入与发展。
+Bahasa Melayu: B: Pertanian pintar menggunakan penyelidikan dan teknologi untuk meningkatkan hasil pertanian serta membantu memperbaiki pembangunan wilayah kurang maju."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：C：Apartheid实行种族隔离与歧视，违背人权原则，所以马来西亚反对。
+Bahasa Melayu: C: Apartheid mengamalkan pemisahan dan diskriminasi kaum yang mencabul hak asasi manusia, maka Malaysia menentangnya."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：D：MAPHILINDO提供三国协商平台，处理菲律宾及印尼对成立马来西亚的疑虑与争议。
+Bahasa Melayu: D: MAPHILINDO menyediakan rundingan antara tiga negara untuk menyelesaikan pertikaian berkaitan pembentukan Malaysia."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：A：马来西亚建议取消否决权，避免少数强国阻止集体维护和平的决议。
+Bahasa Melayu: A: Malaysia mencadangkan pemansuhan kuasa veto supaya keputusan menjaga keamanan tidak disekat oleh beberapa kuasa besar."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：C：东南亚无核武器区限制核武器威胁，有助确保区域安全及稳定。
+Bahasa Melayu: C: Zon Bebas Senjata Nuklear Asia Tenggara mengurangkan ancaman nuklear untuk menjamin keselamatan dan kestabilan serantau."

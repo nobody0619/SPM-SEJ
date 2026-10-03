@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Kedah 2024,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kedah 2024,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：A：Majapahit法律规范人民行为和行政事务，以维护社会秩序及国家福祉。
+Bahasa Melayu: A: Undang-undang Majapahit mengatur kehidupan dan pentadbiran untuk menjamin ketenteraman serta kesejahteraan kerajaan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：C：两部法律都列明罪行与刑罚；家庭法规及王室大臣职责并非海事法的共同重点。
+Bahasa Melayu: C: Kedua-dua undang-undang menerangkan kesalahan jenayah dan hukumannya, walaupun bidang lain yang diaturnya berbeza."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：B：Jose Rizal成立Liga Filipina推动改革，争取菲律宾成为西班牙领土的一部分并享有权利。
+Bahasa Melayu: B: Jose Rizal menubuhkan Liga Filipina untuk memperjuangkan pembaharuan dan tuntutan Filipina menjadi sebahagian wilayah Sepanyol."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：C：泰国采用西方行政改革，提高治理能力以应对列强压力，维护国家独立。
+Bahasa Melayu: C: Pemodenan birokrasi meningkatkan keupayaan Thailand menghadapi tekanan kuasa Barat dan mengekalkan kedaulatan negara."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：军事联盟使一个冲突牵动多个国家，扩大为第一次世界大战；国联失败属于第二次大战背景。
+Bahasa Melayu: C: Pakatan ketenteraan menyebabkan konflik melibatkan banyak negara sehingga tercetus Perang Dunia Pertama. Kegagalan Liga Bangsa-Bangsa berkaitan perang kemudian."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：D：日据经验显示欧洲殖民者并非不可战胜，并推动当地人反殖民及争取自主的精神。
+Bahasa Melayu: D: Pendudukan Jepun menunjukkan kuasa Barat boleh dikalahkan dan mengembangkan semangat antipenjajah dalam kalangan penduduk tempatan."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：D：英国总督领导、采用jus soli公民原则，是1946年Malayan Union的特点。
+Bahasa Melayu: D: Pentadbiran oleh Gabenor British dan kewarganegaraan melalui jus soli ialah ciri Malayan Union 1946."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：A（I、II）：战后修复缺乏资金及王位继承困难，促使Vyner Brooke移交砂拉越。
+Bahasa Melayu: A (I dan II): Kekurangan kewangan selepas perang dan masalah pewarisan takhta mendorong Vyner Brooke menyerahkan Sarawak."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：D：工作委员会负责拟定取代Malayan Union的联合邦协议内容，而恢复王权等属于其具体建议。
+Bahasa Melayu: D: Jawatankuasa Kerja merangka isi Perjanjian Persekutuan Tanah Melayu; pemulihan kuasa raja ialah antara cadangannya."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：B（I、IV）：1948年协议开启族群政治合作，并保障马来人的特殊地位。
+Bahasa Melayu: B (I dan IV): Perjanjian 1948 memulakan asas kerjasama kaum dan melindungi kedudukan istimewa orang Melayu."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：A：Templer以心理战措施争取合作，包括针对Tanjung Malim施加限制及收集信息，以取得共产党情报。
+Bahasa Melayu: A: Templer menggunakan Perang Saraf, termasuk tekanan serta usaha mendapatkan maklumat di Tanjung Malim, untuk memperoleh kerjasama penduduk."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：B：英国为争取人民支持而加快自治及独立进程，这属于紧急状态的政治影响。
+Bahasa Melayu: B: British mempercepat proses pemerintahan sendiri dan kemerdekaan untuk memperoleh sokongan rakyat, sebagai kesan politik Darurat."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：D：Sistem Ahli让本地人领导部门，培养治理经验，为接掌政府作准备。
+Bahasa Melayu: D: Sistem Ahli memberi pemimpin tempatan peluang menerajui portfolio dan memperoleh pengalaman untuk mentadbir kerajaan sendiri."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：D：英殖民时期各语文学校采用不同课程及教学媒介，缺少共同的教育基础。
+Bahasa Melayu: D: Sekolah pelbagai aliran pada zaman British menggunakan kurikulum dan bahasa pengantar berlainan, menyebabkan pendidikan tidak seragam."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B（I、IV）：1955年候选人须年满21岁及为联邦公民；不必是政党领袖。
+Bahasa Melayu: B (I dan IV): Calon 1955 perlu berumur 21 tahun ke atas dan menjadi warganegara Persekutuan; tidak semestinya pemimpin parti politik."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：首届内阁让本地部长承担更多职责，逐步减少英国官员在行政中的权力。
+Bahasa Melayu: B: Kabinet pertama membolehkan pemimpin tempatan memegang tanggungjawab dan mengurangkan kuasa pentadbiran British secara beransur-ansur."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：A：1956年2月东姑在马六甲宣布1957年8月31日为独立日期，带回伦敦谈判成果。
+Bahasa Melayu: A: Tunku mengumumkan tarikh kemerdekaan 31 Ogos 1957 di Melaka selepas membawa pulang hasil rundingan London."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C：制宪委员会参考条款包括建立共同公民身份，作为独立国家人民组成的基础。
+Bahasa Melayu: C: Terma rujukan suruhanjaya merangkumi pembentukan satu bentuk kewarganegaraan sebagai asas rakyat negara merdeka."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：B：实体准备委员会建设体育场等设施；庆典委员会安排礼宾课程，让官员接待正式嘉宾。
+Bahasa Melayu: B: Jawatankuasa fizikal menyediakan kemudahan seperti stadium, manakala jawatankuasa sambutan menganjurkan kursus protokol untuk pegawai."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B：Buku Merah记录发展项目，供各地监督基本设施计划的进度与落实。
+Bahasa Melayu: B: Buku Merah menjadi panduan merekod dan memantau perkembangan projek serta kemudahan asas di seluruh negara."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：C：现代主权与现代民族国家、人民权利及宪政政府发展相连，区别于以王权为中心的传统主权。
+Bahasa Melayu: C: Kedaulatan moden berkaitan perkembangan negara bangsa, hak rakyat dan kerajaan berperlembagaan, berbeza daripada kuasa raja dalam kedaulatan tradisional."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：C：自主统治权让国家制定并落实符合本国需要的制度，形成有效行政。
+Bahasa Melayu: C: Kedaulatan membolehkan negara menentukan serta melaksanakan sistem sendiri untuk mewujudkan pentadbiran berkesan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：B（I、IV）：君主制度及马来语地位延续传统；议会民主及共同公民身份属于现代特征。
+Bahasa Melayu: B (I dan IV): Pemerintahan beraja dan kedudukan bahasa Melayu ialah ciri tradisional, manakala demokrasi serta kewarganegaraan bersama ialah ciri moden."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：D：1963年多个地区联合成立马来西亚，宪法须调整以纳入新州及新制度。
+Bahasa Melayu: D: Penggabungan wilayah membentuk Malaysia pada 1963 memerlukan pindaan perlembagaan bagi negeri serta susunan baharu."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：C：马来统治者的主权及州制度限制英国直接扩权，英国须通过协议逐步介入。
+Bahasa Melayu: C: Kedudukan dan kedaulatan Raja-raja Melayu menjadi halangan kepada perluasan kuasa British secara langsung."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：C（II、III）：任命首相及担任军队最高统帅属于国家元首行政权限。
+Bahasa Melayu: C (II dan III): Pelantikan Perdana Menteri dan kedudukan sebagai pemerintah tertinggi angkatan tentera ialah bidang kuasa eksekutif Yang di-Pertuan Agong."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：D：地方当局负责道路维护、美化环境及当地公共服务，包括房屋相关事务。
+Bahasa Melayu: D: Pihak Berkuasa Tempatan menyenggara jalan, mengindahkan kawasan dan menyediakan perkhidmatan awam setempat."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：C：这些委员会协调联邦与州在财政、土地及水资源方面的工作，强化联邦制度。
+Bahasa Melayu: C: Majlis tersebut menyelaraskan urusan kewangan, tanah dan air antara Persekutuan dengan negeri untuk mengukuhkan sistem Persekutuan."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：C：JSKM解释马来西亚构想、收集意见并促进讨论，让人民了解联合计划。
+Bahasa Melayu: C: JSKM menyebarkan maklumat tentang rancangan Malaysia, mengumpulkan pandangan dan menyediakan perbincangan untuk mencapai persefahaman."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：B（I、IV）：协议给予沙巴成立州内阁的权利，并原订1963年8月31日成立马来西亚；实际宣布后来改为9月16日。
+Bahasa Melayu: B (I dan IV): Perjanjian memberikan hak kabinet negeri kepada Sabah dan menetapkan tarikh asal 31 Ogos 1963; pengisytiharan sebenar kemudian dibuat pada 16 September."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：C（II、III）：平等权利的政治争议及共同市场的经济分歧加剧中央与新加坡之间的矛盾。
+Bahasa Melayu: C (II dan III): Pertentangan tentang hak sama rata dan pembukaan pasaran bersama meningkatkan konflik politik serta ekonomi dengan Singapura."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：D：COIN结合发展及安全措施争取人民支持，削弱共产党获得援助的基础。
+Bahasa Melayu: D: COIN menggabungkan pembangunan dengan keselamatan untuk memenangi hati rakyat dan mengurangkan sokongan kepada komunis."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：B（I、IV）：Sekolah Alam Shah及马来语教学媒介扩大马来语在教育中的使用。
+Bahasa Melayu: B (I dan IV): Sekolah Alam Shah dan bahasa Melayu sebagai bahasa pengantar memperkukuh penggunaan bahasa kebangsaan dalam pendidikan."
+,radio,F5 Bab 7,A,B,C,D,A,Picture34.png,"中文：A：“Malaysia Boleh”表达对国家运动员的支持和国家自豪感，体现爱国精神。
+Bahasa Melayu: A: Laungan Malaysia Boleh menunjukkan sokongan kepada atlet negara dan kebanggaan terhadap Malaysia sebagai nilai patriotisme."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：B：Buku Hijau增加粮食生产及农业活动，让人民获得更多收入并改善生活；其他选项是相关措施或影响。
+Bahasa Melayu: B: Buku Hijau meningkatkan kegiatan serta pengeluaran makanan untuk menambah pendapatan rakyat dan memperbaik kehidupan; pilihan lain berkaitan langkah atau kesannya."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：A：DPN通过更公平分配财富及均衡发展减少经济差距，促进国家团结。
+Bahasa Melayu: A: DPN mengagihkan kekayaan dengan lebih seimbang untuk mengurangkan jurang ekonomi dan mengukuhkan perpaduan."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：C：Apartheid剥夺不同种族平等权利，违反人权，所以马来西亚反对。
+Bahasa Melayu: C: Apartheid menafikan hak sama rata berdasarkan kaum dan mencabul hak asasi manusia, maka Malaysia menentangnya."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：A（I、II）：OIC合作促进伊斯兰银行体系及教育发展，为马来西亚带来金融和知识方面利益。
+Bahasa Melayu: A (I dan II): Kerjasama OIC membantu perkembangan perbankan Islam dan pendidikan yang memberi manfaat kewangan serta ilmu kepada Malaysia."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：A（I、II）：南极问题及Langkawi宣言均涉及全球环境与资源保护，体现可持续发展贡献。
+Bahasa Melayu: A (I dan II): Isu Antartika dan Deklarasi Langkawi berkaitan pemeliharaan alam serta sumber dunia sebagai sumbangan kepada kelestarian global."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：D：限制携带核武器的舰艇进入本国海域，有助履行无核武器区承诺；须区分核武器与和平用途核技术。
+Bahasa Melayu: D: Menghalang kapal yang membawa senjata nuklear memasuki perairan negara membantu komitmen SEANWFZ; senjata nuklear perlu dibezakan daripada teknologi nuklear untuk tujuan aman."

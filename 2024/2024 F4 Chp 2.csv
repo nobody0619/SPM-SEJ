@@ -1,46 +1,91 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 2,radio,JohorBahru_Q03,A,B,C,D,D,Johor Bahru/Picture3.png
-F4 Chp 2,radio,Kedah_Q03,A,B,C,D,B,Kedah/Picture3.png
-F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,D,Kelantan/Picture3.png
-F4 Chp 2,radio,KlSentul_Q03,A,B,C,D,B,KL Sentul/Picture3.png
-F4 Chp 2,radio,Melaka_Q03,A,B,C,D,C,Melaka/Picture3.png
-F4 Chp 2,radio,Mrsm_Q03,A,B,C,D,A,MRSM/Picture3.png
-F4 Chp 2,radio,N_Q03,A,B,C,D,C,N9/Picture3.png
-F4 Chp 2,radio,Pahang_Q03,A,B,C,D,D,Pahang/Picture3.png
-F4 Chp 2,radio,Penang_Q03,A,B,C,D,B,Penang/Picture3.png
-F4 Chp 2,radio,Perak_Q03,A,B,C,D,D,Perak/Picture3.png
-F4 Chp 2,radio,Perlis_Q03,A,B,C,D,B,Perlis/Picture3.png
-F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,D,Putrajaya set 1/Picture3.png
-F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,D,Putrajaya set 2/Picture3.png
-F4 Chp 2,radio,SarawakSerian_Q03,A,B,C,D,A,Sarawak Serian/Picture3.png
-F4 Chp 2,radio,Sbp_Q03,A,B,C,D,D,SBP/Picture3.png
-F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,C,Selangor set 1/Picture3.png
-F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,B,Selangor set 2/Picture3.png
-F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,A,Selangor set 3/Picture3.png
-F4 Chp 2,radio,Smka_Q03,A,B,C,D,C,SMKA/Picture3.png
-F4 Chp 2,radio,Terengganu_Q03,A,B,C,D,A,Terengganu/Picture3.png
-F4 Chp 2,radio,JohorBahru_Q04,A,B,C,D,A,Johor Bahru/Picture4.png
-F4 Chp 2,radio,Kedah_Q04,A,B,C,D,C,Kedah/Picture4.png
-F4 Chp 2,radio,Kelantan_Q04,A,B,C,D,A,Kelantan/Picture4.png
-F4 Chp 2,radio,KlSentul_Q04,A,B,C,D,D,KL Sentul/Picture4.png
-F4 Chp 2,radio,Melaka_Q04,A,B,C,D,B,Melaka/Picture4.png
-F4 Chp 2,radio,Mrsm_Q04,A,B,C,D,B,MRSM/Picture4.png
-F4 Chp 2,radio,N_Q04,A,B,C,D,B,N9/Picture4.png
-F4 Chp 2,radio,Pahang_Q04,A,B,C,D,A,Pahang/Picture4.png
-F4 Chp 2,radio,Penang_Q04,A,B,C,D,C,Penang/Picture4.png
-F4 Chp 2,radio,Perak_Q04,A,B,C,D,A,Perak/Picture4.png
-F4 Chp 2,radio,Perlis_Q04,A,B,C,D,A,Perlis/Picture4.png
-F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,B,Putrajaya set 1/Picture4.png
-F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,B,Putrajaya set 2/Picture4.png
-F4 Chp 2,radio,Sbp_Q04,A,B,C,D,B,SBP/Picture4.png
-F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor set 1/Picture4.png
-F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor set 2/Picture4.png
-F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor set 3/Picture4.png
-F4 Chp 2,radio,Smka_Q04,A,B,C,D,B,SMKA/Picture4.png
-F4 Chp 2,radio,Terengganu_Q04,A,B,C,D,B,Terengganu/Picture4.png
-F4 Chp 2,radio,Pahang_Q05,A,B,C,D,D,Pahang/Picture5.png
-F4 Chp 2,radio,Sbp_Q05,A,B,C,D,A,SBP/Picture5.png
-F4 Chp 2,radio,Pahang_Q06,A,B,C,D,B,Pahang/Picture6.png
-F4 Chp 2,radio,Sbp_Q06,A,B,C,D,D,SBP/Picture6.png
-F4 Chp 2,radio,Pahang_Q07,A,B,C,D,B,Pahang/Picture7.png
-F4 Chp 2,radio,Pahang_Q08,A,B,C,D,D,Pahang/Picture8.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 2,radio,JohorBahru_Q03,A,B,C,D,D,Johor Bahru/Picture3.png,"中文：现有答案D“威胁佛教”不符合西方教育中产阶层推动民族主义的目的。该阶段主要争取自治，选项B更符合课本；早期保护佛教的运动不可与此混淆，此题需复核。
+Bahasa Melayu: Jawapan semasa D tidak sesuai sebagai tujuan nasionalis kelas pertengahan berpendidikan Barat. Golongan ini menuntut pemerintahan sendiri, maka B lebih menepati buku teks. Gerakan awal mempertahankan agama Buddha perlu dibezakan daripada tahap tersebut."
+F4 Chp 2,radio,Kedah_Q03,A,B,C,D,B,Kedah/Picture3.png,"中文：B：Jose Rizal成立Liga Filipina推动改革，争取菲律宾成为西班牙领土的一部分并享有权利。
+Bahasa Melayu: B: Jose Rizal menubuhkan Liga Filipina untuk memperjuangkan pembaharuan dan tuntutan Filipina menjadi sebahagian wilayah Sepanyol."
+F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,D,Kelantan/Picture3.png,"中文：D：1932年改革运动终结泰国绝对君主制，推动君主立宪及人民政治参与。
+Bahasa Melayu: D: Gerakan tokoh tersebut menamatkan sistem raja berkuasa mutlak di Thailand dan membawa kepada pemerintahan berperlembagaan."
+F4 Chp 2,radio,KlSentul_Q03,A,B,C,D,B,KL Sentul/Picture3.png,"中文：翁惹化的定义强调建立坚强民族，能够凭自身力量站稳脚步，体现民族自立。因此这段话对应Dato' Onn Jaafar，选B。
+Bahasa Melayu: Tafsiran Dato' Onn menekankan pembentukan bangsa yang tegap, kuat dan mampu berdiri atas kekuatan sendiri. Oleh itu, tokoh tersebut ialah B."
+F4 Chp 2,radio,Melaka_Q03,A,B,C,D,C,Melaka/Picture3.png,"中文：两场革命限制或终结绝对君权，应选D。原key C的经济管制并非共同结果，保留原答案并注明疑点。
+Bahasa Melayu: Kedua-dua revolusi mengehadkan atau menamatkan kuasa mutlak raja, D. Key asal C tentang ekonomi kawalan bukan kesan bersama; jawapan dikekalkan dengan percanggahan dicatat."
+F4 Chp 2,radio,Mrsm_Q03,A,B,C,D,A,MRSM/Picture3.png,"中文：A（I、II）：两场革命反对绝对王权，强调基本权利及人民声音在治理中的重要性。
+Bahasa Melayu: A (I dan II): Kedua-dua revolusi menentang kuasa mutlak raja dan memperjuangkan kebebasan hak asasi serta keunggulan suara rakyat."
+F4 Chp 2,radio,N_Q03,A,B,C,D,C,N9/Picture3.png,"中文：两场革命反对君主专断，要求限制王权并保障人民和国会权利。
+Bahasa Melayu: Kedua-dua revolusi menentang kuasa mutlak raja untuk membatasi pemerintahan dan menjamin hak rakyat serta parlimen."
+F4 Chp 2,radio,Pahang_Q03,A,B,C,D,D,Pahang/Picture3.png,"中文：共同国家忠诚让人民形成民族归属，为建立民族国家奠定基础。
+Bahasa Melayu: Kesetiaan kepada negara membina rasa kebangsaan dan menjadi asas pembentukan negara bangsa."
+F4 Chp 2,radio,Penang_Q03,A,B,C,D,B,Penang/Picture3.png,"中文：MCKK和SITC培养具知识与组织能力的领袖，带领人民推动民族意识。
+Bahasa Melayu: MCKK dan SITC melahirkan golongan berilmu serta berkebolehan memimpin rakyat dalam nasionalisme."
+F4 Chp 2,radio,Perak_Q03,A,B,C,D,D,Perak/Picture3.png,"中文：Satyagraha意为坚持真理，Gandhi用非暴力和道德力量反抗殖民。
+Bahasa Melayu: Satyagraha bermaksud berpegang teguh kepada kebenaran, digunakan Gandhi dalam perjuangan tanpa kekerasan."
+F4 Chp 2,radio,Perlis_Q03,A,B,C,D,B,Perlis/Picture3.png,"中文：光荣革命反对James II专制，确立议会权威及限制君主权力，而不是加强绝对王权。
+Bahasa Melayu: Revolusi Keagungan menentang pemerintahan mutlak James II dan menegakkan kedaulatan Parlimen dengan mengehadkan kuasa raja."
+F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,D,Putrajaya set 1/Picture3.png,"中文：美国革命反对英国殖民压迫及不公平征税，争取殖民地独立，而不是主要反对本国绝对君主。
+Bahasa Melayu: Revolusi Amerika menentang penindasan dan percukaian British untuk mencapai kemerdekaan daripada penjajahan."
+F4 Chp 2,radio,PutrajayaSet_Q03,A,B,C,D,D,Putrajaya set 2/Picture3.png,"中文：美国独立后建立共和及民主政府，以宪法组织国家，摆脱英国殖民统治。
+Bahasa Melayu: Revolusi Amerika membawa kemerdekaan dan pembentukan pemerintahan republik serta demokrasi berasaskan Perlembagaan."
+F4 Chp 2,radio,SarawakSerian_Q03,A,B,C,D,A,Sarawak Serian/Picture3.png,"中文：A：早期印尼民族主义者相信教育能改变人民命运，让人民摆脱殖民压迫与落后。
+Bahasa Melayu: A: Nasionalis awal Indonesia melihat pendidikan sebagai cara mengubah nasib rakyat dan membebaskan mereka daripada penindasan serta kemunduran."
+F4 Chp 2,radio,Sbp_Q03,A,B,C,D,D,SBP/Picture3.png,"中文：两人的民族主义解释都强调为民族权益、身份及发展奋斗，不只限于某一种宗教或行动方式。
+Bahasa Melayu: Tafsiran kedua-dua tokoh menekankan perjuangan bangsa, hak dan identitinya, bukan terhad pada agama atau satu bentuk tindakan."
+F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,C,Selangor set 1/Picture3.png,"中文：C：Cerita Awang Putat描述民族生活中的苦难，唤起读者对人民处境的关心与民族意识。
+Bahasa Melayu: C: Cerita Awang Putat mengungkap penderitaan hidup bangsa dan membangkitkan keprihatinan serta kesedaran kebangsaan."
+F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,B,Selangor set 2/Picture3.png,"中文：B（I、IV）：Islah要求回归《古兰经》与圣训，以改善穆斯林社会生活并摆脱殖民支配。
+Bahasa Melayu: B (I dan IV): Gerakan Islah menyeru kembali kepada al-Quran dan Hadis untuk memperbaik kehidupan masyarakat serta membebaskan diri daripada penjajahan."
+F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,A,Selangor set 3/Picture3.png,"中文：A：Tamil Nesan为印度社群表达社会与政治利益，传播关系本社群的议题。
+Bahasa Melayu: A: Tamil Nesan memperjuangkan kepentingan sosiopolitik masyarakat India melalui berita serta pandangan berkaitan komuniti mereka."
+F4 Chp 2,radio,Smka_Q03,A,B,C,D,C,SMKA/Picture3.png,"中文：satyagraha强调坚持真理及非暴力，甘地以和平抵抗推动印度民族主义。
+Bahasa Melayu: Satyagraha menekankan kebenaran dan perjuangan tanpa keganasan yang digunakan Gandhi untuk menggerakkan nasionalisme India."
+F4 Chp 2,radio,Terengganu_Q03,A,B,C,D,A,Terengganu/Picture3.png,"中文：A：越南民族主义党以民主、民族主义及社会主义为基础，1930年起义旨在结束法国统治并建立共和国。
+Bahasa Melayu: A: Parti Nasionalisme Vietnam melancarkan pemberontakan untuk menamatkan pemerintahan Perancis dan menubuhkan kerajaan republik."
+F4 Chp 2,radio,JohorBahru_Q04,A,B,C,D,A,Johor Bahru/Picture4.png,"中文：Tok Janggut和Dol Said的抗争集中于各自地区，争取地方自由并维护当地领土权。因此I和II最符合地方性抗争，选A。
+Bahasa Melayu: Perjuangan tokoh tersebut tertumpu di kawasan masing-masing untuk menuntut kebebasan dan mendaulatkan wilayah tempatan. Oleh itu, I dan II paling sesuai, iaitu A."
+F4 Chp 2,radio,Kedah_Q04,A,B,C,D,C,Kedah/Picture4.png,"中文：C：泰国采用西方行政改革，提高治理能力以应对列强压力，维护国家独立。
+Bahasa Melayu: C: Pemodenan birokrasi meningkatkan keupayaan Thailand menghadapi tekanan kuasa Barat dan mengekalkan kedaulatan negara."
+F4 Chp 2,radio,Kelantan_Q04,A,B,C,D,A,Kelantan/Picture4.png,"中文：A（I、II）：宗教知识分子通过报章传播Islah思想，并创办madrasah推动教育。
+Bahasa Melayu: A (I dan II): Intelektual agama menerbitkan akhbar untuk menyebarkan Islah dan menubuhkan madrasah bagi memajukan pendidikan."
+F4 Chp 2,radio,KlSentul_Q04,A,B,C,D,D,KL Sentul/Picture4.png,"中文：Kartini作品揭示人民落后与教育不足，特别关注女性受教育机会，唤起改善社会的意识。因此选D。
+Bahasa Melayu: Karya Kartini mendedahkan kemunduran rakyat dan kekurangan peluang pendidikan, terutama bagi wanita. Penulisannya menyedarkan masyarakat tentang keperluan pembaharuan, maka D tepat."
+F4 Chp 2,radio,Melaka_Q04,A,B,C,D,B,Melaka/Picture4.png,"中文：Liga Filipina要求菲律宾人享有平等权利，并推动西班牙殖民政府改革，所以I、IV正确。
+Bahasa Melayu: Liga Filipina menuntut persamaan hak dan mendesak pembaharuan pentadbiran Sepanyol; I dan IV betul."
+F4 Chp 2,radio,Mrsm_Q04,A,B,C,D,B,MRSM/Picture4.png,"中文：B：Ibu Zain推动教育，尤其女性教育，让人民意识到知识可改善民族命运。
+Bahasa Melayu: B: Ibu Zain membangkitkan kesedaran tentang kepentingan pendidikan, khususnya pendidikan wanita, untuk memajukan bangsa."
+F4 Chp 2,radio,N_Q04,A,B,C,D,B,N9/Picture4.png,"中文：作家借小说及短篇批评殖民和社会问题，唤醒民族意识。
+Bahasa Melayu: Penulis menggunakan novel dan cerpen untuk mengkritik penjajahan serta masalah masyarakat dan membangkitkan nasionalisme."
+F4 Chp 2,radio,Pahang_Q04,A,B,C,D,A,Pahang/Picture4.png,"中文：光荣革命反对专制君王；美国革命反对英国殖民统治，A配对正确。
+Bahasa Melayu: Revolusi Keagungan menentang raja mutlak, manakala Revolusi Amerika menentang penjajahan British; pasangan A betul."
+F4 Chp 2,radio,Penang_Q04,A,B,C,D,C,Penang/Picture4.png,"中文：爱国主题小说使读者认同国家、反思殖民问题，增强民族主义。
+Bahasa Melayu: Novel bertemakan cinta negara membina kesedaran dan identiti kebangsaan serta menguatkan nasionalisme."
+F4 Chp 2,radio,Perak_Q04,A,B,C,D,A,Perak/Picture4.png,"中文：经费不足限制组织活动，殖民法律又压制政治宣传，I、II是组织发展障碍。
+Bahasa Melayu: Kekurangan kewangan mengehadkan kegiatan dan undang-undang kolonial menyekat gerakan politik; I dan II ialah cabaran pertubuhan."
+F4 Chp 2,radio,Perlis_Q04,A,B,C,D,A,Perlis/Picture4.png,"中文：吉打苏丹反对英国东印度公司，是要收回被Francis Light占据的槟城。
+Bahasa Melayu: Sultan Abdullah Mukarram Shah menentang SHTI untuk mendapatkan semula Pulau Pinang yang dikuasai Francis Light."
+F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,B,Putrajaya set 1/Picture4.png,"中文：《Mari Kita Berjuang》通过文学鼓励读者热爱祖国，唤醒民族意识及争取自由的精神。
+Bahasa Melayu: Mari Kita Berjuang membangkitkan semangat cinta akan tanah air dan kesedaran memperjuangkan kebebasan melalui penulisan."
+F4 Chp 2,radio,PutrajayaSet_Q04,A,B,C,D,B,Putrajaya set 2/Picture4.png,"中文：泰国未被西方殖民，民族主义一方面维护主权，一方面要求人民参与治理，故I和IV符合原答案。
+Bahasa Melayu: Thailand tidak dijajah Barat; nasionalismenya mempertahankan kedaulatan dan menuntut penglibatan rakyat dalam pemerintahan. Maka I dan IV menepati jawapan asal."
+F4 Chp 2,radio,Sbp_Q04,A,B,C,D,B,SBP/Picture4.png,"中文：泰国主要反对绝对王权，其他被殖民东南亚国家则反对外国殖民，因此B配对正确。
+Bahasa Melayu: Nasionalisme Thailand menentang raja berkuasa mutlak, sementara negara lain menentang penjajahan asing. Maka B tepat."
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor set 1/Picture4.png,"中文：B（I、IV）：al-Jamiah al-Khairiah鼓励马来人经商，并撰写说明进步重要性的文章。
+Bahasa Melayu: B (I dan IV): Al-Jamiah al-Khairiah membangkitkan semangat berniaga dan menghasilkan rencana berinformasi tentang kepentingan kemajuan."
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor set 2/Picture4.png,"中文：B：KMM公开而大胆反对英国殖民统治，因此英国把它视为激进组织。
+Bahasa Melayu: B: KMM berani menyuarakan penentangan terhadap penjajahan British, lalu dianggap pertubuhan radikal."
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor set 3/Picture4.png,"中文：B：Ibu Zain推动女性教育与社会进步，使女性更有能力参与民族发展。
+Bahasa Melayu: B: Ibu Zain memajukan pendidikan wanita supaya mereka dapat memperbaik kehidupan dan menyumbang kepada kemajuan bangsa."
+F4 Chp 2,radio,Smka_Q04,A,B,C,D,B,SMKA/Picture4.png,"中文：PASPAM鼓励会员团结并交流意见，把各地读者联结成共同文化与民族意识网络。
+Bahasa Melayu: PASPAM menggalakkan ahli bersatu dan bertukar pendapat untuk membina hubungan serta kesedaran bersama."
+F4 Chp 2,radio,Terengganu_Q04,A,B,C,D,B,Terengganu/Picture4.png,"中文：B：这两份英文报章推动教育基金，帮助马来学生赴海外升学。
+Bahasa Melayu: B: The Malay Mail dan The Malaya Tribune berusaha mengasaskan dana pendidikan untuk membantu orang Melayu melanjutkan pelajaran di luar negara."
+F4 Chp 2,radio,Pahang_Q05,A,B,C,D,D,Pahang/Picture5.png,"中文：Kartini揭露对人民、尤其妇女的压迫，并强调教育可改善女性处境。
+Bahasa Melayu: Kartini mendedahkan penindasan rakyat, khususnya wanita, dan menekankan pendidikan untuk kemajuan mereka."
+F4 Chp 2,radio,Sbp_Q05,A,B,C,D,A,SBP/Picture5.png,"中文：MCKK培养受教育的本地领袖及行政人才。题干若把成立时间写为1920年代应注意：MCKK实际于1905年成立。
+Bahasa Melayu: MCKK melahirkan pemimpin dan pentadbir tempatan berpendidikan. Institusi ini ditubuhkan pada 1905, bukan1920-an seperti dinyatakan soalan."
+F4 Chp 2,radio,Pahang_Q06,A,B,C,D,B,Pahang/Picture6.png,"中文：Islah运动倡导宗教与社会改革，鼓励穆斯林接受教育和进步，唤醒民族意识。
+Bahasa Melayu: Gerakan Islah menyeru pembaharuan agama serta masyarakat dan menggalakkan pendidikan serta kemajuan untuk kesedaran nasionalisme."
+F4 Chp 2,radio,Sbp_Q06,A,B,C,D,D,SBP/Picture6.png,"中文：Za'ba让师范生认识高等教育及英语课程的重要性，帮助居民突破只受初等教育的限制，故III和IV正确。
+Bahasa Melayu: Za'ba menyedarkan guru pelatih tentang kepentingan pendidikan tinggi dan kurikulum bahasa Inggeris. Maka III dan IV tepat."
+F4 Chp 2,radio,Pahang_Q07,A,B,C,D,B,Pahang/Picture7.png,"中文：教育培养知识分子，使他们理解殖民不公平并领导改革和反殖民活动。
+Bahasa Melayu: Pendidikan melahirkan cendekiawan yang memahami ketidakadilan penjajahan dan memimpin pembaharuan serta penentangan."
+F4 Chp 2,radio,Pahang_Q08,A,B,C,D,D,Pahang/Picture8.png,"中文：Ibu Zain通过Bulan Melayu强调妇女教育和进步，提升女性尊严及社会地位。
+Bahasa Melayu: Ibu Zain melalui Bulan Melayu memperjuangkan pendidikan dan kemajuan untuk mengangkat martabat wanita."

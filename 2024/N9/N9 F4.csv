@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-N9 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+N9 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：势力范围是早期马来世界国家的四项特征之一，表示接受君主权威的区域。
+Bahasa Melayu: Wilayah pengaruh ialah ciri kerajaan Alam Melayu, merangkumi kawasan yang menerima kuasa raja."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：辖区大臣负责当地管理与治安，确保君主属地保持和平。
+Bahasa Melayu: Pembesar jajahan mengurus kawasan dan menjaga keamanan supaya wilayah raja berada dalam keadaan tenteram."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：两场革命反对君主专断，要求限制王权并保障人民和国会权利。
+Bahasa Melayu: Kedua-dua revolusi menentang kuasa mutlak raja untuk membatasi pemerintahan dan menjamin hak rakyat serta parlimen."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：作家借小说及短篇批评殖民和社会问题，唤醒民族意识。
+Bahasa Melayu: Penulis menggunakan novel dan cerpen untuk mengkritik penjajahan serta masalah masyarakat dan membangkitkan nasionalisme."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：民族自决让人民决定自身国家的政治命运，是Wilson宣言的核心原则。
+Bahasa Melayu: Penentuan nasib sendiri membolehkan rakyat menentukan masa depan politik negaranya, prinsip utama deklarasi Wilson."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：日军提升本地领袖以解决官员不足，并争取居民支持，I、IV正确。
+Bahasa Melayu: Jepun menaikkan pangkat pemimpin tempatan untuk mengatasi kekurangan pegawai dan mendapat sokongan penduduk; I dan IV betul."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：BMA恢复人民信任及战后稳定与和平，所以I、IV正确。
+Bahasa Melayu: BMA memulihkan kepercayaan rakyat serta kestabilan dan keamanan selepas perang; I dan IV betul."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：马来民众在议员巡察时举行示威，展示对Malayan Union的广泛反对。
+Bahasa Melayu: Orang Melayu mengadakan tunjuk perasaan semasa lawatan ahli parlimen untuk menunjukkan bantahan luas terhadap Malayan Union."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：PUTERA-AMCJA认为工作委员会只包含特定群体，未代表所有族群及政治力量。
+Bahasa Melayu: PUTERA-AMCJA membantah kerana Jawatankuasa Kerja tidak mewakili semua kaum dan pertubuhan politik."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：英国行政人员支持及马来君主提出联邦建议，推动以1948年联邦取代Malayan Union。
+Bahasa Melayu: Sokongan pentadbir British dan cadangan Raja-raja Melayu mendorong penggantian Malayan Union dengan Persekutuan 1948."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：PKI在1926年未能控制Java后，转向马来亚设分支和传播共产思想。
+Bahasa Melayu: Kegagalan PKI menguasai Jawa pada 1926 mendorong pembukaan cawangan serta penyebaran ideologi di Tanah Melayu."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：三位园丘经理遭杀害后，英国宣布紧急法令以控制暴力和共产党活动。
+Bahasa Melayu: Pembunuhan tiga pengurus ladang membawa pengisytiharan undang-undang darurat untuk mengawal keganasan komunis."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：IMP开放给各族加入，旨在建立跨族全国团结。
+Bahasa Melayu: IMP membuka keahlian kepada semua kaum untuk membina perpaduan kebangsaan."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：Sistem Ahli让本地领袖负责部门工作，积累行政经验以准备自治。
+Bahasa Melayu: Sistem Ahli melatih pemimpin tempatan mengendalikan portfolio dan memperoleh pengalaman untuk pemerintahan sendiri."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：早期选举让人民选代表，实践民主并逐步参与治理。
+Bahasa Melayu: Pilihan raya awal membolehkan rakyat memilih wakil dan mengambil bahagian dalam pemerintahan secara demokrasi."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：联邦立法议会主要制定法律，与行政机构的执行职责不同。
+Bahasa Melayu: MPP menggubal undang-undang, berbeza daripada badan eksekutif yang melaksanakannya."
+,radio,F4 Bab 9,A,B,C,D,C,Picture17.png,"中文：Sheikh Abdullah Fahim向Tunku提供意见，协助确定独立日期。
+Bahasa Melayu: Sheikh Abdullah Fahim memberi pandangan kepada Tunku untuk menentukan tarikh kemerdekaan."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：委员会职权包括强大中央政府及设立国家元首职位，构建独立联邦政体。
+Bahasa Melayu: Terma rujukan merangkumi kerajaan pusat kuat dan jawatan YDPA untuk membentuk pemerintahan persekutuan merdeka."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：礼仪课程、提前发薪及订购旗帜是庆典委员会安排独立庆祝的任务。
+Bahasa Melayu: Kursus protokol, gaji awal dan tempahan bendera ialah tugas Jawatankuasa Sambutan untuk perayaan kemerdekaan."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：独立后马来亚实行议会民主，由人民选代表参与国家治理。
+Bahasa Melayu: Selepas merdeka, Tanah Melayu mengamalkan Demokrasi Berparlimen dengan wakil dipilih rakyat."

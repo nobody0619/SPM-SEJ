@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：法律规范人民及统治者行为，处理犯罪与纠纷，保障秩序及王国安定。
+Bahasa Melayu: Undang-undang mengawal tingkah laku, menangani kesalahan dan pertikaian serta menjamin kesejahteraan kerajaan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：大臣在领地维持和平与秩序，让居民安全生活，是照顾人民福利的基本责任。
+Bahasa Melayu: Pembesar memelihara keamanan di kawasan pegangan supaya rakyat hidup selamat dan kebajikan mereka terjaga."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：光荣革命反对James II专制，确立议会权威及限制君主权力，而不是加强绝对王权。
+Bahasa Melayu: Revolusi Keagungan menentang pemerintahan mutlak James II dan menegakkan kedaulatan Parlimen dengan mengehadkan kuasa raja."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：吉打苏丹反对英国东印度公司，是要收回被Francis Light占据的槟城。
+Bahasa Melayu: Sultan Abdullah Mukarram Shah menentang SHTI untuk mendapatkan semula Pulau Pinang yang dikuasai Francis Light."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：军事结盟及帝国主义竞争加剧欧洲紧张，并把局部冲突扩大成战争，所以I和IV正确。
+Bahasa Melayu: Pakatan ketenteraan dan persaingan kuasa imperialis meningkatkan ketegangan Eropah serta meluaskan konflik. Maka I dan IV tepat."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：Yaakob Bidin因勇敢抗敌而获Military Medal，奖章对应其战场英勇表现。
+Bahasa Melayu: Yaakob Bidin menerima Military Medal kerana keberanian dalam perjuangan menentang tentera Jepun."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：人民通过马来大会集合力量，并以报刊宣传反对马来亚联盟，故III和IV正确；高等法院行动主要与统治者有关。
+Bahasa Melayu: Rakyat mengadakan Kongres Melayu dan menggunakan akhbar untuk menentang Malayan Union, maka III dan IV tepat. Tindakan mahkamah terutama berkaitan raja."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：SBUB无足够资金重建战后的沙巴，因此把当地移交英国政府。
+Bahasa Melayu: SBUB kekurangan dana untuk membangunkan semula Sabah selepas perang, lalu menyerahkannya kepada British."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：Hamzah Abdullah及Nik Ahmad Kamil是统治者代表；Onn Jaafar及Abdul Rahman Yassin代表UMNO，故II和III正确。
+Bahasa Melayu: Hamzah Abdullah dan Nik Ahmad Kamil mewakili Raja-raja Melayu, sementara Onn Jaafar serta Abdul Rahman Yassin mewakili UMNO. Maka II dan III tepat."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：1948年联邦承认马来人特殊地位，并恢复统治者主权，回应马来人对联盟制度的忧虑。
+Bahasa Melayu: PTM 1948 mengiktiraf kedudukan istimewa orang Melayu dan memulihkan kedaulatan raja sebagai tindak balas terhadap kebimbangan mengenai Malayan Union."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：Sarawak Rangers熟悉森林及追踪技术，协助寻找共产党的藏身地点。
+Bahasa Melayu: Sarawak Rangers mahir menjejak dan memahami hutan, lalu mengesan tempat persembunyian komunis."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：粮食配给限制购买与供应，居民难以取得足够食物，成为紧急状态期间生活困苦的原因。
+Bahasa Melayu: Catuan makanan mengehadkan bekalan dan pembelian sehingga menyukarkan rakyat mendapatkan makanan yang mencukupi."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：RIDA提供经济援助及训练，扩大马来人在商业与企业活动的机会，以改善经济差距。
+Bahasa Melayu: RIDA memberi bantuan serta latihan untuk menambah peluang orang Melayu dalam perniagaan dan perusahaan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：帆船象征各成员共同前进并准备面对风浪，体现联盟愿意一起克服挑战。
+Bahasa Melayu: Kapal layar melambangkan kesediaan anggota Perikatan bergerak bersama dan menempuh cabaran."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：选举让本地代表参与立法及治理，证明自治能力并加快争取独立。D也是民主结果的相关描述，原答案A强调通往独立的进展。
+Bahasa Melayu: Pemilihan wakil tempatan membuktikan kemampuan berkerajaan sendiri dan mempercepat kemerdekaan. D berkaitan hasil demokrasi, tetapi skema asal A menekankan kemajuan menuju merdeka."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：首届内阁显示本地领袖具能力及承担治理责任的权威，体现有威望、有能力的领导。
+Bahasa Melayu: Kabinet pertama menunjukkan kewibawaan pemimpin tempatan yang mampu memikul tanggungjawab mentadbir negara."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：乘船行程提供时间让统治者代表与联盟代表商议并统一伦敦谈判策略。
+Bahasa Melayu: Perjalanan kapal laut memberikan masa untuk wakil raja dan Perikatan menyusun serta menyelaraskan strategi rundingan London."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：公众及团体向里德委员会提交备忘录，把要求与意见纳入宪法讨论。
+Bahasa Melayu: Rakyat dan pertubuhan mengemukakan memorandum kepada Suruhanjaya Reid untuk menyampaikan cadangan dalam penggubalan Perlembagaan."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：Soekarno把独立理解为永久自由，包括摆脱压迫政治及专制，能够自由思考与行动。
+Bahasa Melayu: Soekarno mentakrifkan kemerdekaan sebagai kebebasan selama-lamanya untuk berfikir dan bertindak daripada penindasan serta rejim autokratik."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：议会民主让人民通过选举选择代表及领导政府的政党，是参与政治决策的制度。
+Bahasa Melayu: Demokrasi berparlimen memberikan rakyat kuasa memilih wakil dan pemimpin melalui pilihan raya."

@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Putrajaya set 1 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Putrajaya set 1 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：原答案C不符合图中“马来世界王国”分类：基本特征是王、法律、人民及势力范围，因此X应为D。王权象征属于马六甲苏丹王朝另一组特征。
+Bahasa Melayu: Jawapan asal C tidak menepati senarai kerajaan Alam Melayu: raja, undang-undang, rakyat dan wilayah pengaruh. X sepatutnya D; lambang kebesaran ialah ciri khusus dalam senarai Kesultanan Melaka."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：苏丹赐给大臣管理的地区称kawasan pegangan，大臣在当地负责行政、收入及人民事务。
+Bahasa Melayu: Kawasan yang dikurniakan sultan kepada pembesar untuk ditadbir disebut kawasan pegangan."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：美国革命反对英国殖民压迫及不公平征税，争取殖民地独立，而不是主要反对本国绝对君主。
+Bahasa Melayu: Revolusi Amerika menentang penindasan dan percukaian British untuk mencapai kemerdekaan daripada penjajahan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：《Mari Kita Berjuang》通过文学鼓励读者热爱祖国，唤醒民族意识及争取自由的精神。
+Bahasa Melayu: Mari Kita Berjuang membangkitkan semangat cinta akan tanah air dan kesedaran memperjuangkan kebebasan melalui penulisan."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：日本工业及战争需要原料、能源及市场，促使其向亚太扩张并引发战争。
+Bahasa Melayu: Keperluan bahan mentah, tenaga dan pasaran bagi industri serta peperangan mendorong peluasan Jepun di Asia Pasifik."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：英国迟迟未返回造成权力真空，Bintang Tiga趁机控制地方并惩罚被怀疑合作的人。
+Bahasa Melayu: Kelewatan British kembali mewujudkan kekosongan kuasa yang diambil kesempatan oleh Bintang Tiga untuk menguasai keadaan."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：英国为统一及简化行政、保障经济投资而推出马来亚联盟，A对应图中两个行政经济目的。
+Bahasa Melayu: British memperkenalkan Malayan Union untuk menyeragamkan pentadbiran dan menjaga kepentingan pelaburan ekonomi."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：各领袖组织马来大会，集合协会及人民力量共同反对联盟，随后推动UMNO成立。
+Bahasa Melayu: Kerjasama pemimpin membawa penganjuran Kongres Melayu untuk menyatukan penentangan terhadap Malayan Union."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：Burhanuddin及其他反对者要求真正独立和更广泛政治自由，认为1948年联邦仍保留英国控制，故I和IV符合。
+Bahasa Melayu: Burhanuddin dan golongan penentang menuntut kebebasan bersuara serta kemerdekaan sepenuhnya kerana PTM1948 masih mengekalkan kawalan British. Maka I dan IV tepat."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：马六甲及槟城是英国殖民地，出生于这些地区者归入英国臣民类别，而非有苏丹州的统治者臣民。
+Bahasa Melayu: Melaka dan Pulau Pinang ialah tanah jajahan British; penduduk yang lahir di sana termasuk rakyat British, bukan rakyat Raja negeri Melayu."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：英国通过工会条例限制共产党操控工会及劳工活动，以削弱其政治影响。
+Bahasa Melayu: Ordinan Kesatuan Sekerja menyekat pengaruh dan penguasaan komunis dalam kesatuan sekerja."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：英国以逐步给予自治及独立争取人民支持、削弱共产党，紧急状态因而推动独立进程。
+Bahasa Melayu: British mempercepat langkah berkerajaan sendiri dan kemerdekaan untuk mendapatkan sokongan rakyat serta melemahkan komunis."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：KMM主张Melayu Raya，即马来亚与印尼联合取得独立，与之后的马来西亚组成不同。
+Bahasa Melayu: KMM memperjuangkan Melayu Raya melalui gabungan Tanah Melayu dengan Indonesia untuk mencapai kemerdekaan."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：本地成员负责政府部门，学习行政与决策，是自治前的重要训练。
+Bahasa Melayu: Sistem Ahli melatih penduduk tempatan mengurus jabatan serta membuat keputusan sebagai persediaan berkerajaan sendiri."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：选举委员会研究可行选举制度并提出实施建议，因此III和IV正确。
+Bahasa Melayu: Jawatankuasa Pilihan Raya mengkaji sistem pilihan raya dan memberikan cadangan pelaksanaannya. Maka III dan IV tepat."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：1955年首届内阁仍有英国官员掌管关键职务，包括财政秘书，独立谈判再推动本地部长接替。
+Bahasa Melayu: Kabinet1955 masih mempunyai pegawai British dalam jawatan penting termasuk Setiausaha Kewangan, sebelum kuasa dipindahkan secara berperingkat."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：伦敦谈判讨论独立后的安全及国家宪法安排，故原答案选I和II。外交与国防也是独立安排相关议题，不能据此理解为完全没讨论。
+Bahasa Melayu: Rundingan London membincangkan keselamatan dan Perlembagaan negara merdeka, maka skema memilih I dan II. Hal luar negeri serta pertahanan juga berkaitan rundingan dan tidak wajar dianggap langsung tidak dibincangkan."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：1957年协议建立独立国家的制度，让人民通过本地政府自行治理国家。
+Bahasa Melayu: Perjanjian1957 membentuk asas negara merdeka dan memberikan hak rakyat mentadbir negara sendiri."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：国徽与国歌是正式国家象征，代表身份与主权，所以III和IV正确；传统风筝及短剑不是这里同一类别。
+Bahasa Melayu: Jata Negara dan Lagu Kebangsaan ialah lambang rasmi identiti serta kedaulatan negara. Maka III dan IV tepat."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：独立确立本国的议会民主政府，让民选领袖负责治理；部分选举实践在独立前已开始，并非此前完全没有民主。
+Bahasa Melayu: Kemerdekaan meneguhkan kerajaan demokrasi berparlimen pimpinan tempatan. Amalan pilihan raya telah bermula sebelum merdeka, bukan baharu sepenuhnya selepasnya."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：法律体系构成国家规则的基础，规定权力、责任与处罚，保障有序治理。
+Bahasa Melayu: Sistem perundangan menjadi asas peraturan negara dengan menetapkan kuasa, tanggungjawab dan hukuman."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：国家自行制定外交政策，决定与哪些国家合作及维护何种利益，体现主权。
+Bahasa Melayu: Penggubalan dasar luar menentukan hubungan dan kerjasama antarabangsa menurut kepentingan negara berdaulat."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：马来联邦州的共同法律由联邦理事会制定，是统一殖民行政的制度之一。
+Bahasa Melayu: Majlis Persekutuan menggubal undang-undang bersama bagi NNMB dalam penyelarasan pentadbiran negeri-negeri tersebut."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：独立前马来统治者及沙巴砂拉越原住民领袖负责维护本地居民权益，因此I和II正确。
+Bahasa Melayu: Sebelum merdeka, raja dan ketua pribumi menjaga kedudukan serta kepentingan penduduk tempatan. Maka I dan II tepat."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：国家元首任命武装部队总司令属于行政职权；批准法案及解散国会属于立法相关权限。
+Bahasa Melayu: Pelantikan Panglima Angkatan Tentera ialah kuasa eksekutif YDPA, sementara perkenan rang undang-undang dan pembubaran Parlimen berkaitan perundangan."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：大选让人民选择代表并决定政府领导，是民主的直接实践。
+Bahasa Melayu: Pilihan Raya Umum membolehkan rakyat memilih wakil dan menentukan kepimpinan kerajaan sebagai amalan demokrasi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：文化体育及公共福利属于共同权限，故II和III正确；伊斯兰法属于州权限，医疗卫生通常列为联邦。
+Bahasa Melayu: Kebudayaan dan sukan serta kebajikan awam termasuk Senarai Bersama. Maka II dan III tepat; undang-undang Islam ialah bidang negeri."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：原答案D描述沙巴东部安全地区的范围，符合保护东海岸安全的目的。严格名称上ESSCOM是协调指挥机构，ESSZONE是安全区，C更直接描述ESSCOM的协调职能。
+Bahasa Melayu: D menerangkan pengawasan keselamatan pantai timur. Dari segi nama, ESSCOM ialah perintah penyelarasan manakala ESSZONE ialah kawasan; C lebih langsung menerangkan fungsi penyelarasan ESSCOM."
+,radio,F5 Bab 5,A,B,C,D,B,Picture29.png,"中文：科博尔报告指出约三分之二居民支持马来西亚，包括要求保障后才支持的人。
+Bahasa Melayu: Laporan Cobbold menyatakan kira-kira dua pertiga penduduk menyokong Malaysia, termasuk sokongan dengan syarat perlindungan tertentu."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：印尼领导变化后转向谈判，最终1966年结束对抗政策并恢复与马来西亚关系。
+Bahasa Melayu: Perubahan kepimpinan Indonesia membawa rundingan yang akhirnya menamatkan konfrontasi pada 1966 dan memulihkan hubungan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：两州面积广阔，许多聚落相距远，使交通及通讯建设需较多资源和时间。
+Bahasa Melayu: Saiz Sabah dan Sarawak yang besar serta petempatan berjauhan menyukarkan pembangunan pengangkutan dan perhubungan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：新加坡与中央的政治领导争议及族群冲突加剧关系紧张，导致分离，故I和II符合。
+Bahasa Melayu: Pertikaian kepimpinan politik dan konflik perkauman memburukkan hubungan Singapura dengan kerajaan Pusat sehingga berlaku pemisahan. Maka I dan II tepat."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：DBP发展词汇、出版与语言使用，提升国语马来语的地位。
+Bahasa Melayu: DBP mengembangkan istilah, penerbitan dan penggunaan bahasa untuk memartabatkan bahasa Melayu."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：共同运动与支持国家队让不同族群建立团队精神及友谊，而不是鼓励族群对立。
+Bahasa Melayu: Sukan membina semangat setiakawan dan kerjasama antara kaum melalui penyertaan serta sokongan bersama."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：DEB重组社会，减少族群与经济职业的固定联系，并消除贫困，促进公平与团结。
+Bahasa Melayu: DEB menyusun semula masyarakat untuk mengurangkan pengenalan kaum mengikut fungsi ekonomi serta membasmi kemiskinan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：绿皮书鼓励居民种植与生产食物，以提高粮食产量及自给能力。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan pengeluaran makanan untuk menambah bekalan dan keupayaan berdikari."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：与英国及其他国家的历史联系影响外交合作选择，是课本列出的外交因素之一，不代表只有历史因素。
+Bahasa Melayu: Ikatan sejarah mempengaruhi hubungan dan kerjasama luar sebagai salah satu faktor penggubalan dasar luar, bukan satu-satunya faktor."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：防务合作让区域伙伴协调安全、分享支援并应对共同威胁，比单方面封关更符合合作原则。
+Bahasa Melayu: Kerjasama pertahanan menyelaraskan keselamatan dan bantuan antara negara untuk menangani ancaman serantau bersama."
+,radio,F5 Bab 10,A,B,C,D,C,Picture39.png,"中文：马来西亚向遭战争及灾害影响者提供物资、医疗及救援，体现国际人道角色。
+Bahasa Melayu: Malaysia memberikan bekalan, rawatan dan bantuan kecemasan kepada mangsa konflik serta bencana sebagai peranan kemanusiaan."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：京都议定书针对温室气体减排及气候变化；日内瓦公约主要关于战争人道规范，是不同议题。
+Bahasa Melayu: Protokol Kyoto berkaitan pengurangan gas rumah hijau dan perubahan iklim, berbeza daripada Konvensyen Geneva tentang kemanusiaan ketika perang."

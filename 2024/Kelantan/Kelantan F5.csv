@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：A：法国革命推动人民权利与民族国家概念，是现代主权发展的重要背景。
+Bahasa Melayu: A: Revolusi Perancis mendorong hak rakyat dan konsep negara bangsa yang berkaitan dengan perkembangan kedaulatan moden."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：D：现代化武器技术提升军队能力，加强保卫国家主权和安全。
+Bahasa Melayu: D: Pemodenan teknologi senjata meningkatkan keupayaan tentera mempertahankan keselamatan serta kedaulatan negara."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A（I、II）：伊斯兰及马来语地位延续本地历史传统；议会民主属于现代宪制特征。
+Bahasa Melayu: A (I dan II): Kedudukan Islam dan bahasa Melayu ialah ciri tradisional, manakala Demokrasi Berparlimen ialah ciri moden perlembagaan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：B：1963年成立马来西亚，宪法需纳入新州并调整联邦机构。
+Bahasa Melayu: B: Pembentukan Malaysia 1963 memerlukan peruntukan bagi negeri baharu serta penyesuaian institusi Persekutuan."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：C（II、III）：君主地位获得宪法承认，而人民享有投票权；首相是政府首长，国家元首是Yang di-Pertuan Agong。
+Bahasa Melayu: C (II dan III): Perlembagaan mengiktiraf kedudukan raja dan hak rakyat mengundi. Perdana Menteri ialah Ketua Kerajaan, bukan Ketua Negara."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：D：制衡避免权力滥用，让机构互相监督，帮助建立公平及关心人民的政府。
+Bahasa Melayu: D: Semak dan imbang mengelakkan penyalahgunaan kuasa dan membolehkan pengawasan antara institusi untuk mewujudkan kerajaan adil serta prihatin."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：C：国家公园与海洋公园保护生态及物种多样性，保存国家的生物多样性遗产。
+Bahasa Melayu: C: Taman negara dan taman laut melindungi ekosistem serta kepelbagaian spesies untuk mengekalkan warisan biodiversiti."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：题库暂存B。低价房屋能减轻低收入家庭负担，但本章课本强调让人民拥有自己的房屋，因此C更直接符合建屋目的；“消除贫穷”是较广泛目标。
+Bahasa Melayu: Kunci semasa ialah B. Rumah kos rendah meringankan beban golongan berpendapatan rendah, tetapi buku teks bab ini menekankan pemilikan rumah rakyat, maka C lebih langsung. Menghapuskan kemiskinan ialah matlamat lebih luas."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：D：让新加坡加入联邦有助协调安全及政治治理，遏制当地共产党影响。
+Bahasa Melayu: D: Penyertaan Singapura membolehkan penyelarasan keselamatan dan pentadbiran untuk membendung ancaman komunis."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：C：1963年7月6日记者会宣布东姑将赴伦敦签署成立马来西亚的协议，协议于7月9日签署。
+Bahasa Melayu: C: Sidang akhbar 6 Julai 1963 mengumumkan pemergian Tunku ke London untuk menandatangani Perjanjian Malaysia pada 9 Julai."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：C：迁居计划结合基本设施及生活改善，可取得居民支持；同时严格管制物资，切断共产党补给。
+Bahasa Melayu: C: Penempatan semula dengan kemudahan dan pembaikan kehidupan membantu memenangi hati rakyat, di samping kawalan bekalan yang memutuskan bantuan kepada komunis."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：D：执行煽动法限制煽动族群仇恨的言论，帮助防止冲突扩大及恢复秩序。
+Bahasa Melayu: D: Penguatkuasaan Akta Hasutan membendung ucapan yang mengapi-apikan perkauman untuk mengelakkan konflik berlanjutan."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：A：Feri Malaysia把半岛与沙巴、砂拉越联系起来，增加人民交流，促进国家整合。
+Bahasa Melayu: A: Feri Malaysia menghubungkan Semenanjung dengan Sabah serta Sarawak untuk menggalakkan hubungan dan integrasi penduduk."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：B（I、IV）：实践Rukun Negara培养相互尊重和共同价值，有助和谐及人民福祉。
+Bahasa Melayu: B (I dan IV): Penghayatan Rukun Negara memupuk nilai bersama dan saling menghormati untuk meningkatkan keharmonian serta kesejahteraan rakyat."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：A：健康设施提高医疗服务的可达性，改善人民整体生活品质，不限于预防传染病。
+Bahasa Melayu: A: Kemudahan kesihatan meningkatkan akses rawatan dan kualiti hidup secara menyeluruh, bukan hanya mencegah penyakit berjangkit."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：题库暂存A，但按题图应为C（II、III）：汽车工业创造就业并增加人民收入。控制通胀并非Proton及Perodua发展的主要目的；PRODUA亦是PERODUA的笔误。
+Bahasa Melayu: Kunci semasa ialah A, tetapi gambar menyokong C (II dan III): industri kereta membuka pekerjaan dan meningkatkan pendapatan rakyat. Mengatasi inflasi bukan tujuan utamanya; PRODUA juga kesilapan ejaan PERODUA."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：C：Colombo计划提供技术、教育及发展合作，协助英联邦成员改善生活与减贫。
+Bahasa Melayu: C: Rancangan Colombo menyediakan kerjasama teknikal, pendidikan dan pembangunan untuk menangani kemiskinan negara anggota."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：B：印度支那的战争及共产党扩张影响区域安全，是1976年ASEAN峰会关注的问题。
+Bahasa Melayu: B: Pergolakan Indochina dan perluasan komunis mempengaruhi keselamatan serantau serta dibincangkan dalam sidang ASEAN 1976."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：D：马来西亚位于区域交通及海上路线的战略位置，被非法网络利用为转运地点。
+Bahasa Melayu: D: Kedudukan Malaysia yang strategik pada laluan perhubungan serantau dimanfaatkan oleh sindiket sebagai lokasi transit."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：A：ASEAN Community推动更紧密的经济合作及整合，以促进成员国共同增长。
+Bahasa Melayu: A: Komuniti ASEAN menggalakkan kerjasama dan integrasi ekonomi untuk meningkatkan pertumbuhan bersama negara anggota."

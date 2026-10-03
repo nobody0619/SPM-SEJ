@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：传统主权以君主领导及人民效忠为核心，不是现代选举或国际组织认可的概念。
+Bahasa Melayu: Kedaulatan tradisional berasaskan pemerintahan raja dan kesetiaan rakyat, bukan pilihan raya moden atau pengiktirafan antarabangsa."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：公平分配国家财富减少不满及族群经济差距，帮助形成政治稳定与公众信任。
+Bahasa Melayu: Pengagihan kekayaan secara adil mengurangkan rasa tidak puas hati dan jurang ekonomi, lalu menyokong kestabilan politik."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：定期选举让人民选择政府代表，体现民主；保留君主本身不能单独证明民主。
+Bahasa Melayu: Pilihan raya membolehkan rakyat memilih wakil kerajaan dan menunjukkan amalan demokrasi. Institusi beraja sahaja bukan bukti demokrasi."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：国会通过宪法修订，使1965年新加坡退出联邦得到法律落实。
+Bahasa Melayu: Pindaan Perlembagaan melalui Parlimen melaksanakan pemisahan Singapura daripada Malaysia pada 1965."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：司法机关解释法律并在审理案件中适用法律，故I和IV符合这里的分类；制定及修订法律由立法机关负责。
+Bahasa Melayu: Badan kehakiman mentafsir dan melaksanakan undang-undang melalui pengadilan kes, maka I dan IV tepat. Penggubalan serta pindaan ialah tugas perundangan."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：课本明确列出统治者会议在特定案件中担任赦免委员会，因此C正确；不是首相任命者或武装部队领导机关。
+Bahasa Melayu: Buku teks menyatakan Majlis Raja-Raja menjadi Lembaga Pengampunan bagi kes tertentu, maka C tepat. Ia bukan pihak yang melantik Perdana Menteri atau mengetuai tentera."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：地方政府及房屋部协助提供低成本住房，改善人民居住条件。
+Bahasa Melayu: Kementerian Kerajaan Tempatan dan Perumahan menyediakan perumahan kos rendah untuk meningkatkan keadaan tempat tinggal rakyat."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：ESSCOM重点加强沙巴东部安全，协调防卫以应对入侵等威胁。
+Bahasa Melayu: ESSCOM menyelaras keselamatan di pantai timur Sabah untuk menghadapi ancaman seperti pencerobohan."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：Lord Brassey提出把砂拉越、沙巴、马来州及海峡殖民地联合的早期建议。
+Bahasa Melayu: Lord Brassey mengemukakan cadangan awal penggabungan Sarawak, Sabah, negeri Melayu dan Negeri-negeri Selat."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：Barisan Sosialis把马来西亚看作新殖民安排，认为会延续外国控制，因此反对成立。
+Bahasa Melayu: Barisan Sosialis menganggap Malaysia sebagai penjajahan baharu yang meneruskan pengaruh asing, lalu menentangnya."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：政府宣布紧急状态，采取即时安全措施限制混乱及恢复秩序，是应对513事件的直接行动。
+Bahasa Melayu: Pengisytiharan darurat membolehkan langkah keselamatan segera untuk menghentikan kekacauan dan memulihkan ketenteraman selepas 13 Mei."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：MAGERAN通过执行煽动法限制挑动族群仇恨的言论，以恢复社会和平。
+Bahasa Melayu: MAGERAN menguatkuasakan Akta Hasutan untuk membendung ucapan yang membangkitkan kebencian kaum dan memulihkan ketenteraman."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：团结让不同族群在共同国家认同下合作，而不是以狭隘州属意识区分彼此。
+Bahasa Melayu: Perpaduan menghubungkan rakyat pelbagai kaum berasaskan identiti kebangsaan bersama, bukan semangat kenegerian yang memisahkan mereka."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家教育政策培养熟练人力并团结各族人民，故I和IV正确；不是以增加分流为主要目标。
+Bahasa Melayu: Dasar Pendidikan Kebangsaan menyediakan tenaga kerja mahir dan menyatukan rakyat pelbagai kaum. Maka I dan IV tepat."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：这一时期对应新经济政策，通过消除贫困及重组社会建立繁荣。标准DEB时期是1971至1990年，题干1970起应注意。
+Bahasa Melayu: Tempoh ini merujuk DEB yang membasmi kemiskinan dan menyusun semula masyarakat. Tempoh rasmi ialah 1971–1990 walaupun soalan menyebut 1970."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：自由工业区给予关税或税务优惠，降低投资者成本，吸引企业并带动周围经济。
+Bahasa Melayu: Zon Perindustrian Bebas memberikan pelepasan cukai atau tarif untuk menarik pelabur dan merangsang ekonomi kawasan sekitar."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：原答案B为I和IV，但课本列出的外交因素包括历史联系及区域关系，因此I和II、A更符合。不能把“领袖需要”当作这组课本标准因素。
+Bahasa Melayu: Jawapan asal B memilih I dan IV, tetapi faktor dasar luar dalam buku teks merangkumi ikatan sejarah dan hubungan serantau. Oleh itu, I dan II, A, lebih sesuai berbanding keperluan pemimpin."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：1971年吉隆坡宣言提出和平、自由与中立区ZOPFAN，希望东南亚免受强权干预。
+Bahasa Melayu: Deklarasi Kuala Lumpur 1971 mengisytiharkan ZOPFAN supaya Asia Tenggara aman, bebas dan berkecuali daripada campur tangan kuasa besar."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：良好农业规范GAP改善棕油生产管理及环境表现，回应反棕油运动的批评并提升产品信誉。
+Bahasa Melayu: GAP memperbaik pengurusan pertanian dan kelestarian pengeluaran sawit untuk menjawab kritikan serta meningkatkan keyakinan terhadap produk."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：泥炭地火灾释放大量烟雾并引起跨境烟霾，所以合作研究预防泥炭地火灾能处理烟霾根源。
+Bahasa Melayu: Kebakaran tanah gambut menghasilkan asap tebal dan jerebu rentas sempadan, maka penyelidikan pencegahannya menangani punca jerebu."

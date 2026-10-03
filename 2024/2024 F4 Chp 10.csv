@@ -1,38 +1,75 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 10,radio,JohorBahru_Q19,A,B,C,D,B,Johor Bahru/Picture19.png
-F4 Chp 10,radio,Kedah_Q19,A,B,C,D,B,Kedah/Picture19.png
-F4 Chp 10,radio,Kelantan_Q19,A,B,C,D,D,Kelantan/Picture19.png
-F4 Chp 10,radio,KlSentul_Q19,A,B,C,D,D,KL Sentul/Picture19.png
-F4 Chp 10,radio,Melaka_Q19,A,B,C,D,B,Melaka/Picture19.png
-F4 Chp 10,radio,N_Q19,A,B,C,D,A,N9/Picture19.png
-F4 Chp 10,radio,Penang_Q19,A,B,C,D,D,Penang/Picture19.png
-F4 Chp 10,radio,Perak_Q19,A,B,C,D,C,Perak/Picture19.png
-F4 Chp 10,radio,Perlis_Q19,A,B,C,D,A,Perlis/Picture19.png
-F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,D,Putrajaya set 1/Picture19.png
-F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,A,Putrajaya set 2/Picture19.png
-F4 Chp 10,radio,SarawakSerian_Q19,A,B,C,D,D,Sarawak Serian/Picture19.png
-F4 Chp 10,radio,Sbp_Q19,A,B,C,D,A,SBP/Picture19.png
-F4 Chp 10,radio,SelangorSet_Q19,A,B,C,D,D,Selangor set 1/Picture19.png
-F4 Chp 10,radio,SelangorSet_Q19,A,B,C,D,D,Selangor set 2/Picture19.png
-F4 Chp 10,radio,SelangorSet_Q19,A,B,C,D,A,Selangor set 3/Picture19.png
-F4 Chp 10,radio,Smka_Q19,A,B,C,D,B,SMKA/Picture19.png
-F4 Chp 10,radio,JohorBahru_Q20,A,B,C,D,A,Johor Bahru/Picture20.png
-F4 Chp 10,radio,Kedah_Q20,A,B,C,D,B,Kedah/Picture20.png
-F4 Chp 10,radio,Kelantan_Q20,A,B,C,D,A,Kelantan/Picture20.png
-F4 Chp 10,radio,KlSentul_Q20,A,B,C,D,C,KL Sentul/Picture20.png
-F4 Chp 10,radio,Melaka_Q20,A,B,C,D,B,Melaka/Picture20.png
-F4 Chp 10,radio,Mrsm_Q20,A,B,C,D,A,MRSM/Picture20.png
-F4 Chp 10,radio,N_Q20,A,B,C,D,D,N9/Picture20.png
-F4 Chp 10,radio,Pahang_Q20,A,B,C,D,B,Pahang/Picture20.png
-F4 Chp 10,radio,Penang_Q20,A,B,C,D,C,Penang/Picture20.png
-F4 Chp 10,radio,Perak_Q20,A,B,C,D,A,Perak/Picture20.png
-F4 Chp 10,radio,Perlis_Q20,A,B,C,D,D,Perlis/Picture20.png
-F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,C,Putrajaya set 1/Picture20.png
-F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,D,Putrajaya set 2/Picture20.png
-F4 Chp 10,radio,SarawakSerian_Q20,A,B,C,D,B,Sarawak Serian/Picture20.png
-F4 Chp 10,radio,Sbp_Q20,A,B,C,D,B,SBP/Picture20.png
-F4 Chp 10,radio,SelangorSet_Q20,A,B,C,D,B,Selangor set 1/Picture20.png
-F4 Chp 10,radio,SelangorSet_Q20,A,B,C,D,B,Selangor set 2/Picture20.png
-F4 Chp 10,radio,SelangorSet_Q20,A,B,C,D,D,Selangor set 3/Picture20.png
-F4 Chp 10,radio,Smka_Q20,A,B,C,D,A,SMKA/Picture20.png
-F4 Chp 10,radio,Terengganu_Q21,A,B,C,D,B,Terengganu/Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 10,radio,JohorBahru_Q19,A,B,C,D,B,Johor Bahru/Picture19.png,"中文：Mohamed Hamzah设计国家旗帜，原设计经过调整成为联邦旗帜，后来发展为马来西亚国旗。因此选B。
+Bahasa Melayu: Mohamed Hamzah mereka bentuk bendera kebangsaan yang kemudiannya disesuaikan bagi Persekutuan dan Malaysia. Oleh itu, B tepat."
+F4 Chp 10,radio,Kedah_Q19,A,B,C,D,B,Kedah/Picture19.png,"中文：B：实体准备委员会建设体育场等设施；庆典委员会安排礼宾课程，让官员接待正式嘉宾。
+Bahasa Melayu: B: Jawatankuasa fizikal menyediakan kemudahan seperti stadium, manakala jawatankuasa sambutan menganjurkan kursus protokol untuk pegawai."
+F4 Chp 10,radio,Kelantan_Q19,A,B,C,D,D,Kelantan/Picture19.png,"中文：D：准备体育场、国家象征及庆典设施，使独立国家的新身份在仪式中呈现。
+Bahasa Melayu: D: Persediaan fizikal seperti stadium, lambang dan kemudahan sambutan menonjolkan identiti negara merdeka."
+F4 Chp 10,radio,KlSentul_Q19,A,B,C,D,D,KL Sentul/Picture19.png,"中文：物质准备委员会除安排体育场及王宫，也重视国家象征，包括准备国歌供独立典礼使用。因此X可对应创作国歌，选D。
+Bahasa Melayu: Persediaan fizikal turut melibatkan pembentukan identiti negara, termasuk penyediaan lagu kebangsaan untuk upacara kemerdekaan. Oleh itu, X ialah D."
+F4 Chp 10,radio,Melaka_Q19,A,B,C,D,B,Melaka/Picture19.png,"中文：庆典委员会举办礼仪课程，让参与独立仪式的人熟悉正式程序。
+Bahasa Melayu: Jawatankuasa Sambutan menganjurkan kursus protokol agar peserta memahami tatacara upacara kemerdekaan."
+F4 Chp 10,radio,N_Q19,A,B,C,D,A,N9/Picture19.png,"中文：礼仪课程、提前发薪及订购旗帜是庆典委员会安排独立庆祝的任务。
+Bahasa Melayu: Kursus protokol, gaji awal dan tempahan bendera ialah tugas Jawatankuasa Sambutan untuk perayaan kemerdekaan."
+F4 Chp 10,radio,Penang_Q19,A,B,C,D,D,Penang/Picture19.png,"中文：了解、纪念及尊崇独立领袖的牺牲，是直接表达感恩的方法。
+Bahasa Melayu: Memahami, mengenang dan menyanjung pengorbanan pejuang ialah cara langsung menghargai jasa mereka."
+F4 Chp 10,radio,Perak_Q19,A,B,C,D,C,Perak/Picture19.png,"中文：国旗替代象征新独立主权国家成立，英国殖民权力终结。
+Bahasa Melayu: Pertukaran bendera menandakan pembentukan negara berdaulat merdeka dan berakhirnya kuasa penjajah British."
+F4 Chp 10,radio,Perlis_Q19,A,B,C,D,A,Perlis/Picture19.png,"中文：Soekarno把独立理解为永久自由，包括摆脱压迫政治及专制，能够自由思考与行动。
+Bahasa Melayu: Soekarno mentakrifkan kemerdekaan sebagai kebebasan selama-lamanya untuk berfikir dan bertindak daripada penindasan serta rejim autokratik."
+F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,D,Putrajaya set 1/Picture19.png,"中文：国徽与国歌是正式国家象征，代表身份与主权，所以III和IV正确；传统风筝及短剑不是这里同一类别。
+Bahasa Melayu: Jata Negara dan Lagu Kebangsaan ialah lambang rasmi identiti serta kedaulatan negara. Maka III dan IV tepat."
+F4 Chp 10,radio,PutrajayaSet_Q19,A,B,C,D,A,Putrajaya set 2/Picture19.png,"中文：独立典礼、场地及国家标志让新国家展示自身身份与主权。
+Bahasa Melayu: Persediaan upacara, tempat dan lambang kemerdekaan menonjolkan identiti serta kedaulatan negara baharu."
+F4 Chp 10,radio,SarawakSerian_Q19,A,B,C,D,D,Sarawak Serian/Picture19.png,"中文：D：Kamus Dewan把独立解释为摆脱殖民、束缚或外来控制，能够自主治理。
+Bahasa Melayu: D: Kemerdekaan menurut Kamus Dewan merujuk kebebasan daripada penjajahan, kurungan atau penguasaan luar."
+F4 Chp 10,radio,Sbp_Q19,A,B,C,D,A,SBP/Picture19.png,"中文：官员接受礼宾训练以接待及陪同受邀来宾，确保独立庆典流程得体。
+Bahasa Melayu: Pegawai diberi latihan protokol untuk mengiringi tetamu jemputan dan memastikan sambutan berjalan tertib."
+F4 Chp 10,radio,SelangorSet_Q19,A,B,C,D,D,Selangor set 1/Picture19.png,"中文：D：国会大厦象征议会民主，人民代表在其中讨论及制定国家法律。
+Bahasa Melayu: D: Bangunan Parlimen melambangkan pengamalan demokrasi kerana wakil rakyat membincangkan dan menggubal undang-undang di situ."
+F4 Chp 10,radio,SelangorSet_Q19,A,B,C,D,D,Selangor set 2/Picture19.png,"中文：D：场地与国家象征的准备使独立庆典展示新国家身份，而不只是布置街道。
+Bahasa Melayu: D: Persediaan fizikal dan lambang kebangsaan menonjolkan identiti negara merdeka, bukan sekadar menghias jalan."
+F4 Chp 10,radio,SelangorSet_Q19,A,B,C,D,A,Selangor set 3/Picture19.png,"中文：A：国歌、国徽及国旗展示国家共同身份，区分马来西亚与其他国家。
+Bahasa Melayu: A: Negaraku, Jata Negara dan bendera kebangsaan menonjolkan identiti bersama yang membezakan Malaysia daripada negara lain."
+F4 Chp 10,radio,Smka_Q19,A,B,C,D,B,SMKA/Picture19.png,"中文：降下Union Jack象征英国殖民统治结束，升起联邦旗则象征独立与主权。
+Bahasa Melayu: Penurunan Union Jack melambangkan tamatnya penjajahan British, sementara bendera Persekutuan menunjukkan kemerdekaan."
+F4 Chp 10,radio,JohorBahru_Q20,A,B,C,D,A,Johor Bahru/Picture20.png,"中文：政府、领土和法律主权让国家能够独立治理，不受外国控制。答案A强调摆脱外来支配，这是主权的重要意义。
+Bahasa Melayu: Kerajaan, wilayah dan kedaulatan undang-undang membolehkan negara mentadbir secara bebas tanpa penguasaan asing. A menekankan kebebasan daripada pihak luar, selaras dengan kepentingan kedaulatan."
+F4 Chp 10,radio,Kedah_Q20,A,B,C,D,B,Kedah/Picture20.png,"中文：B：Buku Merah记录发展项目，供各地监督基本设施计划的进度与落实。
+Bahasa Melayu: B: Buku Merah menjadi panduan merekod dan memantau perkembangan projek serta kemudahan asas di seluruh negara."
+F4 Chp 10,radio,Kelantan_Q20,A,B,C,D,A,Kelantan/Picture20.png,"中文：A：降下Union Jack、结束英国国歌象征殖民统治告终，国家开始独立。
+Bahasa Melayu: A: Penurunan Union Jack dan berakhirnya penggunaan lagu British menandakan tamatnya penjajahan serta permulaan negara merdeka."
+F4 Chp 10,radio,KlSentul_Q20,A,B,C,D,C,KL Sentul/Picture20.png,"中文：红皮书计划记录发展项目及进度，让政府监督和评估计划落实情况，特别是乡村发展。因此选C。
+Bahasa Melayu: Rancangan Buku Merah merekodkan projek dan kemajuan pembangunan supaya pelaksanaannya dapat dipantau serta dinilai. Oleh itu, C tepat."
+F4 Chp 10,radio,Melaka_Q20,A,B,C,D,B,Melaka/Picture20.png,"中文：降下英国旗、升起联邦旗象征英国统治结束和独立国家开始。
+Bahasa Melayu: Penurunan Union Jack dan penaikan bendera Persekutuan menandakan tamatnya pentadbiran British serta bermulanya kemerdekaan."
+F4 Chp 10,radio,Mrsm_Q20,A,B,C,D,A,MRSM/Picture20.png,"中文：A：实体准备委员会负责国家元首居所及重要庆典场所等设施；礼宾课程及提前发薪属庆典安排。
+Bahasa Melayu: A: Jawatankuasa fizikal menyediakan kemudahan seperti istana dan tempat utama sambutan, manakala protokol serta gaji awal berkaitan urusan sambutan."
+F4 Chp 10,radio,N_Q20,A,B,C,D,D,N9/Picture20.png,"中文：独立后马来亚实行议会民主，由人民选代表参与国家治理。
+Bahasa Melayu: Selepas merdeka, Tanah Melayu mengamalkan Demokrasi Berparlimen dengan wakil dipilih rakyat."
+F4 Chp 10,radio,Pahang_Q20,A,B,C,D,B,Pahang/Picture20.png,"中文：独立政府须逐步由本地人接替欧洲官员，建立具备能力的本地行政与专业队伍。
+Bahasa Melayu: Kerajaan merdeka perlu menggantikan pegawai Eropah secara berperingkat dengan rakyat tempatan dalam pentadbiran dan bidang profesional."
+F4 Chp 10,radio,Penang_Q20,A,B,C,D,C,Penang/Picture20.png,"中文：AMDA安排英国及盟友国防援助，巩固独立后的马来亚安全。
+Bahasa Melayu: AMDA menyediakan bantuan pertahanan British dan sekutunya untuk memperkukuh keselamatan Tanah Melayu merdeka."
+F4 Chp 10,radio,Perak_Q20,A,B,C,D,A,Perak/Picture20.png,"中文：这些计划改善乡村设施、开发土地和增加农民收入，共同目标是发展乡村。
+Bahasa Melayu: Rancangan ini memperbaik kemudahan, membuka tanah dan menambah pendapatan petani untuk memajukan luar bandar."
+F4 Chp 10,radio,Perlis_Q20,A,B,C,D,D,Perlis/Picture20.png,"中文：议会民主让人民通过选举选择代表及领导政府的政党，是参与政治决策的制度。
+Bahasa Melayu: Demokrasi berparlimen memberikan rakyat kuasa memilih wakil dan pemimpin melalui pilihan raya."
+F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,C,Putrajaya set 1/Picture20.png,"中文：独立确立本国的议会民主政府，让民选领袖负责治理；部分选举实践在独立前已开始，并非此前完全没有民主。
+Bahasa Melayu: Kemerdekaan meneguhkan kerajaan demokrasi berparlimen pimpinan tempatan. Amalan pilihan raya telah bermula sebelum merdeka, bukan baharu sepenuhnya selepasnya."
+F4 Chp 10,radio,PutrajayaSet_Q20,A,B,C,D,D,Putrajaya set 2/Picture20.png,"中文：了解民族主义者的付出并尊重其牺牲，是对他们争取独立贡献的直接感谢。
+Bahasa Melayu: Menyanjung dan memahami pengorbanan tokoh nasionalis merupakan penghargaan langsung terhadap jasa mencapai kemerdekaan."
+F4 Chp 10,radio,SarawakSerian_Q20,A,B,C,D,B,Sarawak Serian/Picture20.png,"中文：B（I、IV）：国徽和国旗表现国家身份，并凝聚人民的共同归属感与团结。
+Bahasa Melayu: B (I dan IV): Jata Negara dan bendera menjadi lambang jati diri serta simbol perpaduan rakyat dalam sebuah negara."
+F4 Chp 10,radio,Sbp_Q20,A,B,C,D,B,SBP/Picture20.png,"中文：人民通过选举选择代表，获支持的政党组成政府，是议会民主运作方式。
+Bahasa Melayu: Rakyat memilih wakil melalui pilihan raya dan parti yang mendapat sokongan membentuk kerajaan dalam demokrasi berparlimen."
+F4 Chp 10,radio,SelangorSet_Q20,A,B,C,D,B,Selangor set 1/Picture20.png,"中文：B（I、IV）：本题以国家象征及人民为答案：象征表现身份，人民构成国家共同体。语言与军队也重要，但不是这里指定的组合。
+Bahasa Melayu: B (I dan IV): Soalan ini menekankan lambang yang menunjukkan identiti dan rakyat yang membentuk negara. Bahasa serta tentera penting, tetapi bukan pasangan yang ditetapkan dalam soalan ini."
+F4 Chp 10,radio,SelangorSet_Q20,A,B,C,D,B,Selangor set 2/Picture20.png,"中文：B：加入英联邦延续与成员国的社会及经济合作，包括教育、贸易与发展。
+Bahasa Melayu: B: Penyertaan Komanwel merapatkan hubungan sosioekonomi dengan negara anggota melalui pendidikan, perdagangan dan pembangunan."
+F4 Chp 10,radio,SelangorSet_Q20,A,B,C,D,D,Selangor set 3/Picture20.png,"中文：D：主权指国家的最高统治权，使国家自主治理而不受外来支配。
+Bahasa Melayu: D: Kedaulatan bermaksud kuasa tertinggi yang membolehkan negara mentadbir secara bebas tanpa penguasaan luar."
+F4 Chp 10,radio,Smka_Q20,A,B,C,D,A,SMKA/Picture20.png,"中文：公民身份确认人民对国家的权利与责任，国家标志展示独立身份，所以原答案选I和II。国际关系也是主权表现，题项并非完全互斥。
+Bahasa Melayu: Pengiktirafan rakyat menetapkan hak dan tanggungjawab, manakala lambang kebangsaan menunjukkan identiti negara; skema memilih I dan II. Hubungan antarabangsa juga menunjukkan kedaulatan, jadi pilihan tidak sepenuhnya saling mengecualikan."
+F4 Chp 10,radio,Terengganu_Q21,A,B,C,D,B,Terengganu/Picture21.png,"中文：B：马来亚通过政治合作及谈判取得独立，庆典代表这一和平争取独立过程的成果。
+Bahasa Melayu: B: Kemerdekaan Tanah Melayu dicapai melalui kerjasama politik dan rundingan, dan pemasyhuran tersebut menandakan kejayaan perjuangan secara aman."

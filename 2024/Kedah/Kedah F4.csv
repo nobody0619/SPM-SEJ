@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kedah F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kedah F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：A：Majapahit法律规范人民行为和行政事务，以维护社会秩序及国家福祉。
+Bahasa Melayu: A: Undang-undang Majapahit mengatur kehidupan dan pentadbiran untuk menjamin ketenteraman serta kesejahteraan kerajaan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：C：两部法律都列明罪行与刑罚；家庭法规及王室大臣职责并非海事法的共同重点。
+Bahasa Melayu: C: Kedua-dua undang-undang menerangkan kesalahan jenayah dan hukumannya, walaupun bidang lain yang diaturnya berbeza."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：B：Jose Rizal成立Liga Filipina推动改革，争取菲律宾成为西班牙领土的一部分并享有权利。
+Bahasa Melayu: B: Jose Rizal menubuhkan Liga Filipina untuk memperjuangkan pembaharuan dan tuntutan Filipina menjadi sebahagian wilayah Sepanyol."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：C：泰国采用西方行政改革，提高治理能力以应对列强压力，维护国家独立。
+Bahasa Melayu: C: Pemodenan birokrasi meningkatkan keupayaan Thailand menghadapi tekanan kuasa Barat dan mengekalkan kedaulatan negara."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：军事联盟使一个冲突牵动多个国家，扩大为第一次世界大战；国联失败属于第二次大战背景。
+Bahasa Melayu: C: Pakatan ketenteraan menyebabkan konflik melibatkan banyak negara sehingga tercetus Perang Dunia Pertama. Kegagalan Liga Bangsa-Bangsa berkaitan perang kemudian."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：D：日据经验显示欧洲殖民者并非不可战胜，并推动当地人反殖民及争取自主的精神。
+Bahasa Melayu: D: Pendudukan Jepun menunjukkan kuasa Barat boleh dikalahkan dan mengembangkan semangat antipenjajah dalam kalangan penduduk tempatan."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：D：英国总督领导、采用jus soli公民原则，是1946年Malayan Union的特点。
+Bahasa Melayu: D: Pentadbiran oleh Gabenor British dan kewarganegaraan melalui jus soli ialah ciri Malayan Union 1946."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：A（I、II）：战后修复缺乏资金及王位继承困难，促使Vyner Brooke移交砂拉越。
+Bahasa Melayu: A (I dan II): Kekurangan kewangan selepas perang dan masalah pewarisan takhta mendorong Vyner Brooke menyerahkan Sarawak."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：D：工作委员会负责拟定取代Malayan Union的联合邦协议内容，而恢复王权等属于其具体建议。
+Bahasa Melayu: D: Jawatankuasa Kerja merangka isi Perjanjian Persekutuan Tanah Melayu; pemulihan kuasa raja ialah antara cadangannya."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：B（I、IV）：1948年协议开启族群政治合作，并保障马来人的特殊地位。
+Bahasa Melayu: B (I dan IV): Perjanjian 1948 memulakan asas kerjasama kaum dan melindungi kedudukan istimewa orang Melayu."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：A：Templer以心理战措施争取合作，包括针对Tanjung Malim施加限制及收集信息，以取得共产党情报。
+Bahasa Melayu: A: Templer menggunakan Perang Saraf, termasuk tekanan serta usaha mendapatkan maklumat di Tanjung Malim, untuk memperoleh kerjasama penduduk."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：B：英国为争取人民支持而加快自治及独立进程，这属于紧急状态的政治影响。
+Bahasa Melayu: B: British mempercepat proses pemerintahan sendiri dan kemerdekaan untuk memperoleh sokongan rakyat, sebagai kesan politik Darurat."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：D：Sistem Ahli让本地人领导部门，培养治理经验，为接掌政府作准备。
+Bahasa Melayu: D: Sistem Ahli memberi pemimpin tempatan peluang menerajui portfolio dan memperoleh pengalaman untuk mentadbir kerajaan sendiri."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：D：英殖民时期各语文学校采用不同课程及教学媒介，缺少共同的教育基础。
+Bahasa Melayu: D: Sekolah pelbagai aliran pada zaman British menggunakan kurikulum dan bahasa pengantar berlainan, menyebabkan pendidikan tidak seragam."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B（I、IV）：1955年候选人须年满21岁及为联邦公民；不必是政党领袖。
+Bahasa Melayu: B (I dan IV): Calon 1955 perlu berumur 21 tahun ke atas dan menjadi warganegara Persekutuan; tidak semestinya pemimpin parti politik."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：首届内阁让本地部长承担更多职责，逐步减少英国官员在行政中的权力。
+Bahasa Melayu: B: Kabinet pertama membolehkan pemimpin tempatan memegang tanggungjawab dan mengurangkan kuasa pentadbiran British secara beransur-ansur."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：A：1956年2月东姑在马六甲宣布1957年8月31日为独立日期，带回伦敦谈判成果。
+Bahasa Melayu: A: Tunku mengumumkan tarikh kemerdekaan 31 Ogos 1957 di Melaka selepas membawa pulang hasil rundingan London."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C：制宪委员会参考条款包括建立共同公民身份，作为独立国家人民组成的基础。
+Bahasa Melayu: C: Terma rujukan suruhanjaya merangkumi pembentukan satu bentuk kewarganegaraan sebagai asas rakyat negara merdeka."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：B：实体准备委员会建设体育场等设施；庆典委员会安排礼宾课程，让官员接待正式嘉宾。
+Bahasa Melayu: B: Jawatankuasa fizikal menyediakan kemudahan seperti stadium, manakala jawatankuasa sambutan menganjurkan kursus protokol untuk pegawai."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B：Buku Merah记录发展项目，供各地监督基本设施计划的进度与落实。
+Bahasa Melayu: B: Buku Merah menjadi panduan merekod dan memantau perkembangan projek serta kemudahan asas di seluruh negara."

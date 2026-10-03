@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Perlis 2024,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis 2024,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：法律规范人民及统治者行为，处理犯罪与纠纷，保障秩序及王国安定。
+Bahasa Melayu: Undang-undang mengawal tingkah laku, menangani kesalahan dan pertikaian serta menjamin kesejahteraan kerajaan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：大臣在领地维持和平与秩序，让居民安全生活，是照顾人民福利的基本责任。
+Bahasa Melayu: Pembesar memelihara keamanan di kawasan pegangan supaya rakyat hidup selamat dan kebajikan mereka terjaga."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：光荣革命反对James II专制，确立议会权威及限制君主权力，而不是加强绝对王权。
+Bahasa Melayu: Revolusi Keagungan menentang pemerintahan mutlak James II dan menegakkan kedaulatan Parlimen dengan mengehadkan kuasa raja."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：吉打苏丹反对英国东印度公司，是要收回被Francis Light占据的槟城。
+Bahasa Melayu: Sultan Abdullah Mukarram Shah menentang SHTI untuk mendapatkan semula Pulau Pinang yang dikuasai Francis Light."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：军事结盟及帝国主义竞争加剧欧洲紧张，并把局部冲突扩大成战争，所以I和IV正确。
+Bahasa Melayu: Pakatan ketenteraan dan persaingan kuasa imperialis meningkatkan ketegangan Eropah serta meluaskan konflik. Maka I dan IV tepat."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：Yaakob Bidin因勇敢抗敌而获Military Medal，奖章对应其战场英勇表现。
+Bahasa Melayu: Yaakob Bidin menerima Military Medal kerana keberanian dalam perjuangan menentang tentera Jepun."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：人民通过马来大会集合力量，并以报刊宣传反对马来亚联盟，故III和IV正确；高等法院行动主要与统治者有关。
+Bahasa Melayu: Rakyat mengadakan Kongres Melayu dan menggunakan akhbar untuk menentang Malayan Union, maka III dan IV tepat. Tindakan mahkamah terutama berkaitan raja."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：SBUB无足够资金重建战后的沙巴，因此把当地移交英国政府。
+Bahasa Melayu: SBUB kekurangan dana untuk membangunkan semula Sabah selepas perang, lalu menyerahkannya kepada British."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：Hamzah Abdullah及Nik Ahmad Kamil是统治者代表；Onn Jaafar及Abdul Rahman Yassin代表UMNO，故II和III正确。
+Bahasa Melayu: Hamzah Abdullah dan Nik Ahmad Kamil mewakili Raja-raja Melayu, sementara Onn Jaafar serta Abdul Rahman Yassin mewakili UMNO. Maka II dan III tepat."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：1948年联邦承认马来人特殊地位，并恢复统治者主权，回应马来人对联盟制度的忧虑。
+Bahasa Melayu: PTM 1948 mengiktiraf kedudukan istimewa orang Melayu dan memulihkan kedaulatan raja sebagai tindak balas terhadap kebimbangan mengenai Malayan Union."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：Sarawak Rangers熟悉森林及追踪技术，协助寻找共产党的藏身地点。
+Bahasa Melayu: Sarawak Rangers mahir menjejak dan memahami hutan, lalu mengesan tempat persembunyian komunis."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：粮食配给限制购买与供应，居民难以取得足够食物，成为紧急状态期间生活困苦的原因。
+Bahasa Melayu: Catuan makanan mengehadkan bekalan dan pembelian sehingga menyukarkan rakyat mendapatkan makanan yang mencukupi."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：RIDA提供经济援助及训练，扩大马来人在商业与企业活动的机会，以改善经济差距。
+Bahasa Melayu: RIDA memberi bantuan serta latihan untuk menambah peluang orang Melayu dalam perniagaan dan perusahaan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：帆船象征各成员共同前进并准备面对风浪，体现联盟愿意一起克服挑战。
+Bahasa Melayu: Kapal layar melambangkan kesediaan anggota Perikatan bergerak bersama dan menempuh cabaran."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：选举让本地代表参与立法及治理，证明自治能力并加快争取独立。D也是民主结果的相关描述，原答案A强调通往独立的进展。
+Bahasa Melayu: Pemilihan wakil tempatan membuktikan kemampuan berkerajaan sendiri dan mempercepat kemerdekaan. D berkaitan hasil demokrasi, tetapi skema asal A menekankan kemajuan menuju merdeka."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：首届内阁显示本地领袖具能力及承担治理责任的权威，体现有威望、有能力的领导。
+Bahasa Melayu: Kabinet pertama menunjukkan kewibawaan pemimpin tempatan yang mampu memikul tanggungjawab mentadbir negara."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：乘船行程提供时间让统治者代表与联盟代表商议并统一伦敦谈判策略。
+Bahasa Melayu: Perjalanan kapal laut memberikan masa untuk wakil raja dan Perikatan menyusun serta menyelaraskan strategi rundingan London."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：公众及团体向里德委员会提交备忘录，把要求与意见纳入宪法讨论。
+Bahasa Melayu: Rakyat dan pertubuhan mengemukakan memorandum kepada Suruhanjaya Reid untuk menyampaikan cadangan dalam penggubalan Perlembagaan."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：Soekarno把独立理解为永久自由，包括摆脱压迫政治及专制，能够自由思考与行动。
+Bahasa Melayu: Soekarno mentakrifkan kemerdekaan sebagai kebebasan selama-lamanya untuk berfikir dan bertindak daripada penindasan serta rejim autokratik."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：议会民主让人民通过选举选择代表及领导政府的政党，是参与政治决策的制度。
+Bahasa Melayu: Demokrasi berparlimen memberikan rakyat kuasa memilih wakil dan pemimpin melalui pilihan raya."
+,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：传统主权以君主领导及人民效忠为核心，不是现代选举或国际组织认可的概念。
+Bahasa Melayu: Kedaulatan tradisional berasaskan pemerintahan raja dan kesetiaan rakyat, bukan pilihan raya moden atau pengiktirafan antarabangsa."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：公平分配国家财富减少不满及族群经济差距，帮助形成政治稳定与公众信任。
+Bahasa Melayu: Pengagihan kekayaan secara adil mengurangkan rasa tidak puas hati dan jurang ekonomi, lalu menyokong kestabilan politik."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：定期选举让人民选择政府代表，体现民主；保留君主本身不能单独证明民主。
+Bahasa Melayu: Pilihan raya membolehkan rakyat memilih wakil kerajaan dan menunjukkan amalan demokrasi. Institusi beraja sahaja bukan bukti demokrasi."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：国会通过宪法修订，使1965年新加坡退出联邦得到法律落实。
+Bahasa Melayu: Pindaan Perlembagaan melalui Parlimen melaksanakan pemisahan Singapura daripada Malaysia pada 1965."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：司法机关解释法律并在审理案件中适用法律，故I和IV符合这里的分类；制定及修订法律由立法机关负责。
+Bahasa Melayu: Badan kehakiman mentafsir dan melaksanakan undang-undang melalui pengadilan kes, maka I dan IV tepat. Penggubalan serta pindaan ialah tugas perundangan."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：课本明确列出统治者会议在特定案件中担任赦免委员会，因此C正确；不是首相任命者或武装部队领导机关。
+Bahasa Melayu: Buku teks menyatakan Majlis Raja-Raja menjadi Lembaga Pengampunan bagi kes tertentu, maka C tepat. Ia bukan pihak yang melantik Perdana Menteri atau mengetuai tentera."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：地方政府及房屋部协助提供低成本住房，改善人民居住条件。
+Bahasa Melayu: Kementerian Kerajaan Tempatan dan Perumahan menyediakan perumahan kos rendah untuk meningkatkan keadaan tempat tinggal rakyat."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：ESSCOM重点加强沙巴东部安全，协调防卫以应对入侵等威胁。
+Bahasa Melayu: ESSCOM menyelaras keselamatan di pantai timur Sabah untuk menghadapi ancaman seperti pencerobohan."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：Lord Brassey提出把砂拉越、沙巴、马来州及海峡殖民地联合的早期建议。
+Bahasa Melayu: Lord Brassey mengemukakan cadangan awal penggabungan Sarawak, Sabah, negeri Melayu dan Negeri-negeri Selat."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：Barisan Sosialis把马来西亚看作新殖民安排，认为会延续外国控制，因此反对成立。
+Bahasa Melayu: Barisan Sosialis menganggap Malaysia sebagai penjajahan baharu yang meneruskan pengaruh asing, lalu menentangnya."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：政府宣布紧急状态，采取即时安全措施限制混乱及恢复秩序，是应对513事件的直接行动。
+Bahasa Melayu: Pengisytiharan darurat membolehkan langkah keselamatan segera untuk menghentikan kekacauan dan memulihkan ketenteraman selepas 13 Mei."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：MAGERAN通过执行煽动法限制挑动族群仇恨的言论，以恢复社会和平。
+Bahasa Melayu: MAGERAN menguatkuasakan Akta Hasutan untuk membendung ucapan yang membangkitkan kebencian kaum dan memulihkan ketenteraman."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：团结让不同族群在共同国家认同下合作，而不是以狭隘州属意识区分彼此。
+Bahasa Melayu: Perpaduan menghubungkan rakyat pelbagai kaum berasaskan identiti kebangsaan bersama, bukan semangat kenegerian yang memisahkan mereka."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家教育政策培养熟练人力并团结各族人民，故I和IV正确；不是以增加分流为主要目标。
+Bahasa Melayu: Dasar Pendidikan Kebangsaan menyediakan tenaga kerja mahir dan menyatukan rakyat pelbagai kaum. Maka I dan IV tepat."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：这一时期对应新经济政策，通过消除贫困及重组社会建立繁荣。标准DEB时期是1971至1990年，题干1970起应注意。
+Bahasa Melayu: Tempoh ini merujuk DEB yang membasmi kemiskinan dan menyusun semula masyarakat. Tempoh rasmi ialah 1971–1990 walaupun soalan menyebut 1970."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：自由工业区给予关税或税务优惠，降低投资者成本，吸引企业并带动周围经济。
+Bahasa Melayu: Zon Perindustrian Bebas memberikan pelepasan cukai atau tarif untuk menarik pelabur dan merangsang ekonomi kawasan sekitar."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：原答案B为I和IV，但课本列出的外交因素包括历史联系及区域关系，因此I和II、A更符合。不能把“领袖需要”当作这组课本标准因素。
+Bahasa Melayu: Jawapan asal B memilih I dan IV, tetapi faktor dasar luar dalam buku teks merangkumi ikatan sejarah dan hubungan serantau. Oleh itu, I dan II, A, lebih sesuai berbanding keperluan pemimpin."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：1971年吉隆坡宣言提出和平、自由与中立区ZOPFAN，希望东南亚免受强权干预。
+Bahasa Melayu: Deklarasi Kuala Lumpur 1971 mengisytiharkan ZOPFAN supaya Asia Tenggara aman, bebas dan berkecuali daripada campur tangan kuasa besar."
+,radio,F5 Bab 10,A,B,C,D,D,Picture39.png,"中文：良好农业规范GAP改善棕油生产管理及环境表现，回应反棕油运动的批评并提升产品信誉。
+Bahasa Melayu: GAP memperbaik pengurusan pertanian dan kelestarian pengeluaran sawit untuk menjawab kritikan serta meningkatkan keyakinan terhadap produk."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：泥炭地火灾释放大量烟雾并引起跨境烟霾，所以合作研究预防泥炭地火灾能处理烟霾根源。
+Bahasa Melayu: Kebakaran tanah gambut menghasilkan asap tebal dan jerebu rentas sempadan, maka penyelidikan pencegahannya menangani punca jerebu."

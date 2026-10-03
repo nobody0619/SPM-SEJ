@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-SBP 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SBP 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：Lingga与Patani通过友好关系承认马六甲权威，属于友好取得的势力范围，而非战争征服。
+Bahasa Melayu: Lingga dan Patani menerima pengaruh Melaka melalui hubungan persahabatan, bukan penaklukan peperangan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：malim负责导航，严重疏忽可危及船只与人员，重罚的目的在于确保航行安全。
+Bahasa Melayu: Malim mengemudi pelayaran; kecuaian boleh membahayakan kapal dan penumpang, maka hukuman bertujuan menjamin keselamatan pelayaran."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：两人的民族主义解释都强调为民族权益、身份及发展奋斗，不只限于某一种宗教或行动方式。
+Bahasa Melayu: Tafsiran kedua-dua tokoh menekankan perjuangan bangsa, hak dan identitinya, bukan terhad pada agama atau satu bentuk tindakan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：泰国主要反对绝对王权，其他被殖民东南亚国家则反对外国殖民，因此B配对正确。
+Bahasa Melayu: Nasionalisme Thailand menentang raja berkuasa mutlak, sementara negara lain menentang penjajahan asing. Maka B tepat."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：MCKK培养受教育的本地领袖及行政人才。题干若把成立时间写为1920年代应注意：MCKK实际于1905年成立。
+Bahasa Melayu: MCKK melahirkan pemimpin dan pentadbir tempatan berpendidikan. Institusi ini ditubuhkan pada 1905, bukan1920-an seperti dinyatakan soalan."
+,radio,F4 Bab 2,A,B,C,D,D,Picture6.png,"中文：Za'ba让师范生认识高等教育及英语课程的重要性，帮助居民突破只受初等教育的限制，故III和IV正确。
+Bahasa Melayu: Za'ba menyedarkan guru pelatih tentang kepentingan pendidikan tinggi dan kurikulum bahasa Inggeris. Maka III dan IV tepat."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：德国轰炸英国重要工业及城市，意图削弱经济、生产与继续作战能力。
+Bahasa Melayu: Pengeboman Jerman menyasarkan industri dan bandar British untuk melumpuhkan ekonomi serta keupayaan meneruskan perang."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：我国位置有利于控制海峡及向东南亚扩军，是日本进攻的重要军事战略因素。
+Bahasa Melayu: Kedudukan negara kita membantu penguasaan laluan dan kemaraan tentera ke Asia Tenggara, menjadikannya strategik bagi Jepun."
+,radio,F4 Bab 3,A,B,C,D,C,Picture9.png,"中文：Giyu Tai协助海岸防卫并维护公共秩序；不是抗日游击队。
+Bahasa Melayu: Giyu Tai membantu pertahanan pesisiran pantai dan menjaga ketenteraman awam, bukan pasukan gerila anti-Jepun."
+,radio,F4 Bab 4,A,B,C,D,A,Picture10.png,"中文：马来亚联盟设统治者会议，并以宽松jus soli安排公民权；1948联邦的公民权条件更严格。
+Bahasa Melayu: Malayan Union mewujudkan Majlis Raja-Raja dan kewarganegaraan jus soli yang longgar; syarat PTM1948 lebih ketat."
+,radio,F4 Bab 4,A,B,C,D,B,Picture11.png,"中文：支持者认为英国会发展当地并提供公务就业机会，故I和IV是支持割让的理由。
+Bahasa Melayu: Penyokong penyerahan menganggap British akan memajukan penduduk dan memberikan pekerjaan dalam perkhidmatan awam. Maka I dan IV tepat."
+,radio,F4 Bab 5,A,B,C,D,A,Picture12.png,"中文：调查认为若英国继续强行联盟，可能造成严重混乱，促使英国考虑改变制度；A应理解为风险判断，不是证明当时已经发生全面混乱。
+Bahasa Melayu: Tinjauan memberi amaran bahawa penerusan Malayan Union boleh mencetuskan huru-hara. A merujuk risiko yang dibimbangi, bukan bukti kekacauan menyeluruh sudah berlaku."
+,radio,F4 Bab 6,A,B,C,D,A,Picture13.png,"中文：加尔各答会议号召反对帝国主义，并推动共产党采取武装斗争，非维护封建王权。
+Bahasa Melayu: Persidangan Calcutta menggesa penentangan terhadap kuasa imperialis dan perjuangan bersenjata, bukan pemulihan sistem feudal."
+,radio,F4 Bab 6,A,B,C,D,B,Picture14.png,"中文：MCA是本地华人政治组织，协助政府争取华人支持并减少共产党影响。
+Bahasa Melayu: MCA ialah parti berorientasikan tempatan yang membantu mendapatkan sokongan masyarakat Cina dan mengurangkan pengaruh komunis."
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：族群协商中，马来人接受较宽松公民权，同时获得改善经济机会的承诺，体现互相让步。
+Bahasa Melayu: Orang Melayu menerima kelonggaran kewarganegaraan dengan persetujuan bantuan dan peluang ekonomi, mencerminkan tolak ansur antara kaum."
+,radio,F4 Bab 7,A,B,C,D,D,Picture16.png,"中文：拉萨报告列出普通类型小学可使用英语、华语及淡米尔语，国民中学用马来语，符合图中学校安排。
+Bahasa Melayu: Penyata Razak mencadangkan Sekolah Jenis Umum menggunakan bahasa Inggeris, Cina atau Tamil, dan Sekolah Menengah Kebangsaan menggunakan bahasa Melayu."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：45天竞选期让候选人与政党解释计划、接触群众并争取选票。
+Bahasa Melayu: Tempoh kempen45hari memberi peluang calon dan parti menerangkan rancangan serta meraih sokongan pengundi."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：里德委员会须保障马来人特殊地位及其他族群合法利益，故I和IV正确。
+Bahasa Melayu: Suruhanjaya Reid perlu menjaga kedudukan istimewa orang Melayu dan kepentingan sah kaum lain. Maka I dan IV tepat."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：官员接受礼宾训练以接待及陪同受邀来宾，确保独立庆典流程得体。
+Bahasa Melayu: Pegawai diberi latihan protokol untuk mengiringi tetamu jemputan dan memastikan sambutan berjalan tertib."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：人民通过选举选择代表，获支持的政党组成政府，是议会民主运作方式。
+Bahasa Melayu: Rakyat memilih wakil melalui pilihan raya dan parti yang mendapat sokongan membentuk kerajaan dalam demokrasi berparlimen."
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：主权意味着国家最高权力及自主治理能力，不是各种机关拥有完全相等权力。
+Bahasa Melayu: Kedaulatan bermaksud kekuasaan tertinggi dan kuasa mentadbir sendiri, bukan kesamarataan semua kuasa."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：国家原则、国语及文化政策建立共同身份与价值，促进不同族群团结。
+Bahasa Melayu: Rukun Negara, bahasa kebangsaan dan kebudayaan kebangsaan membina identiti serta nilai bersama untuk memupuk perpaduan."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：1877年霹雳州议会会议推动通过有组织讨论制定法律，成为现代国家立法发展起点之一。
+Bahasa Melayu: Mesyuarat Majlis Negeri Perak1877 merintis penggubalan undang-undang melalui institusi tersusun dan perkembangan perundangan negara."
+,radio,F5 Bab 3,A,B,C,D,D,Picture24.png,"中文：国家元首依赦免程序可减轻或暂缓已判刑罚，属于司法相关权限；召集国会及批准法案属于立法。
+Bahasa Melayu: YDPA boleh menangguhkan atau mengurangkan hukuman mengikut proses pengampunan sebagai kuasa berkaitan kehakiman."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：日军会议承认马来统治者在伊斯兰教事务的地位，但实际行政及军事仍由日本掌控。
+Bahasa Melayu: Persidangan Jepun mengiktiraf raja sebagai pemimpin hal ehwal Islam, sementara pentadbiran dan ketenteraan dikuasai Jepun."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：国家元首象征团结及主权，在宪政中维护国家稳定，因此II和III正确；不是亲自制定所有法律。
+Bahasa Melayu: Institusi YDPA melambangkan perpaduan dan menjamin kedaulatan dalam sistem Perlembagaan. Maka II dan III tepat."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：奖学金属于共同权限，D配对正确；土地是州权限，国防及医疗分别归联邦相关领域。
+Bahasa Melayu: Biasiswa termasuk Senarai Bersama, maka D tepat. Tanah ialah kuasa negeri, manakala pertahanan dan perubatan berkaitan Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：发展走廊把投资及基础建设带到不同地区，缩小州际发展差距。
+Bahasa Melayu: Koridor wilayah mengagihkan pelaburan dan pembangunan untuk mengurangkan jurang antara negeri."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：Melayu Raya主张马来亚与印尼联合以摆脱殖民并取得独立，不是1963年实际成立的马来西亚范围。
+Bahasa Melayu: Melayu Raya bertujuan mencapai kemerdekaan melalui gabungan Tanah Melayu dan Indonesia, berbeza daripada Malaysia1963."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：课本记载1963年4月12日印尼军队及准军事人员进入Tebedu，故D符合；Kalabakan的交火是另一事件。
+Bahasa Melayu: Buku teks mencatat pendaratan tentera dan separa tentera Indonesia di Tebedu pada 12April1963. Maka D tepat; tembakan di Kalabakan ialah peristiwa berbeza."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：宪政争议若不能处理会加剧不稳定并威胁安全；其他选项描述正面结果，与“未能解决”不符。
+Bahasa Melayu: Krisis perlembagaan yang gagal ditangani meningkatkan ketidakstabilan dan menggugat keselamatan, bukan menghasilkan kemakmuran."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：第一大马计划改善低生活水平及健康问题，故II和III正确；失业下降本身不是要解决的负面问题。
+Bahasa Melayu: RMK Pertama menangani taraf hidup rendah dan masalah kesihatan. Maka II dan III tepat; pengangguran menurun bukan masalah negatif."
+,radio,F5 Bab 7,A,B,C,D,D,Picture33.png,"中文：UKM以国语发展高等教育，提升马来语学术地位并建立共同国家认同。
+Bahasa Melayu: UKM memperkasakan bahasa Melayu dalam pendidikan tinggi dan membina identiti kebangsaan bersama."
+,radio,F5 Bab 7,A,B,C,D,D,Picture34.png,"中文：信仰上苍引导道德责任与良好品格，因此这一原则有助塑造良好人格。
+Bahasa Melayu: Kepercayaan kepada Tuhan membimbing nilai moral dan tanggungjawab untuk membentuk keperibadian baik."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：PERNAS提供培训及商业发展支持，培养能参与中小企业的年轻企业家。
+Bahasa Melayu: PERNAS membantu latihan dan pembangunan perniagaan untuk melahirkan usahawan muda dalam IKS."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：MARA及PERNAS协助土著企业发展与相关私有化计划，故I和II符合原答案。
+Bahasa Melayu: MARA dan PERNAS membantu pembangunan perniagaan bumiputera serta projek penswastaan berkaitan. Maka I dan II tepat."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：马来西亚与伊斯兰国家的宗教历史联系影响外交合作，故宗教联系符合这里的历史因素；其他历史联系也存在。
+Bahasa Melayu: Ikatan sejarah keagamaan dengan negara Islam mempengaruhi dasar luar Malaysia. Ini salah satu ikatan sejarah, bukan satu-satunya."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：东盟贸易合作减少货物关税，降低贸易成本并扩大成员国市场。
+Bahasa Melayu: Kerjasama perdagangan ASEAN mengurangkan cukai barangan, menurunkan kos dan memperluas pasaran negara anggota."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：欧洲环保团体的批评集中在种植活动造成环境污染及野生动物栖息地损失，故I和II符合题意；这是活动方主张，不代表所有棕油生产都一样。
+Bahasa Melayu: NGO alam sekitar mengkritik pencemaran dan kemusnahan habitat akibat kegiatan penanaman, maka I dan II tepat sebagai alasan kempen, bukan gambaran semua pengeluaran sawit."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：Freedom Flotilla向巴勒斯坦运送人道及医疗援助，试图突破加沙封锁。
+Bahasa Melayu: Freedom Flotilla membawa bantuan kemanusiaan dan perubatan ke Palestin serta berusaha menembusi sekatan Gaza."

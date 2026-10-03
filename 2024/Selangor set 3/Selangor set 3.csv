@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Selangor set 3 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor set 3 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：B：Telaga Batu碑用于宣誓效忠的仪式，通过誓言要求臣民忠于Sriwijaya统治者。
+Bahasa Melayu: B: Inskripsi Telaga Batu digunakan dalam upacara persetiaan bagi menegaskan kesetiaan rakyat kepada pemerintah Srivijaya."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：A（I、II）：大臣负责辖区安全及人民福利，体现其地方治理职责。
+Bahasa Melayu: A (I dan II): Pembesar menjaga keamanan kawasan pegangan dan kebajikan rakyat sebagai tanggungjawab pentadbiran."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：Tamil Nesan为印度社群表达社会与政治利益，传播关系本社群的议题。
+Bahasa Melayu: A: Tamil Nesan memperjuangkan kepentingan sosiopolitik masyarakat India melalui berita serta pandangan berkaitan komuniti mereka."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：B：Ibu Zain推动女性教育与社会进步，使女性更有能力参与民族发展。
+Bahasa Melayu: B: Ibu Zain memajukan pendidikan wanita supaya mereka dapat memperbaik kehidupan dan menyumbang kepada kemajuan bangsa."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：B：国际伊斯兰觉醒鼓舞本地反殖民意识，课本以Tok Janggut反英斗争作为例子。
+Bahasa Melayu: B: Kebangkitan Islam antarabangsa mendorong kesedaran menentang penjajahan, termasuk penentangan Tok Janggut terhadap British."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：A：日本投降后Bintang Tiga暴力活动引发反抗，Selempang Merah等组织起来保护当地人民。
+Bahasa Melayu: A: Selepas kekalahan Jepun, keganasan Bintang Tiga mendorong pembentukan gerakan seperti Selempang Merah untuk mempertahankan penduduk."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：C：统治者认为MacMichael以施压及威胁取得签字，因此同意并非合法自愿，决定提诉。
+Bahasa Melayu: C: Raja-raja Melayu menganggap persetujuan diperoleh melalui tekanan dan paksaan MacMichael, lalu mempertikaikan kesahihannya di mahkamah."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：A：SBUB把管理权移交英国后，沙巴成为英国直属殖民地。
+Bahasa Melayu: A: Penyerahan kuasa pentadbiran SBUB kepada British menyebabkan Sabah menjadi tanah jajahan British."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：C：新加坡没有加入1948年马来亚联合邦，继续作为单独的英国殖民地。
+Bahasa Melayu: C: Singapura tidak menyertai Persekutuan Tanah Melayu 1948 dan kekal sebagai tanah jajahan British yang berasingan."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：C：CLC为不同族群提供协商平台，培养理解并缓和关系。
+Bahasa Melayu: C: CLC menyediakan ruang perbincangan antara kaum untuk memupuk persefahaman dan mengurangkan pertentangan."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：D：袭击警察和警局意在显示政府无法维持治安，削弱人民对政府的信任。
+Bahasa Melayu: D: Serangan terhadap polis bertujuan menunjukkan ketidakupayaan kerajaan menjaga keselamatan dan melemahkan keyakinan rakyat."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：A：身份证配合全国登记制度确认居民身份，帮助辨别共产党成员与合法居民。
+Bahasa Melayu: A: Kad pengenalan dalam sistem pendaftaran kebangsaan membantu pihak berkuasa mengenal pasti penduduk dan membezakan mereka daripada anggota komunis."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：D（III、IV）：共同教育制度扩大公平学习机会，分阶段选举则让各族累积参与政治的经验。
+Bahasa Melayu: D (III dan IV): Sistem pendidikan seragam menyediakan pengalaman bersama, manakala pilihan raya berperingkat memberi penduduk pengalaman penyertaan politik."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：B：统一课程内容使不同学校的学生拥有共同学习基础，培养国家认同与团结。
+Bahasa Melayu: B: Kandungan kurikulum yang seragam membentuk pengetahuan bersama dan memupuk integrasi serta perpaduan murid pelbagai kaum."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：D：1955年候选人除公民身份及良好品格，还须具备马来语和英语知识；选项D列出其中一项语言要求。
+Bahasa Melayu: D: Calon 1955 perlu menjadi warganegara, berkelakuan baik serta mempunyai pengetahuan bahasa Melayu dan Inggeris; D menyatakan sebahagian syarat bahasa tersebut."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：A：Abdul Razak在首届内阁担任教育部长，负责改善教育体系。
+Bahasa Melayu: A: Abdul Razak memegang portfolio pelajaran dalam kabinet pertama dan memajukan sistem pendidikan negara."
+,radio,F4 Bab 9,A,B,C,D,B,Picture17.png,"中文：B：1955年选举赋予本地政府民意授权，为自治制度及独立宪法的形成奠定基础。
+Bahasa Melayu: B: Pilihan Raya Umum 1955 memberi mandat kepada pemimpin tempatan dan menjadi asas perkembangan pemerintahan sendiri serta perlembagaan negara merdeka."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：D：课本把马来人的特殊地位与其被承认为马来亚原住民的历史地位联系起来。
+Bahasa Melayu: D: Buku teks mengaitkan kedudukan istimewa orang Melayu dengan pengiktirafan mereka sebagai penduduk asal Tanah Melayu."
+,radio,F4 Bab 10,A,B,C,D,A,Picture19.png,"中文：A：国歌、国徽及国旗展示国家共同身份，区分马来西亚与其他国家。
+Bahasa Melayu: A: Negaraku, Jata Negara dan bendera kebangsaan menonjolkan identiti bersama yang membezakan Malaysia daripada negara lain."
+,radio,F4 Bab 10,A,B,C,D,D,Picture20.png,"中文：D：主权指国家的最高统治权，使国家自主治理而不受外来支配。
+Bahasa Melayu: D: Kedaulatan bermaksud kuasa tertinggi yang membolehkan negara mentadbir secara bebas tanpa penguasaan luar."
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：B：两位人物都把主权与自由、独立及自主治理的权利相连。
+Bahasa Melayu: B: Kedua-dua tokoh mengaitkan kedaulatan dengan kebebasan, kemerdekaan dan hak negara mengurus pemerintahannya sendiri."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：B：1970年友好关系宣言确认国家主权平等，即大国与小国同样享有主权权利。
+Bahasa Melayu: B: Deklarasi 1970 mengesahkan prinsip persamaan kedaulatan negara; negara besar dan kecil mempunyai hak kedaulatan yang sama."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：非联邦马来州由Majlis Negeri制定州法律，保留州级立法机制。
+Bahasa Melayu: A: Majlis Negeri bertanggungjawab menggubal undang-undang di Negeri-negeri Melayu Tidak Bersekutu."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：B（I、IV）：新加坡分离后，宪法中涉及新加坡的移民及外交等条文被取消；不是取消马来西亚所有相关职权。
+Bahasa Melayu: B (I dan IV): Pemisahan Singapura memansuhkan peruntukan berkaitan imigresen dan hubungan luar bagi Singapura, bukan menghapuskan semua kuasa Malaysia dalam perkara tersebut."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：A：保管王室印玺者在官方文件上加盖印玺及签署，确认统治者会议的正式决定。
+Bahasa Melayu: A: Penyimpan Mohor Besar memeterai dokumen rasmi dan menandatanganinya untuk mengesahkan keputusan Majlis Raja-Raja."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：D（III、IV）：任命内阁及接见外国外交官属于国家元首的行政权限；召集国会则涉及立法权限。
+Bahasa Melayu: D (III dan IV): Pelantikan Jemaah Menteri dan menerima menghadap diplomat asing ialah kuasa eksekutif, manakala memanggil Parlimen berkaitan kuasa perundangan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：C：1927年重新调整联邦议会结构，进一步巩固英国在联邦行政中的地位。
+Bahasa Melayu: C: Penstrukturan semula Majlis Mesyuarat Persekutuan 1927 mengukuhkan kedudukan British dalam pentadbiran Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：C：KEDA及KETENGAH负责综合区域发展，涉及土地、设施及经济活动，不只是单一土地开发。
+Bahasa Melayu: C: KEDA dan KETENGAH melaksanakan pembangunan wilayah secara menyeluruh yang melibatkan tanah, kemudahan dan kegiatan ekonomi."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：C：Geofroy Tory认为马来亚与新加坡经济联系紧密，联合可形成更强的经济合作。
+Bahasa Melayu: C: Geofroy Tory mencadangkan penyatuan untuk membentuk kerjasama ekonomi antara Tanah Melayu dengan Singapura."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：D：Tun Abdul Razak代表联邦政府在沙巴参加马来西亚成立宣布仪式。
+Bahasa Melayu: D: Tun Abdul Razak mewakili Kerajaan Persekutuan semasa pengisytiharan Malaysia di Sabah."
+,radio,F5 Bab 6,A,B,C,D,B,Picture31.png,"中文：B：平等权利主张及相关族群政治争议加剧紧张，成为1964年新加坡骚乱背景。
+Bahasa Melayu: B: Tuntutan persamaan hak dan pertentangan politik perkauman meningkatkan ketegangan yang membawa kepada rusuhan Singapura 1964."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：D：发展更多商品种类减少经济对胶与锡出口的依赖，也降低单一产品价格变化的风险。
+Bahasa Melayu: D: Mempelbagaikan keluaran komoditi mengurangkan pergantungan pada getah serta bijih timah dan mengurangkan risiko perubahan harga."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：A：1979年内阁委员会报告推动KBSR及KBSM的课程改革，改善国家教育。
+Bahasa Melayu: A: Laporan Jawatankuasa Kabinet 1979 menjadi asas pembaharuan kurikulum KBSR dan KBSM untuk memperbaik pendidikan negara."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：C（II、III）：Rukun Negara涵盖宗教和文化等社会生活价值，指导人民共同生活。
+Bahasa Melayu: C (II dan III): Rukun Negara merangkumi norma sosial seperti agama dan budaya untuk membimbing kehidupan bernegara."
+,radio,F5 Bab 8,A,B,C,D,A,Picture35.png,"中文：A：Lembaga Pertubuhan Peladang组织农民参与合作社及集体经济活动，扩大资源与市场机会。
+Bahasa Melayu: A: Lembaga Pertubuhan Peladang menggalakkan petani serta pekebun kecil menyertai kegiatan koperasi dan usaha ekonomi bersama."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：A：MPPB通过财产管理及商业伦理训练提升土著经营能力，扩大其在现代经济中的参与。
+Bahasa Melayu: A: Latihan pengurusan harta dan etika perniagaan meningkatkan kebolehan Bumiputera dalam MPPB untuk menyertai sektor moden."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：C：联合国维和部队监督停火及维持和平，不能自行替换当地政府。
+Bahasa Melayu: C: Pasukan pengaman mengawasi gencatan senjata dan menjaga keamanan, bukan menukar kerajaan negara berkenaan."
+,radio,F5 Bab 9,A,B,C,D,D,Picture38.png,"中文：D：Lusaka宣言推动裁军与和平，包括要求禁止核武器。
+Bahasa Melayu: D: Perisytiharan Lusaka menekankan keamanan dan pelucutan senjata, termasuk desakan pengharaman senjata nuklear."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：B（I、IV）：人口贩运及反棕油运动都是马来西亚面对的全球议题；但II环境可持续性同样是全球议题，因此A也有合理依据，题目组合不够明确。
+Bahasa Melayu: B (I dan IV): Pemerdagangan orang dan kempen antiminyak sawit ialah isu global Malaysia. Namun II, kelestarian alam sekitar, juga isu global, maka A turut munasabah dan pilihan soalan tidak sepenuhnya jelas."
+,radio,F5 Bab 10,A,B,C,D,B,Picture40.png,"中文：B：推广新能源及较洁净能源，减少化石燃料使用，帮助限制温室气体排放。
+Bahasa Melayu: B: Penggunaan tenaga baharu dan lebih bersih mengurangkan pergantungan pada bahan api fosil serta pelepasan gas rumah hijau."

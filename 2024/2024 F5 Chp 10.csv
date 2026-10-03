@@ -1,40 +1,79 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 10,radio,JohorBahru_Q39,A,B,C,D,B,Johor Bahru/Picture39.png
-F5 Chp 10,radio,Kedah_Q39,A,B,C,D,A,Kedah/Picture39.png
-F5 Chp 10,radio,Kelantan_Q39,A,B,C,D,D,Kelantan/Picture39.png
-F5 Chp 10,radio,KlSentul_Q39,A,B,C,D,C,KL Sentul/Picture39.png
-F5 Chp 10,radio,Melaka_Q39,A,B,C,D,C,Melaka/Picture39.png
-F5 Chp 10,radio,Mrsm_Q39,A,B,C,D,C,MRSM/Picture39.png
-F5 Chp 10,radio,N_Q39,A,B,C,D,C,N9/Picture39.png
-F5 Chp 10,radio,Penang_Q39,A,B,C,D,A,Penang/Picture39.png
-F5 Chp 10,radio,Perak_Q39,A,B,C,D,B,Perak/Picture39.png
-F5 Chp 10,radio,Perlis_Q39,A,B,C,D,D,Perlis/Picture39.png
-F5 Chp 10,radio,PutrajayaSet_Q39,A,B,C,D,C,Putrajaya set 1/Picture39.png
-F5 Chp 10,radio,PutrajayaSet_Q39,A,B,C,D,D,Putrajaya set 2/Picture39.png
-F5 Chp 10,radio,SarawakSerian_Q39,A,B,C,D,B,Sarawak Serian/Picture39.png
-F5 Chp 10,radio,Sbp_Q39,A,B,C,D,A,SBP/Picture39.png
-F5 Chp 10,radio,SelangorSet_Q39,A,B,C,D,A,Selangor set 1/Picture39.png
-F5 Chp 10,radio,SelangorSet_Q39,A,B,C,D,B,Selangor set 2/Picture39.png
-F5 Chp 10,radio,SelangorSet_Q39,A,B,C,D,B,Selangor set 3/Picture39.png
-F5 Chp 10,radio,Smka_Q39,A,B,C,D,C,SMKA/Picture39.png
-F5 Chp 10,radio,Terengganu_Q39,A,B,C,D,A,Terengganu/Picture39.png
-F5 Chp 10,radio,JohorBahru_Q40,A,B,C,D,A,Johor Bahru/Picture40.png
-F5 Chp 10,radio,Kedah_Q40,A,B,C,D,D,Kedah/Picture40.png
-F5 Chp 10,radio,Kelantan_Q40,A,B,C,D,A,Kelantan/Picture40.png
-F5 Chp 10,radio,KlSentul_Q40,A,B,C,D,D,KL Sentul/Picture40.png
-F5 Chp 10,radio,Melaka_Q40,A,B,C,D,A,Melaka/Picture40.png
-F5 Chp 10,radio,Mrsm_Q40,A,B,C,D,D,MRSM/Picture40.png
-F5 Chp 10,radio,N_Q40,A,B,C,D,A,N9/Picture40.png
-F5 Chp 10,radio,Pahang_Q40,A,B,C,D,A,Pahang/Picture40.png
-F5 Chp 10,radio,Penang_Q40,A,B,C,D,D,Penang/Picture40.png
-F5 Chp 10,radio,Perak_Q40,A,B,C,D,B,Perak/Picture40.png
-F5 Chp 10,radio,Perlis_Q40,A,B,C,D,B,Perlis/Picture40.png
-F5 Chp 10,radio,PutrajayaSet_Q40,A,B,C,D,A,Putrajaya set 1/Picture40.png
-F5 Chp 10,radio,PutrajayaSet_Q40,A,B,C,D,D,Putrajaya set 2/Picture40.png
-F5 Chp 10,radio,SarawakSerian_Q40,A,B,C,D,A,Sarawak Serian/Picture40.png
-F5 Chp 10,radio,Sbp_Q40,A,B,C,D,C,SBP/Picture40.png
-F5 Chp 10,radio,SelangorSet_Q40,A,B,C,D,C,Selangor set 1/Picture40.png
-F5 Chp 10,radio,SelangorSet_Q40,A,B,C,D,C,Selangor set 2/Picture40.png
-F5 Chp 10,radio,SelangorSet_Q40,A,B,C,D,B,Selangor set 3/Picture40.png
-F5 Chp 10,radio,Smka_Q40,A,B,C,D,A,SMKA/Picture40.png
-F5 Chp 10,radio,Terengganu_Q40,A,B,C,D,D,Terengganu/Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 10,radio,JohorBahru_Q39,A,B,C,D,B,Johor Bahru/Picture39.png,"中文：AFTA降低区域内商品关税与贸易壁垒，方便东盟成员之间贸易，增加经济竞争力。因此选B。
+Bahasa Melayu: AFTA mengurangkan tarif dan halangan perdagangan barangan antara negara ASEAN. Langkah ini merancakkan perdagangan serta daya saing ekonomi, maka B tepat."
+F5 Chp 10,radio,Kedah_Q39,A,B,C,D,A,Kedah/Picture39.png,"中文：A（I、II）：南极问题及Langkawi宣言均涉及全球环境与资源保护，体现可持续发展贡献。
+Bahasa Melayu: A (I dan II): Isu Antartika dan Deklarasi Langkawi berkaitan pemeliharaan alam serta sumber dunia sebagai sumbangan kepada kelestarian global."
+F5 Chp 10,radio,Kelantan_Q39,A,B,C,D,D,Kelantan/Picture39.png,"中文：D：马来西亚位于区域交通及海上路线的战略位置，被非法网络利用为转运地点。
+Bahasa Melayu: D: Kedudukan Malaysia yang strategik pada laluan perhubungan serantau dimanfaatkan oleh sindiket sebagai lokasi transit."
+F5 Chp 10,radio,KlSentul_Q39,A,B,C,D,C,KL Sentul/Picture39.png,"中文：Muslim Care和MAPIM向战争或灾害受害者提供食物、医疗及其他支援，其共同任务是人道援助。因此选C。
+Bahasa Melayu: Muslim Care dan MAPIM menyalurkan keperluan serta bantuan kepada mangsa konflik atau bencana. Misi utamanya ialah bantuan kemanusiaan, maka C tepat."
+F5 Chp 10,radio,Melaka_Q39,A,B,C,D,C,Melaka/Picture39.png,"中文：AFTA降低贸易壁垒、扩大区域贸易与投资，增强东盟经济合作。
+Bahasa Melayu: AFTA mengurangkan halangan perdagangan dan memperluas perdagangan serta pelaburan untuk kerjasama ekonomi ASEAN."
+F5 Chp 10,radio,Mrsm_Q39,A,B,C,D,C,MRSM/Picture39.png,"中文：C：政府固定马币汇率，并配合资本管制稳定货币及金融环境，以处理经济危机。
+Bahasa Melayu: C: Kerajaan menambat kadar ringgit dan melaksanakan kawalan modal untuk menstabilkan mata wang serta kewangan semasa krisis."
+F5 Chp 10,radio,N_Q39,A,B,C,D,C,N9/Picture39.png,"中文：有关岛屿的主权争议交国际法院裁决，以法律和和平方法解决。
+Bahasa Melayu: Pertikaian kedaulatan pulau dirujuk kepada Mahkamah Antarabangsa untuk penyelesaian undang-undang secara aman."
+F5 Chp 10,radio,Penang_Q39,A,B,C,D,A,Penang/Picture39.png,"中文：人民可提供人道物资并建立捐款基金帮助Palestin民众，I、II正确。
+Bahasa Melayu: Rakyat menyalurkan bantuan kemanusiaan dan mewujudkan tabung sumbangan untuk Palestin; I dan II betul."
+F5 Chp 10,radio,Perak_Q39,A,B,C,D,B,Perak/Picture39.png,"中文：课本以ASEAN-China论坛讨论Spratly争议为外交解决例子；不代表所有重叠主张已经最终解决。
+Bahasa Melayu: Forum ASEAN-China membincangkan pertikaian Spratly sebagai usaha diplomatik; ini tidak bermakna semua tuntutan bertindih telah selesai sepenuhnya."
+F5 Chp 10,radio,Perlis_Q39,A,B,C,D,D,Perlis/Picture39.png,"中文：良好农业规范GAP改善棕油生产管理及环境表现，回应反棕油运动的批评并提升产品信誉。
+Bahasa Melayu: GAP memperbaik pengurusan pertanian dan kelestarian pengeluaran sawit untuk menjawab kritikan serta meningkatkan keyakinan terhadap produk."
+F5 Chp 10,radio,PutrajayaSet_Q39,A,B,C,D,C,Putrajaya set 1/Picture39.png,"中文：马来西亚向遭战争及灾害影响者提供物资、医疗及救援，体现国际人道角色。
+Bahasa Melayu: Malaysia memberikan bekalan, rawatan dan bantuan kecemasan kepada mangsa konflik serta bencana sebagai peranan kemanusiaan."
+F5 Chp 10,radio,PutrajayaSet_Q39,A,B,C,D,D,Putrajaya set 2/Picture39.png,"中文：南沙争议涉及中国、越南、文莱、菲律宾及马来西亚等主张，因此D符合题列国家组合。
+Bahasa Melayu: Pertikaian Spratly melibatkan tuntutan China, Vietnam, Brunei, Filipina dan Malaysia, maka D menepati senarai dalam soalan."
+F5 Chp 10,radio,SarawakSerian_Q39,A,B,C,D,B,Sarawak Serian/Picture39.png,"中文：B（I、IV）：持续说明棕油产业并推动MSPO认证，回应环保指责及证明可持续生产。
+Bahasa Melayu: B (I dan IV): Kempen berterusan dan pensijilan MSPO menjelaskan usaha kelestarian minyak sawit serta menangani tuduhan terhadap industri tersebut."
+F5 Chp 10,radio,Sbp_Q39,A,B,C,D,A,SBP/Picture39.png,"中文：欧洲环保团体的批评集中在种植活动造成环境污染及野生动物栖息地损失，故I和II符合题意；这是活动方主张，不代表所有棕油生产都一样。
+Bahasa Melayu: NGO alam sekitar mengkritik pencemaran dan kemusnahan habitat akibat kegiatan penanaman, maka I dan II tepat sebagai alasan kempen, bukan gambaran semua pengeluaran sawit."
+F5 Chp 10,radio,SelangorSet_Q39,A,B,C,D,A,Selangor set 1/Picture39.png,"中文：A：马来西亚建议取消否决权，避免少数强国阻止集体维护和平的决议。
+Bahasa Melayu: A: Malaysia mencadangkan pemansuhan kuasa veto supaya keputusan menjaga keamanan tidak disekat oleh beberapa kuasa besar."
+F5 Chp 10,radio,SelangorSet_Q39,A,B,C,D,B,Selangor set 2/Picture39.png,"中文：B（I、IV）：本题所列的Muslim Care及MAPIM参与巴勒斯坦人道援助；不同非政府组织的服务地区不能一概相同。
+Bahasa Melayu: B (I dan IV): Muslim Care dan MAPIM ialah organisasi yang dikaitkan dalam soalan ini dengan bantuan kemanusiaan Palestin; bidang operasi NGO lain tidak semestinya sama."
+F5 Chp 10,radio,SelangorSet_Q39,A,B,C,D,B,Selangor set 3/Picture39.png,"中文：B（I、IV）：人口贩运及反棕油运动都是马来西亚面对的全球议题；但II环境可持续性同样是全球议题，因此A也有合理依据，题目组合不够明确。
+Bahasa Melayu: B (I dan IV): Pemerdagangan orang dan kempen antiminyak sawit ialah isu global Malaysia. Namun II, kelestarian alam sekitar, juga isu global, maka A turut munasabah dan pilihan soalan tidak sepenuhnya jelas."
+F5 Chp 10,radio,Smka_Q39,A,B,C,D,C,SMKA/Picture39.png,"中文：重叠疆界及领土主张涉及邻国关系，是马来西亚面对的国际议题之一。
+Bahasa Melayu: Pertindihan sempadan dan tuntutan wilayah melibatkan hubungan dengan negara lain sebagai isu global yang dihadapi Malaysia."
+F5 Chp 10,radio,Terengganu_Q39,A,B,C,D,A,Terengganu/Picture39.png,"中文：A：Colombo计划以教育、训练与发展援助提升生活水平，因此马来西亚参与解决贫穷问题。
+Bahasa Melayu: A: Rancangan Colombo meningkatkan taraf hidup melalui pendidikan, latihan dan bantuan pembangunan untuk menangani kemiskinan."
+F5 Chp 10,radio,JohorBahru_Q40,A,B,C,D,A,Johor Bahru/Picture40.png,"中文：国家繁荣和就业吸引力被人口贩运者利用，把马来西亚作为转运地点或目的地。题目答案A强调这种经济吸引因素，并不表示国家没有法律。
+Bahasa Melayu: Kemakmuran dan peluang ekonomi Malaysia dieksploitasi oleh sindiket pemerdagangan manusia sebagai faktor tarikan serta transit. Oleh itu, A sesuai; ini tidak bermaksud negara tiada undang-undang."
+F5 Chp 10,radio,Kedah_Q40,A,B,C,D,D,Kedah/Picture40.png,"中文：D：限制携带核武器的舰艇进入本国海域，有助履行无核武器区承诺；须区分核武器与和平用途核技术。
+Bahasa Melayu: D: Menghalang kapal yang membawa senjata nuklear memasuki perairan negara membantu komitmen SEANWFZ; senjata nuklear perlu dibezakan daripada teknologi nuklear untuk tujuan aman."
+F5 Chp 10,radio,Kelantan_Q40,A,B,C,D,A,Kelantan/Picture40.png,"中文：A：ASEAN Community推动更紧密的经济合作及整合，以促进成员国共同增长。
+Bahasa Melayu: A: Komuniti ASEAN menggalakkan kerjasama dan integrasi ekonomi untuk meningkatkan pertumbuhan bersama negara anggota."
+F5 Chp 10,radio,KlSentul_Q40,A,B,C,D,D,KL Sentul/Picture40.png,"中文：东南亚无核区条约限制核武器扩散与部署，降低区域遭受核威胁的风险。因此马来西亚参与是为了保障地区安全，选D。
+Bahasa Melayu: Zon Bebas Nuklear Asia Tenggara mengurangkan ancaman senjata nuklear dan menyokong keamanan rantau. Oleh itu, keselamatan serantau dalam D ialah sebab paling khusus."
+F5 Chp 10,radio,Melaka_Q40,A,B,C,D,A,Melaka/Picture40.png,"中文：Muslim Care提供食物、医疗和人道支援，帮助灾区及受冲突影响人民。
+Bahasa Melayu: Muslim Care menyalurkan makanan, rawatan dan bantuan kemanusiaan kepada mangsa bencana serta konflik."
+F5 Chp 10,radio,Mrsm_Q40,A,B,C,D,D,MRSM/Picture40.png,"中文：D（III、IV）：马来西亚关注巴勒斯坦人民的主权与权利，并反对不公正和侵犯行为。
+Bahasa Melayu: D (III dan IV): Malaysia mempertahankan kedaulatan serta hak rakyat Palestin dan menegakkan prinsip keadilan terhadap pencabulan yang berlaku."
+F5 Chp 10,radio,N_Q40,A,B,C,D,A,N9/Picture40.png,"中文：政府固定马币汇率以稳定货币和市场，减少金融危机中的投机与波动。
+Bahasa Melayu: Kerajaan menambat kadar ringgit untuk menstabilkan mata wang serta pasaran dan mengurangkan turun naik ketika krisis."
+F5 Chp 10,radio,Pahang_Q40,A,B,C,D,A,Pahang/Picture40.png,"中文：马来西亚位处重要区域交通通道，容易被犯罪集团利用为人口贩运的过境或目的地。
+Bahasa Melayu: Kedudukan Malaysia pada laluan serantau strategik menjadikannya lokasi transit atau destinasi yang disalahgunakan sindiket pemerdagangan orang."
+F5 Chp 10,radio,Penang_Q40,A,B,C,D,D,Penang/Picture40.png,"中文：课本所述承诺是防止携带核武器的舰船进入或停泊，维护区域无核武目标；并非禁止和平核能设施。
+Bahasa Melayu: Komitmen dalam buku teks ialah menghalang kapal membawa senjata nuklear memasuki atau berlabuh untuk zon bebas nuklear, bukan melarang semua kemudahan tenaga nuklear aman."
+F5 Chp 10,radio,Perak_Q40,A,B,C,D,B,Perak/Picture40.png,"中文：CGM及MERCY提供医疗、物资与救灾援助，为受冲突和灾难影响的人争取人道福祉。
+Bahasa Melayu: CGM dan MERCY menyalurkan rawatan, bekalan serta bantuan bencana untuk memperjuangkan kemanusiaan mangsa konflik dan bencana."
+F5 Chp 10,radio,Perlis_Q40,A,B,C,D,B,Perlis/Picture40.png,"中文：泥炭地火灾释放大量烟雾并引起跨境烟霾，所以合作研究预防泥炭地火灾能处理烟霾根源。
+Bahasa Melayu: Kebakaran tanah gambut menghasilkan asap tebal dan jerebu rentas sempadan, maka penyelidikan pencegahannya menangani punca jerebu."
+F5 Chp 10,radio,PutrajayaSet_Q40,A,B,C,D,A,Putrajaya set 1/Picture40.png,"中文：京都议定书针对温室气体减排及气候变化；日内瓦公约主要关于战争人道规范，是不同议题。
+Bahasa Melayu: Protokol Kyoto berkaitan pengurangan gas rumah hijau dan perubahan iklim, berbeza daripada Konvensyen Geneva tentang kemanusiaan ketika perang."
+F5 Chp 10,radio,PutrajayaSet_Q40,A,B,C,D,D,Putrajaya set 2/Picture40.png,"中文：由Muhammad Nadir Al-Nuri创办并推动2020斋月项目的是Cinta Gaza Malaysia，帮助加沙弱势居民。
+Bahasa Melayu: Cinta Gaza Malaysia diasaskan Muhammad Nadir Al-Nuri dan melaksanakan Projek Ramadan2020 untuk membantu penduduk Gaza."
+F5 Chp 10,radio,SarawakSerian_Q40,A,B,C,D,A,Sarawak Serian/Picture40.png,"中文：A：禁止在本国海域进行核武器相关演习，有助履行东南亚无核武器区承诺。
+Bahasa Melayu: A: Larangan latihan senjata nuklear di perairan negara membantu memastikan komitmen Zon Bebas Senjata Nuklear Asia Tenggara dipatuhi."
+F5 Chp 10,radio,Sbp_Q40,A,B,C,D,C,SBP/Picture40.png,"中文：Freedom Flotilla向巴勒斯坦运送人道及医疗援助，试图突破加沙封锁。
+Bahasa Melayu: Freedom Flotilla membawa bantuan kemanusiaan dan perubatan ke Palestin serta berusaha menembusi sekatan Gaza."
+F5 Chp 10,radio,SelangorSet_Q40,A,B,C,D,C,Selangor set 1/Picture40.png,"中文：C：东南亚无核武器区限制核武器威胁，有助确保区域安全及稳定。
+Bahasa Melayu: C: Zon Bebas Senjata Nuklear Asia Tenggara mengurangkan ancaman nuklear untuk menjamin keselamatan dan kestabilan serantau."
+F5 Chp 10,radio,SelangorSet_Q40,A,B,C,D,C,Selangor set 2/Picture40.png,"中文：C：马来西亚主张南极资源属于国际共同利益，应让各国共享成果，而非由少数国家垄断。
+Bahasa Melayu: C: Malaysia mahu hasil dan manfaat Antartika dinikmati bersama oleh masyarakat antarabangsa, bukannya dimonopoli segelintir negara."
+F5 Chp 10,radio,SelangorSet_Q40,A,B,C,D,B,Selangor set 3/Picture40.png,"中文：B：推广新能源及较洁净能源，减少化石燃料使用，帮助限制温室气体排放。
+Bahasa Melayu: B: Penggunaan tenaga baharu dan lebih bersih mengurangkan pergantungan pada bahan api fosil serta pelepasan gas rumah hijau."
+F5 Chp 10,radio,Smka_Q40,A,B,C,D,A,SMKA/Picture40.png,"中文：Freedom Flotilla运送粮食及其他人道物资到巴勒斯坦，帮助受封锁影响的居民，而非军事维和任务。
+Bahasa Melayu: Freedom Flotilla membekalkan makanan dan bantuan kemanusiaan kepada penduduk Palestin yang menghadapi sekatan, bukan misi ketenteraan pengaman."
+F5 Chp 10,radio,Terengganu_Q40,A,B,C,D,D,Terengganu/Picture40.png,"中文：D：ASEAN Community重视成员之间整合，包括尊重及承认人权，促进共同社会价值。
+Bahasa Melayu: D: Komuniti ASEAN meningkatkan integrasi negara anggota, termasuk pengiktirafan hak asasi dan nilai bersama masyarakat serantau."

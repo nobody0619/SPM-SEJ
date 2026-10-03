@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Sarawak Serian F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Sarawak Serian F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：D：Rukun Negara及共同的国语强化共同价值与交流，培养人民之间的善意关系。
+Bahasa Melayu: D: Rukun Negara dan bahasa kebangsaan membina nilai serta komunikasi bersama untuk memupuk muhibah dalam kalangan rakyat."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：D：多种文化和风俗共同构成马来西亚的特色，显示国家社会的独特性。
+Bahasa Melayu: D: Kepelbagaian budaya dan adat resam menggambarkan keunikan masyarakat serta identiti negara Malaysia."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：Westminster模式源自英国，影响马来西亚的议会民主及君主立宪安排。
+Bahasa Melayu: A: Model Westminster berasal dari Britain dan mempengaruhi sistem Demokrasi Berparlimen serta Raja Berperlembagaan Malaysia."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：B：联邦法院可处理宪法问题及联邦政府与州政府之间的争议，属于最高层级司法机构。
+Bahasa Melayu: B: Mahkamah Persekutuan mendengar persoalan perlembagaan dan pertikaian antara Kerajaan Persekutuan dengan negeri sebagai mahkamah tertinggi."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：D：国家元首任命驻外外交官，代表国家进行正式外交关系。
+Bahasa Melayu: D: Yang di-Pertuan Agong melantik diplomat ke luar negara untuk mewakili Malaysia dalam hubungan rasmi."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：C：国会是立法机构，负责制定、讨论及通过国家法律。
+Bahasa Melayu: C: Parlimen ialah badan perundangan yang membincangkan dan menggubal undang-undang negara."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：A：土地属于州清单；教育、健康及国防属于联邦权限。
+Bahasa Melayu: A: Tanah ialah perkara dalam Senarai Negeri, manakala pelajaran, kesihatan dan pertahanan ialah urusan Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：B（I、IV）：宪法是联邦权力分配的基础，中央与州的协调确保共同政策顺利落实。
+Bahasa Melayu: B (I dan IV): Keluhuran Perlembagaan menjadi asas pembahagian kuasa, manakala penyelarasan Persekutuan dengan negeri mengukuhkan pelaksanaan dasar."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：D：马来西亚构想把东南亚若干原英国殖民地区联合，包括马来亚、新加坡、沙巴及砂拉越。
+Bahasa Melayu: D: Gagasan Malaysia mencadangkan penggabungan beberapa bekas tanah jajahan British di Asia Tenggara dalam sebuah Persekutuan."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：C（II、III）：联合后能协调安全力量，遏制共产党活动并加强防务。
+Bahasa Melayu: C (II dan III): Penyertaan dalam Malaysia membolehkan ancaman komunis dibendung dan benteng pertahanan diperkukuh melalui kerjasama keselamatan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：A：职业及技术训练提升就业技能，让失业者适应工业与经济发展的需求。
+Bahasa Melayu: A: Pusat latihan vokasional dan teknikal meningkatkan kemahiran tenaga kerja supaya mereka memenuhi keperluan pekerjaan serta pembangunan ekonomi."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：A（I、II）：1969年事件后，MAGERAN须恢复族群关系及处理经济失衡，以恢复稳定。
+Bahasa Melayu: A (I dan II): Selepas peristiwa 1969, MAGERAN perlu memberi perhatian kepada perpaduan kaum dan ketidakseimbangan ekonomi untuk memulihkan kestabilan."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：C：Feri Malaysia联系半岛与东马，促进人员交流与国家整合。
+Bahasa Melayu: C: Feri Malaysia menghubungkan Semenanjung dengan Sabah serta Sarawak untuk menggalakkan perhubungan dan integrasi nasional."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：B：DBP发展语言与出版，UKM以马来语推动高等教育，两者都强化马来语地位。
+Bahasa Melayu: B: DBP memajukan bahasa serta penerbitan, manakala UKM menggunakan bahasa Melayu dalam pendidikan tinggi untuk memperkasakan bahasa kebangsaan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：D：BERNAS参与稻米供应及价格稳定，区别于渔业、橡胶或合作社机构。
+Bahasa Melayu: D: BERNAS mengawal selia beras dan membantu menstabilkan harga padi, bukan mengurus sektor perikanan atau getah."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：D（III、IV）：ILP及GIATMARA为青年提供实用技能训练，提高就业及自立能力。
+Bahasa Melayu: D (III dan IV): ILP dan GIATMARA ialah pusat latihan kemahiran untuk belia bagi meningkatkan kebolehpasaran serta keupayaan berdikari."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：B（I、IV）：外交政策以维护独立与保护国家利益为目标，确保对外关系服务国家需要。
+Bahasa Melayu: B (I dan IV): Dasar luar bertujuan mempertahankan kemerdekaan dan melindungi kepentingan nasional dalam hubungan antarabangsa."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：C：五国防务安排提供技术援助、联合训练及防务合作，提升安全能力。
+Bahasa Melayu: C: Perjanjian Pertahanan Lima Negara membolehkan bantuan teknikal, latihan bersama dan kerjasama pertahanan untuk meningkatkan keselamatan."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：B（I、IV）：持续说明棕油产业并推动MSPO认证，回应环保指责及证明可持续生产。
+Bahasa Melayu: B (I dan IV): Kempen berterusan dan pensijilan MSPO menjelaskan usaha kelestarian minyak sawit serta menangani tuduhan terhadap industri tersebut."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：A：禁止在本国海域进行核武器相关演习，有助履行东南亚无核武器区承诺。
+Bahasa Melayu: A: Larangan latihan senjata nuklear di perairan negara membantu memastikan komitmen Zon Bebas Senjata Nuklear Asia Tenggara dipatuhi."

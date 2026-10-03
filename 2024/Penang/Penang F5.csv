@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Penang F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,A/B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Penang F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：主权让国家独立制定政策、保持秩序和发展经济，保障人民福祉。
+Bahasa Melayu: Kedaulatan membolehkan negara menggubal dasar sendiri, menjaga ketenteraman dan ekonomi untuk kesejahteraan rakyat."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：现代化武器及军事技术提升安全部队应对威胁的能力。
+Bahasa Melayu: Pemodenan teknologi senjata meningkatkan keupayaan pasukan keselamatan menghadapi ancaman."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：选举让人民自由选择代表，确保政府取得民意授权，是民主基础。
+Bahasa Melayu: Pilihan raya membolehkan rakyat memilih wakil dengan bebas dan memberikan mandat kepada kerajaan sebagai asas demokrasi."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1963年成立马来西亚使新地区加入联邦，需要调整宪法及行政结构。
+Bahasa Melayu: Pembentukan Malaysia 1963 memasukkan wilayah baharu dan memerlukan penyesuaian perlembagaan serta pentadbiran."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：统治者会议就特定重要职位的任命提供意见，发挥宪法保障作用。
+Bahasa Melayu: Majlis Raja-Raja memberikan nasihat tentang pelantikan jawatan tertentu untuk melaksanakan fungsi perlembagaan."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：伊斯兰是联邦宗教，同时其他宗教信徒可实践各自宗教，III、IV体现宪法安排。
+Bahasa Melayu: Islam agama Persekutuan dan penganut lain boleh mengamalkan agama masing-masing; III dan IV menunjukkan peruntukan agama."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：这些殖民行政改革便于集中管理、控制资源及维护英国利益。
+Bahasa Melayu: Pembaharuan pentadbiran kolonial memudahkan pengurusan, penguasaan sumber dan penjagaan kepentingan British."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：In-Situ改善现有村落的道路、供水等物理设施，而非移居民到新安置区。
+Bahasa Melayu: In-Situ memperbaik kemudahan fizikal desa sedia ada seperti jalan dan air, bukan memindahkan penduduk ke petempatan baharu."
+,radio,F5 Bab 5,A,B,C,D,A/B,Picture29.png,"中文：原答案接受A或B：去殖民化、区域安全及经济潜力都是英国提出合并的考虑，可对应I、II或I、IV。
+Bahasa Melayu: Jawapan asal menerima A atau B: dekolonisasi, keselamatan dan potensi ekonomi ialah pertimbangan British, sepadan I-II atau I-IV."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：联合国推动以和平方式解决争议，包括建议调查Sabah和Sarawak人民意愿，为成立方案提供依据，按原答案选D。
+Bahasa Melayu: PBB mengusulkan penyelesaian aman termasuk tinjauan kehendak rakyat Sabah dan Sarawak untuk menilai pembentukan, D mengikut key asal."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：联邦宣布紧急状态，以特别权力处理Sarawak政治与宪法危机、恢复稳定。
+Bahasa Melayu: Kerajaan mengisytiharkan darurat untuk menangani krisis politik serta perlembagaan Sarawak dan memulihkan kestabilan."
+,radio,F5 Bab 6,A,B,C,D,C,Picture32.png,"中文：MAGERAN在紧急状态期间负责维持国家行政顺畅与公共秩序。
+Bahasa Melayu: MAGERAN memastikan pentadbiran negara berjalan licin dan ketenteraman terpelihara semasa darurat."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：共同课程让不同族群学生获得一致的知识和价值，加强团结。
+Bahasa Melayu: Kurikulum sama memberikan pengetahuan dan nilai bersama kepada murid pelbagai kaum untuk perpaduan."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：国家原则在族群冲突后提供共同价值与忠诚基础，巩固人民团结。
+Bahasa Melayu: Rukun Negara menyediakan nilai dan kesetiaan bersama selepas konflik kaum untuk mengukuhkan perpaduan rakyat."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：平衡州际发展可缩小地区收入和设施差距，让财富更公平分配并促进团结。
+Bahasa Melayu: Pembangunan seimbang antara negeri mengurangkan jurang pendapatan serta kemudahan untuk agihan adil dan perpaduan."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：智能农业运用现代技术、数据及自动化提升农业生产效率和产量。
+Bahasa Melayu: Pertanian pintar menggunakan teknologi, data dan automasi untuk meningkatkan kecekapan serta hasil pengeluaran."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：这些古代国家派使节到中国建立外交关系，交换政治与贸易信息。
+Bahasa Melayu: Kerajaan tersebut menghantar utusan ke China untuk menjalin hubungan diplomatik serta komunikasi politik dan perdagangan."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：冷战阵营竞争促使马来西亚后来转向不偏袒任何阵营，保护自身利益。
+Bahasa Melayu: Persaingan blok Perang Dingin mendorong Malaysia kemudian mengamalkan dasar tidak berpihak demi kepentingannya."
+,radio,F5 Bab 10,A,B,C,D,A,Picture39.png,"中文：人民可提供人道物资并建立捐款基金帮助Palestin民众，I、II正确。
+Bahasa Melayu: Rakyat menyalurkan bantuan kemanusiaan dan mewujudkan tabung sumbangan untuk Palestin; I dan II betul."
+,radio,F5 Bab 10,A,B,C,D,D,Picture40.png,"中文：课本所述承诺是防止携带核武器的舰船进入或停泊，维护区域无核武目标；并非禁止和平核能设施。
+Bahasa Melayu: Komitmen dalam buku teks ialah menghalang kapal membawa senjata nuklear memasuki atau berlabuh untuk zon bebas nuklear, bukan melarang semua kemudahan tenaga nuklear aman."

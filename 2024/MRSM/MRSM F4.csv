@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-MRSM F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+MRSM F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：D：Nobat及苏丹印玺是王权与主权象征，不只表现财富或艺术。
+Bahasa Melayu: D: Nobat dan cap mohor ialah lambang kedaulatan serta kuasa pemerintah, bukan sekadar kekayaan atau kesenian."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：A（I、II）：贸易收入及属地贡金进入马六甲国库，支撑政府财政。
+Bahasa Melayu: A (I dan II): Hasil perdagangan dan ufti wilayah menjadi sumber pendapatan perbendaharaan Kesultanan Melayu Melaka."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A（I、II）：两场革命反对绝对王权，强调基本权利及人民声音在治理中的重要性。
+Bahasa Melayu: A (I dan II): Kedua-dua revolusi menentang kuasa mutlak raja dan memperjuangkan kebebasan hak asasi serta keunggulan suara rakyat."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：B：Ibu Zain推动教育，尤其女性教育，让人民意识到知识可改善民族命运。
+Bahasa Melayu: B: Ibu Zain membangkitkan kesedaran tentang kepentingan pendidikan, khususnya pendidikan wanita, untuk memajukan bangsa."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：C：法西斯主义强调极端民族主义与军事扩张，成为第二次世界大战因素；王储遇刺属第一次大战。
+Bahasa Melayu: C: Fasisme menggalakkan nasionalisme melampau dan perluasan ketenteraan sebagai faktor Perang Dunia Kedua. Pembunuhan pewaris Austria-Hungary berkaitan Perang Dunia Pertama."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：B：日本工业与军事需要石油、橡胶及锡等原料，因此向东南亚扩张。
+Bahasa Melayu: B: Jepun mahu memperoleh bahan mentah seperti petroleum, getah dan bijih timah untuk keperluan industri serta ketenteraannya."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：A：UMNO组织各地大规模抗议，集合马来人反对Malayan Union。
+Bahasa Melayu: A: UMNO menyatukan orang Melayu melalui bantahan besar-besaran terhadap Malayan Union."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：C：砂拉越移交英国成为殖民地，否定1941年宪法许诺的自治方向，因而被反对。
+Bahasa Melayu: C: Penyerahan Sarawak sebagai tanah jajahan menafikan hak berkerajaan sendiri yang dijanjikan Perlembagaan 1941."
+,radio,F4 Bab 4,A,B,C,D,B,Picture9.png,"中文：B：战争严重毁坏沙巴城镇，SBUB缺乏资金与能力重建，于是移交英国。
+Bahasa Melayu: B: Kemusnahan bandar akibat perang menyebabkan SBUB kekurangan sumber untuk membina semula Sabah, lalu menyerahkannya kepada British."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：A：被工作委员会排除的激进马来组织结成PUTERA，联合推动另一套宪法主张。
+Bahasa Melayu: A: Golongan nasionalis Melayu radikal membentuk PUTERA untuk menyatukan tuntutan dan mengemukakan cadangan perlembagaan alternatif."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：B：CLC让各族领袖协商敏感问题，形成理解及政治妥协。
+Bahasa Melayu: B: CLC membolehkan pemimpin pelbagai kaum berbincang tentang isu sensitif untuk membina persefahaman dan kompromi."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：D：Senoi Praaq及Sarawak Rangers擅长森林追踪，协助侦测敌人藏身处。
+Bahasa Melayu: D: Senoi Praaq dan Sarawak Rangers mahir menjejak di hutan untuk mengesan tempat persembunyian musuh."
+,radio,F4 Bab 6,A,B,C,D,B,Picture13.png,"中文：B：英国为取得人民支持而加快自治与独立进程，这是紧急状态的重要政治影响。
+Bahasa Melayu: B: Darurat mendorong British mempercepat proses pemerintahan sendiri dan kemerdekaan untuk mendapatkan sokongan rakyat."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：A：Melayu Raya主张联合马来民族同源地区，争取共同独立。
+Bahasa Melayu: A: Idea Melayu Raya menekankan penyatuan rumpun Melayu dalam wilayah serumpun untuk mencapai kemerdekaan bersama."
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：B：CLC讨论中，马来人对公民资格作出让步，其他领袖支持帮助马来人经济发展的RIDA，体现互相妥协。
+Bahasa Melayu: B: Dalam CLC, orang Melayu bertolak ansur tentang kewarganegaraan, manakala pemimpin kaum lain menyokong bantuan ekonomi melalui RIDA sebagai kompromi bersama."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：C（II、III）：1955年候选人须年满21岁及具备联邦公民身份，不要求高等教育或必须代表政党。
+Bahasa Melayu: C (II dan III): Calon 1955 perlu berumur 21 tahun ke atas dan berstatus warganegara, bukan wajib berpendidikan tinggi atau mewakili parti tertentu."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：C：联盟党通过UMNO、MCA及MIC跨族群合作，赢得广泛选民支持，取得51席。
+Bahasa Melayu: C: Kerjasama UMNO, MCA dan MIC dalam Perikatan diterima rakyat pelbagai kaum, membolehkan kemenangan 51 kerusi."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：D：Reid委员会收集政党、统治者及人民等各方意见，作为宪法建议依据。
+Bahasa Melayu: D: Suruhanjaya Reid mengumpulkan pandangan Raja-raja Melayu, parti politik dan rakyat untuk merangka perlembagaan."
+,radio,F4 Bab 9,A,B,C,D,B,Picture19.png,"中文：B：宪法草案讨论jus soli取得公民身份，与王权及马来人地位等共同组成制宪议题。
+Bahasa Melayu: B: Draf perlembagaan membincangkan kewarganegaraan jus soli bersama konsep Raja Berperlembagaan dan kedudukan istimewa orang Melayu."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：A：实体准备委员会负责国家元首居所及重要庆典场所等设施；礼宾课程及提前发薪属庆典安排。
+Bahasa Melayu: A: Jawatankuasa fizikal menyediakan kemudahan seperti istana dan tempat utama sambutan, manakala protokol serta gaji awal berkaitan urusan sambutan."

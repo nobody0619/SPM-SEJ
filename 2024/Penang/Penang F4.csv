@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Penang F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,C,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Penang F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：Kutara Manawa是Majapahit实施的法律，用于维持社会秩序。
+Bahasa Melayu: Kutara Manawa ialah undang-undang Majapahit untuk menjaga aturan dan kesejahteraan masyarakat."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：继承国家传统需要族群互相包容并合作保护遗产，II、III最符合题意。
+Bahasa Melayu: Warisan negara memerlukan toleransi antara bangsa dan kerjasama mempertahankannya; II dan III paling sesuai."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：MCKK和SITC培养具知识与组织能力的领袖，带领人民推动民族意识。
+Bahasa Melayu: MCKK dan SITC melahirkan golongan berilmu serta berkebolehan memimpin rakyat dalam nasionalisme."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：爱国主题小说使读者认同国家、反思殖民问题，增强民族主义。
+Bahasa Melayu: Novel bertemakan cinta negara membina kesedaran dan identiti kebangsaan serta menguatkan nasionalisme."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：在马来亚出生的印度群体形成以本地为家园的身份，关注本地权益与政治。
+Bahasa Melayu: Golongan India kelahiran Tanah Melayu membentuk identiti tempatan dan menumpukan hak serta politik negara ini."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：原答案A对应抗日的Askar Melayu，但该团1933年已成立，不能说是日军占领暴行导致成立。Tentera Semut则在Sarawak开展，题干地区和措辞有问题。
+Bahasa Melayu: Key A merujuk Askar Melayu yang menentang Jepun, tetapi rejimen ditubuhkan pada 1933, bukan akibat kekejaman pendudukan. Semut berlaku di Sarawak; lokasi dan perkataan menubuhkan dalam soalan bermasalah."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：反Malayan Union运动显示斗争精神及马来人联合捍卫权利，所以I、IV正确。
+Bahasa Melayu: Penentangan Malayan Union menunjukkan semangat juang dan penyatuan orang Melayu mempertahankan hak; I dan IV betul."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：Sabah居民当时对移交目的及影响了解有限，政治组织和意识亦薄弱，未形成强大反对运动。
+Bahasa Melayu: Penduduk Sabah kurang memahami tujuan dan kesan penyerahan, sementara kesedaran serta pertubuhan politik lemah, lalu bantahan besar tidak muncul."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：PUTERA-AMCJA发动hartal，要求商家停业，以和平集体行动抗议人民宪法被拒。
+Bahasa Melayu: PUTERA-AMCJA menganjurkan hartal dengan penutupan kedai sebagai bantahan bersama secara aman terhadap penolakan Perlembagaan Rakyat."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：人民与领袖共同坚持要求、参与协商，促成1948年联邦，体现合作的重要。
+Bahasa Melayu: Kerjasama rakyat dan pemimpin dalam tuntutan serta rundingan menjayakan Persekutuan 1948, menunjukkan pentingnya permuafakatan."
+,radio,F4 Bab 6,A,B,C,D,A,Picture11.png,"中文：图中破坏让人民失去住所与生计、生活痛苦，A是后果。题干写“为什么共产党这样做”，却提供后果选项，应改问行动的影响。
+Bahasa Melayu: Kemusnahan menyebabkan rakyat kehilangan tempat tinggal serta mata pencarian, maka A ialah kesan. Soalan bertanya mengapa komunis bertindak tetapi pilihan ialah kesan; frasa soalan sepatutnya menanyakan akibat."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：PKI在Java夺权失败后尝试在马来亚建立新据点与传播共产主义。
+Bahasa Melayu: Kegagalan PKI menguasai Jawa mendorong usaha membuka tapak dan menyebarkan komunisme di Tanah Melayu."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：任命多族成员共同治理部门，让各族领袖合作并建立互信。
+Bahasa Melayu: Pelantikan ahli pelbagai kaum untuk mengurus portfolio bersama membina kerjasama dan kepercayaan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：1956年教育报告提出统一且具有国家特色的课程，培养共同认同。
+Bahasa Melayu: Penyata 1956 mencadangkan kurikulum seragam bercorak kebangsaan untuk membina identiti bersama."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：选举委员会研究选区、资格和程序等事项，为联邦选举做好制度准备。
+Bahasa Melayu: Jawatankuasa Pilihan Raya mengkaji kawasan, kelayakan dan tatacara sebagai persediaan sistem pilihan raya persekutuan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：选举后的议会实行民主治理，并由Tunku领导政府，III、IV正确。
+Bahasa Melayu: MPP selepas pilihan raya mengamalkan pentadbiran demokrasi dengan Tunku mengetuai kerajaan; III dan IV betul."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：海上旅程让联盟代表有时间与君主代表讨论，统一谈判策略。
+Bahasa Melayu: Perjalanan laut memberi masa wakil Perikatan berbincang dengan wakil Raja-raja Melayu untuk menyelaraskan strategi rundingan."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：1956年1月18日至2月6日Lancaster House举行独立谈判，商议英国移交权力。
+Bahasa Melayu: Rundingan kemerdekaan berlangsung di Lancaster House dari 18 Januari hingga 6 Februari 1956 tentang pemindahan kuasa British."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：了解、纪念及尊崇独立领袖的牺牲，是直接表达感恩的方法。
+Bahasa Melayu: Memahami, mengenang dan menyanjung pengorbanan pejuang ialah cara langsung menghargai jasa mereka."
+,radio,F4 Bab 10,A,B,C,D,C,Picture20.png,"中文：AMDA安排英国及盟友国防援助，巩固独立后的马来亚安全。
+Bahasa Melayu: AMDA menyediakan bantuan pertahanan British dan sekutunya untuk memperkukuh keselamatan Tanah Melayu merdeka."

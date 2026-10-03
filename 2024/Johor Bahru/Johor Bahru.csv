@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Johor Bahru 2024,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Bahru 2024,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：马六甲有国王作为最高统治者，并由大臣协助管理，证明已有组织化的政府。因此选A所指的国王存在。
+Bahasa Melayu: Kewujudan raja sebagai pemerintah yang dibantu pembesar membuktikan adanya kerajaan yang tersusun di Melaka. Oleh itu, A tepat."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：Laksamana负责海上安全、领导海军并保护商船，确保贸易顺利。税收与财政不是他的主要职责，所以选C。
+Bahasa Melayu: Laksamana mengetuai angkatan laut dan menjaga keselamatan perairan serta pedagang. Keselamatan perdagangan membantu kegemilangan Melaka, maka C tepat."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：现有答案D“威胁佛教”不符合西方教育中产阶层推动民族主义的目的。该阶段主要争取自治，选项B更符合课本；早期保护佛教的运动不可与此混淆，此题需复核。
+Bahasa Melayu: Jawapan semasa D tidak sesuai sebagai tujuan nasionalis kelas pertengahan berpendidikan Barat. Golongan ini menuntut pemerintahan sendiri, maka B lebih menepati buku teks. Gerakan awal mempertahankan agama Buddha perlu dibezakan daripada tahap tersebut."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：Tok Janggut和Dol Said的抗争集中于各自地区，争取地方自由并维护当地领土权。因此I和II最符合地方性抗争，选A。
+Bahasa Melayu: Perjuangan tokoh tersebut tertumpu di kawasan masing-masing untuk menuntut kebebasan dan mendaulatkan wilayah tempatan. Oleh itu, I dan II paling sesuai, iaitu A."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：“亚洲人的亚洲”等口号用来激发反西方殖民情绪，让人民相信日本会解放亚洲，从而支持日本。但这是日本扩张宣传的一部分，因此选D。
+Bahasa Melayu: Slogan Jepun membangkitkan sentimen antipenjajah Barat untuk mendapatkan sokongan penduduk Asia. Slogan tersebut juga menjadi propaganda peluasan kuasa Jepun, maka D tepat."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：Albert Kwok领导沙巴Jesselton起义，反抗日本统治。他不是成立Force136的领袖，因此选A。
+Bahasa Melayu: Albert Kwok memimpin pemberontakan Jesselton di Sabah menentang pendudukan Jepun. Oleh itu, A tepat, bukan pembentukan Force 136."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：马来统治者决定以法律途径挑战Malayan Union，质疑签约过程是否有效，维护统治权。因此选C的通过法院抗议。
+Bahasa Melayu: Raja-raja Melayu menggunakan saluran perundangan untuk mencabar kesahan perjanjian Malayan Union serta mempertahankan kedaulatan. Oleh itu, C tepat."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：割让砂拉越违反1941年宪法所承诺的自治方向，且无视Brooke遗嘱并使用欺骗手段。题目缺项是违反原则，选A。
+Bahasa Melayu: Penyerahan Sarawak bertentangan dengan prinsip Perlembagaan 1941 yang menjanjikan pemerintahan sendiri, selain mengetepikan wasiat dan menggunakan muslihat. Oleh itu, A tepat."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：1948年联合邦恢复马来州作为保护国的地位，并恢复统治者权力。国家元首职位在独立时设立，因此III和IV正确，选D。
+Bahasa Melayu: Persekutuan 1948 mengembalikan status negeri naungan dan memulihkan kedudukan Raja-raja Melayu. Jawatan Yang di-Pertuan Agong diwujudkan kemudian, maka III dan IV, iaitu D."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：联合邦协定保障马来人的特殊地位，回应本地居民对权益受损的担忧。因此选B，而不是把完全自治说成1948年成果。
+Bahasa Melayu: Perjanjian 1948 melindungi kedudukan istimewa orang Melayu dan kepentingan penduduk asal. Oleh itu, B tepat."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：印尼共产党使用暴力争取支持，但当地社会不接受这种斗争方式，未能在马来亚获得广泛支持。因此选B。
+Bahasa Melayu: Cara perjuangan PKI yang menggunakan kekerasan tidak mendapat sambutan penduduk Tanah Melayu. Kegagalan memperoleh sokongan menyukarkan pembukaan cawangan, maka B tepat."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：为争取非马来族群支持政府、共同对抗共产党，公民权条件获放宽。答案D强调马来人作出让步与妥协，促进更多居民取得公民权。
+Bahasa Melayu: Syarat kewarganegaraan dilonggarkan untuk mendapatkan sokongan bukan Melayu kepada kerajaan dalam usaha menentang komunis. D menekankan kesediaan orang Melayu bertolak ansur sehingga lebih ramai penduduk memperoleh kewarganegaraan."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：翁惹化在Sistem Ahli负责内政，包括移民事务及朝圣事务。因此I和IV属于其职责，选B。
+Bahasa Melayu: Dato' Onn sebagai Ahli Hal Ehwal Dalam Negeri mengurus perkara seperti imigran dan urusan haji. Oleh itu, I dan IV tepat, iaitu B."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：Barnes和Fenn-Wu报告讨论教学语言、学校制度和各族教育需求，属于建立国家教育体系的过程。因此选C。
+Bahasa Melayu: Laporan Barnes dan Fenn-Wu membincangkan bahasa pengantar serta sistem persekolahan bagi membentuk pendidikan kebangsaan. Oleh itu, C tepat."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：UMNO与MCA合作赢得大量议席，说明不同族群的政治合作得到选民支持。因此最直接的结论是D。
+Bahasa Melayu: Kemenangan besar Perikatan UMNO-MCA menunjukkan sokongan terhadap kerjasama politik antara kaum. Oleh itu, D ialah kesimpulan paling langsung."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年民选议会让当地领袖代表人民参与治理，标志朝自治迈进的重要阶段。东姑的讲话强调自治斗争成果，因此选A。
+Bahasa Melayu: Majlis Perundangan yang mempunyai wakil terpilih pada tahun 1955 merupakan langkah penting menuju kerajaan sendiri. Ucapan Tunku menekankan kemajuan perjuangan tersebut, maka A tepat."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：伦敦独立谈判涉及设立宪法委员会，以及撤除殖民行政中的财政秘书职位等安排。题目组合III和IV符合相关事项，选D。
+Bahasa Melayu: Rundingan kemerdekaan membincangkan Suruhanjaya Perlembagaan dan penghapusan jawatan Setiausaha Kewangan dalam perubahan pentadbiran. Oleh itu, III dan IV sesuai, iaitu D."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：宪法第32条规定国家元首作为联邦最高元首，并由统治者会议选出，任期五年。因此选D。
+Bahasa Melayu: Perkara 32 memperuntukkan Yang di-Pertuan Agong sebagai Ketua Utama Negara yang dipilih oleh Majlis Raja-raja bagi tempoh lima tahun. Oleh itu, D tepat."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：Mohamed Hamzah设计国家旗帜，原设计经过调整成为联邦旗帜，后来发展为马来西亚国旗。因此选B。
+Bahasa Melayu: Mohamed Hamzah mereka bentuk bendera kebangsaan yang kemudiannya disesuaikan bagi Persekutuan dan Malaysia. Oleh itu, B tepat."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：政府、领土和法律主权让国家能够独立治理，不受外国控制。答案A强调摆脱外来支配，这是主权的重要意义。
+Bahasa Melayu: Kerajaan, wilayah dan kedaulatan undang-undang membolehkan negara mentadbir secara bebas tanpa penguasaan asing. A menekankan kebebasan daripada pihak luar, selaras dengan kepentingan kedaulatan."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：清楚边界让政府知道治理范围，也让安全部队明确防卫责任。因此行政II和国防III正确，选C。
+Bahasa Melayu: Sempadan yang jelas menentukan kawasan pentadbiran dan tanggungjawab pertahanan sesebuah negara. Oleh itu, II dan III tepat, iaitu C."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：纪念国家英雄和表扬有功公民，让人民认识贡献与牺牲，培养爱国精神。因此X是Memupuk patriotisme，选A。
+Bahasa Melayu: Sambutan Hari Pahlawan dan pengiktirafan kepada rakyat berjasa menghargai pengorbanan untuk negara. Usaha ini memupuk patriotisme, maka A tepat."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：第一与第三份Charter of Justice设立或重组海峡殖民地法院，推动英国司法制度发展。题目着重法院的建立，因此选A。
+Bahasa Melayu: Charter of Justice pertama dan ketiga berkaitan pewujudan mahkamah serta perkembangan sistem kehakiman Negeri-negeri Selat. Oleh itu, A sesuai dengan konteks soalan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：1963年成立马来西亚，需要加入与沙巴、砂拉越及新联邦组成有关的条款，包括自治和司法安排。因此选B。
+Bahasa Melayu: Pindaan 1963 memasukkan klausa bagi menyesuaikan perlembagaan dengan pembentukan Malaysia, termasuk keperluan Sabah dan Sarawak. Oleh itu, B tepat."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：国家元首任命内阁，并担任武装部队最高统帅，属于课本列出的行政权限。召集国会属于立法权限，因此I和IV，即B。
+Bahasa Melayu: Yang di-Pertuan Agong melantik Jemaah Menteri dan menjadi Pemerintah Tertinggi Angkatan Tentera dalam kuasa eksekutif. Memanggil Parlimen berkaitan kuasa perundangan, maka I dan IV, iaitu B."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：现有答案C“缓和政党争议”只是可能效果。制衡机制主要防止权力集中和滥权，选项B更直接符合课本定义，此题答案需要复核。
+Bahasa Melayu: Jawapan semasa C ialah kesan yang mungkin berlaku, tetapi tujuan utama semak dan imbang ialah mengelakkan pemusatan serta penyalahgunaan kuasa. Oleh itu, B lebih langsung menepati konsep buku teks dan jawapan perlu disemak."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：国防和教育属于联邦清单；农业属于州权限，房屋涉及共同清单。因此III和IV正确，选D。
+Bahasa Melayu: Pertahanan dan pendidikan berada dalam Senarai Persekutuan. Pertanian berkaitan negeri, manakala perumahan melibatkan Senarai Bersama, maka III dan IV, iaitu D."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：国家财政理事会就联邦与州财政提供意见，包括税收分配、拨款及借款安排。现有答案C涉及税收，但理事会并非直接征税机关，选项用语过于简略，需按协调和咨询职能理解。
+Bahasa Melayu: Majlis Kewangan Negara menasihati tentang kewangan Persekutuan dan negeri, termasuk pembahagian hasil cukai, pemberian serta pinjaman. C berkaitan cukai, tetapi majlis bukan badan yang terus mengenakan cukai; fungsi utamanya ialah penyelarasan dan nasihat."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：Melayu Raya希望结合马来亚与印尼，但印尼在1945年自行宣布独立，使共同政治构想无法按原计划实现。因此选C。
+Bahasa Melayu: Gagasan Melayu Raya mahu menyatukan Tanah Melayu dengan Indonesia. Pengisytiharan kemerdekaan Indonesia secara berasingan pada tahun 1945 menyebabkan gagasan itu tidak terlaksana, maka C tepat."
+,radio,F5 Bab 5,A,B,C,D,B,Picture30.png,"中文：答案B对应成立前所订协议中的州内阁安排及原定8月31日成立日期。必须区分原定日期与实际日期：马来西亚最后于1963年9月16日成立，不能把8月31日当实际成立日。
+Bahasa Melayu: B merujuk ketetapan awal tentang kabinet negeri dan tarikh pembentukan yang dirancang pada 31 Ogos. Tarikh itu perlu dibezakan daripada pengisytiharan sebenar Malaysia pada 16 September 1963 selepas penangguhan."
+,radio,F5 Bab 6,A,B,C,D,C,Picture31.png,"中文：经济多元化和教育发展都是成立后需要处理的国内挑战，因此II和III可对应C。不过基础设施和族群团结也是真实挑战，题目组合不是排他性的。
+Bahasa Melayu: Mempelbagaikan ekonomi dan memajukan pendidikan merupakan cabaran dalaman, maka II dan III memberikan C. Namun, pembangunan infrastruktur serta perpaduan juga cabaran sebenar, jadi pilihan tidak bersifat eksklusif."
+,radio,F5 Bab 6,A,B,C,D,B,Picture32.png,"中文：MAGERAN要恢复社会稳定，处理族群关系及其背后的经济差距。题目组合I和IV突出这两项相关问题，因此选B。
+Bahasa Melayu: MAGERAN memulihkan kestabilan dan menangani masalah perpaduan serta ketidakseimbangan ekonomi antara kaum. Dalam pilihan ini, I dan IV paling berkaitan, iaitu B."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：国家教育政策培养有知识、身心平衡及和谐的人民，以满足发展需求并促进社会团结。题目描述教育体系，因此选A。
+Bahasa Melayu: Dasar Pendidikan Kebangsaan membentuk rakyat berilmu, seimbang dan harmonis serta memenuhi keperluan pembangunan negara. Oleh itu, A tepat."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：Citrawarna展示马来西亚多元文化和艺术，吸引游客认识国家特色。因此题目问活动推广目的时，旅游宣传C可成立，同时也有塑造国家文化认同的作用。
+Bahasa Melayu: Citrawarna mempamerkan kepelbagaian budaya dan seni Malaysia untuk menarik pelancong. Oleh itu, C sesuai sebagai tujuan promosi, di samping peranannya membina identiti budaya kebangsaan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：DEB通过消除贫困与重组社会，纠正族群及地区之间社会经济失衡，因此选D。题干名称应为Dasar Ekonomi Baru；课本实施期是1971—1990。
+Bahasa Melayu: DEB membasmi kemiskinan dan menyusun semula masyarakat untuk memulihkan ketidakseimbangan sosioekonomi, maka D tepat. Nama yang betul ialah Dasar Ekonomi Baru dan tempoh pelaksanaannya dalam buku teks ialah 1971–1990."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：培育土著商业阶层，让土著参与贸易、企业管理及工业活动，形成Masyarakat Perdagangan dan Perindustrian Bumiputera。因此选D。
+Bahasa Melayu: Pembentukan kelas bumiputera komersial meningkatkan penyertaan dalam perniagaan dan perindustrian. Usaha ini melahirkan Masyarakat Perdagangan dan Perindustrian Bumiputera, maka D tepat."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：参与联合国维和及观察任务能协助缓和冲突、保护平民，体现对世界安全的重视。因此答案C可成立；B解决冲突也是相关直接目标。
+Bahasa Melayu: Misi pengaman dan pemerhati membantu meredakan konflik serta melindungi penduduk. C menekankan keselamatan masyarakat dunia; B menyelesaikan konflik juga tujuan yang berkaitan."
+,radio,F5 Bab 9,A,B,C,D,B,Picture38.png,"中文：不结盟让马来西亚不受某一强权集团约束，能够依国家利益与不同国家建立开放关系。因此选B。
+Bahasa Melayu: NAM membolehkan Malaysia menjalinkan hubungan secara terbuka tanpa terikat kepada blok kuasa tertentu. Dasar ini memberi ruang menjaga kepentingan negara, maka B tepat."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：AFTA降低区域内商品关税与贸易壁垒，方便东盟成员之间贸易，增加经济竞争力。因此选B。
+Bahasa Melayu: AFTA mengurangkan tarif dan halangan perdagangan barangan antara negara ASEAN. Langkah ini merancakkan perdagangan serta daya saing ekonomi, maka B tepat."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：国家繁荣和就业吸引力被人口贩运者利用，把马来西亚作为转运地点或目的地。题目答案A强调这种经济吸引因素，并不表示国家没有法律。
+Bahasa Melayu: Kemakmuran dan peluang ekonomi Malaysia dieksploitasi oleh sindiket pemerdagangan manusia sebagai faktor tarikan serta transit. Oleh itu, A sesuai; ini tidak bermaksud negara tiada undang-undang."

@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Sarawak Serian 2024,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Sarawak Serian 2024,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：D：Penghulu Bendahari管理国库及财政收入，包括贸易税、其他税款和贡金；Bendahara主要领导行政。
+Bahasa Melayu: D: Penghulu Bendahari mengurus perbendaharaan dan hasil kerajaan seperti cukai perdagangan serta ufti, manakala Bendahara mengetuai pentadbiran."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：B：地方官通过sistem serah征收收入并管理辖区；划战船是人民服役的例子。
+Bahasa Melayu: B: Pembesar mengutip hasil melalui sistem serah dan mentadbir kawasan pegangan. Mendayung kapal perang ialah contoh khidmat rakyat."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：A：早期印尼民族主义者相信教育能改变人民命运，让人民摆脱殖民压迫与落后。
+Bahasa Melayu: A: Nasionalis awal Indonesia melihat pendidikan sebagai cara mengubah nasib rakyat dan membebaskan mereka daripada penindasan serta kemunduran."
+,radio,F4 Bab 3,A,B,C,D,B,Picture4.png,"中文：B（I、IV）：Majalah Guru及Lembaga Melayu讨论教育与民族问题，传播民族觉醒；本题以历史时期的刊物为准。
+Bahasa Melayu: B (I dan IV): Majalah Guru dan Lembaga Melayu membincangkan pendidikan serta masalah bangsa dan menyebarkan kesedaran kebangsaan pada zaman tersebut."
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：B（I、IV）：国联未能阻止日本侵占满洲，也未能约束德国违反凡尔赛条约；入侵波兰的是德国，不是意大利。
+Bahasa Melayu: B (I dan IV): Liga Bangsa-Bangsa gagal menangani penaklukan Manchuria oleh Jepun dan keingkaran Jerman terhadap Versailles. Poland diserang Jerman, bukan Itali."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：D：Barbarossa是德国进攻苏联的军事行动，目标是向东扩张并占领俄罗斯地区。
+Bahasa Melayu: D: Operasi Barbarossa ialah serangan Jerman terhadap Kesatuan Soviet untuk meluaskan penguasaan ke timur dan menawan Rusia."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：B（I、IV）：英国统一行政以提高管理效率，并希望加强经济活动与投资；增加行政成本不是目的。
+Bahasa Melayu: B (I dan IV): Malayan Union bertujuan melicinkan pentadbiran dan meningkatkan kegiatan serta pelaburan ekonomi, bukan menambah kos pentadbiran."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：D：1941年宪法承诺让砂拉越人民走向自治，移交英国成为殖民地违背了这项承诺。
+Bahasa Melayu: D: Perlembagaan 1941 menjanjikan arah berkerajaan sendiri kepada rakyat Sarawak; penyerahan kepada British bercanggah dengan janji tersebut."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：A：言论、集会和出版自由让民族主义者传播思想，启发人民争取独立。
+Bahasa Melayu: A: Kebebasan bersuara, berhimpun dan menerbitkan akhbar membolehkan nasionalis membuka minda rakyat ke arah negara merdeka."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：C：课本把Atlantic Charter的去殖民化原则列为英国接受1948年联合邦安排的背景，促进当地人自治。
+Bahasa Melayu: C: Buku teks mengaitkan prinsip dekolonisasi Piagam Atlantik dengan sokongan British terhadap Persekutuan 1948 dan persediaan pemerintahan sendiri."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：B：Karl Marx及Friedrich Engels是共产主义思想的重要奠基者，主张消除阶级差别；Das Kapital主要由Marx撰写，Engels整理后期卷。
+Bahasa Melayu: B: Karl Marx dan Friedrich Engels menjadi pengasas utama fahaman komunisme yang menentang perbezaan kelas. Das Kapital ditulis terutamanya oleh Marx, dengan jilid kemudian disunting Engels."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：D：Senoi Praaq与Sarawak Rangers擅长追踪森林足迹，协助寻找共产党藏身处。
+Bahasa Melayu: D: Senoi Praaq dan Sarawak Rangers mahir menjejak di hutan untuk mengesan tempat persembunyian komunis."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：A：CLC通过族群之间讨论和妥协建立政治合作，减少矛盾并推动独立。
+Bahasa Melayu: A: CLC menggalakkan kerjasama politik melalui perbincangan dan kompromi antara kaum untuk mengurangkan pertentangan serta menuju kemerdekaan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：C：联盟党以帆船为标志，象征愿意克服争取独立过程中的挑战和阻碍。
+Bahasa Melayu: C: Parti Perikatan menggunakan kapal layar sebagai logo yang melambangkan kesediaan menghadapi cabaran dan rintangan untuk mencapai kemerdekaan."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B：1951年首个市议会选举在George Town举行，随后是1952年吉隆坡选举。
+Bahasa Melayu: B: Pilihan raya perbandaran awal diadakan di George Town pada 1951, diikuti Kuala Lumpur pada 1952."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：C：选民参与投票，履行选择代表及决定国家治理方向的公民责任。
+Bahasa Melayu: C: Pengundi melaksanakan tanggungjawab sebagai warganegara dengan memilih wakil untuk menentukan arah pemerintahan."
+,radio,F4 Bab 9,A,B,C,D,A,Picture17.png,"中文：A：独立代表团回国后，东姑在马六甲Banda Hilir宣布独立日期为1957年8月31日。
+Bahasa Melayu: A: Selepas rombongan merdeka pulang, Tunku mengumumkan tarikh kemerdekaan 31 Ogos 1957 di Banda Hilir, Melaka."
+,radio,F4 Bab 9,A,B,C,D,C,Picture18.png,"中文：C：Naturalisasi是取得公民身份的一种方式，须满足居住、品格及其他法定条件。
+Bahasa Melayu: C: Naturalisasi ialah kaedah memperoleh kewarganegaraan dengan memenuhi syarat pemastautinan, kelakuan baik dan syarat undang-undang lain."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：D：Kamus Dewan把独立解释为摆脱殖民、束缚或外来控制，能够自主治理。
+Bahasa Melayu: D: Kemerdekaan menurut Kamus Dewan merujuk kebebasan daripada penjajahan, kurungan atau penguasaan luar."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B（I、IV）：国徽和国旗表现国家身份，并凝聚人民的共同归属感与团结。
+Bahasa Melayu: B (I dan IV): Jata Negara dan bendera menjadi lambang jati diri serta simbol perpaduan rakyat dalam sebuah negara."
+,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：D：Rukun Negara及共同的国语强化共同价值与交流，培养人民之间的善意关系。
+Bahasa Melayu: D: Rukun Negara dan bahasa kebangsaan membina nilai serta komunikasi bersama untuk memupuk muhibah dalam kalangan rakyat."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：D：多种文化和风俗共同构成马来西亚的特色，显示国家社会的独特性。
+Bahasa Melayu: D: Kepelbagaian budaya dan adat resam menggambarkan keunikan masyarakat serta identiti negara Malaysia."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：A：Westminster模式源自英国，影响马来西亚的议会民主及君主立宪安排。
+Bahasa Melayu: A: Model Westminster berasal dari Britain dan mempengaruhi sistem Demokrasi Berparlimen serta Raja Berperlembagaan Malaysia."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：B：联邦法院可处理宪法问题及联邦政府与州政府之间的争议，属于最高层级司法机构。
+Bahasa Melayu: B: Mahkamah Persekutuan mendengar persoalan perlembagaan dan pertikaian antara Kerajaan Persekutuan dengan negeri sebagai mahkamah tertinggi."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：D：国家元首任命驻外外交官，代表国家进行正式外交关系。
+Bahasa Melayu: D: Yang di-Pertuan Agong melantik diplomat ke luar negara untuk mewakili Malaysia dalam hubungan rasmi."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：C：国会是立法机构，负责制定、讨论及通过国家法律。
+Bahasa Melayu: C: Parlimen ialah badan perundangan yang membincangkan dan menggubal undang-undang negara."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：A：土地属于州清单；教育、健康及国防属于联邦权限。
+Bahasa Melayu: A: Tanah ialah perkara dalam Senarai Negeri, manakala pelajaran, kesihatan dan pertahanan ialah urusan Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：B（I、IV）：宪法是联邦权力分配的基础，中央与州的协调确保共同政策顺利落实。
+Bahasa Melayu: B (I dan IV): Keluhuran Perlembagaan menjadi asas pembahagian kuasa, manakala penyelarasan Persekutuan dengan negeri mengukuhkan pelaksanaan dasar."
+,radio,F5 Bab 5,A,B,C,D,D,Picture29.png,"中文：D：马来西亚构想把东南亚若干原英国殖民地区联合，包括马来亚、新加坡、沙巴及砂拉越。
+Bahasa Melayu: D: Gagasan Malaysia mencadangkan penggabungan beberapa bekas tanah jajahan British di Asia Tenggara dalam sebuah Persekutuan."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：C（II、III）：联合后能协调安全力量，遏制共产党活动并加强防务。
+Bahasa Melayu: C (II dan III): Penyertaan dalam Malaysia membolehkan ancaman komunis dibendung dan benteng pertahanan diperkukuh melalui kerjasama keselamatan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：A：职业及技术训练提升就业技能，让失业者适应工业与经济发展的需求。
+Bahasa Melayu: A: Pusat latihan vokasional dan teknikal meningkatkan kemahiran tenaga kerja supaya mereka memenuhi keperluan pekerjaan serta pembangunan ekonomi."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：A（I、II）：1969年事件后，MAGERAN须恢复族群关系及处理经济失衡，以恢复稳定。
+Bahasa Melayu: A (I dan II): Selepas peristiwa 1969, MAGERAN perlu memberi perhatian kepada perpaduan kaum dan ketidakseimbangan ekonomi untuk memulihkan kestabilan."
+,radio,F5 Bab 7,A,B,C,D,C,Picture33.png,"中文：C：Feri Malaysia联系半岛与东马，促进人员交流与国家整合。
+Bahasa Melayu: C: Feri Malaysia menghubungkan Semenanjung dengan Sabah serta Sarawak untuk menggalakkan perhubungan dan integrasi nasional."
+,radio,F5 Bab 7,A,B,C,D,B,Picture34.png,"中文：B：DBP发展语言与出版，UKM以马来语推动高等教育，两者都强化马来语地位。
+Bahasa Melayu: B: DBP memajukan bahasa serta penerbitan, manakala UKM menggunakan bahasa Melayu dalam pendidikan tinggi untuk memperkasakan bahasa kebangsaan."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：D：BERNAS参与稻米供应及价格稳定，区别于渔业、橡胶或合作社机构。
+Bahasa Melayu: D: BERNAS mengawal selia beras dan membantu menstabilkan harga padi, bukan mengurus sektor perikanan atau getah."
+,radio,F5 Bab 8,A,B,C,D,D,Picture36.png,"中文：D（III、IV）：ILP及GIATMARA为青年提供实用技能训练，提高就业及自立能力。
+Bahasa Melayu: D (III dan IV): ILP dan GIATMARA ialah pusat latihan kemahiran untuk belia bagi meningkatkan kebolehpasaran serta keupayaan berdikari."
+,radio,F5 Bab 9,A,B,C,D,B,Picture37.png,"中文：B（I、IV）：外交政策以维护独立与保护国家利益为目标，确保对外关系服务国家需要。
+Bahasa Melayu: B (I dan IV): Dasar luar bertujuan mempertahankan kemerdekaan dan melindungi kepentingan nasional dalam hubungan antarabangsa."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：C：五国防务安排提供技术援助、联合训练及防务合作，提升安全能力。
+Bahasa Melayu: C: Perjanjian Pertahanan Lima Negara membolehkan bantuan teknikal, latihan bersama dan kerjasama pertahanan untuk meningkatkan keselamatan."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：B（I、IV）：持续说明棕油产业并推动MSPO认证，回应环保指责及证明可持续生产。
+Bahasa Melayu: B (I dan IV): Kempen berterusan dan pensijilan MSPO menjelaskan usaha kelestarian minyak sawit serta menangani tuduhan terhadap industri tersebut."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：A：禁止在本国海域进行核武器相关演习，有助履行东南亚无核武器区承诺。
+Bahasa Melayu: A: Larangan latihan senjata nuklear di perairan negara membantu memastikan komitmen Zon Bebas Senjata Nuklear Asia Tenggara dipatuhi."

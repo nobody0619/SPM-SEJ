@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang F5,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：法律主权表示政府与人民受宪法和法律约束，依法治理而非个人专断。
+Bahasa Melayu: Kedaulatan undang-undang bermakna kerajaan dan rakyat terikat pada perlembagaan serta undang-undang, bukan kuasa peribadi mutlak."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：乡村巡视让领袖检查发展计划成效及居民需求，监督经济繁荣政策。
+Bahasa Melayu: Lawatan luar bandar membolehkan pemimpin menilai pembangunan dan keperluan rakyat untuk memantau dasar kemakmuran ekonomi."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：人民选择领袖及独立选举机构是议会民主的运作特点，属于现代宪法特征。
+Bahasa Melayu: Pemilihan pemimpin oleh rakyat dan SPR ialah ciri pelaksanaan Demokrasi Berparlimen dalam perlembagaan moden."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：联邦法院依据宪法裁定联邦与州之间的权限冲突，维护联邦制度。
+Bahasa Melayu: Mahkamah Persekutuan menyelesaikan pertikaian kuasa persekutuan-negeri berdasarkan perlembagaan."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：国家元首在安全、经济等受威胁时宣布紧急状态，课本把它列在立法权。
+Bahasa Melayu: YDPA mengisytiharkan darurat apabila keselamatan atau ekonomi terancam, dikategorikan buku teks sebagai kuasa perundangan."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：煽动法令限制危害公共秩序及族群和谐的言论，说明自由须在法律范围内行使。
+Bahasa Melayu: Akta Hasutan membatasi ucapan yang mengancam ketenteraman dan keharmonian, menunjukkan kebebasan tertakluk pada undang-undang."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：联邦是多个州联合组成的国家，权限按宪法在中央与州之间分配。
+Bahasa Melayu: Persekutuan ialah penyatuan beberapa negeri dengan pembahagian kuasa pusat-negeri mengikut perlembagaan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：发展走廊把投资、设施及工作机会带入不同地区，缩小区域社会经济差距。
+Bahasa Melayu: Koridor pembangunan membawa pelaburan, kemudahan dan pekerjaan ke wilayah berbeza untuk keseimbangan sosioekonomi."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：英国早期联合殖民地建议旨在整合行政，使管理与资源协调更方便。
+Bahasa Melayu: Idea penyatuan wilayah British menggabungkan pentadbiran supaya pengurusan dan penyelarasan sumber lebih mudah."
+,radio,F5 Bab 5,A,B,C,D,A,Picture30.png,"中文：Azahari担心Brunei财富流失及英国借合并延续影响，课本较直接支持I、IV即B。原key A为I、II；另立联合体的目标与II可有关，但题述应注明这项配对差异。
+Bahasa Melayu: Azahari bimbang kehilangan kekayaan dan pengaruh British berterusan, lebih langsung menyokong I dan IV, B. Key asal A ialah I dan II; hasrat kesatuan berasingan berkaitan II tetapi perbezaan padanan ini perlu dicatat."
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：政府为橡胶和锡寻找新市场，减少旧市场依赖、稳定出口收入，是发展经济的措施。
+Bahasa Melayu: Kerajaan mencari pasaran baharu getah dan bijih timah untuk mengurangkan pergantungan pasaran serta menstabilkan pendapatan eksport."
+,radio,F5 Bab 6,A,B,C,D,A,Picture32.png,"中文：1969年紧急措施包括暂停宪法及设置避难中心，保护受骚乱影响的人，I、II正确。
+Bahasa Melayu: Darurat 1969 merangkumi penggantungan perlembagaan dan pusat perlindungan mangsa rusuhan; I dan II betul."
+,radio,F5 Bab 7,A,B,C,D,B,Picture33.png,"中文：全国整合把不同州、族群及地区人民联系为共同国家民族，同时保留适当文化差异。
+Bahasa Melayu: Integrasi nasional menyatukan rakyat pelbagai negeri, kaum dan wilayah sebagai satu bangsa tanpa menghapuskan semua perbezaan budaya."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：UKM以马来语开展高等教育和研究，提升国语作为知识语言的地位。
+Bahasa Melayu: UKM menggunakan bahasa Melayu dalam pengajian tinggi dan penyelidikan untuk memartabatkannya sebagai bahasa ilmu."
+,radio,F5 Bab 8,A,B,C,D,B,Picture35.png,"中文：绿色书计划鼓励种植短期作物、养殖等，提高本地粮食供应。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan tanaman jangka pendek serta ternakan untuk memastikan bekalan makanan mencukupi."
+,radio,F5 Bab 8,A,B,C,D,A,Picture36.png,"中文：道路和铁路改善货物、人员运输，降低交易成本并带动商业与投资。
+Bahasa Melayu: Jalan dan kereta api melancarkan pergerakan barangan serta orang, mengurangkan kos dan merancakkan perdagangan serta pelaburan."
+,radio,F5 Bab 9,A,B,C,D,C,Picture37.png,"中文：维护主权和追求对国家有利的政策属于国家需求，而非外来压力。
+Bahasa Melayu: Kedaulatan dan dasar menguntungkan negara mencerminkan keperluan nasional, bukan desakan luar."
+,radio,F5 Bab 9,A,B,C,D,A,Picture38.png,"中文：联合国的核心目标是维护国际和平与安全，透过合作和谈判避免战争。
+Bahasa Melayu: Matlamat utama PBB ialah keamanan serta keselamatan dunia melalui kerjasama dan rundingan untuk mengelakkan perang."
+,radio,F5 Bab 9,A,B,C,D,C,Picture39.png,"中文：Indochina共产扩张及相关战争使区域政治与安全不稳定，影响邻国。
+Bahasa Melayu: Peluasan komunis dan peperangan di Indochina menimbulkan ketidakstabilan politik serta keselamatan serantau."
+,radio,F5 Bab 10,A,B,C,D,A,Picture40.png,"中文：马来西亚位处重要区域交通通道，容易被犯罪集团利用为人口贩运的过境或目的地。
+Bahasa Melayu: Kedudukan Malaysia pada laluan serantau strategik menjadikannya lokasi transit atau destinasi yang disalahgunakan sindiket pemerdagangan orang."

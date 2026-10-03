@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Bahru F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Bahru F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：马六甲有国王作为最高统治者，并由大臣协助管理，证明已有组织化的政府。因此选A所指的国王存在。
+Bahasa Melayu: Kewujudan raja sebagai pemerintah yang dibantu pembesar membuktikan adanya kerajaan yang tersusun di Melaka. Oleh itu, A tepat."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：Laksamana负责海上安全、领导海军并保护商船，确保贸易顺利。税收与财政不是他的主要职责，所以选C。
+Bahasa Melayu: Laksamana mengetuai angkatan laut dan menjaga keselamatan perairan serta pedagang. Keselamatan perdagangan membantu kegemilangan Melaka, maka C tepat."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：现有答案D“威胁佛教”不符合西方教育中产阶层推动民族主义的目的。该阶段主要争取自治，选项B更符合课本；早期保护佛教的运动不可与此混淆，此题需复核。
+Bahasa Melayu: Jawapan semasa D tidak sesuai sebagai tujuan nasionalis kelas pertengahan berpendidikan Barat. Golongan ini menuntut pemerintahan sendiri, maka B lebih menepati buku teks. Gerakan awal mempertahankan agama Buddha perlu dibezakan daripada tahap tersebut."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：Tok Janggut和Dol Said的抗争集中于各自地区，争取地方自由并维护当地领土权。因此I和II最符合地方性抗争，选A。
+Bahasa Melayu: Perjuangan tokoh tersebut tertumpu di kawasan masing-masing untuk menuntut kebebasan dan mendaulatkan wilayah tempatan. Oleh itu, I dan II paling sesuai, iaitu A."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：“亚洲人的亚洲”等口号用来激发反西方殖民情绪，让人民相信日本会解放亚洲，从而支持日本。但这是日本扩张宣传的一部分，因此选D。
+Bahasa Melayu: Slogan Jepun membangkitkan sentimen antipenjajah Barat untuk mendapatkan sokongan penduduk Asia. Slogan tersebut juga menjadi propaganda peluasan kuasa Jepun, maka D tepat."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：Albert Kwok领导沙巴Jesselton起义，反抗日本统治。他不是成立Force136的领袖，因此选A。
+Bahasa Melayu: Albert Kwok memimpin pemberontakan Jesselton di Sabah menentang pendudukan Jepun. Oleh itu, A tepat, bukan pembentukan Force 136."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：马来统治者决定以法律途径挑战Malayan Union，质疑签约过程是否有效，维护统治权。因此选C的通过法院抗议。
+Bahasa Melayu: Raja-raja Melayu menggunakan saluran perundangan untuk mencabar kesahan perjanjian Malayan Union serta mempertahankan kedaulatan. Oleh itu, C tepat."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：割让砂拉越违反1941年宪法所承诺的自治方向，且无视Brooke遗嘱并使用欺骗手段。题目缺项是违反原则，选A。
+Bahasa Melayu: Penyerahan Sarawak bertentangan dengan prinsip Perlembagaan 1941 yang menjanjikan pemerintahan sendiri, selain mengetepikan wasiat dan menggunakan muslihat. Oleh itu, A tepat."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：1948年联合邦恢复马来州作为保护国的地位，并恢复统治者权力。国家元首职位在独立时设立，因此III和IV正确，选D。
+Bahasa Melayu: Persekutuan 1948 mengembalikan status negeri naungan dan memulihkan kedudukan Raja-raja Melayu. Jawatan Yang di-Pertuan Agong diwujudkan kemudian, maka III dan IV, iaitu D."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：联合邦协定保障马来人的特殊地位，回应本地居民对权益受损的担忧。因此选B，而不是把完全自治说成1948年成果。
+Bahasa Melayu: Perjanjian 1948 melindungi kedudukan istimewa orang Melayu dan kepentingan penduduk asal. Oleh itu, B tepat."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：印尼共产党使用暴力争取支持，但当地社会不接受这种斗争方式，未能在马来亚获得广泛支持。因此选B。
+Bahasa Melayu: Cara perjuangan PKI yang menggunakan kekerasan tidak mendapat sambutan penduduk Tanah Melayu. Kegagalan memperoleh sokongan menyukarkan pembukaan cawangan, maka B tepat."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：为争取非马来族群支持政府、共同对抗共产党，公民权条件获放宽。答案D强调马来人作出让步与妥协，促进更多居民取得公民权。
+Bahasa Melayu: Syarat kewarganegaraan dilonggarkan untuk mendapatkan sokongan bukan Melayu kepada kerajaan dalam usaha menentang komunis. D menekankan kesediaan orang Melayu bertolak ansur sehingga lebih ramai penduduk memperoleh kewarganegaraan."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：翁惹化在Sistem Ahli负责内政，包括移民事务及朝圣事务。因此I和IV属于其职责，选B。
+Bahasa Melayu: Dato' Onn sebagai Ahli Hal Ehwal Dalam Negeri mengurus perkara seperti imigran dan urusan haji. Oleh itu, I dan IV tepat, iaitu B."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：Barnes和Fenn-Wu报告讨论教学语言、学校制度和各族教育需求，属于建立国家教育体系的过程。因此选C。
+Bahasa Melayu: Laporan Barnes dan Fenn-Wu membincangkan bahasa pengantar serta sistem persekolahan bagi membentuk pendidikan kebangsaan. Oleh itu, C tepat."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：UMNO与MCA合作赢得大量议席，说明不同族群的政治合作得到选民支持。因此最直接的结论是D。
+Bahasa Melayu: Kemenangan besar Perikatan UMNO-MCA menunjukkan sokongan terhadap kerjasama politik antara kaum. Oleh itu, D ialah kesimpulan paling langsung."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：1955年民选议会让当地领袖代表人民参与治理，标志朝自治迈进的重要阶段。东姑的讲话强调自治斗争成果，因此选A。
+Bahasa Melayu: Majlis Perundangan yang mempunyai wakil terpilih pada tahun 1955 merupakan langkah penting menuju kerajaan sendiri. Ucapan Tunku menekankan kemajuan perjuangan tersebut, maka A tepat."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：伦敦独立谈判涉及设立宪法委员会，以及撤除殖民行政中的财政秘书职位等安排。题目组合III和IV符合相关事项，选D。
+Bahasa Melayu: Rundingan kemerdekaan membincangkan Suruhanjaya Perlembagaan dan penghapusan jawatan Setiausaha Kewangan dalam perubahan pentadbiran. Oleh itu, III dan IV sesuai, iaitu D."
+,radio,F4 Bab 9,A,B,C,D,D,Picture18.png,"中文：宪法第32条规定国家元首作为联邦最高元首，并由统治者会议选出，任期五年。因此选D。
+Bahasa Melayu: Perkara 32 memperuntukkan Yang di-Pertuan Agong sebagai Ketua Utama Negara yang dipilih oleh Majlis Raja-raja bagi tempoh lima tahun. Oleh itu, D tepat."
+,radio,F4 Bab 10,A,B,C,D,B,Picture19.png,"中文：Mohamed Hamzah设计国家旗帜，原设计经过调整成为联邦旗帜，后来发展为马来西亚国旗。因此选B。
+Bahasa Melayu: Mohamed Hamzah mereka bentuk bendera kebangsaan yang kemudiannya disesuaikan bagi Persekutuan dan Malaysia. Oleh itu, B tepat."
+,radio,F4 Bab 10,A,B,C,D,A,Picture20.png,"中文：政府、领土和法律主权让国家能够独立治理，不受外国控制。答案A强调摆脱外来支配，这是主权的重要意义。
+Bahasa Melayu: Kerajaan, wilayah dan kedaulatan undang-undang membolehkan negara mentadbir secara bebas tanpa penguasaan asing. A menekankan kebebasan daripada pihak luar, selaras dengan kepentingan kedaulatan."

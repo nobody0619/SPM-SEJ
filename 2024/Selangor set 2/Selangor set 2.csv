@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Selangor set 2 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 10,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 10,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 8,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 8,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 9,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 9,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 10,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 10,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor set 2 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：C：广大的影响地区说明其他地区承认马六甲的权威，体现统治者的能力与威望。
+Bahasa Melayu: C: Wilayah pengaruh yang luas menunjukkan penerimaan terhadap kekuasaan Melaka dan membuktikan kewibawaan pemerintah."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：D：Malim负责导航；若因疏忽导致船只损坏或沉没，可按海事法处死。
+Bahasa Melayu: D: Malim bertanggungjawab mengemudi kapal. Kecuaian yang menyebabkan kerosakan atau kapal tenggelam boleh dikenakan hukuman bunuh."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：B（I、IV）：Islah要求回归《古兰经》与圣训，以改善穆斯林社会生活并摆脱殖民支配。
+Bahasa Melayu: B (I dan IV): Gerakan Islah menyeru kembali kepada al-Quran dan Hadis untuk memperbaik kehidupan masyarakat serta membebaskan diri daripada penjajahan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：B：KMM公开而大胆反对英国殖民统治，因此英国把它视为激进组织。
+Bahasa Melayu: B: KMM berani menyuarakan penentangan terhadap penjajahan British, lalu dianggap pertubuhan radikal."
+,radio,F4 Bab 3,A,B,C,D,A,Picture5.png,"中文：A：进攻苏联的Barbarossa行动是希特勒扩张欧洲霸权的一部分，目标是扩大对欧洲的统治。
+Bahasa Melayu: A: Operasi Barbarossa menyerang Kesatuan Soviet sebagai sebahagian cita-cita Hitler meluaskan penguasaan ke seluruh Eropah."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：B：Ibrahim Alla Ditta在对日作战中救助盟军，英勇表现使他获得Military Cross；Pasir Panjang主要相关人物是Adnan Saidi。
+Bahasa Melayu: B: Ibrahim Alla Ditta dianugerahi Military Cross kerana keberanian menyelamatkan tentera Bersekutu. Pertempuran Pasir Panjang lebih dikaitkan dengan Adnan Saidi."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：D：统治者认为签署Malayan Union协议时受到施压，要求取消其对该协议的同意。
+Bahasa Melayu: D: Raja-raja Melayu mempertikaikan persetujuan yang diperoleh melalui tekanan dan meminta persetujuan terhadap Malayan Union dimansuhkan."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：A：YMA关注当地马来人的社会与经济进步，通过组织活动改善人民生活。
+Bahasa Melayu: A: YMA bertujuan memajukan penduduk tempatan melalui kegiatan sosial dan ekonomi."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：C（II、III）：PUTERA提出国旗应含马来民族色彩，并要求外交与国防由马来亚和英国共同承担。
+Bahasa Melayu: C (II dan III): PUTERA mencadangkan unsur warna kebangsaan Melayu dalam bendera serta tanggungjawab bersama Tanah Melayu dan British dalam hal ehwal luar dan pertahanan."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：C：这不是自动取得公民身份，而是符合居住、品格、语言及忠诚条件后提出申请，按本题称为登记。
+Bahasa Melayu: C: Pemuda itu perlu memohon setelah memenuhi syarat pemastautinan, kelakuan baik, bahasa dan kesetiaan; dalam pilihan soalan ini kaedahnya ialah pendaftaran, bukan kuat kuasa undang-undang."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：C：共产党使用暴力和恐吓，引起人民反感，使多数马来人不支持其运动。
+Bahasa Melayu: C: Penggunaan kekerasan dan ugutan oleh komunis menimbulkan penolakan dalam kalangan orang Melayu."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：A：争取原住民信任及放宽公民条件都是心理战措施，用于取得人民支持以对抗共产党。
+Bahasa Melayu: A: Usaha memenangi kepercayaan Orang Asli dan melonggarkan kewarganegaraan ialah langkah Perang Saraf untuk mendapatkan sokongan rakyat."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：C（II、III）：CLC研究族群关系并通过协商减少矛盾，建立社会和谐。
+Bahasa Melayu: C (II dan III): CLC mengkaji hubungan kaum dan mencari persefahaman untuk mewujudkan keadaan harmoni."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：D：Sistem Ahli让本地领袖管理部门，累积政府行政经验，为自治作准备。
+Bahasa Melayu: D: Sistem Ahli melatih penduduk tempatan mengurus portfolio dan memperoleh pengalaman mentadbir sebagai persediaan kerajaan sendiri."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：B：选举委员会先研究选举制度、选区及代表安排，为联邦选举拟定建议。
+Bahasa Melayu: B: Jawatankuasa Pilihan Raya mengkaji hal ehwal serta susunan pilihan raya dan menyediakan cadangan pelaksanaannya."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：B：联邦立法议会是立法机构，职责是讨论及制定法律。
+Bahasa Melayu: B: Majlis Perundangan Persekutuan ialah badan yang membincangkan dan menggubal undang-undang."
+,radio,F4 Bab 9,A,B,C,D,D,Picture17.png,"中文：D：Reid委员会负责起草独立马来亚的宪法，并征求各方意见。
+Bahasa Melayu: D: Suruhanjaya Reid merangka perlembagaan Persekutuan Tanah Melayu yang merdeka berdasarkan pandangan pelbagai pihak."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：A（I、II）：1957年协议规定伊斯兰为联邦宗教，并维持马来人的特殊地位。
+Bahasa Melayu: A (I dan II): Perjanjian 1957 menetapkan Islam sebagai agama Persekutuan dan mengekalkan kedudukan istimewa orang Melayu."
+,radio,F4 Bab 10,A,B,C,D,D,Picture19.png,"中文：D：场地与国家象征的准备使独立庆典展示新国家身份，而不只是布置街道。
+Bahasa Melayu: D: Persediaan fizikal dan lambang kebangsaan menonjolkan identiti negara merdeka, bukan sekadar menghias jalan."
+,radio,F4 Bab 10,A,B,C,D,B,Picture20.png,"中文：B：加入英联邦延续与成员国的社会及经济合作，包括教育、贸易与发展。
+Bahasa Melayu: B: Penyertaan Komanwel merapatkan hubungan sosioekonomi dengan negara anggota melalui pendidikan, perdagangan dan pembangunan."
+,radio,F5 Bab 1,A,B,C,D,C,Picture21.png,"中文：C：Aristotle把主权理解为国家统治中的最高权力。
+Bahasa Melayu: C: Aristotle mentafsir kedaulatan sebagai kekuasaan tertinggi dalam pemerintahan negara."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：B：高效行政使政策及服务落实、减少治理问题，从而维护政治稳定。
+Bahasa Melayu: B: Pentadbiran cekap memastikan dasar dan perkhidmatan dilaksanakan dengan baik, lalu mewujudkan kestabilan politik."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：D：霹雳州议会首次会议开启讨论及制定书面法律的过程，成为法制发展的起点。
+Bahasa Melayu: D: Mesyuarat pertama Majlis Negeri Perak merintis proses pembentukan undang-undang bertulis melalui perbincangan majlis."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：A：1963年成立马来西亚后，宪法须加入及调整新州相关条文和联邦制度。
+Bahasa Melayu: A: Pembentukan Malaysia 1963 memerlukan peruntukan perlembagaan disesuaikan dengan negeri baharu dan susunan Persekutuan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：A（I、II）：人民通过选举选择领袖，国王则作为依宪法行事的最高统治者。
+Bahasa Melayu: A (I dan II): Rakyat memilih pemimpin melalui pilihan raya, manakala raja menjadi pemerintah tertinggi yang bertindak mengikut perlembagaan."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：B：君主保持中立，帮助缓和政党争议，为民主政治提供制衡。
+Bahasa Melayu: B: Raja bersikap berkecuali dan membantu meredakan pertikaian parti politik sebagai mekanisme semak dan imbang."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：B（I、IV）：国防与教育属于联邦清单，是中央政府负责的明确事务。
+Bahasa Melayu: B (I dan IV): Pertahanan dan pelajaran ialah perkara yang jelas diperuntukkan dalam Senarai Persekutuan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：D：ESSCOM加强沙巴东海岸安全合作，防止武装恐怖分子入侵。
+Bahasa Melayu: D: ESSCOM menyelaraskan keselamatan pantai timur Sabah untuk menghalang pencerobohan pengganas bersenjata."
+,radio,F5 Bab 5,A,B,C,D,C,Picture29.png,"中文：C：英国担忧新加坡及其他地区的共产党影响，认为联合能加强安全及遏制威胁。
+Bahasa Melayu: C: British menyokong pembentukan Malaysia untuk membendung pengaruh dan ancaman komunis melalui penyelarasan keselamatan."
+,radio,F5 Bab 5,A,B,C,D,D,Picture30.png,"中文：D：马来西亚把印尼攻击问题带到联合国等国际组织，争取支持并捍卫国家主权。
+Bahasa Melayu: D: Malaysia membawa isu serangan Indonesia kepada pertubuhan antarabangsa seperti PBB untuk memperoleh sokongan dan mempertahankan kedaulatan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture31.png,"中文：A：砂拉越面积大、地区分散，增加道路与交通网络建设难度及成本。
+Bahasa Melayu: A: Saiz Sarawak yang besar dan kawasan yang berjauhan menyukarkan pembinaan serta penyelenggaraan sistem perhubungan."
+,radio,F5 Bab 6,A,B,C,D,D,Picture32.png,"中文：D：加强情报服务可及早侦测共产党活动，阻止类似爆炸破坏事件。
+Bahasa Melayu: D: Perkhidmatan risikan diperkukuh untuk mengesan kegiatan komunis lebih awal dan mencegah serangan sabotaj."
+,radio,F5 Bab 7,A,B,C,D,A,Picture33.png,"中文：A：国语法确立马来语在官方事务中的使用，巩固其官方语言地位。
+Bahasa Melayu: A: Akta Bahasa Kebangsaan menetapkan penggunaan bahasa Melayu dalam urusan rasmi dan memartabatkan kedudukannya."
+,radio,F5 Bab 7,A,B,C,D,C,Picture34.png,"中文：C：大学体育让不同州及背景的学生交流合作，促进地区整合和团结。
+Bahasa Melayu: C: Sukan universiti mempertemukan pelajar pelbagai negeri untuk bekerjasama, lalu menggalakkan integrasi antara negeri."
+,radio,F5 Bab 8,A,B,C,D,D,Picture35.png,"中文：D：ILP及GIATMARA提升职业技能，让土著青年有机会进入技术岗位并提高收入。
+Bahasa Melayu: D: ILP dan GIATMARA membekalkan kemahiran supaya belia Bumiputera berpeluang memperoleh pekerjaan mahir yang berpendapatan lebih tinggi."
+,radio,F5 Bab 8,A,B,C,D,B,Picture36.png,"中文：B（I、IV）：把特定工业分散至较落后州，以及应用智慧农业，可提高生产及减少地区发展差距。
+Bahasa Melayu: B (I dan IV): Penyebaran industri terpilih dan pertanian pintar meningkatkan pengeluaran serta mengurangkan ketidakseimbangan pembangunan wilayah."
+,radio,F5 Bab 9,A,B,C,D,A,Picture37.png,"中文：A：Colombo计划通过技术训练、教育及发展援助改善生活水平，处理贫穷问题。
+Bahasa Melayu: A: Rancangan Colombo menyediakan latihan, pendidikan dan bantuan pembangunan untuk meningkatkan taraf hidup serta menangani kemiskinan."
+,radio,F5 Bab 9,A,B,C,D,C,Picture38.png,"中文：C：印度支那局势变化及共产党扩张造成逃亡潮，难民与外国人涌入马来西亚。
+Bahasa Melayu: C: Perluasan komunis dan ketidakstabilan Indochina mendorong pelarian serta pendatang asing masuk ke Malaysia."
+,radio,F5 Bab 10,A,B,C,D,B,Picture39.png,"中文：B（I、IV）：本题所列的Muslim Care及MAPIM参与巴勒斯坦人道援助；不同非政府组织的服务地区不能一概相同。
+Bahasa Melayu: B (I dan IV): Muslim Care dan MAPIM ialah organisasi yang dikaitkan dalam soalan ini dengan bantuan kemanusiaan Palestin; bidang operasi NGO lain tidak semestinya sama."
+,radio,F5 Bab 10,A,B,C,D,C,Picture40.png,"中文：C：马来西亚主张南极资源属于国际共同利益，应让各国共享成果，而非由少数国家垄断。
+Bahasa Melayu: C: Malaysia mahu hasil dan manfaat Antartika dinikmati bersama oleh masyarakat antarabangsa, bukannya dimonopoli segelintir negara."
