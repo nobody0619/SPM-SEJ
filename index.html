@@ -793,8 +793,9 @@ document.addEventListener('DOMContentLoaded', () => {
       updateWalletUI();
       return;
     }
-    const mm=Math.floor(rem/60000);
-    const ss=Math.floor((rem%60000)/1000).toString().padStart(2,'0');
+    const secondsLeft=Math.ceil(rem/1000);
+    const mm=Math.floor(secondsLeft/60).toString().padStart(2,'0');
+    const ss=(secondsLeft%60).toString().padStart(2,'0');
     document.getElementById('session-remaining').textContent=`${mm}:${ss}`;
     showSessionTimer(true);
     updateWalletUI();
