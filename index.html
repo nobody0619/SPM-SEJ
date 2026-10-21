@@ -93,6 +93,13 @@
       background-position: 0 0, 0 0;
     }
     #welcome,#menu,#quiz,#finish,#results{ margin:20px; }
+    #welcome{
+      display:flex; align-items:center; justify-content:center; flex-wrap:wrap;
+      gap:6px; padding:10px 14px; border:1px solid var(--border);
+      border-radius:16px; background:var(--card-bg);
+    }
+    #welcome h2{ margin:0 10px 0 0; font-size:16px; }
+    #welcome .muted{ flex-basis:100%; margin-top:2px !important; font-size:12px; }
     #menu,#quiz,#finish,#results{ display:none; }
 
     #topbar{
@@ -110,6 +117,7 @@
     .pill-btn.light{ background:#222; }
     .pill-btn.primary{ background:#0ea5e9; }
     .pill-btn:disabled{ opacity:.6; cursor:not-allowed; }
+    #trial-expired .pill-btn{ display:inline-block; margin:4px; text-decoration:none; }
 
     #session-timer{
       background:#111; color:#fff;
@@ -550,6 +558,18 @@
   </div>
   <div id="confetti"></div>
 
+  <div id="welcome">
+    <h2>已有账号？登入 / Member Log In</h2>
+    <input type="text" id="username" placeholder="姓名 / Name" autocomplete="username"/>
+    <input type="password" id="password" placeholder="密码 / Password" autocomplete="current-password"/>
+    <button id="startBtn" type="button" class="pill-btn">登录 / Log In</button>
+    <div class="muted">
+      无需账号即可试用 5 分钟。无限使用请联系纪老师 016-7312519。
+    </div>
+  </div>
+
+  <div id="menu"><h2>正在载入章节 / Loading chapters…</h2></div>
+
   <section class="hero">
     <div class="brand">
       <div class="brand-icon" id="brand-icon">SUB</div>
@@ -597,20 +617,6 @@
     </div>
   </section>
 
-  <div id="welcome">
-    <h2>请输入姓名与密码 / Enter Your Name &amp; Password</h2>
-    <input type="text" id="username" placeholder="姓名 / Name"/>
-    <input type="password" id="password" placeholder="密码 / Password"/>
-    <button id="startBtn" type="button" class="pill-btn">登录 / Log In</button>
-    <div class="muted" style="margin-top:8px;">
-      免费试用密码：<b>testing</b>（5 分钟 5 minutes）；
-      2000题练习每月只需 RM10 / 2000 practice questions monthly only RM10
-      购买请联系：纪老师 016-7312519。
-    </div>
-  </div>
-
-  <div id="menu"><h2>请选择章节 / Select Chapter</h2></div>
-
   <div id="wrongbook" class="wrongbook-panel">
     <div class="wrongbook-head">
       <div>
@@ -633,6 +639,15 @@
       <div style="margin-top:10px;">
         <button id="mode-picker-cancel" class="pill-btn light">取消 / Cancel</button>
       </div>
+    </div>
+  </div>
+
+  <div id="trial-expired" class="overlay" style="display:none;" role="dialog" aria-modal="true" aria-labelledby="trial-expired-title">
+    <div class="overlay-card">
+      <h3 id="trial-expired-title">5 分钟体验已结束</h3>
+      <p>要开通无限使用，请联系纪老师 016-7312519。</p>
+      <a id="trial-contact" class="pill-btn primary" href="https://wa.me/60167312519" target="_blank" rel="noopener">💬 WhatsApp 联系开通</a>
+      <button id="trial-login" type="button" class="pill-btn light">已有账号？登入</button>
     </div>
   </div>
 
@@ -753,9 +768,10 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ===== 登录/会话（试用5分钟） ===== */
   let user = '', usedUniversal = false;
   const UWP_WINDOW_MS = 5 * 60 * 1000;
-  function setUniversalStart(ts){ localStorage.setItem('uwpStart', String(ts)); }
-  function getUniversalStart(){ const v=localStorage.getItem('uwpStart'); return v? Number(v):0; }
-  function clearUniversalStart(){ localStorage.removeItem('uwpStart'); }
+  const AUTO_TRIAL_KEY='kee_quiz_auto_trial_start';
+  let trialLoginPromptOpen=false;
+  function setUniversalStart(ts){ localStorage.setItem(AUTO_TRIAL_KEY, String(ts)); }
+  function getUniversalStart(){ const v=localStorage.getItem(AUTO_TRIAL_KEY); return v? Number(v):0; }
   function universalRemainingMs(){
     const s=getUniversalStart(); if(!s) return 0;
     const r=UWP_WINDOW_MS-(Date.now()-s); return r>0?r:0;
@@ -763,13 +779,18 @@ document.addEventListener('DOMContentLoaded', () => {
   function showSessionTimer(b){
     document.getElementById('session-timer').style.display = b?'block':'none';
   }
+  function showTrialExpired(){
+    document.getElementById('mode-picker').style.display='none';
+    document.getElementById('trial-expired').style.display='flex';
+  }
   function updateSessionTimer(){
     if(!usedUniversal){ showSessionTimer(false); updateWalletUI(); return; }
     const rem=universalRemainingMs();
     if(rem<=0){
-      showSessionTimer(false);
-      alert('会话已到期，请重新登录。\nSession expired, please log in again.');
-      location.reload();
+      document.getElementById('session-remaining').textContent='00:00';
+      showSessionTimer(true);
+      if(!trialLoginPromptOpen) showTrialExpired();
+      updateWalletUI();
       return;
     }
     const mm=Math.floor(rem/60000);
@@ -778,7 +799,7 @@ document.addEventListener('DOMContentLoaded', () => {
     showSessionTimer(true);
     updateWalletUI();
   }
-  setInterval(updateSessionTimer, 500);
+  setInterval(updateSessionTimer, 1000);
 
   /* ===== 音效 ===== */
   let audioOn = true, audioCtx;
@@ -993,6 +1014,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // Password validation is performed by the subject Apps Script.
 
   document.getElementById('startBtn').onclick = attemptLogin;
+  document.getElementById('trial-login').onclick = () => {
+    trialLoginPromptOpen=true;
+    document.getElementById('trial-expired').style.display='none';
+    document.getElementById('username').focus();
+    document.getElementById('welcome').scrollIntoView({behavior:'smooth'});
+  };
   document.getElementById('my-results-btn').onclick = openResults;
   document.getElementById('wrongbook-btn').onclick = openWrongBook;
   document.getElementById('start-wrongbook-btn').onclick = startWrongBookPractice;
@@ -1269,15 +1296,21 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
       if(result.trial){
-        if(universalRemainingMs() <= 0) setUniversalStart(Date.now());
+        if(!getUniversalStart()) setUniversalStart(Date.now());
         usedUniversal = true;
         accountExpiryRaw = '';
         accountExpiryDate = null;
         accountExpiryLabel = '试用账号 / Trial';
         updateSessionTimer();
+        if(universalRemainingMs()<=0){
+          trialLoginPromptOpen=false;
+          showTrialExpired();
+          return;
+        }
       } else {
-        clearUniversalStart();
         usedUniversal = false;
+        trialLoginPromptOpen=false;
+        document.getElementById('trial-expired').style.display='none';
         showSessionTimer(false);
         accountExpiryRaw = result.expires || '';
         accountExpiryDate = parseExpiryDate(accountExpiryRaw);
@@ -1327,6 +1360,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   async function afterLogin(){
+    // Start the account session from the menu; guest quiz rewards stay separate.
+    sessionShardDelta=0;
+    sessionReviveDelta=0;
+    queue=[];
+    document.getElementById('quiz').style.display='none';
+    document.getElementById('finish').style.display='none';
+    document.getElementById('results').style.display='none';
+    document.getElementById('mode-picker').style.display='none';
+    document.getElementById('wrongbook').style.display='none';
     loadLocalResults();
     accountDataLoading = true;
     updateWalletUI();
@@ -1358,7 +1400,8 @@ document.addEventListener('DOMContentLoaded', () => {
       status.hidden=true;
     });
     fetchCloudResultsFor(user).then(refreshChapterProgressBadges_).catch(console.warn);
-    loadChapters();
+    if(chapters.length) renderMenu();
+    else loadChapters();
     setTimeout(()=>menu.scrollIntoView({behavior:'smooth'}),50);
   }
 
@@ -1389,8 +1432,8 @@ document.addEventListener('DOMContentLoaded', () => {
   function guardUniversalWindowOrThrow(){
     if(!usedUniversal) return;
     if(universalRemainingMs()<=0){
-      alert('会话已到期，请重新登录。\nSession expired, please log in again.');
-      location.reload();
+      trialLoginPromptOpen=false;
+      showTrialExpired();
       throw new Error('Session expired');
     }
   }
@@ -1440,7 +1483,6 @@ document.addEventListener('DOMContentLoaded', () => {
     Papa.parse(versionedQuizUrl('Chapters.csv'),{
       download:true,header:true,skipEmptyLines:true,
       complete(res){
-        guardUniversalWindowOrThrow();
         chapters=(res.data||[]).map(raw=>{
           const r={};
           Object.entries(raw).forEach(([k,v])=>{
@@ -1635,7 +1677,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const section=document.createElement('details');
       section.className='year-group';
       section.dataset.year=String(y);
-      section.open=menuYearOpenState.has(y) ? menuYearOpenState.get(y) : y===years[0];
+      section.open=menuYearOpenState.has(y) ? menuYearOpenState.get(y) : false;
       section.addEventListener('toggle',()=>{
         if(section.isConnected) menuYearOpenState.set(y,section.open);
         if(section.open) queueVisibleChapterCounts_();
@@ -2150,7 +2192,7 @@ if (!isC && !usedRevive) {
     }
 
     document.getElementById('finish-msg').textContent=
-      `恭喜 ${user}，你学会这个章节了！ / Well done, ${user}!`;
+      `恭喜 ${user || '访客'}，你学会这个章节了！ / Well done, ${user || 'Guest'}!`;
     document.getElementById('stats').innerHTML =
       `准确率 Accuracy：<b>${percent}%</b>　|　`+
       `分数 Score：${score}　|　`+
@@ -2167,16 +2209,17 @@ if (!isC && !usedRevive) {
     form.correct.value = correct;
     form.wrong.value   = wrong;
     form.time.value    = Math.floor((Date.now()-chapterStart)/1000);
-    form.submit();
-
-    saveLocalResult({
-      quizId: form.quizId.value,
-      quizIdPure: currentChapter,
-      name:user,
-      score, correct, wrong,
-      time: form.time.value,
-      timestamp: new Date().toISOString()
-    });
+    if(user){
+      form.submit();
+      saveLocalResult({
+        quizId: form.quizId.value,
+        quizIdPure: currentChapter,
+        name:user,
+        score, correct, wrong,
+        time: form.time.value,
+        timestamp: new Date().toISOString()
+      });
+    }
 
     updateWrongBookUI();
     launchConfetti(120,1000);
@@ -2285,8 +2328,16 @@ if (!isC && !usedRevive) {
     }
     setTimeout(()=>{ c.innerHTML=''; }, duration+1200);
   }
+
+  // Visiting the site starts the shared five-minute trial without a login request.
+  if(!getUniversalStart()) setUniversalStart(Date.now());
+  usedUniversal=true;
+  updateSessionTimer();
+  document.getElementById('back-to-chapters-btn').style.display='inline-block';
+  document.getElementById('menu').style.display='block';
+  document.getElementById('menu').innerHTML='<h2>正在载入章节 / Loading chapters…</h2>';
+  loadChapters();
 });
 </script>
 </body>
 </html>
-
