@@ -1,4 +1,4 @@
-title,type,question,A,B,C,D,answer,image,explanation
+﻿title,type,question,A,B,C,D,answer,image,explanation
 F5 Chp 1,radio,JohorPasirGudang_Q21,A,B,C,D,A,Johor Pasir Gudang/Picture21.png,"中文：共同语言、文化和身份描述的是一个国家的人民。
 Bahasa Melayu: Rakyat disatukan melalui bahasa, kebudayaan, Rukun Negara dan identiti yang sama.
 课本／Buku teks：Tingkatan 5, ms. 9."
@@ -98,3 +98,63 @@ Bahasa Melayu: Pengagihan kekayaan secara adil menjamin kestabilan dan kedaulata
 F5 Chp 1,radio,Terengganu_Q22,A,B,C,D,D,Terengganu/Picture22.png,"中文：政府是主权国家特征之一。
 Bahasa Melayu: Pemerintahan ialah ciri negara berdaulat.
 课本／Buku teks：Tingkatan 5, ms. 8,9."
+F5 Chp 1,radio,JohorBahru_Q21,A,B,C,D,A,Johor Bahru/Picture21.png,"中文：议会民主制由人民通过选举选出代表，赋予代表参与治理的权力。
+Bahasa Melayu: Dalam Demokrasi Berparlimen, rakyat memilih wakil melalui pilihan raya.
+课本／Buku teks：Tingkatan 5, ms. 8."
+F5 Chp 1,radio,JohorBahru_Q22,A,B,C,D,D,Johor Bahru/Picture22.png,"中文：人民支持和配合政府政策，有助政策实施并维持政治稳定。
+Bahasa Melayu: Sokongan rakyat terhadap dasar kerajaan membantu pelaksanaannya dan mewujudkan kestabilan politik.
+课本／Buku teks：Tingkatan 5, ms. 12."
+F5 Chp 1,radio,JohorBatuPahat_Q21,A,B,C,D,A,Johor Batu Pahat/Picture21.png,"中文：主权强调统治的最高权力；在本题选项中，A直接指出最高行政权力。
+Bahasa Melayu: Kedaulatan merujuk kekuasaan tertinggi dalam pemerintahan; A paling tepat menggambarkan konsep tersebut.
+课本／Buku teks：Tingkatan 5, ms. 4."
+F5 Chp 1,radio,JohorBatuPahat_Q22,A,B,C,D,C,Johor Batu Pahat/Picture22.png,"中文：主权让国家依本身制度制定政策并执行行政，提升治理成效。
+Bahasa Melayu: Kedaulatan membolehkan negara menentukan dasar sendiri dan mewujudkan sistem pentadbiran yang berkesan.
+课本／Buku teks：Tingkatan 5, ms. 5."
+F5 Chp 1,radio,JohorKotaTinggi_Q21,A,B,C,D,A,Johor Kota Tinggi/Picture21.png,"中文：明确的边界和法律制度属于现代主权国家的基本特征，因此I和II正确。
+Bahasa Melayu: Sempadan yang jelas dan perundangan merupakan ciri negara berdaulat; I dan II betul.
+课本／Buku teks：Tingkatan 5, ms. 8-9."
+F5 Chp 1,radio,JohorKotaTinggi_Q22,A,B,C,D,B,Johor Kota Tinggi/Picture22.png,"中文：人民支持政府的发展政策和政治制度，有助国家稳定及经济繁荣。
+Bahasa Melayu: Sokongan rakyat terhadap dasar kerajaan membantu kestabilan politik serta kemakmuran ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 12."
+F5 Chp 1,radio,JohorMuar_Q21,A,B,C,D,A,Johor Muar/Picture21.png,"中文：主权国家拥有明确边界，区分本国与邻国的管辖范围。
+Bahasa Melayu: Negara berdaulat mempunyai sempadan yang jelas untuk memisahkan bidang kuasanya daripada negara jiran.
+课本／Buku teks：Tingkatan 5, ms. 8."
+F5 Chp 1,radio,JohorMuar_Q22,A,B,C,D,D,Johor Muar/Picture22.png,"中文：使用共同的国语能方便各族沟通，培养国家认同和团结。
+Bahasa Melayu: Penggunaan bahasa kebangsaan memudahkan komunikasi antara kaum dan mengukuhkan perpaduan.
+课本／Buku teks：Tingkatan 5, ms. 13."
+F5 Chp 1,radio,MRSM_Q21,A,B,C,D,A,MRSM/Picture21.png,"中文：传统主权以君主为最高统治者，并由臣民效忠支持，强调君主的最高权力。
+Bahasa Melayu: Kedaulatan tradisional berpusat pada raja sebagai pemerintah tertinggi yang mempunyai kuasa mutlak serta menerima kesetiaan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 6."
+F5 Chp 1,radio,MRSM_Q22,A,B,C,D,C,MRSM/Picture22.png,"中文：明确边界能确定管辖范围，方便行政管理和经济发展，因此II和III正确。
+Bahasa Melayu: Sempadan yang jelas memudahkan pentadbiran serta pembangunan ekonomi; II dan III betul.
+课本／Buku teks：Tingkatan 5, ms. 8."
+F5 Chp 1,radio,Putrajaya_Q21,A,B,C,D,A,Putrajaya/Picture21.png,"中文：践行《国家原则》能让人民接受共同准则，如忠于国家、尊崇宪法与守礼，从而巩固族群团结。
+Bahasa Melayu: Menghayati Rukun Negara membantu rakyat menerima prinsip bersama seperti kesetiaan, keluhuran perlembagaan dan kesopanan; penghayatan ini mengukuhkan perpaduan kaum."
+F5 Chp 1,radio,Putrajaya_Q22,A,B,C,D,A,Putrajaya/Picture22.png,"中文：传统主权以马来统治者的权力与威望为基础，他们在西方势力到来前是国家治理的核心。
+Bahasa Melayu: Kedaulatan tradisional berasaskan kekuasaan dan kewibawaan Raja-raja Melayu sebagai tonggak pemerintahan sebelum kedatangan kuasa Barat.
+课本／Buku teks：Tingkatan 5, ms. 6."
+F5 Chp 1,radio,Putrajaya_Q23,A,B,C,D,D,Putrajaya/Picture23.png,"中文：国语和国家文化政策建立跨族群的共同身份，因此目标是促进人民团结。
+Bahasa Melayu: Bahasa kebangsaan dan Dasar Kebudayaan Kebangsaan membina identiti bersama merentas kaum; matlamat utamanya ialah memupuk perpaduan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 14."
+F5 Chp 1,radio,SABK_Q21,A,B,C,D,B,SABK/Picture21.png,"中文：主权国家拥有界定的领土边界和独立行使权力的政府；发展程度本身不是判断主权的必要特征。
+Bahasa Melayu: Negara berdaulat mempunyai sempadan yang jelas dan kebebasan mentadbir melalui pemerintahannya sendiri; tahap pembangunan bukan ciri asas kedaulatan.
+课本／Buku teks：Tingkatan 5, ms. 8-9."
+F5 Chp 1,radio,SABK_Q22,A,B,C,D,D,SABK/Picture22.png,"中文：外交关系使马来西亚能与他国合作；维护国家主权则保障其独立作出决定，两者都是制定外交政策的重要利益。
+Bahasa Melayu: Hubungan diplomatik membolehkan Malaysia bekerjasama dengan negara lain, manakala kedaulatan negara melindungi kebebasan membuat keputusan; kedua-duanya kepentingan dasar luar.
+课本／Buku teks：Tingkatan 5, ms. 11."
+F5 Chp 1,radio,SarawakSet1_Q21,A,B,C,D,D,Sarawak Set 1/Picture21.png,"中文：马来亚独立与马来西亚成立体现国家摆脱殖民控制、建立自主政府的主权。
+Bahasa Melayu: Kemerdekaan Tanah Melayu dan pembentukan Malaysia menunjukkan negara membebaskan diri daripada penjajahan serta membentuk pemerintahan sendiri yang berdaulat.
+课本／Buku teks：Tingkatan 5, ms. 4."
+F5 Chp 1,radio,SarawakSet1_Q22,A,B,C,D,D,Sarawak Set 1/Picture22.png,"中文：传统主权自早期文明形成，通常以君主权威和人民对统治者的忠诚为基础。
+Bahasa Melayu: Kedaulatan tradisional wujud sejak tamadun awal dan lazimnya berasaskan kewibawaan raja serta kesetiaan rakyat kepada pemerintah.
+课本／Buku teks：Tingkatan 5, ms. 6."
+F5 Chp 1,radio,SBP_Q21,A,B,C,D,D,SBP/Picture21.png,"中文：法律保障公平和和平，使人民遵守共同规则，维持国家稳定。
+Bahasa Melayu: Kedaulatan undang-undang menjamin keadilan dan keamanan serta memastikan kestabilan negara.
+课本／Buku teks：Tingkatan 5, ms. 7."
+F5 Chp 1,radio,SBP_Q22,A,B,C,D,C,SBP/Picture22.png,"中文：球员不分族群共同努力，体现团结精神，是国家队取得成功的重要因素。
+Bahasa Melayu: Kerjasama pemain pelbagai kaum dan semangat perpaduan bangsa menjadi faktor kejayaan pasukan negara.
+课本／Buku teks：Tingkatan 5, ms. 11."
+F5 Chp 1,radio,SMKA_Q21,A,B,C,D,A,SMKA/Picture21.png,"中文：“Daulah”源自阿拉伯语，表示统治的最高权力。
+Bahasa Melayu: Daulah berasal daripada bahasa Arab dan merujuk kekuasaan tertinggi dalam pemerintahan."
+F5 Chp 1,radio,SMKA_Q22,A,B,C,D,B,SMKA/Picture22.png,"中文：人民可通过良好表现和贡献提升国家形象，具体体现爱国精神。
+Bahasa Melayu: Rakyat menunjukkan patriotisme melalui sumbangan dan tindakan yang meningkatkan imej negara."

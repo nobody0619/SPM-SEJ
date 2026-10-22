@@ -1,4 +1,4 @@
-title,type,question,A,B,C,D,answer,image,explanation
+﻿title,type,question,A,B,C,D,answer,image,explanation
 F5 Chp 8,radio,Perak_Q34,A,B,C,D,C,Perak/Picture34.png,"中文：平衡各州发展促进财富公平分配。
 Bahasa Melayu: Pembangunan seimbang antara negeri membantu pengagihan kekayaan.
 课本／Buku teks：Tingkatan 5, ms. 174."
@@ -98,3 +98,64 @@ Bahasa Melayu: Penswastaan meningkatkan kualiti dan kecekapan perkhidmatan.
 F5 Chp 8,radio,SarawakSet2_Q37,A,B,C,D,C,Sarawak Set 2/Picture37.png,"中文：家庭收入增加使贫穷率下降。
 Bahasa Melayu: Peningkatan pendapatan isi rumah menurunkan kadar kemiskinan.
 课本／Buku teks：Tingkatan 5, ms. 180."
+F5 Chp 8,radio,JohorBahru_Q35,A,B,C,D,D,Johor Bahru/Picture35.png,"中文：第二大马计划通过扩大经济活动和就业，增加人民收入并改善生活水平。
+Bahasa Melayu: Rancangan Malaysia Kedua meningkatkan kegiatan ekonomi dan peluang pekerjaan untuk menambahkan pendapatan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 167."
+F5 Chp 8,radio,JohorBahru_Q36,A,B,C,D,C,Johor Bahru/Picture36.png,"中文：消除贫困、缩小社会经济差距能减少族群间的不平衡，促进国家团结。
+Bahasa Melayu: Pembasmian kemiskinan mengurangkan jurang sosioekonomi dan membantu mencapai perpaduan negara.
+课本／Buku teks：Tingkatan 5, ms. 176."
+F5 Chp 8,radio,JohorBatuPahat_Q35,A,B,C,D,D,Johor Batu Pahat/Picture35.png,"中文：新经济政策针对殖民时期形成的经济不平衡，实行消除贫困及重组社会两大策略。
+Bahasa Melayu: DEB dilancarkan untuk membasmi kemiskinan dan menyusun semula masyarakat bagi mengatasi ketidakseimbangan ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 166."
+F5 Chp 8,radio,JohorBatuPahat_Q36,A,B,C,D,A,Johor Batu Pahat/Picture36.png,"中文：培育土著工商社会可扩大土著参与现代经济，配合消除贫困和重组社会。
+Bahasa Melayu: Pembentukan masyarakat perindustrian bumiputera meningkatkan penyertaan dalam ekonomi moden bagi membasmi kemiskinan dan menyusun semula masyarakat.
+课本／Buku teks：Tingkatan 5, ms. 175."
+F5 Chp 8,radio,JohorKotaTinggi_Q35,A,B,C,D,D,Johor Kota Tinggi/Picture35.png,"中文：增加就业机会提高家庭收入，直接帮助消除贫困，因此III和IV符合政策方向。
+Bahasa Melayu: Penambahan peluang pekerjaan meningkatkan pendapatan dan membantu pembasmian kemiskinan; III dan IV betul.
+课本／Buku teks：Tingkatan 5, ms. 167."
+F5 Chp 8,radio,JohorKotaTinggi_Q36,A,B,C,D,C,Johor Kota Tinggi/Picture36.png,"中文：绿色科技减轻发展对环境的影响，配合国家发展政策重视基础设施与环境的方向。
+Bahasa Melayu: Penggunaan teknologi hijau mengurangkan kesan pembangunan terhadap alam sekitar dan menyokong pembangunan mampan.
+课本／Buku teks：Tingkatan 5, ms. 175."
+F5 Chp 8,radio,JohorMuar_Q35,A,B,C,D,D,Johor Muar/Picture35.png,"中文：新经济政策下的发展计划旨在让各族公平分享国家繁荣，而不是只惠及特定群体。
+Bahasa Melayu: Rancangan pembangunan di bawah DEB memastikan rakyat menikmati kemakmuran negara secara adil dan saksama.
+课本／Buku teks：Tingkatan 5, ms. 167."
+F5 Chp 8,radio,JohorMuar_Q36,A,B,C,D,B,Johor Muar/Picture36.png,"中文：本题依据国家发展政策的策略领域：科学科技应用，以及实体设施与环境，因此I和IV正确。
+Bahasa Melayu: Antara bidang strategi DPN ialah penggunaan sains dan teknologi serta kemudahan fizikal dan alam sekitar; I dan IV betul.
+课本／Buku teks：Tingkatan 5, ms. 175."
+F5 Chp 8,radio,MRSM_Q35,A,B,C,D,A,MRSM/Picture35.png,"中文：绿皮书计划鼓励人民生产粮食，增加食物供应并减少生活负担。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan pengeluaran bahan makanan untuk menambah bekalan dan pendapatan rakyat.
+课本／Buku teks：Tingkatan 5, ms. 169."
+F5 Chp 8,radio,MRSM_Q36,A,B,C,D,B,MRSM/Picture36.png,"中文：更多就业机会增加家庭收入，帮助人民摆脱贫困，因此贫困率下降。
+Bahasa Melayu: Pertambahan peluang pekerjaan meningkatkan pendapatan isi rumah dan membantu mengurangkan kadar kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 180."
+F5 Chp 8,radio,Putrajaya_Q36,A,B,C,D,B,Putrajaya/Picture36.png,"中文：扶持中小企业能扩大本地商品生产、创造就业并提高经济产出。
+Bahasa Melayu: IKS membuka peluang pekerjaan dan memperluas pengeluaran barangan tempatan; sokongan kepada sektor ini bertujuan meningkatkan pengeluaran dan mengukuhkan ekonomi.
+课本／Buku teks：Tingkatan 5, ms. 172."
+F5 Chp 8,radio,Putrajaya_Q37,A,B,C,D,B,Putrajaya/Picture37.png,"中文：贫困率下降与新经济政策和国家发展政策有关；这些政策扩展经济机会、提升家庭收入。
+Bahasa Melayu: Penurunan kemiskinan berkait dengan DEB dan DPN, yang memperluas peluang ekonomi serta meningkatkan pendapatan isi rumah.
+课本／Buku teks：Tingkatan 5, ms. 180."
+F5 Chp 8,radio,SABK_Q35,A,B,C,D,D,SABK/Picture35.png,"中文：DEB 的双重策略是消除贫困并重组社会，使经济发展惠及各族并减少族群与经济功能的关联，从而改善各族福祉。
+Bahasa Melayu: Strategi serampang dua mata DEB membasmi kemiskinan dan menyusun semula masyarakat supaya manfaat pembangunan dinikmati semua kaum serta kesejahteraan kaum tercapai.
+课本／Buku teks：Tingkatan 5, ms. 167."
+F5 Chp 8,radio,SABK_Q36,A,B,C,D,A,SABK/Picture36.png,"中文：工业化扩大了对科技、工程和技术人才的需求，因此大学加强这些领域的教育，以支持工业发展。
+Bahasa Melayu: Perindustrian meningkatkan permintaan terhadap tenaga mahir dalam sains, teknologi dan bidang teknikal; universiti memberi penekanan tersebut untuk menyokong pertumbuhan industri.
+课本／Buku teks：Tingkatan 5, ms. 182."
+F5 Chp 8,radio,SarawakSet1_Q35,A,B,C,D,D,Sarawak Set 1/Picture35.png,"中文：区域发展计划通过开垦土地、建设基础设施和创造就业来降低贫困，同时缩小地区发展差距。
+Bahasa Melayu: Pembangunan wilayah membuka kawasan baharu, menyediakan kemudahan dan pekerjaan untuk membasmi kemiskinan serta mengurangkan jurang pembangunan antara wilayah.
+课本／Buku teks：Tingkatan 5, ms. 168."
+F5 Chp 8,radio,SarawakSet1_Q36,A,B,C,D,A,Sarawak Set 1/Picture36.png,"中文：ASN 让土著以可负担方式购买信托单位，扩大其持股和参与企业经济的机会。
+Bahasa Melayu: ASN memudahkan bumiputera membeli unit amanah pada kadar yang mampu, lalu meningkatkan pemilikan saham serta penyertaan mereka dalam ekonomi korporat.
+课本／Buku teks：Tingkatan 5, ms. 172."
+F5 Chp 8,radio,SarawakSet1_Q37,A,B,C,D,C,Sarawak Set 1/Picture37.png,"中文：DEB 与后续发展政策透过创造就业、提高生产力和扩展经济机会增加家庭收入，推动贫困率下降。
+Bahasa Melayu: DEB dan dasar pembangunan seterusnya mewujudkan pekerjaan, meningkatkan produktiviti serta meluaskan peluang ekonomi, lalu menambah pendapatan isi rumah dan mengurangkan kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 180."
+F5 Chp 8,radio,SBP_Q35,A,B,C,D,C,SBP/Picture35.png,"中文：绿皮书计划鼓励种植和生产粮食，增加人民收入，协助消除贫困。
+Bahasa Melayu: Rancangan Buku Hijau menggalakkan pengeluaran makanan bagi meningkatkan pendapatan rakyat dan mengurangkan kemiskinan.
+课本／Buku teks：Tingkatan 5, ms. 169."
+F5 Chp 8,radio,SBP_Q36,A,B,C,D,B,SBP/Picture36.png,"中文：工业科技园提供研究与科技发展设施，支持现代工业和创新。
+Bahasa Melayu: Taman teknologi perindustrian membangunkan pusat penyelidikan bagi menyokong teknologi serta kemajuan industri.
+课本／Buku teks：Tingkatan 5, ms. 186."
+F5 Chp 8,radio,SMKA_Q35,A,B,C,D,A,SMKA/Picture35.png,"中文：绿皮书计划鼓励生产粮食，增加家庭收入并改善人民生活。
+Bahasa Melayu: Rancangan Buku Hijau meningkatkan pengeluaran makanan bagi menambahkan pendapatan dan taraf hidup rakyat."
+F5 Chp 8,radio,SMKA_Q36,A,B,C,D,C,SMKA/Picture36.png,"中文：工业科技园推动科技创新，并设立工业研究与发展中心，因此II和III正确。
+Bahasa Melayu: Taman teknologi menjalankan inovasi teknologi serta penyelidikan dan pembangunan industri; II dan III betul."
